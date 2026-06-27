@@ -2,10 +2,10 @@ settings:
   site_title: Cosmology Brief
   site_description: Daily cosmology news and India-relevant cosmology academic opportunities.
   baseurl: /cosmology
-  news_limit: 40
+  news_limit: 20
   jobs_limit: 70
-  final_news_points: 5
-  final_jobs_points: 5
+  final_news_points: 3
+  final_jobs_points: 7
   max_groups_per_section: 10
   min_group_score: 2
   require_ist_today: false
