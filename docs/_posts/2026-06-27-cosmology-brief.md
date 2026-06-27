@@ -1,25 +1,25 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-06-27T16:47:44.476898+05:30
+date: 2026-06-27T16:57:21.090117+05:30
 summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "4:47PM"
+run_time_ist: "4:57PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 4:47PM</h1>
+<h1 class="brief-run">Gemini Summary: 4:57PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A new model proposes a unified dark sector where a single component transitions from a pressureless fluid to a solid phase.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27290v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Researchers explore structure formation in a decaying dark matter and semi-cosmographic dark energy model.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27076v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Cross-correlation analysis of CMB lensing and galaxy lensing data probes the cosmic matter density field.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.26223v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Methodological frontiers in 21-cm intensity mapping address systematics and foreground contamination.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27244v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Distance-ladder measurements of the Hubble constant show a persistent tension with CMB inferences.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.26831v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A unified model for dark matter and dark energy proposes a single dark component that transitions from a pressureless fluid to a solid phase.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27290v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Decaying dark matter and semi-cosmographic dark energy are investigated for their impact on nonlinear structure formation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27076v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Cross-correlation of CMB lensing and galaxy lensing data from SPT-3G and DES provides insights into the cosmic matter density field.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.26223v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Methodological frontiers in 21-cm intensity mapping are explored, focusing on systematics and foreground contamination.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27244v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Distance-ladder measurements of the Hubble constant are achieving percent-level precision, highlighting a persistent tension with early universe inferences.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.26831v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
