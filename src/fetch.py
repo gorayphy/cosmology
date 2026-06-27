@@ -20,7 +20,7 @@ except ImportError:
     from common import Item, clean_text, format_date
 
 
-USER_AGENT = "CosmologyBrief/1.1 (+https://github.com/rajeshphy/cosmology-news)"
+USER_AGENT = "CosmologyBrief/1.1 (+https://github.com/gorayhphy/cosmology)"
 socket.setdefaulttimeout(int(os.environ.get("FETCH_TIMEOUT_SECONDS", "6")))
 
 
