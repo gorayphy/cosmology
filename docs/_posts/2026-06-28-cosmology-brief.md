@@ -1,33 +1,34 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-06-28T16:08:50.356352+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "4:08PM"
+date: 2026-06-28T21:17:54.709954+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "9:17PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 4:08PM</h1>
+<h1 class="brief-run">Gemini Summary: 9:17PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A unified dark sector model proposes a single dark component transitioning from a pressureless fluid to a solid phase.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27290v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Decaying dark matter and semi-cosmographic dark energy are investigated for their impact on nonlinear structure formation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27076v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Methodological advancements in 21-cm intensity mapping address systematics and foreground contamination for improved cosmological insights.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27244v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A unified dark sector model proposes a single dark component transitioning from a pressureless fluid to a solid phase at late times.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27290v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New methods for 21-cm intensity mapping address systematics and foreground contamination to better probe cosmic large-scale structure.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27244v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Spherical collapse and halo formation are investigated in a cosmology with decaying dark matter and semi-cosmographic dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27076v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current opportunities page for India-relevant positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current opportunities page for India-relevant positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current opportunities page for India-relevant positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current opportunities page for India-relevant positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current opportunities page for global positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -35,25 +36,25 @@ run_time_ist: "4:08PM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2606.27290v1" target="_blank" rel="noopener noreferrer">[N1] A solid unification of the dark sector</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.27076v1" target="_blank" rel="noopener noreferrer">[N2] Spherical Collapse and Halo Formation in a Cosmology with Decaying Dark Matter and a Semi-Cosmographic Dark Energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.27244v1" target="_blank" rel="noopener noreferrer">[N3] Methodological Frontiers in 21-cm Intensity Mapping: the Treatment of Systematics and Foreground Contamination</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.27049v1" target="_blank" rel="noopener noreferrer">[N4] Quintom Model Perturbations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.26223v1" target="_blank" rel="noopener noreferrer">[N5] Cross-correlation of SPT-3G D1 CMB lensing and DES Y3 galaxy lensing</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.27195v1" target="_blank" rel="noopener noreferrer">[N6] HALO II: Constraining Hubble constant $H_{0}$ through continuum delay fitting of Fairall 9</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.26831v1" target="_blank" rel="noopener noreferrer">[N7] Distance-Ladder Measurements of the Hubble Constant: Recent Progress, Systematics, and Prospects</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.26823v1" target="_blank" rel="noopener noreferrer">[N8] Probing inflationary particle production with the CMB power spectrum</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.27173v1" target="_blank" rel="noopener noreferrer">[N9] Redshift-Dependent Intrinsic Dispersion in the Quasar UV/X-ray Luminosity Relation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.27115v1" target="_blank" rel="noopener noreferrer">[N10] Clustering of high-redshift quasars with DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.26576v1" target="_blank" rel="noopener noreferrer">[N11] Detectors for CLASS-W2: The second 90 GHz telescope of the Cosmology Large Angular Scale Surveyor</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.26234v1" target="_blank" rel="noopener noreferrer">[N12] Lyman-Alpha Forest and its Cross-Correlation with High-Redshift Galaxies in Effective Field Theory at the Field Level</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.27356v1" target="_blank" rel="noopener noreferrer">[N13] Beyond the equation of state: a second-order diagnostic for dynamical dark energy</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2606.27311v1" target="_blank" rel="noopener noreferrer">[N14] Massive Cosmological Correlators from Flat Space: a Laplace-Space Approach</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.27309v1" target="_blank" rel="noopener noreferrer">[N15] Laplace Space for Cosmological Correlators</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-06-universe-large-scales-desi.html" target="_blank" rel="noopener noreferrer">[N16] The universe should look the same in all directions at large scales, but DESI data suggest otherwise</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2606.27182v1" target="_blank" rel="noopener noreferrer">[N17] Forward-modelling the Tolman and distance-duality tests with IllustrisTNG</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.26532v1" target="_blank" rel="noopener noreferrer">[N18] Primordial black hole formation in bulk-viscous cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.26011v1" target="_blank" rel="noopener noreferrer">[N19] Cosmology from Synergies Between SKAO Surveys and Gravitational Wave Observations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-06-supermassive-black-holes-mysterious.html" target="_blank" rel="noopener noreferrer">[N20] What are supermassive black holes? Everything you need to know about these mysterious objects</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2606.27244v1" target="_blank" rel="noopener noreferrer">[N2] Methodological Frontiers in 21-cm Intensity Mapping: the Treatment of Systematics and Foreground Contamination</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.27076v1" target="_blank" rel="noopener noreferrer">[N3] Spherical Collapse and Halo Formation in a Cosmology with Decaying Dark Matter and a Semi-Cosmographic Dark Energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.26223v1" target="_blank" rel="noopener noreferrer">[N4] Cross-correlation of SPT-3G D1 CMB lensing and DES Y3 galaxy lensing</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.27195v1" target="_blank" rel="noopener noreferrer">[N5] HALO II: Constraining Hubble constant $H_{0}$ through continuum delay fitting of Fairall 9</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.26831v1" target="_blank" rel="noopener noreferrer">[N6] Distance-Ladder Measurements of the Hubble Constant: Recent Progress, Systematics, and Prospects</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.26823v1" target="_blank" rel="noopener noreferrer">[N7] Probing inflationary particle production with the CMB power spectrum</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.27049v1" target="_blank" rel="noopener noreferrer">[N8] Quintom Model Perturbations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.26576v1" target="_blank" rel="noopener noreferrer">[N9] Detectors for CLASS-W2: The second 90 GHz telescope of the Cosmology Large Angular Scale Surveyor</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.26234v1" target="_blank" rel="noopener noreferrer">[N10] Lyman-Alpha Forest and its Cross-Correlation with High-Redshift Galaxies in Effective Field Theory at the Field Level</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.27356v1" target="_blank" rel="noopener noreferrer">[N11] Beyond the equation of state: a second-order diagnostic for dynamical dark energy</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2606.27311v1" target="_blank" rel="noopener noreferrer">[N12] Massive Cosmological Correlators from Flat Space: a Laplace-Space Approach</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.27309v1" target="_blank" rel="noopener noreferrer">[N13] Laplace Space for Cosmological Correlators</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-06-universe-large-scales-desi.html" target="_blank" rel="noopener noreferrer">[N14] The universe should look the same in all directions at large scales, but DESI data suggest otherwise</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2606.26532v1" target="_blank" rel="noopener noreferrer">[N15] Primordial black hole formation in bulk-viscous cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.26011v1" target="_blank" rel="noopener noreferrer">[N16] Cosmology from Synergies Between SKAO Surveys and Gravitational Wave Observations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-06-supermassive-black-holes-mysterious.html" target="_blank" rel="noopener noreferrer">[N17] What are supermassive black holes? Everything you need to know about these mysterious objects</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2606.27236v1" target="_blank" rel="noopener noreferrer">[N18] Endpoint Control of Thermodynamic Topological Classes for Fixed Charge \texorpdfstring{$d$}{d}-dimensional Reissner--Nordström Black Holes in a Cavity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2606.27173v1" target="_blank" rel="noopener noreferrer">[N19] Redshift-Dependent Intrinsic Dispersion in the Quasar UV/X-ray Luminosity Relation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.27115v1" target="_blank" rel="noopener noreferrer">[N20] Clustering of high-redshift quasars with DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
