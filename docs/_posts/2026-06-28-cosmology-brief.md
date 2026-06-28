@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-06-28T10:34:19.487439+05:30
+date: 2026-06-28T16:08:50.356352+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "10:34AM"
+run_time_ist: "4:08PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:34AM</h1>
+<h1 class="brief-run">Gemini Summary: 4:08PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A unified dark sector model describes dark matter and dark energy as a single component transitioning from a fluid to a solid phase.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27290v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A unified dark sector model proposes a single dark component transitioning from a pressureless fluid to a solid phase.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27290v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Topic:</strong> Decaying dark matter and semi-cosmographic dark energy are investigated for their impact on nonlinear structure formation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27076v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Methodological advancements in 21-cm intensity mapping address systematics and foreground contamination for cosmological studies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27244v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Methodological advancements in 21-cm intensity mapping address systematics and foreground contamination for improved cosmological insights.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.27244v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -37,11 +37,11 @@ run_time_ist: "10:34AM"
 <li><a href="https://arxiv.org/abs/2606.27290v1" target="_blank" rel="noopener noreferrer">[N1] A solid unification of the dark sector</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2606.27076v1" target="_blank" rel="noopener noreferrer">[N2] Spherical Collapse and Halo Formation in a Cosmology with Decaying Dark Matter and a Semi-Cosmographic Dark Energy</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2606.27244v1" target="_blank" rel="noopener noreferrer">[N3] Methodological Frontiers in 21-cm Intensity Mapping: the Treatment of Systematics and Foreground Contamination</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.26831v1" target="_blank" rel="noopener noreferrer">[N4] Distance-Ladder Measurements of the Hubble Constant: Recent Progress, Systematics, and Prospects</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.26823v1" target="_blank" rel="noopener noreferrer">[N5] Probing inflationary particle production with the CMB power spectrum</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.27049v1" target="_blank" rel="noopener noreferrer">[N6] Quintom Model Perturbations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.26223v1" target="_blank" rel="noopener noreferrer">[N7] Cross-correlation of SPT-3G D1 CMB lensing and DES Y3 galaxy lensing</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.27195v1" target="_blank" rel="noopener noreferrer">[N8] HALO II: Constraining Hubble constant $H_{0}$ through continuum delay fitting of Fairall 9</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.27049v1" target="_blank" rel="noopener noreferrer">[N4] Quintom Model Perturbations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.26223v1" target="_blank" rel="noopener noreferrer">[N5] Cross-correlation of SPT-3G D1 CMB lensing and DES Y3 galaxy lensing</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.27195v1" target="_blank" rel="noopener noreferrer">[N6] HALO II: Constraining Hubble constant $H_{0}$ through continuum delay fitting of Fairall 9</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.26831v1" target="_blank" rel="noopener noreferrer">[N7] Distance-Ladder Measurements of the Hubble Constant: Recent Progress, Systematics, and Prospects</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.26823v1" target="_blank" rel="noopener noreferrer">[N8] Probing inflationary particle production with the CMB power spectrum</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2606.27173v1" target="_blank" rel="noopener noreferrer">[N9] Redshift-Dependent Intrinsic Dispersion in the Quasar UV/X-ray Luminosity Relation</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2606.27115v1" target="_blank" rel="noopener noreferrer">[N10] Clustering of high-redshift quasars with DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2606.26576v1" target="_blank" rel="noopener noreferrer">[N11] Detectors for CLASS-W2: The second 90 GHz telescope of the Cosmology Large Angular Scale Surveyor</a> <span>arXiv astro-ph.CO</span></li>
