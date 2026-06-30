@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Brief"
-date: 2026-06-30T16:55:30.272647+05:30
+date: 2026-06-30T22:06:00.376802+05:30
 summary: "Latest cosmology research signals and academic opportunity links from configured sources."
-run_time_ist: "4:55PM"
+run_time_ist: "10:06PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Headline Digest: 4:55PM</h1>
+<h1 class="brief-run">Headline Digest: 10:06PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>arXiv astro-ph.CO:</strong> Universal distance modes from DESI BAO and Type Ia supernovae: what do cosmological rulers actually measure?.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.30527v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>arXiv astro-ph.CO:</strong> Primordial Black Holes in a Radiation-Dominated Universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.30641v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>arXiv astro-ph.CO:</strong> Cosmology with Multi-Wavelength Line Intensity Mapping Synergies in the SKAO Era.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.30224v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Universal distance modes from DESI BAO and Type Ia supernovae: what do cosmological rulers actually measure?.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.30527v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Constraints on Dark Energy and Modified Gravity Models from Fast Radio Bursts and Late-Time Geometric Probes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2606.29583v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -37,26 +37,26 @@ run_time_ist: "4:55PM"
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2606.30527v1" target="_blank" rel="noopener noreferrer">[N1] Universal distance modes from DESI BAO and Type Ia supernovae: what do cosmological rulers actually measure?</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.30641v1" target="_blank" rel="noopener noreferrer">[N2] Primordial Black Holes in a Radiation-Dominated Universe</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.30224v1" target="_blank" rel="noopener noreferrer">[N3] Cosmology with Multi-Wavelength Line Intensity Mapping Synergies in the SKAO Era</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.29583v1" target="_blank" rel="noopener noreferrer">[N4] Constraints on Dark Energy and Modified Gravity Models from Fast Radio Bursts and Late-Time Geometric Probes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.30459v1" target="_blank" rel="noopener noreferrer">[N5] Cosmology-dependent covariance in galaxy cluster number counts: consequences for parameter inference</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.30200v1" target="_blank" rel="noopener noreferrer">[N6] Cosmology with Intensity Mapping via Statistics Beyond the Power Spectrum in the SKAO Era</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.29903v1" target="_blank" rel="noopener noreferrer">[N7] High-Redshift Signatures from the Cosmic Dawn and the Epoch of Reionization</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/06/260621060315.htm" target="_blank" rel="noopener noreferrer">[N8] Millions of exploding stars could soon reveal dark energy&#x27;s secrets</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2606.30149v1" target="_blank" rel="noopener noreferrer">[N9] Wave Optics Effects from Gravitational Wave Propagation Through Dark Matter Halos</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.30504v1" target="_blank" rel="noopener noreferrer">[N10] Rapid Hubble constant inference from GW170817 using GPU-accelerated nested sampling: prior sensitivity and the limits of post-hoc reweighting</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.30426v1" target="_blank" rel="noopener noreferrer">[N11] Comment on the &quot;New Rotating Black Hole in Electromagnetic Fields: Cosmological Horizon without Cosmological Constant&#x27;&#x27;</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2606.30087v1" target="_blank" rel="noopener noreferrer">[N12] Compaction function in stochastic inflation: a \texttt{FOREST} of type I and II primordial black holes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.29796v1" target="_blank" rel="noopener noreferrer">[N13] Superhorizon curvature perturbations in hybrid inflation revisited</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.30594v1" target="_blank" rel="noopener noreferrer">[N14] Efficient Eccentric Effective-One-Body Dynamics via Near-Identity Averaging Transformations</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2606.30536v1" target="_blank" rel="noopener noreferrer">[N15] Evaluating the Fourier Approximation in Pulsar Timing Array Analysis</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2606.30507v1" target="_blank" rel="noopener noreferrer">[N16] The Role of the Volume in Black Hole Thermodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2606.30195v1" target="_blank" rel="noopener noreferrer">[N17] Orbital, Shadow, and Thin-Disk Signatures of a Regular Black Hole with Gravitational Self-Energy</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2606.30144v1" target="_blank" rel="noopener noreferrer">[N18] Joint population and strong-lensing inference for resolved gravitational-wave events probes the black-hole merger rate beyond the peak of star formation</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2606.30078v1" target="_blank" rel="noopener noreferrer">[N19] Strong Stellar Diffusion from Wave DM Cosmological Simulation and Potential Unified Origin for dSphs, UFGs, and UDGs</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2606.29660v1" target="_blank" rel="noopener noreferrer">[N20] What Naturalness Measures: Fine-Tuning and Informational Invariants in Cosmology and Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.30641v1" target="_blank" rel="noopener noreferrer">[N1] Primordial Black Holes in a Radiation-Dominated Universe</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.30527v1" target="_blank" rel="noopener noreferrer">[N2] Universal distance modes from DESI BAO and Type Ia supernovae: what do cosmological rulers actually measure?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.29583v1" target="_blank" rel="noopener noreferrer">[N3] Constraints on Dark Energy and Modified Gravity Models from Fast Radio Bursts and Late-Time Geometric Probes</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.29903v1" target="_blank" rel="noopener noreferrer">[N4] High-Redshift Signatures from the Cosmic Dawn and the Epoch of Reionization</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/06/260621060315.htm" target="_blank" rel="noopener noreferrer">[N5] Millions of exploding stars could soon reveal dark energy&#x27;s secrets</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2606.30224v1" target="_blank" rel="noopener noreferrer">[N6] Cosmology with Multi-Wavelength Line Intensity Mapping Synergies in the SKAO Era</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.30459v1" target="_blank" rel="noopener noreferrer">[N7] Cosmology-dependent covariance in galaxy cluster number counts: consequences for parameter inference</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.30200v1" target="_blank" rel="noopener noreferrer">[N8] Cosmology with Intensity Mapping via Statistics Beyond the Power Spectrum in the SKAO Era</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.30087v1" target="_blank" rel="noopener noreferrer">[N9] Compaction function in stochastic inflation: a \texttt{FOREST} of type I and II primordial black holes</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.29796v1" target="_blank" rel="noopener noreferrer">[N10] Superhorizon curvature perturbations in hybrid inflation revisited</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.30149v1" target="_blank" rel="noopener noreferrer">[N11] Wave Optics Effects from Gravitational Wave Propagation Through Dark Matter Halos</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.30078v1" target="_blank" rel="noopener noreferrer">[N12] Strong Stellar Diffusion from Wave DM Cosmological Simulation and Potential Unified Origin for dSphs, UFGs, and UDGs</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.29660v1" target="_blank" rel="noopener noreferrer">[N13] What Naturalness Measures: Fine-Tuning and Informational Invariants in Cosmology and Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.28853v1" target="_blank" rel="noopener noreferrer">[N14] Cosmological structure growth in energy-momentum squared gravity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-06-distant-leaky-galaxies-reveal-universe.html" target="_blank" rel="noopener noreferrer">[N15] One of the most distant &#x27;leaky&#x27; galaxies ever found may reveal how the universe reionized</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2606.30504v1" target="_blank" rel="noopener noreferrer">[N16] Rapid Hubble constant inference from GW170817 using GPU-accelerated nested sampling: prior sensitivity and the limits of post-hoc reweighting</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.29761v1" target="_blank" rel="noopener noreferrer">[N17] Estimating Cosmological Parameters from Localized Fast Radio Bursts: A Method for Removing Milky Way Dispersion-Measure Contributions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2606.29149v1" target="_blank" rel="noopener noreferrer">[N18] Evolution of Compact Stellar Systems in Ultralight Dark Matter Halos: Dependence on Stellar and Dark Matter Parameters</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-06-universe-large-scales-desi.html" target="_blank" rel="noopener noreferrer">[N19] The universe should look the same in all directions at large scales, but DESI data suggest otherwise</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2606.30633v1" target="_blank" rel="noopener noreferrer">[N20] GIGA-Lens 2.0: Strong-Lens Modeling on Multiple GPU Nodes</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
