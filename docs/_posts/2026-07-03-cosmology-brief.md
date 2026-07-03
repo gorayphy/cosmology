@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Brief"
-date: 2026-07-03T09:56:47.135467+05:30
+date: 2026-07-03T16:37:13.120946+05:30
 summary: "Latest cosmology research signals and academic opportunity links from configured sources."
-run_time_ist: "9:56AM"
+run_time_ist: "4:37PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Headline Digest: 9:56AM</h1>
+<h1 class="brief-run">Headline Digest: 4:37PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>ESA Top News:</strong> Thousands of planets are hidden in this photo.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>ScienceDaily Space and Time:</strong> Millions of exploding stars could soon reveal dark energy&#x27;s secrets.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/06/260621060315.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Phys.org Astronomy and Space:</strong> The universe is less uniform than we thought—cosmology may need a radical rethink.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-07-universe-uniform-thought-cosmology-radical.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Strong Lensing Tomography: Double and pseudo multi-source plane strong gravitational lensing to constrain dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01005v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Can Primordial Black Holes Be Seeds for Early Galaxies in Models Satisfying the Covariant Entropy Bound?.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01292v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Intertwined Constraints in Extended Cosmologies: Dark Energy, Curvature, Neutrinos, and Inflation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01226v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -37,26 +37,26 @@ run_time_ist: "9:56AM"
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo" target="_blank" rel="noopener noreferrer">[N1] Thousands of planets are hidden in this photo</a> <span>ESA Top News</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/06/260621060315.htm" target="_blank" rel="noopener noreferrer">[N2] Millions of exploding stars could soon reveal dark energy&#x27;s secrets</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-07-universe-uniform-thought-cosmology-radical.html" target="_blank" rel="noopener noreferrer">[N3] The universe is less uniform than we thought—cosmology may need a radical rethink</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-06-distant-leaky-galaxies-reveal-universe.html" target="_blank" rel="noopener noreferrer">[N4] One of the most distant &#x27;leaky&#x27; galaxies ever found may reveal how the universe reionized</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N5] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N6] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/06/260619101334.htm" target="_blank" rel="noopener noreferrer">[N7] The Milky Way’s weird gamma-ray glow may be dark matter after all</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.universetoday.com/articles/its-finally-begun-the-vera-rubin-observatory-creating-what-will-be-the-greatest-movie-ever-made" target="_blank" rel="noopener noreferrer">[N8] It&#x27;s Finally Begun! The Vera Rubin Observatory Creating What Will Be the Greatest Movie Ever Made</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/echoing-light-shows-that-dark-matter-may-gather-around-supermassive-black-holes" target="_blank" rel="noopener noreferrer">[N9] Echoing Light Shows That Dark Matter May Gather Around Supermassive Black Holes</a> <span>Universe Today</span></li>
-<li><a href="https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/" target="_blank" rel="noopener noreferrer">[N10] NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration</a> <span>NASA News Releases</span></li>
-<li><a href="https://www.universetoday.com/articles/astronomers-discover-another-galaxy-with-no-dark-matter" target="_blank" rel="noopener noreferrer">[N11] Astronomers Discover Another Galaxy With No Dark Matter</a> <span>Universe Today</span></li>
-<li><a href="https://phys.org/news/2026-06-reanalysis-phoebe-variable-star-primordial.html" target="_blank" rel="noopener noreferrer">[N12] Reanalysis suggests &#x27;Phoebe&#x27; is a variable star, not a primordial black hole</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N13] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
-<li><a href="https://phys.org/news/2026-07-dynamic-black-holes-obey-hawking.html" target="_blank" rel="noopener noreferrer">[N14] Dynamic black holes may obey Hawking-style thermodynamics with an alternative entropy measure</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.esa.int/Space_Safety/Planetary_Defence/Surface_CubeSat_contracted_for_Ramses_asteroid_mission" target="_blank" rel="noopener noreferrer">[N15] Surface CubeSat contracted for Ramses asteroid mission</a> <span>ESA Top News</span></li>
-<li><a href="https://phys.org/news/2026-06-red-galaxies-neutrinos.html" target="_blank" rel="noopener noreferrer">[N16] The little red galaxies that may be sending us neutrinos</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/06/260625014827.htm" target="_blank" rel="noopener noreferrer">[N17] How asteroids may have sparked life on Earth</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://science.nasa.gov/missions/webb/nasas-webb-studies-how-planet-survived-death-of-its-star/" target="_blank" rel="noopener noreferrer">[N18] NASA’s Webb Studies How Planet Survived Death of its Star</a> <span>NASA News Releases</span></li>
-<li><a href="https://phys.org/news/2026-07-lsst-full-key-contributions-japanese.html" target="_blank" rel="noopener noreferrer">[N19] LSST begins full operations with key contributions from Japanese researchers and engineers</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Webb_studies_how_a_planet_survived_the_death_of_its_star" target="_blank" rel="noopener noreferrer">[N20] Webb studies how a planet survived the death of its star</a> <span>ESA Top News</span></li>
+<li><a href="https://arxiv.org/abs/2607.01005v1" target="_blank" rel="noopener noreferrer">[N1] Strong Lensing Tomography: Double and pseudo multi-source plane strong gravitational lensing to constrain dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01292v1" target="_blank" rel="noopener noreferrer">[N2] Can Primordial Black Holes Be Seeds for Early Galaxies in Models Satisfying the Covariant Entropy Bound?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01226v1" target="_blank" rel="noopener noreferrer">[N3] Intertwined Constraints in Extended Cosmologies: Dark Energy, Curvature, Neutrinos, and Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01048v1" target="_blank" rel="noopener noreferrer">[N4] Foreground Characterization and Mitigation in the Observations of the CD/EoR with the SKA</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.00827v1" target="_blank" rel="noopener noreferrer">[N5] Cosmology from HI galaxy surveys with the SKA</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.02498v1" target="_blank" rel="noopener noreferrer">[N6] Alleviating prior dependencies for DESI DR1 clustering fits through reparameterization</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01199v1" target="_blank" rel="noopener noreferrer">[N7] Interpretation of the binned SNe Ia Master Sample data via a scalar quintessence component: phantom transition?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.02505v1" target="_blank" rel="noopener noreferrer">[N8] A critical look at low-scale cosmological phase transitions in the PTA era</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.02151v1" target="_blank" rel="noopener noreferrer">[N9] Spherically Symmetric Fluid Simulations of Black Hole Accretion in Self-Interacting Dark Matter Halos</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01780v1" target="_blank" rel="noopener noreferrer">[N10] Lattice study of primordial black hole formation in bumpy axion inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01697v1" target="_blank" rel="noopener noreferrer">[N11] Gravitational Waves from Multiple First-Order Phase Transitions in a Scenario with Early Matter Domination</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01177v1" target="_blank" rel="noopener noreferrer">[N12] Preheating and oscillon formation in Einstein-scalar-Gauss-Bonnet gravity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/06/260626125703.htm" target="_blank" rel="noopener noreferrer">[N13] A strange LIGO signal could reveal the missing link behind dark matter</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2607.02064v1" target="_blank" rel="noopener noreferrer">[N14] Testing Gravity with Binary Pulsars in the SKA Era</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.01399v1" target="_blank" rel="noopener noreferrer">[N15] Secondary Production of Photons from ALP Dark Matter interacting with a Cosmological Magnetic Field</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01389v1" target="_blank" rel="noopener noreferrer">[N16] Lensing-Reconstructed Dark Matter-Intracluster Medium Coherence as a Probe of Cluster Dynamical State: Application to HSTFF, RELICS, and CLASH Clusters</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01333v1" target="_blank" rel="noopener noreferrer">[N17] Axion Misalignment Across First-Order Phase Transitions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01175v1" target="_blank" rel="noopener noreferrer">[N18] Galaxy Clusters Selected via the Sunyaev-Zel&#x27;dovich Effect in 5 year data from the SPT-3G Main Survey</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo" target="_blank" rel="noopener noreferrer">[N19] Thousands of planets are hidden in this photo</a> <span>ESA Top News</span></li>
+<li><a href="https://arxiv.org/abs/2607.02409v1" target="_blank" rel="noopener noreferrer">[N20] Black Hole Persistence in Scalar Tensor Theories</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
