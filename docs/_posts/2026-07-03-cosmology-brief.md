@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Brief"
-date: 2026-07-03T16:37:13.120946+05:30
+date: 2026-07-03T21:36:06.201499+05:30
 summary: "Latest cosmology research signals and academic opportunity links from configured sources."
-run_time_ist: "4:37PM"
+run_time_ist: "9:36PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Headline Digest: 4:37PM</h1>
+<h1 class="brief-run">Headline Digest: 9:36PM</h1>
 
 <hr class="brief-rule">
 
@@ -45,18 +45,18 @@ run_time_ist: "4:37PM"
 <li><a href="https://arxiv.org/abs/2607.02498v1" target="_blank" rel="noopener noreferrer">[N6] Alleviating prior dependencies for DESI DR1 clustering fits through reparameterization</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.01199v1" target="_blank" rel="noopener noreferrer">[N7] Interpretation of the binned SNe Ia Master Sample data via a scalar quintessence component: phantom transition?</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.02505v1" target="_blank" rel="noopener noreferrer">[N8] A critical look at low-scale cosmological phase transitions in the PTA era</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.02151v1" target="_blank" rel="noopener noreferrer">[N9] Spherically Symmetric Fluid Simulations of Black Hole Accretion in Self-Interacting Dark Matter Halos</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.01780v1" target="_blank" rel="noopener noreferrer">[N10] Lattice study of primordial black hole formation in bumpy axion inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.01697v1" target="_blank" rel="noopener noreferrer">[N11] Gravitational Waves from Multiple First-Order Phase Transitions in a Scenario with Early Matter Domination</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.01177v1" target="_blank" rel="noopener noreferrer">[N12] Preheating and oscillon formation in Einstein-scalar-Gauss-Bonnet gravity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01780v1" target="_blank" rel="noopener noreferrer">[N9] Lattice study of primordial black hole formation in bumpy axion inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01697v1" target="_blank" rel="noopener noreferrer">[N10] Gravitational Waves from Multiple First-Order Phase Transitions in a Scenario with Early Matter Domination</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01177v1" target="_blank" rel="noopener noreferrer">[N11] Preheating and oscillon formation in Einstein-scalar-Gauss-Bonnet gravity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-07-radio-outburst-black-hole-properties.html" target="_blank" rel="noopener noreferrer">[N12] Long-lived radio outburst from black hole exhibits properties of the early universe</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://www.sciencedaily.com/releases/2026/06/260626125703.htm" target="_blank" rel="noopener noreferrer">[N13] A strange LIGO signal could reveal the missing link behind dark matter</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2607.02064v1" target="_blank" rel="noopener noreferrer">[N14] Testing Gravity with Binary Pulsars in the SKA Era</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.01399v1" target="_blank" rel="noopener noreferrer">[N15] Secondary Production of Photons from ALP Dark Matter interacting with a Cosmological Magnetic Field</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.01389v1" target="_blank" rel="noopener noreferrer">[N16] Lensing-Reconstructed Dark Matter-Intracluster Medium Coherence as a Probe of Cluster Dynamical State: Application to HSTFF, RELICS, and CLASH Clusters</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.01333v1" target="_blank" rel="noopener noreferrer">[N17] Axion Misalignment Across First-Order Phase Transitions</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.01175v1" target="_blank" rel="noopener noreferrer">[N18] Galaxy Clusters Selected via the Sunyaev-Zel&#x27;dovich Effect in 5 year data from the SPT-3G Main Survey</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo" target="_blank" rel="noopener noreferrer">[N19] Thousands of planets are hidden in this photo</a> <span>ESA Top News</span></li>
-<li><a href="https://arxiv.org/abs/2607.02409v1" target="_blank" rel="noopener noreferrer">[N20] Black Hole Persistence in Scalar Tensor Theories</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.01399v1" target="_blank" rel="noopener noreferrer">[N14] Secondary Production of Photons from ALP Dark Matter interacting with a Cosmological Magnetic Field</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01389v1" target="_blank" rel="noopener noreferrer">[N15] Lensing-Reconstructed Dark Matter-Intracluster Medium Coherence as a Probe of Cluster Dynamical State: Application to HSTFF, RELICS, and CLASH Clusters</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01333v1" target="_blank" rel="noopener noreferrer">[N16] Axion Misalignment Across First-Order Phase Transitions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.01175v1" target="_blank" rel="noopener noreferrer">[N17] Galaxy Clusters Selected via the Sunyaev-Zel&#x27;dovich Effect in 5 year data from the SPT-3G Main Survey</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.esa.int/ESA_Multimedia/Videos/2026/06/Thousands_of_planets_are_hidden_in_this_photo" target="_blank" rel="noopener noreferrer">[N18] Thousands of planets are hidden in this photo</a> <span>ESA Top News</span></li>
+<li><a href="https://arxiv.org/abs/2607.02409v1" target="_blank" rel="noopener noreferrer">[N19] Black Hole Persistence in Scalar Tensor Theories</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.02380v1" target="_blank" rel="noopener noreferrer">[N20] The Direct Wave is Not a Meaningful Test of Horizon Properties</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
