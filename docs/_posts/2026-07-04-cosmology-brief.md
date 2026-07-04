@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-04T09:50:44.369615+05:30
+date: 2026-07-04T16:01:40.268486+05:30
 summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "9:50AM"
+run_time_ist: "4:01PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:50AM</h1>
+<h1 class="brief-run">Gemini Summary: 4:01PM</h1>
 
 <hr class="brief-rule">
 
@@ -17,17 +17,14 @@ run_time_ist: "9:50AM"
 <ul class="digest-points">
 <li><p><strong>Topic:</strong> Tomographic strong lensing measurements can constrain dark energy by probing the universe&#x27;s expansion rate.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01005v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Topic:</strong> New studies explore the potential of primordial black holes as seeds for early galaxies within models satisfying the Covariant Entropy Bound.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01292v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Research systematically reassesses cosmological constraints beyond $\Lambda$CDM, examining dark energy, curvature, neutrinos, and inflation with updated data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01226v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Recent work systematically reassesses cosmological constraints beyond $\Lambda$CDM, considering dark energy, curvature, neutrinos, and inflation with updated data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01226v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral research opportunities in cosmology and related fields are available through various global and India-specific portals.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 2</a><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 3</a><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 4</a><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 5</a><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 6</a><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 7</a><a class="source-chip" href="https://anrfonline.in/ANRF/Ramanujan_fellowship" target="_blank" rel="noopener noreferrer">↗ Source 8</a><a class="source-chip" href="https://www.astron-soc.in/list-of-jobs" target="_blank" rel="noopener noreferrer">↗ Source 9</a><a class="source-chip" href="https://www.rri.res.in/careers/regular-other-openings" target="_blank" rel="noopener noreferrer">↗ Source 10</a><a class="source-chip" href="https://serb.gov.in/page/english/awards_fellowship" target="_blank" rel="noopener noreferrer">↗ Source 11</a><a class="source-chip" href="https://inspirehep.net/jobs/3167068" target="_blank" rel="noopener noreferrer">↗ Source 12</a><a class="source-chip" href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank" rel="noopener noreferrer">↗ Source 13</a><a class="source-chip" href="https://www.physicsworldjobs.com/jobs/astronomy-cosmology-and-space-science/academic-postdoc/" target="_blank" rel="noopener noreferrer">↗ Source 14</a><a class="source-chip" href="https://www.iiap.res.in/iia_jobs/?q=job_postings" target="_blank" rel="noopener noreferrer">↗ Source 15</a><a class="source-chip" href="https://www.aries.res.in/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 16</a><a class="source-chip" href="https://www.ncra.tifr.res.in/ncra/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 17</a><a class="source-chip" href="https://www.icts.res.in/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 18</a><a class="source-chip" href="https://www.hri.res.in/advertisements/" target="_blank" rel="noopener noreferrer">↗ Source 19</a><a class="source-chip" href="https://www.saha.ac.in/web/positions" target="_blank" rel="noopener noreferrer">↗ Source 20</a><a class="source-chip" href="https://euraxess.ec.europa.eu/jobs" target="_blank" rel="noopener noreferrer">↗ Source 21</a><a class="source-chip" href="https://academicpositions.com/find-jobs?fields%5B0%5D=physics" target="_blank" rel="noopener noreferrer">↗ Source 22</a><a class="source-chip" href="https://inspirehep.net/jobs/3171411" target="_blank" rel="noopener noreferrer">↗ Source 23</a><a class="source-chip" href="https://inspirehep.net/jobs/3169068" target="_blank" rel="noopener noreferrer">↗ Source 24</a><a class="source-chip" href="https://inspirehep.net/jobs/3171413" target="_blank" rel="noopener noreferrer">↗ Source 25</a></div></li>
 </ul>
 </section>
 
