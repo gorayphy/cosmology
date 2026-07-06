@@ -1,36 +1,34 @@
 ---
 layout: default
-title: "Cosmology Brief"
-date: 2026-07-06T10:23:21.235278+05:30
-summary: "Latest cosmology research signals and academic opportunity links from configured sources."
-run_time_ist: "10:23AM"
+title: "Cosmology Digest"
+date: 2026-07-06T17:52:29.902849+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "5:52PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Headline Digest: 10:23AM</h1>
+<h1 class="brief-run">Gemini Summary: 5:52PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>arXiv astro-ph.CO:</strong> Strong Lensing Tomography: Double and pseudo multi-source plane strong gravitational lensing to constrain dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01005v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>arXiv astro-ph.CO:</strong> Can Primordial Black Holes Be Seeds for Early Galaxies in Models Satisfying the Covariant Entropy Bound?.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01292v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>arXiv astro-ph.CO:</strong> Intertwined Constraints in Extended Cosmologies: Dark Energy, Curvature, Neutrinos, and Inflation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01226v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Tomographic lensing with different redshift distributions can constrain dark energy by measuring the universe&#x27;s expansion rate.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01005v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Models obeying the Covariant Entropy Bound may favor states with no localized excitations or one large black hole, impacting primordial black hole formation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01292v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New reassessment of cosmological constraints beyond ΛCDM explores dark energy, curvature, neutrinos, and inflation using CMB and DESI data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.01226v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>PRL Job Vacancies and Fellowships:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>TIFR Astronomy and Astrophysics Careers:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>IUCAA Opportunities:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>HRI Physics Postdoctoral Fellowships:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Academic Jobs Online Cosmology:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>ANRF National Post Doctoral Fellowship:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>IUCAA Faculty Openings:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page, commonly used for international applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
