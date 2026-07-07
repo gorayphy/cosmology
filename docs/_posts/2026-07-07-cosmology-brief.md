@@ -1,36 +1,36 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-07T10:03:58.704101+05:30
-summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "10:03AM"
+date: 2026-07-07T16:52:55.436316+05:30
+summary: "Latest research and opportunities in cosmology for researchers and students."
+run_time_ist: "4:52PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:03AM</h1>
+<h1 class="brief-run">Gemini Summary: 4:52PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Smooth sign-switching dark energy models are investigated for their potential to alleviate the Hubble tension, with new CMB constraints from DESI and PantheonPlus.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.05044v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A template-free search for oscillatory features in the primordial power spectrum is performed using symbolic regression, potentially revealing new physics in the early universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.04925v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The consistency of large-scale structure with the standard cosmological model is tested using the Bernardeau-Nishimichi-Taruya transform on KiDS-Legacy weak-lensing data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.04384v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Smooth sign-switching dark energy models are investigated for their potential to alleviate the Hubble tension by modifying the late-time expansion history.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.05044v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> k-essence dark energy theories are examined, showing robust evidence for alleviating the Hubble tension within the standard cosmological model.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.03569v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Strong gravitational lensing observations are used to constrain interacting dark energy models, which propose an interaction between dark matter and dark energy to address cosmological puzzles.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.04460v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> Postdoctoral research fellow position in Theoretical Cosmology at APCTP, Pohang.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3169068" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Enrico Fermi Fellowships - Third Cohort at CSTQ.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3171413" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Position in Dark Matter Physics and Computational Astrophysics at Purple Mountain Observatory.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3171411" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Research in Neutrino Physics at Indiana University, Bloomington.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3167068" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Marie Curie Postdoctoral Fellowships, offering open mobility for researchers in Europe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology, a global portal for cosmology, astrophysics, and physics opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Physics World Astronomy Cosmology Postdocs, a global listing of postdoctoral positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.physicsworldjobs.com/jobs/astronomy-cosmology-and-space-science/academic-postdoc/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for physics postdoctoral fellowships in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, a global portal for academic positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page, a fellowship program in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page, a portal for faculty positions in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -38,25 +38,25 @@ run_time_ist: "10:03AM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2607.05044v1" target="_blank" rel="noopener noreferrer">[N1] Alleviating the Hubble Tension with Smooth Sign-Switching Dark Energy: Full CMB Constraints with DESI and PantheonPlus</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.04925v1" target="_blank" rel="noopener noreferrer">[N2] Inverse-k Primordial Oscillations from a Symbolic Regression Search</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.04701v1" target="_blank" rel="noopener noreferrer">[N3] Constraining inflationary models via de-Sitterization of Bianchi Cosmologies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.03569v1" target="_blank" rel="noopener noreferrer">[N4] Hubble tension in k-essence: Evidence for robust tension alleviation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.04460v1" target="_blank" rel="noopener noreferrer">[N5] Strong gravitational lensing constraints on interacting dark energy models</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.05326v1" target="_blank" rel="noopener noreferrer">[N6] Weak Evolution of Cosmic Atomic Hydrogen over the Past 4.5 Billion Years</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.04893v1" target="_blank" rel="noopener noreferrer">[N7] Collisionless damping of the gravitational instability in fuzzy dark matter: spectral shape and quantum-to-thermal crossover</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.04106v1" target="_blank" rel="noopener noreferrer">[N8] Measuring the Angular Auto-power Spectrum of Fast Radio Burst Dispersion Measures as a Robust Cosmological Probe and Baryon Tracer</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.05333v1" target="_blank" rel="noopener noreferrer">[N9] Structure of Anisotropic Magnetized Neutron Stars in f(R,T) Gravity with Realistic Equation of State</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.04905v1" target="_blank" rel="noopener noreferrer">[N10] Entropy bounds, Geroch process, and the sign of deformation parameter</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.04504v1" target="_blank" rel="noopener noreferrer">[N11] Shifted Hybrid Realization of Non-Minimal Higgs Inflation in Light of ACT DR6 and Planck Data</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.04384v1" target="_blank" rel="noopener noreferrer">[N12] KiDS-Legacy: The consistency test of the large-scale structure with Bernardeau-Nishimichi-Taruya transform</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.03885v1" target="_blank" rel="noopener noreferrer">[N13] Identifying lensed gravitational waves with physics-informed posterior learning</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.05385v1" target="_blank" rel="noopener noreferrer">[N14] Charge-Sector Construction of the Type-IIB Axion--Dilaton Wormhole Partition Function</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.05074v1" target="_blank" rel="noopener noreferrer">[N15] Leading weak-field magnetic corrections to charged scalar quasinormal modes of Kerr black holes in the Melvin--Kerr geometry</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.05020v1" target="_blank" rel="noopener noreferrer">[N16] Emergent cosmology and gravity from quantum time?</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.04762v1" target="_blank" rel="noopener noreferrer">[N17] Measurability of Quadrupole Deviations from Kerr in Binary black hole Mergers</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.05327v1" target="_blank" rel="noopener noreferrer">[N18] Cosmological Correlators in KLF and the Double-Exchange</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.04980v1" target="_blank" rel="noopener noreferrer">[N19] The causal set reduction formula</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.04909v1" target="_blank" rel="noopener noreferrer">[N20] A stepping stone toward detecting gravitational wave memory: a cumulative analysis with the full $(\ell=2, m=0)$ spherical harmonic using events from GWTC-4.0 and GWTC-5.0</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.03569v1" target="_blank" rel="noopener noreferrer">[N2] Hubble tension in k-essence: Evidence for robust tension alleviation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.04460v1" target="_blank" rel="noopener noreferrer">[N3] Strong gravitational lensing constraints on interacting dark energy models</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.05326v1" target="_blank" rel="noopener noreferrer">[N4] Weak Evolution of Cosmic Atomic Hydrogen over the Past 4.5 Billion Years</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.04925v1" target="_blank" rel="noopener noreferrer">[N5] Inverse-k Primordial Oscillations from a Symbolic Regression Search</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.04701v1" target="_blank" rel="noopener noreferrer">[N6] Constraining inflationary models via de-Sitterization of Bianchi Cosmologies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.04106v1" target="_blank" rel="noopener noreferrer">[N7] Measuring the Angular Auto-power Spectrum of Fast Radio Burst Dispersion Measures as a Robust Cosmological Probe and Baryon Tracer</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.05333v1" target="_blank" rel="noopener noreferrer">[N8] Structure of Anisotropic Magnetized Neutron Stars in f(R,T) Gravity with Realistic Equation of State</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.04504v1" target="_blank" rel="noopener noreferrer">[N9] Shifted Hybrid Realization of Non-Minimal Higgs Inflation in Light of ACT DR6 and Planck Data</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.04384v1" target="_blank" rel="noopener noreferrer">[N10] KiDS-Legacy: The consistency test of the large-scale structure with Bernardeau-Nishimichi-Taruya transform</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.03885v1" target="_blank" rel="noopener noreferrer">[N11] Identifying lensed gravitational waves with physics-informed posterior learning</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.05385v1" target="_blank" rel="noopener noreferrer">[N12] Charge-Sector Construction of the Type-IIB Axion--Dilaton Wormhole Partition Function</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.05074v1" target="_blank" rel="noopener noreferrer">[N13] Leading weak-field magnetic corrections to charged scalar quasinormal modes of Kerr black holes in the Melvin--Kerr geometry</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.05020v1" target="_blank" rel="noopener noreferrer">[N14] Emergent cosmology and gravity from quantum time?</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.04893v1" target="_blank" rel="noopener noreferrer">[N15] Collisionless damping of the gravitational instability in fuzzy dark matter: spectral shape and quantum-to-thermal crossover</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.05327v1" target="_blank" rel="noopener noreferrer">[N16] Cosmological Correlators in KLF and the Double-Exchange</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.04980v1" target="_blank" rel="noopener noreferrer">[N17] The causal set reduction formula</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.04905v1" target="_blank" rel="noopener noreferrer">[N18] Entropy bounds, Geroch process, and the sign of deformation parameter</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.04550v1" target="_blank" rel="noopener noreferrer">[N19] Reflection polarization of close binaries as a probe of axion dark matter birefringence</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-07-nearby-black-hole-window-early.html" target="_blank" rel="noopener noreferrer">[N20] A nearby black hole as a window into the early universe</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
