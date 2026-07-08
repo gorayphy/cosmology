@@ -1,59 +1,60 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-08T16:03:52.020102+05:30
-summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "4:03PM"
+date: 2026-07-08T21:44:24.736859+05:30
+summary: "Latest cosmology research, news, and job opportunities for researchers."
+run_time_ist: "9:44PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 4:03PM</h1>
+<h1 class="brief-run">Gemini Summary: 9:44PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A new study explores coupled dark matter and early dark energy models, using DESI DR2 BAO data to constrain cosmological parameters.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.06147v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Sign-switching dark energy models are investigated for their potential to alleviate the Hubble tension, with full CMB constraints analyzed alongside DESI and PantheonPlus data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.05044v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The James Webb Space Telescope has identified a candidate for the most distant barred spiral galaxy, observed less than 1.2 billion years after the Big Bang.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-07-jwst-distant-barred-galaxy-candidate.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Smooth sign-switching dark energy is investigated as a potential solution to the Hubble tension, with full CMB constraints analyzed alongside DESI and PantheonPlus data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.05044v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The imprint of swampland-inspired coupled early dark energy is explored in light of recent DESI DR2 BAO data, considering a fractional coupling between dark matter and EDE.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.06147v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> CMB lensing potential is reconstructed using two years of temperature data from the SPT-3G Summer survey, covering approximately 2640 deg$^2$.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.05784v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page, commonly used for international postdoc/faculty applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2607.06147v1" target="_blank" rel="noopener noreferrer">[N1] Imprint of swampland-inspired coupled early dark energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.05044v1" target="_blank" rel="noopener noreferrer">[N2] Alleviating the Hubble Tension with Smooth Sign-Switching Dark Energy: Full CMB Constraints with DESI and PantheonPlus</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.06436v1" target="_blank" rel="noopener noreferrer">[N3] Observationally Constrained Cosmological model in $f(Q,\mathcal{L}_{m})$ Gravity with $H(z)$ parameterization</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.06567v1" target="_blank" rel="noopener noreferrer">[N4] Skipping the rungs! Calibrating distance indicators through their clustering with galaxies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.05784v1" target="_blank" rel="noopener noreferrer">[N5] CMB Lensing Reconstruction Using Two Years of Temperature Data from the SPT-3G Summer Survey</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.06391v1" target="_blank" rel="noopener noreferrer">[N6] slicersim: A python package to simulate image slicer spectroscopic observations -- application to the Lazuli Spectrograph</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.06128v1" target="_blank" rel="noopener noreferrer">[N7] Executable verification through formalized expert reasoning in astronomical spectroscopy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.05517v1" target="_blank" rel="noopener noreferrer">[N8] Constant Scaling Fails for Global Monopole Networks</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.06526v1" target="_blank" rel="noopener noreferrer">[N9] One with HI: Modelling HI Intensity Mapping one-point statistics including systematics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.06467v1" target="_blank" rel="noopener noreferrer">[N10] Linearized Horndeski Theory with a Potential in the Solar System Regime</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.06441v1" target="_blank" rel="noopener noreferrer">[N11] Starting inflation in asymptotically flat spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.06236v1" target="_blank" rel="noopener noreferrer">[N12] Schwarzschild black holes from twistor space</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.05505v1" target="_blank" rel="noopener noreferrer">[N13] The dark matter halo mass function in the $Λ\mathrm{CDM}$ cosmology at all times and over all scales -- from planetary to galaxy cluster masses</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.06321v1" target="_blank" rel="noopener noreferrer">[N14] Polarization images of non-topological soliton Bardeen boson stars</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-07-jwst-distant-barred-galaxy-candidate.html" target="_blank" rel="noopener noreferrer">[N15] JWST finds the most distant barred galaxy candidate in the early universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2607.06100v1" target="_blank" rel="noopener noreferrer">[N16] Noise-induced stabilization of Schwarzschild--AdS black holes under stochastic Ricci flow</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.05504v1" target="_blank" rel="noopener noreferrer">[N17] A Novel Implementation of Self-Interacting Dark Matter in AREPO</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.05326v1" target="_blank" rel="noopener noreferrer">[N18] Weak Evolution of Cosmic Atomic Hydrogen over the Past 4.5 Billion Years</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.05909v1" target="_blank" rel="noopener noreferrer">[N19] Probing near-zone magnetic fields with extreme mass-ratio inspirals</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-07-nearby-black-hole-window-early.html" target="_blank" rel="noopener noreferrer">[N20] A nearby black hole as a window into the early universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2607.05044v1" target="_blank" rel="noopener noreferrer">[N1] Alleviating the Hubble Tension with Smooth Sign-Switching Dark Energy: Full CMB Constraints with DESI and PantheonPlus</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.06147v1" target="_blank" rel="noopener noreferrer">[N2] Imprint of swampland-inspired coupled early dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.06567v1" target="_blank" rel="noopener noreferrer">[N3] Skipping the rungs! Calibrating distance indicators through their clustering with galaxies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.05784v1" target="_blank" rel="noopener noreferrer">[N4] CMB Lensing Reconstruction Using Two Years of Temperature Data from the SPT-3G Summer Survey</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.06436v1" target="_blank" rel="noopener noreferrer">[N5] Observationally Constrained Cosmological model in $f(Q,\mathcal{L}_{m})$ Gravity with $H(z)$ parameterization</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.05517v1" target="_blank" rel="noopener noreferrer">[N6] Constant Scaling Fails for Global Monopole Networks</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.06526v1" target="_blank" rel="noopener noreferrer">[N7] One with HI: Modelling HI Intensity Mapping one-point statistics including systematics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.06467v1" target="_blank" rel="noopener noreferrer">[N8] Linearized Horndeski Theory with a Potential in the Solar System Regime</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.06391v1" target="_blank" rel="noopener noreferrer">[N9] slicersim: A python package to simulate image slicer spectroscopic observations -- application to the Lazuli Spectrograph</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.06128v1" target="_blank" rel="noopener noreferrer">[N10] Executable verification through formalized expert reasoning in astronomical spectroscopy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.05505v1" target="_blank" rel="noopener noreferrer">[N11] The dark matter halo mass function in the $Λ\mathrm{CDM}$ cosmology at all times and over all scales -- from planetary to galaxy cluster masses</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.06441v1" target="_blank" rel="noopener noreferrer">[N12] Starting inflation in asymptotically flat spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.06100v1" target="_blank" rel="noopener noreferrer">[N13] Noise-induced stabilization of Schwarzschild--AdS black holes under stochastic Ricci flow</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.05504v1" target="_blank" rel="noopener noreferrer">[N14] A Novel Implementation of Self-Interacting Dark Matter in AREPO</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.05326v1" target="_blank" rel="noopener noreferrer">[N15] Weak Evolution of Cosmic Atomic Hydrogen over the Past 4.5 Billion Years</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.06236v1" target="_blank" rel="noopener noreferrer">[N16] Schwarzschild black holes from twistor space</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.05909v1" target="_blank" rel="noopener noreferrer">[N17] Probing near-zone magnetic fields with extreme mass-ratio inspirals</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.06321v1" target="_blank" rel="noopener noreferrer">[N18] Polarization images of non-topological soliton Bardeen boson stars</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-07-jwst-distant-barred-galaxy-candidate.html" target="_blank" rel="noopener noreferrer">[N19] JWST finds the most distant barred galaxy candidate in the early universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2607.06112v1" target="_blank" rel="noopener noreferrer">[N20] Starobinsky Inflation in k-Essence Framework: Attractor Dynamics, Reheating, and Consistency with ACT DR6</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
