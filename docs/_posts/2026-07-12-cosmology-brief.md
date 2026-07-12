@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-12T09:37:12.617303+05:30
-summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "9:37AM"
+date: 2026-07-12T15:36:08.494598+05:30
+summary: "Latest cosmology news, jobs, and fellowships for researchers."
+run_time_ist: "3:36PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:37AM</h1>
+<h1 class="brief-run">Gemini Summary: 3:36PM</h1>
 
 <hr class="brief-rule">
 
@@ -16,21 +16,19 @@ run_time_ist: "9:37AM"
 <h2>Cosmology News</h2>
 <ul class="digest-points">
 <li><p><strong>Topic:</strong> The SKA Observatory&#x27;s potential to probe the early universe beyond the standard ΛCDM model is explored.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.08593v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> DESI BAO measurements, combined with CMB and SNe Ia data, suggest a late-time phantom crossing, motivating non-standard dark energy models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.08120v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> HETDEX PDR1 provides a large catalog of [OII] galaxies at $z \le 0.48$, enabling volume-limited power spectrum studies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.08453v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> HETDEX PDR1 provides a large catalog of emission-line galaxies for cosmological studies up to $z \le 0.48$.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.08453v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Distance duality violation is investigated as a potential solution to the Hubble tension.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.08654v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities from PRL Job Vacancies and Fellowships.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities from TIFR Astronomy and Astrophysics Careers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities from IUCAA Opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities from HRI Physics Postdoctoral Fellowships.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities from Academic Jobs Online Cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities from ANRF National Post Doctoral Fellowship.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities from IUCAA Faculty Openings.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -38,9 +36,9 @@ run_time_ist: "9:37AM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2607.08593v1" target="_blank" rel="noopener noreferrer">[N1] Beyond ΛCDM with the SKA Observatory -- II: Unveiling the Secrets of the Early Universe</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.08120v1" target="_blank" rel="noopener noreferrer">[N2] Phantom crossing from the Standard Model and General Relativity</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.08453v1" target="_blank" rel="noopener noreferrer">[N3] HETDEX [OII] galaxies at $z \le 0.48$: Volume-limited samples and their power spectra</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.08654v1" target="_blank" rel="noopener noreferrer">[N4] Can Distance Duality Violation Save Late-time Solutions to the Hubble Tension?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.08453v1" target="_blank" rel="noopener noreferrer">[N2] HETDEX [OII] galaxies at $z \le 0.48$: Volume-limited samples and their power spectra</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.08654v1" target="_blank" rel="noopener noreferrer">[N3] Can Distance Duality Violation Save Late-time Solutions to the Hubble Tension?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.08120v1" target="_blank" rel="noopener noreferrer">[N4] Phantom crossing from the Standard Model and General Relativity</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.07777v1" target="_blank" rel="noopener noreferrer">[N5] The Status of Single Scalar Field Dark Energy</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.08576v1" target="_blank" rel="noopener noreferrer">[N6] Disentangling the dark and stellar mass through precise lens modelling of the JWST observation of lensed quasar WFI2033--4723</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.08562v1" target="_blank" rel="noopener noreferrer">[N7] XShooter DESI Lens Program: Sample characterization</a> <span>arXiv astro-ph.CO</span></li>
@@ -50,13 +48,13 @@ run_time_ist: "9:37AM"
 <li><a href="https://arxiv.org/abs/2607.07875v1" target="_blank" rel="noopener noreferrer">[N11] Alcock-Paczynski Blinding Scheme for the Ly-$α$ Forest Analysis</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.07610v1" target="_blank" rel="noopener noreferrer">[N12] Gamma-ray bursts reveal the history and faint contributors of cosmic reionization</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.08466v1" target="_blank" rel="noopener noreferrer">[N13] Search for strong lensing of gravitational waves in the binary black hole events from O1-O4a</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.08248v1" target="_blank" rel="noopener noreferrer">[N14] Probing Quadratically Coupled Ultralight Dark Matter with the Laser Interferometer Space Antenna</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.07821v1" target="_blank" rel="noopener noreferrer">[N15] Multipolar structure of the local expansion rate from incomplete sky data</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.07709v1" target="_blank" rel="noopener noreferrer">[N16] The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.08737v1" target="_blank" rel="noopener noreferrer">[N17] The mini-Page Curve in Cosmology</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.08728v1" target="_blank" rel="noopener noreferrer">[N18] Tilted thin accretion disks in the full Kerr spacetime and their implications</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.08570v1" target="_blank" rel="noopener noreferrer">[N19] Horizon-redshift transfer in black-hole direct-wave damping</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.08482v1" target="_blank" rel="noopener noreferrer">[N20] Quantum corrections to the near-extremal thermodynamics of (warped) BTZ black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.07821v1" target="_blank" rel="noopener noreferrer">[N14] Multipolar structure of the local expansion rate from incomplete sky data</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.07709v1" target="_blank" rel="noopener noreferrer">[N15] The Subversive Role of Excessive External Shear in Concealing Lensing Anomalies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.08737v1" target="_blank" rel="noopener noreferrer">[N16] The mini-Page Curve in Cosmology</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.08728v1" target="_blank" rel="noopener noreferrer">[N17] Tilted thin accretion disks in the full Kerr spacetime and their implications</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.08570v1" target="_blank" rel="noopener noreferrer">[N18] Horizon-redshift transfer in black-hole direct-wave damping</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.08482v1" target="_blank" rel="noopener noreferrer">[N19] Quantum corrections to the near-extremal thermodynamics of (warped) BTZ black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.07815v1" target="_blank" rel="noopener noreferrer">[N20] Causal Horizons, Geodesic Completeness and Stability in Slow Contraction Cosmology</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
