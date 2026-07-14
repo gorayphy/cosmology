@@ -1,34 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-14T09:14:49.988348+05:30
+date: 2026-07-14T15:45:05.548250+05:30
 summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "9:14AM"
+run_time_ist: "3:45PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:14AM</h1>
+<h1 class="brief-run">Gemini Summary: 3:45PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> New constraints on ultra-light axions as dark matter are derived from DESI DR1, Planck, and ACT data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.11876v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New constraints on ultra-light axions as dark matter are presented using DESI DR1, Planck, and ACT data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.11876v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Topic:</strong> Anisotropic Dirac-Born-Infeld inflation with non-vacuum initial states is investigated for primordial perturbations and non-Gaussianity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.11842v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Nonparametric expansion-growth reconstruction is used to break the degeneracy between dark energy equation of state and dark sector interactions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.11813v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A method for breaking dark sector degeneracy using nonparametric expansion-growth reconstruction is proposed.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.11813v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page from PRL Job Vacancies and Fellowships.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page from TIFR Astronomy and Astrophysics Careers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page from IUCAA Opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page from HRI Physics Postdoctoral Fellowships.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page from Academic Jobs Online Cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -39,22 +38,22 @@ run_time_ist: "9:14AM"
 <li><a href="https://arxiv.org/abs/2607.11842v1" target="_blank" rel="noopener noreferrer">[N2] Anisotropic Dirac-Born-Infeld Inflation with Non-Vacuum Initial States: Primordial Perturbations, Non-Gaussianity, and Observational Constraints</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.11813v1" target="_blank" rel="noopener noreferrer">[N3] Breaking the Dark Sector Degeneracy with Nonparametric Expansion--Growth Reconstruction</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.11887v1" target="_blank" rel="noopener noreferrer">[N4] Signatures of $10-10^4\,{\rm M}_{\odot}$ Dark Matter halos in LISA via Stochastic Diffraction</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.11254v1" target="_blank" rel="noopener noreferrer">[N5] Cosmology from Nx2pt Analyses of SKAO Wide-Area Surveys</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.11860v1" target="_blank" rel="noopener noreferrer">[N6] Reconstructing the kinematics of Laniakea using Type Ia Supernovae</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.11814v1" target="_blank" rel="noopener noreferrer">[N7] Anisotropic separate universe : Long-wavelength perturbations and conserved quantities</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.11114v1" target="_blank" rel="noopener noreferrer">[N8] The Environmental Dependence of Halo Intrinsic Alignments: Stronger Signals in Underdense Regions</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.11791v1" target="_blank" rel="noopener noreferrer">[N9] Cosmology: 100 years after A. A. Friedmann</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.11765v1" target="_blank" rel="noopener noreferrer">[N10] Is there ghost and tachyon free bounce in UV complete gravity theory?</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.11144v1" target="_blank" rel="noopener noreferrer">[N11] O5 dark-siren forecasts for modified GW propagation: background robustness of the $Ξ$ posterior</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.10672v1" target="_blank" rel="noopener noreferrer">[N12] Do primordial quark pellets solve the dark matter puzzle?</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.11519v1" target="_blank" rel="noopener noreferrer">[N13] Dynamics and observational signatures of warm Dirac-Born-Infeld inflation with nonminimal derivative coupling</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.10845v1" target="_blank" rel="noopener noreferrer">[N14] GroundBIRD: First On-Sky Responsivity Calibration at the Teide Observatory</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.10607v1" target="_blank" rel="noopener noreferrer">[N15] Conformal dark matter and MHz gravitational waves</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.11860v1" target="_blank" rel="noopener noreferrer">[N5] Reconstructing the kinematics of Laniakea using Type Ia Supernovae</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.11814v1" target="_blank" rel="noopener noreferrer">[N6] Anisotropic separate universe : Long-wavelength perturbations and conserved quantities</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.11791v1" target="_blank" rel="noopener noreferrer">[N7] Cosmology: 100 years after A. A. Friedmann</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.11765v1" target="_blank" rel="noopener noreferrer">[N8] Is there ghost and tachyon free bounce in UV complete gravity theory?</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.11254v1" target="_blank" rel="noopener noreferrer">[N9] Cosmology from Nx2pt Analyses of SKAO Wide-Area Surveys</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.10672v1" target="_blank" rel="noopener noreferrer">[N10] Do primordial quark pellets solve the dark matter puzzle?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.11519v1" target="_blank" rel="noopener noreferrer">[N11] Dynamics and observational signatures of warm Dirac-Born-Infeld inflation with nonminimal derivative coupling</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.11114v1" target="_blank" rel="noopener noreferrer">[N12] The Environmental Dependence of Halo Intrinsic Alignments: Stronger Signals in Underdense Regions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.10845v1" target="_blank" rel="noopener noreferrer">[N13] GroundBIRD: First On-Sky Responsivity Calibration at the Teide Observatory</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.10607v1" target="_blank" rel="noopener noreferrer">[N14] Conformal dark matter and MHz gravitational waves</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.11144v1" target="_blank" rel="noopener noreferrer">[N15] O5 dark-siren forecasts for modified GW propagation: background robustness of the $Ξ$ posterior</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.10974v1" target="_blank" rel="noopener noreferrer">[N16] Constraints on Annihilating Dark Matter from Gamma-Ray Background-Galaxy Shape Correlations: Model-independent Null Results and Moderate Template-based Signals</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.10524v1" target="_blank" rel="noopener noreferrer">[N17] Constraining primordial black holes and primordial curvature power spectrum with extragalactic muon neutrino</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.11851v1" target="_blank" rel="noopener noreferrer">[N18] Corrected thermodynamics and radiation predictions of modified black bounce compact objects</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.11840v1" target="_blank" rel="noopener noreferrer">[N19] Universal Bounds on Black Hole Observables Imposed by Energy Conditions</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.11641v1" target="_blank" rel="noopener noreferrer">[N20] Holographic Timelike Entanglement and Subregion Complexity in Localized AdS3*S3*T4 Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/07/260711010128.htm" target="_blank" rel="noopener noreferrer">[N18] New dark matter theory could solve multiple cosmic mysteries at once</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2607.11851v1" target="_blank" rel="noopener noreferrer">[N19] Corrected thermodynamics and radiation predictions of modified black bounce compact objects</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.11840v1" target="_blank" rel="noopener noreferrer">[N20] Universal Bounds on Black Hole Observables Imposed by Energy Conditions</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
