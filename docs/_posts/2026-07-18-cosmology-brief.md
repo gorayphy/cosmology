@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-18T09:11:58.880191+05:30
+date: 2026-07-18T15:23:21.313487+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "9:11AM"
+run_time_ist: "3:23PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:11AM</h1>
+<h1 class="brief-run">Gemini Summary: 3:23PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> New work challenges the standard interpretation of the cosmic microwave background, proposing a non-primordial origin from dust-enshrouded starbursts.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.14211v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> CAMB v2 is released, offering improved precision for cosmological power spectra crucial for upcoming high-precision surveys.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.14854v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> An updated Hubble diagram using HII galaxies extends the measurement of the Universe&#x27;s expansion to redshift $z\sim 14$.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.14254v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new study challenges the standard interpretation of the cosmic microwave background, proposing a non-primordial contribution from dust-enshrouded starbursts.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.14211v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> CAMB v2 has been released, offering improved accuracy for cosmological power spectra crucial for high-precision surveys.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.14854v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> An updated Hubble diagram using HII galaxies extends the use of the L(Hβ)-σ relation as a cosmological probe to redshift z~14.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.14254v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -27,7 +27,7 @@ run_time_ist: "9:11AM"
 <li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current opportunities page for cosmology, astrophysics, and physics in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current opportunities page for cosmology, astrophysics, and physics in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> IUCAA Opportunities: current opportunities page for cosmology, astrophysics, and physics in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current opportunities page for cosmology, astrophysics, and physics in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current opportunities page for physics in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current opportunities page for cosmology, astrophysics, and physics globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
