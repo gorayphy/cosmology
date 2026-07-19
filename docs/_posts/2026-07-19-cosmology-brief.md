@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-19T09:34:15.759717+05:30
+date: 2026-07-19T15:35:36.220171+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "9:34AM"
+run_time_ist: "3:35PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:34AM</h1>
+<h1 class="brief-run">Gemini Summary: 3:35PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Recent work challenges the standard interpretation of the CMB as relic thermal radiation, proposing an alternative involving dust-enshrouded starbursts.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.14211v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> CAMB v2 is released, providing theoretical power spectra for high-precision surveys with improved numerical accuracy for CMB and large-scale-structure studies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.14854v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Particle production from bubble collisions during cosmological phase transitions is modeled as off-shell scalar decay, allowing for the creation of particles heavier than the transition scale.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.15279v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Recent work challenges the standard interpretation of the cosmic microwave background as solely relic thermal radiation, proposing a non-primordial contribution.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.14211v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> CAMB v2 is released, offering high-precision cosmological power spectra crucial for upcoming CMB and large-scale-structure surveys.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.14854v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New constraints on dark matter-neutrino scattering are derived from high-resolution Lyman-α forest data, utilizing full hydrodynamical simulations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.15020v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -39,13 +39,13 @@ run_time_ist: "9:34AM"
 <li><a href="https://arxiv.org/abs/2607.15279v1" target="_blank" rel="noopener noreferrer">[N3] Particle production from bubble collisions</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.15028v1" target="_blank" rel="noopener noreferrer">[N4] Refining primordial black hole dark matter constraints with dust heating: the role of spin and halo profile dependence</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.14904v1" target="_blank" rel="noopener noreferrer">[N5] The VST ATLAS Survey -- IV: Galaxy, LRG and QSO bias and HODs via ACT CMB Lensing</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.14785v1" target="_blank" rel="noopener noreferrer">[N6] Enabling Cosmic Web Analysis at Gigaparsec Scales: A Multi Block Approach for DisPerSE</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.14254v1" target="_blank" rel="noopener noreferrer">[N7] Charting the expansion of the Universe from z$\sim$0 to z$\sim$14 with HII galaxies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.15261v1" target="_blank" rel="noopener noreferrer">[N8] Relativistic time-commutative dynamics with $κ$-plane noncommutativity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.15170v1" target="_blank" rel="noopener noreferrer">[N9] Nonlinear Gravitational Wave Interactions in an Expanding Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.15020v1" target="_blank" rel="noopener noreferrer">[N10] High resolution Lyman-α forest constraints on dark matter-neutrino scattering</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.14891v1" target="_blank" rel="noopener noreferrer">[N11] Cosmological Collider Signals at Strong Mixing</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.14863v1" target="_blank" rel="noopener noreferrer">[N12] Chaos bound violation by spinning particles in Gauss-Bonnet-AdS black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.14254v1" target="_blank" rel="noopener noreferrer">[N6] Charting the expansion of the Universe from z$\sim$0 to z$\sim$14 with HII galaxies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.15261v1" target="_blank" rel="noopener noreferrer">[N7] Relativistic time-commutative dynamics with $κ$-plane noncommutativity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.15170v1" target="_blank" rel="noopener noreferrer">[N8] Nonlinear Gravitational Wave Interactions in an Expanding Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.15020v1" target="_blank" rel="noopener noreferrer">[N9] High resolution Lyman-α forest constraints on dark matter-neutrino scattering</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.14891v1" target="_blank" rel="noopener noreferrer">[N10] Cosmological Collider Signals at Strong Mixing</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.14863v1" target="_blank" rel="noopener noreferrer">[N11] Chaos bound violation by spinning particles in Gauss-Bonnet-AdS black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.14785v1" target="_blank" rel="noopener noreferrer">[N12] Enabling Cosmic Web Analysis at Gigaparsec Scales: A Multi Block Approach for DisPerSE</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.15150v1" target="_blank" rel="noopener noreferrer">[N13] Noncommutative black holes: Topological bulk-boundary correspondence and Binary Merger Bounds</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2607.15145v1" target="_blank" rel="noopener noreferrer">[N14] Semiclassical estimates near threshold energies and resonance counting on Schwarzschild black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2607.15130v1" target="_blank" rel="noopener noreferrer">[N15] Swift gives a new BAT-GLIMPSE: Gamma-ray Localization using Imaging and Mosaic techniques for Pointing and Slew Epochs</a> <span>arXiv gr-qc Cosmology Search</span></li>
