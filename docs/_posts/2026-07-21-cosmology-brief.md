@@ -1,22 +1,22 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-21T09:26:52.995592+05:30
+date: 2026-07-21T16:06:33.820506+05:30
 summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "9:26AM"
+run_time_ist: "4:06PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:26AM</h1>
+<h1 class="brief-run">Gemini Summary: 4:06PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> DESI DR2 measurements suggest a preference for dynamical dark energy with early phantom behavior, potentially explained by unconventional dark matter dynamics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.18234v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> New constraints on Primordial Black Holes as dark matter candidates are derived from the microlensing effect of Fast Radio Bursts.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.17338v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 measurements suggest a preference for dynamical dark energy violating the Null Energy Condition, potentially explained by unconventional dark matter dynamics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.18234v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Constraints on primordial black holes as dark matter are explored using the microlensing effect of Fast Radio Bursts.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.17338v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Topic:</strong> High-sensitivity cross-correlations between neutral hydrogen intensity mapping and galaxy surveys are proposed to unveil dark energy properties.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.17141v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
@@ -24,11 +24,13 @@ run_time_ist: "9:26AM"
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for physics postdoctoral fellowships in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, a global portal for academic positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page, a portal for postdoctoral fellowships in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page, a portal for faculty positions in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -39,15 +41,15 @@ run_time_ist: "9:26AM"
 <li><a href="https://arxiv.org/abs/2607.17338v1" target="_blank" rel="noopener noreferrer">[N2] Constraints on Primordial Black Hole Dressed by Dark Matter Halo from Microlensing Effect of Fast Radio Bursts</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.17141v1" target="_blank" rel="noopener noreferrer">[N3] Unveiling dark energy properties with high-sensitivity cross-correlations of neutral hydrogen intensity mapping and galaxy surveys</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.18107v1" target="_blank" rel="noopener noreferrer">[N4] Biased Domain Wall Networks and their Gravitational Waves</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.17792v1" target="_blank" rel="noopener noreferrer">[N5] Intracluster light and dark matter halo shapes reflect common assembly, not mutual coupling: shape correspondence in CDM but not SIDM</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.18185v1" target="_blank" rel="noopener noreferrer">[N6] Wide binaries in ultra-faint dwarf galaxies as a probe of extended dark objects</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.18025v1" target="_blank" rel="noopener noreferrer">[N7] Core-Halo Mass Relation in Cosmological Vector Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.18008v1" target="_blank" rel="noopener noreferrer">[N8] Defocusing dark energy: Raychaudhuri diagnostics beyond $w&lt;-1/3$ and the phantom divide</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.17875v1" target="_blank" rel="noopener noreferrer">[N9] Magnetically assisted primordial scalar perturbations: Scalar-Induced Gravitational Waves</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.17727v1" target="_blank" rel="noopener noreferrer">[N10] Repulsive dark matter from Hosotani mechanism</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.17500v1" target="_blank" rel="noopener noreferrer">[N11] Simultaneous inference of isotropic and anisotropic polarization rotation angles for next-generation cosmic microwave background experiments</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.17929v1" target="_blank" rel="noopener noreferrer">[N12] gevolution 2.0: GPU-accelerated relativistic N-body simulations for cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.18219v1" target="_blank" rel="noopener noreferrer">[N13] Search for continuous gravitational waves from the pulsar J0435+3233</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.18185v1" target="_blank" rel="noopener noreferrer">[N5] Wide binaries in ultra-faint dwarf galaxies as a probe of extended dark objects</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.18025v1" target="_blank" rel="noopener noreferrer">[N6] Core-Halo Mass Relation in Cosmological Vector Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.18008v1" target="_blank" rel="noopener noreferrer">[N7] Defocusing dark energy: Raychaudhuri diagnostics beyond $w&lt;-1/3$ and the phantom divide</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.17875v1" target="_blank" rel="noopener noreferrer">[N8] Magnetically assisted primordial scalar perturbations: Scalar-Induced Gravitational Waves</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.17792v1" target="_blank" rel="noopener noreferrer">[N9] Intracluster light and dark matter halo shapes reflect common assembly, not mutual coupling: shape correspondence in CDM but not SIDM</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.17500v1" target="_blank" rel="noopener noreferrer">[N10] Simultaneous inference of isotropic and anisotropic polarization rotation angles for next-generation cosmic microwave background experiments</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.17929v1" target="_blank" rel="noopener noreferrer">[N11] gevolution 2.0: GPU-accelerated relativistic N-body simulations for cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.18219v1" target="_blank" rel="noopener noreferrer">[N12] Search for continuous gravitational waves from the pulsar J0435+3233</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.17727v1" target="_blank" rel="noopener noreferrer">[N13] Repulsive dark matter from Hosotani mechanism</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.17284v1" target="_blank" rel="noopener noreferrer">[N14] One Year and One Night to 1% in $\mathbf{H_0}$: Efficient Spectroscopic Strategy for Dark Siren Cosmology</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.16405v1" target="_blank" rel="noopener noreferrer">[N15] The Goldstone Awakens: Unimodular dark energy in scale-invariant $R^2$ gravity</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.18223v1" target="_blank" rel="noopener noreferrer">[N16] All Tree-Level Massive Cosmological Correlators via Spectral Gluing</a> <span>arXiv gr-qc Cosmology Search</span></li>
