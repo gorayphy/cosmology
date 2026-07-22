@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-22T09:27:56.331814+05:30
+date: 2026-07-22T16:07:13.405514+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "9:27AM"
+run_time_ist: "4:07PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:27AM</h1>
+<h1 class="brief-run">Gemini Summary: 4:07PM</h1>
 
 <hr class="brief-rule">
 
@@ -16,8 +16,8 @@ run_time_ist: "9:27AM"
 <h2>Cosmology News</h2>
 <ul class="digest-points">
 <li><p><strong>Topic:</strong> Hawking radiation from primordial black holes may impact recombination and the Hubble tension by ionizing the surrounding environment.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.18528v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Modified cosmologies derived from a generalized mass-to-horizon relation can be observationally constrained, ensuring thermodynamic consistency.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.18521v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> DESI DR2 measurements suggest a preference for dynamical dark energy, potentially explained by unconventional dark matter dynamics rather than a cosmological constant.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.18234v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New constraints are placed on modified cosmologies derived from a generalized mass-to-horizon relation, ensuring thermodynamic consistency.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.18521v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 measurements suggest a preference for dynamical dark energy, potentially explained by unconventional dark matter dynamics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.18234v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -47,13 +47,13 @@ run_time_ist: "9:27AM"
 <li><a href="https://arxiv.org/abs/2607.19244v1" target="_blank" rel="noopener noreferrer">[N11] Decaying Dark Matter Halo Abundance from a Revised Spherical Collapse Model</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.19152v1" target="_blank" rel="noopener noreferrer">[N12] Plasma-Induced Modifications of the Shadows of Rotating Bardeen Black Holes with Perfect Fluid Dark Matter</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2607.19145v1" target="_blank" rel="noopener noreferrer">[N13] A wormhole with two black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.18920v1" target="_blank" rel="noopener noreferrer">[N14] Accretion of multipolar massive complex scalar field packets by a Schwarzschild black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.18185v1" target="_blank" rel="noopener noreferrer">[N15] Wide binaries in ultra-faint dwarf galaxies as a probe of extended dark objects</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.18025v1" target="_blank" rel="noopener noreferrer">[N16] Core-Halo Mass Relation in Cosmological Vector Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.18008v1" target="_blank" rel="noopener noreferrer">[N17] Defocusing dark energy: Raychaudhuri diagnostics beyond $w&lt;-1/3$ and the phantom divide</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-07-dark-energy-foundations-today-cosmological.html" target="_blank" rel="noopener noreferrer">[N18] Does dark energy really exist? Our work identifies cracks in the foundations of today&#x27;s cosmological model</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-07-black-hole-jet-gas-cloud.html" target="_blank" rel="noopener noreferrer">[N19] Black hole jet may be stirring gas cloud containing early &#x27;red potato&#x27; galaxy</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2607.19329v1" target="_blank" rel="noopener noreferrer">[N20] Gravitational-Wave Sky Mapping with Pulsar Timing Arrays: The Full Earth-Pulsar Response and Fundamental Resolution Limits</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.18185v1" target="_blank" rel="noopener noreferrer">[N14] Wide binaries in ultra-faint dwarf galaxies as a probe of extended dark objects</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.18025v1" target="_blank" rel="noopener noreferrer">[N15] Core-Halo Mass Relation in Cosmological Vector Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.18008v1" target="_blank" rel="noopener noreferrer">[N16] Defocusing dark energy: Raychaudhuri diagnostics beyond $w&lt;-1/3$ and the phantom divide</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-07-dark-energy-foundations-today-cosmological.html" target="_blank" rel="noopener noreferrer">[N17] Does dark energy really exist? Our work identifies cracks in the foundations of today&#x27;s cosmological model</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-07-black-hole-jet-gas-cloud.html" target="_blank" rel="noopener noreferrer">[N18] Black hole jet may be stirring gas cloud containing early &#x27;red potato&#x27; galaxy</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2607.19329v1" target="_blank" rel="noopener noreferrer">[N19] Gravitational-Wave Sky Mapping with Pulsar Timing Arrays: The Full Earth-Pulsar Response and Fundamental Resolution Limits</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.19290v1" target="_blank" rel="noopener noreferrer">[N20] Euclid: Inferring star-formation history via cross-correlations of photometric clustering and shear with the cosmic infrared background</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
