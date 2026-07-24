@@ -1,33 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-24T16:02:12.560840+05:30
-summary: "Latest research highlights and job opportunities for cosmologists and physics students."
-run_time_ist: "4:02PM"
+date: 2026-07-24T21:23:44.749283+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "9:23PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 4:02PM</h1>
+<h1 class="brief-run">Gemini Summary: 9:23PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Reviews of theoretical explanations for the Hubble tension are presented, highlighting the ongoing discrepancy in $H_0$ measurements.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.21497v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The complexity of polarized Galactic foregrounds is discussed as a challenge for CMB $B$-mode experiments like LiteBIRD.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.21247v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A potential discrepancy in Big Bang Nucleosynthesis predictions is explored, with a $\sim 2\sigma$ tension in the primordial deuterium abundance.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.20635v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Theoretical explanations for the Hubble tension are reviewed, highlighting the discrepancy between early and late universe measurements of the Hubble constant.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.21497v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A potential discrepancy in Big Bang Nucleosynthesis predictions, based on recent deuterium abundance measurements, is being investigated.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.20635v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The complexity of polarized Galactic foregrounds is analyzed for its impact on detecting CMB primordial B modes with the LiteBIRD mission.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.21247v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for Indian institutes, including fellowships and faculty openings.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. Portal for Indian academic and postdoctoral positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. Portal for Indian postdoc, faculty, and project opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. Postdoctoral fellowship page for physics at an Indian institute.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -35,25 +35,25 @@ run_time_ist: "4:02PM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2607.21497v1" target="_blank" rel="noopener noreferrer">[N1] Hubble tension: a short review of theoretical explanations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.21247v1" target="_blank" rel="noopener noreferrer">[N2] Contribution to the 2026 Cosmology session of the 60th Rencontres de Moriond: Galactic moments: Understanding polarized foregrounds complexity in the quest for CMB primordial $B$ modes with LiteBIRD</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.20635v1" target="_blank" rel="noopener noreferrer">[N3] What could an emerging Big Bang Nucleosynthesis discrepancy be hinting at?</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.21244v1" target="_blank" rel="noopener noreferrer">[N4] Hubble tension: the shape wall</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.20797v1" target="_blank" rel="noopener noreferrer">[N5] A Multimodal Approach to Star--Galaxy Separation using SPHEREx Spectrophotometry and DESI Legacy Survey Imaging</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.20413v1" target="_blank" rel="noopener noreferrer">[N6] The road towards precision measurements of $H_0$ with bright sirens in the Einstein Telescope era</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20635v1" target="_blank" rel="noopener noreferrer">[N2] What could an emerging Big Bang Nucleosynthesis discrepancy be hinting at?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.21247v1" target="_blank" rel="noopener noreferrer">[N3] Contribution to the 2026 Cosmology session of the 60th Rencontres de Moriond: Galactic moments: Understanding polarized foregrounds complexity in the quest for CMB primordial $B$ modes with LiteBIRD</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20797v1" target="_blank" rel="noopener noreferrer">[N4] A Multimodal Approach to Star--Galaxy Separation using SPHEREx Spectrophotometry and DESI Legacy Survey Imaging</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20413v1" target="_blank" rel="noopener noreferrer">[N5] The road towards precision measurements of $H_0$ with bright sirens in the Einstein Telescope era</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.21244v1" target="_blank" rel="noopener noreferrer">[N6] Hubble tension: the shape wall</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.20843v1" target="_blank" rel="noopener noreferrer">[N7] Dark Monopoles, Bounds on Hidden Sectors, and Cosmological Implications</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.20651v1" target="_blank" rel="noopener noreferrer">[N8] When galaxies burst II. Implications of enhanced burstiness for the 21-cm Cosmic Dawn signal</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.21432v1" target="_blank" rel="noopener noreferrer">[N9] Atmosphere mitigation in CMB observations using multi-frequency time-domain component separation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.21283v1" target="_blank" rel="noopener noreferrer">[N10] Zipoy--Voorhees spacetime with Maxwell and dilaton fields: exact solution and equatorial geodesics</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.21165v1" target="_blank" rel="noopener noreferrer">[N11] Spin-mediated modulation of chaos bound violation in Lorentz-violating black hole spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.20689v1" target="_blank" rel="noopener noreferrer">[N12] Gravitational Wave Birefringence in generalized Palatini Chern Simons</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.20637v1" target="_blank" rel="noopener noreferrer">[N13] The correlation between voids identified in 3D large-scale-structure and 2D weak-lensing maps</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.20423v1" target="_blank" rel="noopener noreferrer">[N14] Primordial black holes forming during kination: the trapped, the overdense, and the void</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.21484v1" target="_blank" rel="noopener noreferrer">[N15] A story about a tipsy kangaroo: Reversible jump MCMC for model selection in the analysis of gravitational-wave signals from the coalescence of compact objects</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.21386v1" target="_blank" rel="noopener noreferrer">[N16] High-Order Pole-Skipping in Near-Extremal Holography</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.21314v1" target="_blank" rel="noopener noreferrer">[N17] Octupole moments and the non-universality of free-fall in general relativity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.21008v1" target="_blank" rel="noopener noreferrer">[N18] Reviving the Affleck-Dine Curvaton Scenario with Compensated Isocurvature Perturbations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.20721v1" target="_blank" rel="noopener noreferrer">[N19] Probing the baryonic--dark matter connection in galaxy clusters using X-rays with gated recurrent unit neural networks</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.20715v1" target="_blank" rel="noopener noreferrer">[N20] Evolving Dark Energy from the Back-Reaction of Cosmological Perturbations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20689v1" target="_blank" rel="noopener noreferrer">[N9] Gravitational Wave Birefringence in generalized Palatini Chern Simons</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20637v1" target="_blank" rel="noopener noreferrer">[N10] The correlation between voids identified in 3D large-scale-structure and 2D weak-lensing maps</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20423v1" target="_blank" rel="noopener noreferrer">[N11] Primordial black holes forming during kination: the trapped, the overdense, and the void</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.21484v1" target="_blank" rel="noopener noreferrer">[N12] A story about a tipsy kangaroo: Reversible jump MCMC for model selection in the analysis of gravitational-wave signals from the coalescence of compact objects</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.21008v1" target="_blank" rel="noopener noreferrer">[N13] Reviving the Affleck-Dine Curvaton Scenario with Compensated Isocurvature Perturbations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20721v1" target="_blank" rel="noopener noreferrer">[N14] Probing the baryonic--dark matter connection in galaxy clusters using X-rays with gated recurrent unit neural networks</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20715v1" target="_blank" rel="noopener noreferrer">[N15] Evolving Dark Energy from the Back-Reaction of Cosmological Perturbations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20614v1" target="_blank" rel="noopener noreferrer">[N16] Gravitational Lensing Predictions from Wave Simulations of Fuzzy Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.21509v1" target="_blank" rel="noopener noreferrer">[N17] Aspects of Closed Matricial Worlds</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.21463v1" target="_blank" rel="noopener noreferrer">[N18] Relational path integral, effective actions and quantum frame covariance</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.21432v1" target="_blank" rel="noopener noreferrer">[N19] Atmosphere mitigation in CMB observations using multi-frequency time-domain component separation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.21283v1" target="_blank" rel="noopener noreferrer">[N20] Zipoy--Voorhees spacetime with Maxwell and dilaton fields: exact solution and equatorial geodesics</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
