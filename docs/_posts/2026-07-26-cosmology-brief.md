@@ -1,62 +1,59 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-26T09:37:16.103473+05:30
-summary: "Latest cosmology news, research, and job opportunities for researchers."
-run_time_ist: "9:37AM"
+date: 2026-07-26T15:46:32.548598+05:30
+summary: "Latest cosmology research updates and job opportunities for researchers."
+run_time_ist: "3:46PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:37AM</h1>
+<h1 class="brief-run">Gemini Summary: 3:46PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A new quantum gravity theory, Gravity from Entropy, proposes a link between entropy, dark energy, and the emergence of life in the universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/07/260719035947.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Recent work questions the existence of dark energy, suggesting cracks in the foundations of the current cosmological model.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-07-dark-energy-foundations-today-cosmological.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Astronomers using JWST have captured a rare glimpse of an early supermassive black hole growing within a network of young galaxies, approximately one billion years after the Big Bang.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-07-jwst-captures-rare-glimpse-early.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Theoretical explanations for the Hubble tension are reviewed, highlighting the discrepancy with the ΛCDM model.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.21497v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The complexity of polarized Galactic foregrounds is analyzed for CMB B-mode searches with LiteBIRD.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.21247v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A potential discrepancy in Big Bang Nucleosynthesis is explored, with a ~2σ tension in deuterium abundance.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.20635v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships provides current opportunities in cosmology, astrophysics, and physics, primarily for Indian institutes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers offers current opportunities in cosmology, astrophysics, and physics, focusing on India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities lists current cosmology, astrophysics, and physics positions, including postdoc and faculty roles in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships is a page for current postdoctoral fellowship opportunities in physics at Indian institutes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology is a global portal for current cosmology, astrophysics, and physics positions, commonly used for international applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship offers current opportunities for Indian citizens with a PhD or submitted thesis.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Marie Curie Postdoctoral Fellowships is an open mobility fellowship program in Europe, accessible to Indian researchers with eligible European hosts.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. Portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. Portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N1] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N2] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-07-dark-energy-foundations-today-cosmological.html" target="_blank" rel="noopener noreferrer">[N3] Does dark energy really exist? Our work identifies cracks in the foundations of today&#x27;s cosmological model</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-07-black-hole-jet-gas-cloud.html" target="_blank" rel="noopener noreferrer">[N4] Black hole jet may be stirring gas cloud containing early &#x27;red potato&#x27; galaxy</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/07/260719035947.htm" target="_blank" rel="noopener noreferrer">[N5] New quantum gravity theory links entropy, dark energy, and life</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.universetoday.com/articles/the-red-potato-galaxy-and-its-stifling-neighbour" target="_blank" rel="noopener noreferrer">[N6] The Red Potato Galaxy and its Stifling Neighbour</a> <span>Universe Today</span></li>
-<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N7] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/07/260724061444.htm" target="_blank" rel="noopener noreferrer">[N8] The Universe can outrun light without breaking Einstein’s rules</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-07-rare-blue-optical-transient-class.html" target="_blank" rel="noopener noreferrer">[N9] Rare blue optical transient points to possible new class of cosmic explosion</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.universetoday.com/articles/jwst-may-be-missing-water-hidden-deep-within-mini-neptune-worlds" target="_blank" rel="noopener noreferrer">[N10] JWST May Be Missing Water Hidden Deep Within Mini-Neptune Worlds</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/could-we-send-a-spacecraft-to-a-black-hole" target="_blank" rel="noopener noreferrer">[N11] Could We Send a Spacecraft to a Black Hole?</a> <span>Universe Today</span></li>
-<li><a href="https://phys.org/news/2026-07-nasa-space-telescope-tackle-universe.html" target="_blank" rel="noopener noreferrer">[N12] NASA&#x27;s new space telescope will tackle some of the universe&#x27;s biggest mysteries</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/07/260722032111.htm" target="_blank" rel="noopener noreferrer">[N13] NASA’s Webb telescope discovers giant planet hiding in one of astronomy’s most famous systems</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/07/260723084049.htm" target="_blank" rel="noopener noreferrer">[N14] Scientists discover the Sun contains 55% more silver than expected</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-07-astronomers-massive-galaxy-piece-billion.html" target="_blank" rel="noopener noreferrer">[N15] Astronomers catch massive galaxy assembling piece by piece 1.2 billion years after Big Bang</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.universetoday.com/articles/hubble-discovers-the-first-missing-black-hole-in-this-famous-star-cluster" target="_blank" rel="noopener noreferrer">[N16] Hubble Discovers the First &quot;Missing&quot; Black Hole in this Famous Star Cluster</a> <span>Universe Today</span></li>
-<li><a href="https://phys.org/news/2026-07-jwst-captures-rare-glimpse-early.html" target="_blank" rel="noopener noreferrer">[N17] JWST captures rare glimpse of early black hole growing inside network of young galaxies</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-07-simulation-explanation-galaxies-stars.html" target="_blank" rel="noopener noreferrer">[N18] New simulation challenges leading explanation for why galaxies stop forming stars</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-07-radio-method-universe-ordinary.html" target="_blank" rel="noopener noreferrer">[N19] New radio-burst method helps locate universe&#x27;s missing ordinary matter</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/07/260718010156.htm" target="_blank" rel="noopener noreferrer">[N20] A tiny universe in a bottle reveals clues to the origins of life</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2607.21497v1" target="_blank" rel="noopener noreferrer">[N1] Hubble tension: a short review of theoretical explanations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.21247v1" target="_blank" rel="noopener noreferrer">[N2] Contribution to the 2026 Cosmology session of the 60th Rencontres de Moriond: Galactic moments: Understanding polarized foregrounds complexity in the quest for CMB primordial $B$ modes with LiteBIRD</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20635v1" target="_blank" rel="noopener noreferrer">[N3] What could an emerging Big Bang Nucleosynthesis discrepancy be hinting at?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.21244v1" target="_blank" rel="noopener noreferrer">[N4] Hubble tension: the shape wall</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20797v1" target="_blank" rel="noopener noreferrer">[N5] A Multimodal Approach to Star--Galaxy Separation using SPHEREx Spectrophotometry and DESI Legacy Survey Imaging</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20413v1" target="_blank" rel="noopener noreferrer">[N6] The road towards precision measurements of $H_0$ with bright sirens in the Einstein Telescope era</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20843v1" target="_blank" rel="noopener noreferrer">[N7] Dark Monopoles, Bounds on Hidden Sectors, and Cosmological Implications</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20651v1" target="_blank" rel="noopener noreferrer">[N8] When galaxies burst II. Implications of enhanced burstiness for the 21-cm Cosmic Dawn signal</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.21432v1" target="_blank" rel="noopener noreferrer">[N9] Atmosphere mitigation in CMB observations using multi-frequency time-domain component separation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.21283v1" target="_blank" rel="noopener noreferrer">[N10] Zipoy--Voorhees spacetime with Maxwell and dilaton fields: exact solution and equatorial geodesics</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.21165v1" target="_blank" rel="noopener noreferrer">[N11] Spin-mediated modulation of chaos bound violation in Lorentz-violating black hole spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.20689v1" target="_blank" rel="noopener noreferrer">[N12] Gravitational Wave Birefringence in generalized Palatini Chern Simons</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20637v1" target="_blank" rel="noopener noreferrer">[N13] The correlation between voids identified in 3D large-scale-structure and 2D weak-lensing maps</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20423v1" target="_blank" rel="noopener noreferrer">[N14] Primordial black holes forming during kination: the trapped, the overdense, and the void</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.21484v1" target="_blank" rel="noopener noreferrer">[N15] A story about a tipsy kangaroo: Reversible jump MCMC for model selection in the analysis of gravitational-wave signals from the coalescence of compact objects</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.21386v1" target="_blank" rel="noopener noreferrer">[N16] High-Order Pole-Skipping in Near-Extremal Holography</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.21314v1" target="_blank" rel="noopener noreferrer">[N17] Octupole moments and the non-universality of free-fall in general relativity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.21008v1" target="_blank" rel="noopener noreferrer">[N18] Reviving the Affleck-Dine Curvaton Scenario with Compensated Isocurvature Perturbations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20721v1" target="_blank" rel="noopener noreferrer">[N19] Probing the baryonic--dark matter connection in galaxy clusters using X-rays with gated recurrent unit neural networks</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.20715v1" target="_blank" rel="noopener noreferrer">[N20] Evolving Dark Energy from the Back-Reaction of Cosmological Perturbations</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
