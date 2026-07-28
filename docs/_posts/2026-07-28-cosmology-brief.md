@@ -1,0 +1,121 @@
+---
+layout: default
+title: "Cosmology Digest"
+date: 2026-07-28T09:17:34.524008+05:30
+summary: "Latest research and opportunities in cosmology for researchers and students."
+run_time_ist: "9:17AM"
+---
+
+<p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
+
+<h1 class="brief-run">Gemini Summary: 9:17AM</h1>
+
+<hr class="brief-rule">
+
+<section class="digest-section">
+<h2>Cosmology News</h2>
+<ul class="digest-points">
+<li><p><strong>Topic:</strong> Updated Hubble constant measurements using corrected Pantheon+ and DES-DOVEKIE supernovae offer a 1.1% precision, incorporating DES-DOVEKIE for the first time in distance-ladder determinations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.24443v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A hierarchical Gaussian-process test examines DESI&#x27;s preference for dynamical dark energy over ΛCDM, finding support at the 2.8–4.2σ level when combined with CMB and Type Ia supernovae data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.23593v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Neutrino mass measurements are explored independently of dark energy, building on oscillation data and kinematic experiments that bound the electron-neutrino mass.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.24742v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+</ul>
+</section>
+
+<section class="digest-section">
+<h2>Jobs and Fellowships</h2>
+<ul class="digest-points">
+<li><p><strong>Role/program:</strong> La Caixa Junior Leader Fellowship Research Associate Position in Gravitational Wave Physics at IFAE, Barcelona.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3182115" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Call for Expressions of Interest for the Ramón y Cajal Fellowship Programme 2026 – Tenure-Track Position in Gravitational-Wave Physics at IFAE, Barcelona.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3182715" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-track faculty positions at the Institute of Physics, Taiwan.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3180924" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Two postdoctoral positions in neutrino astronomy at Louvain U., CP3.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3182714" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: a portal for current cosmology, astrophysics, and physics opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: a portal for current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: a portal for current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+</ul>
+</section>
+
+<details class="sources-considered">
+<summary>Sources considered</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/2607.24742v1" target="_blank" rel="noopener noreferrer">[N1] Measuring Cosmic Neutrino Masses Independently of Dark Energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.24443v1" target="_blank" rel="noopener noreferrer">[N2] Updated 1.1% Precision Values of the Hubble Constant with Corrected Pantheon+ and Dark Energy Survey (DES)-DOVEKIE Type Ia Supernovae</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.23593v1" target="_blank" rel="noopener noreferrer">[N3] Hierarchical Gaussian-process test of DESI&#x27;s dynamical dark-energy preference</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.23374v1" target="_blank" rel="noopener noreferrer">[N4] The Degree of Fine-Tuning Needed for a Viable Universe: Not Fragile?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.24734v1" target="_blank" rel="noopener noreferrer">[N5] Gravitational waves from super-Hubble bubbles</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.24277v1" target="_blank" rel="noopener noreferrer">[N6] Modified Mukhanov-Sasaki equation and primordial perturbations in $κ$-deformed non-commutative space-time</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.23535v1" target="_blank" rel="noopener noreferrer">[N7] Cosmic microwave background temperature cosmography</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.24469v1" target="_blank" rel="noopener noreferrer">[N8] The Higgs vacuum in the presence of strong gravitational fields: curvature induced electroweak symmetry restoration</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.24412v1" target="_blank" rel="noopener noreferrer">[N9] Constraining the $z \approx 1$ neutral hydrogen (HI) distribution</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.24347v1" target="_blank" rel="noopener noreferrer">[N10] Multi-gravity cosmology beyond pairwise interactions</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.24144v1" target="_blank" rel="noopener noreferrer">[N11] Gravitational Wave Signatures of Periodic Orbits around a Schwarzschild-like Black Holes Submerged in an Exponential Density Dark Matter Profile</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.23398v1" target="_blank" rel="noopener noreferrer">[N12] Cosmological perturbations and clustering mechanisms in multifield dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.23200v1" target="_blank" rel="noopener noreferrer">[N13] Status of light inflaton: from inflation to laboratory</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.23152v1" target="_blank" rel="noopener noreferrer">[N14] High-frequency gravitational waves from axion inflation in the weak-backreaction regime</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.24723v1" target="_blank" rel="noopener noreferrer">[N15] Beyond-eikonal diffraction integral in gravitational lensing</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.24404v1" target="_blank" rel="noopener noreferrer">[N16] A Bogoliubov-ratio framework for quantum-information diagnostics of time-dependent two-mode Boson Hamiltonian</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.24349v1" target="_blank" rel="noopener noreferrer">[N17] Entropy dynamics in gravitational collapse: From Minkowski breaking to de Sitter thermodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.24254v1" target="_blank" rel="noopener noreferrer">[N18] Exact Analytical Phase Transitions, Horizon Bistability, and Thermodynamic State-Space Representation of Regular Hayward Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.24242v1" target="_blank" rel="noopener noreferrer">[N19] Light-like retarded correlators and the horizon</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.24154v1" target="_blank" rel="noopener noreferrer">[N20] Gravitational wave signatures of magnetized Ernst black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
+<li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
+<li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
+<li><a href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">[J4] HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>HRI Physics Postdoctoral Fellowships</span></li>
+<li><a href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">[J5] Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page</a> <span>Academic Jobs Online Cosmology</span></li>
+<li><a href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">[J6] ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>ANRF National Post Doctoral Fellowship</span></li>
+<li><a href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">[J7] IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Faculty Openings</span></li>
+<li><a href="https://anrfonline.in/ANRF/Ramanujan_fellowship" target="_blank" rel="noopener noreferrer">[J8] ANRF Ramanujan Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>ANRF Ramanujan Fellowship</span></li>
+<li><a href="https://www.astron-soc.in/list-of-jobs" target="_blank" rel="noopener noreferrer">[J9] ASI Job Register India: current cosmology, astrophysics, and physics opportunities page</a> <span>ASI Job Register India</span></li>
+<li><a href="https://www.rri.res.in/careers/regular-other-openings" target="_blank" rel="noopener noreferrer">[J10] RRI Regular and Other Openings: current cosmology, astrophysics, and physics opportunities page</a> <span>RRI Regular and Other Openings</span></li>
+<li><a href="https://serb.gov.in/page/english/awards_fellowship" target="_blank" rel="noopener noreferrer">[J11] SERB / ANRF Awards and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>SERB / ANRF Awards and Fellowships</span></li>
+<li><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank" rel="noopener noreferrer">[J12] Marie Curie Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>Marie Curie Postdoctoral Fellowships</span></li>
+<li><a href="https://www.physicsworldjobs.com/jobs/astronomy-cosmology-and-space-science/academic-postdoc/" target="_blank" rel="noopener noreferrer">[J13] Physics World Astronomy Cosmology Postdocs: current cosmology, astrophysics, and physics opportunities page</a> <span>Physics World Astronomy Cosmology Postdocs</span></li>
+<li><a href="https://inspirehep.net/jobs/3182115" target="_blank" rel="noopener noreferrer">[J14] La Caixa Junior Leader Fellowship Research Associate Position in Gravitational Wave Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://www.iiap.res.in/iia_jobs/?q=job_postings" target="_blank" rel="noopener noreferrer">[J15] Indian Institute of Astrophysics Job Portal: current cosmology, astrophysics, and physics opportunities page</a> <span>Indian Institute of Astrophysics Job Portal</span></li>
+<li><a href="https://inspirehep.net/jobs/3182715" target="_blank" rel="noopener noreferrer">[J16] Call for Expressions of Interest -- Ramón y Cajal Fellowship Programme 2026 – Tenure-Track Position in Gravitational-Wave Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://www.aries.res.in/opportunities" target="_blank" rel="noopener noreferrer">[J17] ARIES Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>ARIES Opportunities</span></li>
+<li><a href="https://www.ncra.tifr.res.in/ncra/opportunities" target="_blank" rel="noopener noreferrer">[J18] NCRA-TIFR Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>NCRA-TIFR Opportunities</span></li>
+<li><a href="https://www.icts.res.in/opportunities" target="_blank" rel="noopener noreferrer">[J19] ICTS Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>ICTS Opportunities</span></li>
+<li><a href="https://inspirehep.net/jobs/3180924" target="_blank" rel="noopener noreferrer">[J20] Tenure-track faculty positions</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://www.hri.res.in/advertisements/" target="_blank" rel="noopener noreferrer">[J21] HRI Advertisements: current cosmology, astrophysics, and physics opportunities page</a> <span>HRI Advertisements</span></li>
+<li><a href="https://www.saha.ac.in/web/positions" target="_blank" rel="noopener noreferrer">[J22] SINP Positions: current cosmology, astrophysics, and physics opportunities page</a> <span>SINP Positions</span></li>
+<li><a href="https://euraxess.ec.europa.eu/jobs" target="_blank" rel="noopener noreferrer">[J23] EURAXESS Research Jobs: current cosmology, astrophysics, and physics opportunities page</a> <span>EURAXESS Research Jobs</span></li>
+<li><a href="https://academicpositions.com/find-jobs?fields%5B0%5D=physics" target="_blank" rel="noopener noreferrer">[J24] Academic Positions Physics: current cosmology, astrophysics, and physics opportunities page</a> <span>Academic Positions Physics</span></li>
+<li><a href="https://inspirehep.net/jobs/3182714" target="_blank" rel="noopener noreferrer">[J25] Two postdoctoral positions in neutrino astronomy</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183342" target="_blank" rel="noopener noreferrer">[J26] Postdoctoral Position in experimental Astroparticle Physics (XENONnT / XLZD)</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183095" target="_blank" rel="noopener noreferrer">[J27] Postdoctoral Fellow in AI-Driven Search for Rare Events in Particle Physics and Astronomy</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3180296" target="_blank" rel="noopener noreferrer">[J28] Faculty Position</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3182104" target="_blank" rel="noopener noreferrer">[J29] Tenure track position in physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183103" target="_blank" rel="noopener noreferrer">[J30] CNRS Junior Professor Chair (tenure track) in theoretical particle physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183350" target="_blank" rel="noopener noreferrer">[J31] Tenure-track Astrophysics Professor</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183112" target="_blank" rel="noopener noreferrer">[J32] CNRS Junior Professor Chair (Tenure-Track) in Theoretical Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3182428" target="_blank" rel="noopener noreferrer">[J33] Tenure-Track Researcher (RTT) in Theoretical Physics (02/A2)</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">[J34] JSPS Postdoctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>JSPS Postdoctoral Fellowship</span></li>
+<li><a href="https://inspirehep.net/jobs/3183026" target="_blank" rel="noopener noreferrer">[J35] Staff Scientist in Nuclear Theory</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183025" target="_blank" rel="noopener noreferrer">[J36] Unveiling the mysteries of the Universe through the analysis of gravitational wave observations from current observatories (Virgo) and future ones (LISA and Einstein Telescope)</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3180298" target="_blank" rel="noopener noreferrer">[J37] Postdoc-Theory, Particle and Nuclear Division</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3180297" target="_blank" rel="noopener noreferrer">[J38] Postdoc-Experiment, Particle and Nuclear Division</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3182454" target="_blank" rel="noopener noreferrer">[J39] Postdoc, Visiting Professor, or Sabbatical Member</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183333" target="_blank" rel="noopener noreferrer">[J40] PhD positions in experimental and theoretical particle physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3181704" target="_blank" rel="noopener noreferrer">[J41] Postdoc Position in Particle Physics Experiment</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3181703" target="_blank" rel="noopener noreferrer">[J42] CNRS Junior Professor Chair in Theoretical Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183099" target="_blank" rel="noopener noreferrer">[J43] MSc and PhD Positions in Experimental Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3180327" target="_blank" rel="noopener noreferrer">[J44] PHD: X-ray phase-contrast imaging of plasma shocks using free electron lasers</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183111" target="_blank" rel="noopener noreferrer">[J45] Postdoc positions in high-energy theory/quantum information/quantum many-body physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3182723" target="_blank" rel="noopener noreferrer">[J46] Lecturer in Physics (fixed term for 12 months)</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://www.ictp.it/opportunities" target="_blank" rel="noopener noreferrer">[J47] ICTP Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>ICTP Opportunities</span></li>
+<li><a href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship" target="_blank" rel="noopener noreferrer">[J48] Humboldt Research Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>Humboldt Research Fellowship</span></li>
+<li><a href="https://royalsociety.org/grants/newton-international-fellowships/" target="_blank" rel="noopener noreferrer">[J49] Newton International Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>Newton International Fellowship</span></li>
+<li><a href="https://inspirehep.net/jobs" target="_blank" rel="noopener noreferrer">[J50] INSPIRE HEP Jobs: current cosmology, astrophysics, and physics opportunities page</a> <span>INSPIRE HEP Jobs</span></li>
+<li><a href="https://www.findapostdoc.com/search/jobs.aspx?keywords=cosmology" target="_blank" rel="noopener noreferrer">[J51] FindAPostDoc Cosmology: current cosmology, astrophysics, and physics opportunities page</a> <span>FindAPostDoc Cosmology</span></li>
+<li><a href="https://perimeterinstitute.ca/careers" target="_blank" rel="noopener noreferrer">[J52] Perimeter Institute Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>Perimeter Institute Careers</span></li>
+<li><a href="https://www.ipmu.jp/en/job-opportunities" target="_blank" rel="noopener noreferrer">[J53] Kavli IPMU Job Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>Kavli IPMU Job Opportunities</span></li>
+<li><a href="https://kicp.uchicago.edu/positions/" target="_blank" rel="noopener noreferrer">[J54] KICP Chicago Positions: current cosmology, astrophysics, and physics opportunities page</a> <span>KICP Chicago Positions</span></li>
+<li><a href="https://www.mpg.de/jobboard" target="_blank" rel="noopener noreferrer">[J55] Max Planck Job Board: current cosmology, astrophysics, and physics opportunities page</a> <span>Max Planck Job Board</span></li>
+<li><a href="https://careers.cern/alljobs" target="_blank" rel="noopener noreferrer">[J56] CERN Academic Jobs: current cosmology, astrophysics, and physics opportunities page</a> <span>CERN Academic Jobs</span></li>
+<li><a href="https://www.nature.com/naturecareers/jobs/physics" target="_blank" rel="noopener noreferrer">[J57] Nature Careers Physics: current cosmology, astrophysics, and physics opportunities page</a> <span>Nature Careers Physics</span></li>
+<li><a href="https://www.desy.de/career" target="_blank" rel="noopener noreferrer">[J58] DESY Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>DESY Careers</span></li>
+<li><a href="https://www.simonsfoundation.org/careers/" target="_blank" rel="noopener noreferrer">[J59] Flatiron Institute Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>Flatiron Institute Careers</span></li>
+<li><a href="https://jobregister.aas.org/" target="_blank" rel="noopener noreferrer">[J60] AAS Job Register: current cosmology, astrophysics, and physics opportunities page</a> <span>AAS Job Register</span></li>
+</ul>
+</details>
