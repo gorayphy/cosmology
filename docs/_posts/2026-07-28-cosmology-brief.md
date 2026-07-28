@@ -1,36 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-28T09:17:34.524008+05:30
+date: 2026-07-28T16:26:27.586017+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "9:17AM"
+run_time_ist: "4:26PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:17AM</h1>
+<h1 class="brief-run">Gemini Summary: 4:26PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Updated Hubble constant measurements using corrected Pantheon+ and DES-DOVEKIE supernovae offer a 1.1% precision, incorporating DES-DOVEKIE for the first time in distance-ladder determinations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.24443v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A hierarchical Gaussian-process test examines DESI&#x27;s preference for dynamical dark energy over ΛCDM, finding support at the 2.8–4.2σ level when combined with CMB and Type Ia supernovae data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.23593v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Neutrino mass measurements are explored independently of dark energy, building on oscillation data and kinematic experiments that bound the electron-neutrino mass.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.24742v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Updated Hubble constant measurements using corrected Pantheon+ and DES-DOVEKIE supernovae provide a 1.1% precision value, marking the first application of DES-DOVEKIE to distance-ladder $H_0$ determination.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.24443v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 BAO data, combined with CMB and supernovae, show a preference for evolving dark energy over $\Lambda$CDM at a significant statistical level, as tested by hierarchical Gaussian processes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.23593v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A study explores gravitational waves from super-Hubble bubbles, considering first-order phase transitions where bubble collisions occur after inflation in the radiation-dominated era.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.24734v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> La Caixa Junior Leader Fellowship Research Associate Position in Gravitational Wave Physics at IFAE, Barcelona.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3182115" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Call for Expressions of Interest for the Ramón y Cajal Fellowship Programme 2026 – Tenure-Track Position in Gravitational-Wave Physics at IFAE, Barcelona.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3182715" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Tenure-track faculty positions at the Institute of Physics, Taiwan.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3180924" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Two postdoctoral positions in neutrino astronomy at Louvain U., CP3.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3182714" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: a portal for current cosmology, astrophysics, and physics opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: a portal for current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: a portal for current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -47,16 +44,16 @@ run_time_ist: "9:17AM"
 <li><a href="https://arxiv.org/abs/2607.24469v1" target="_blank" rel="noopener noreferrer">[N8] The Higgs vacuum in the presence of strong gravitational fields: curvature induced electroweak symmetry restoration</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2607.24412v1" target="_blank" rel="noopener noreferrer">[N9] Constraining the $z \approx 1$ neutral hydrogen (HI) distribution</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.24347v1" target="_blank" rel="noopener noreferrer">[N10] Multi-gravity cosmology beyond pairwise interactions</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.24144v1" target="_blank" rel="noopener noreferrer">[N11] Gravitational Wave Signatures of Periodic Orbits around a Schwarzschild-like Black Holes Submerged in an Exponential Density Dark Matter Profile</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.23398v1" target="_blank" rel="noopener noreferrer">[N12] Cosmological perturbations and clustering mechanisms in multifield dark energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.23200v1" target="_blank" rel="noopener noreferrer">[N13] Status of light inflaton: from inflation to laboratory</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.23152v1" target="_blank" rel="noopener noreferrer">[N14] High-frequency gravitational waves from axion inflation in the weak-backreaction regime</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.24723v1" target="_blank" rel="noopener noreferrer">[N15] Beyond-eikonal diffraction integral in gravitational lensing</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.24404v1" target="_blank" rel="noopener noreferrer">[N16] A Bogoliubov-ratio framework for quantum-information diagnostics of time-dependent two-mode Boson Hamiltonian</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.24349v1" target="_blank" rel="noopener noreferrer">[N17] Entropy dynamics in gravitational collapse: From Minkowski breaking to de Sitter thermodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.24254v1" target="_blank" rel="noopener noreferrer">[N18] Exact Analytical Phase Transitions, Horizon Bistability, and Thermodynamic State-Space Representation of Regular Hayward Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.24242v1" target="_blank" rel="noopener noreferrer">[N19] Light-like retarded correlators and the horizon</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.24154v1" target="_blank" rel="noopener noreferrer">[N20] Gravitational wave signatures of magnetized Ernst black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.23398v1" target="_blank" rel="noopener noreferrer">[N11] Cosmological perturbations and clustering mechanisms in multifield dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.23200v1" target="_blank" rel="noopener noreferrer">[N12] Status of light inflaton: from inflation to laboratory</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.23152v1" target="_blank" rel="noopener noreferrer">[N13] High-frequency gravitational waves from axion inflation in the weak-backreaction regime</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.24723v1" target="_blank" rel="noopener noreferrer">[N14] Beyond-eikonal diffraction integral in gravitational lensing</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.24404v1" target="_blank" rel="noopener noreferrer">[N15] A Bogoliubov-ratio framework for quantum-information diagnostics of time-dependent two-mode Boson Hamiltonian</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.24349v1" target="_blank" rel="noopener noreferrer">[N16] Entropy dynamics in gravitational collapse: From Minkowski breaking to de Sitter thermodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.23965v1" target="_blank" rel="noopener noreferrer">[N17] The Pull of Stasis: A Study of the Dynamics of the Thermal Stasis Attractor</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.23892v1" target="_blank" rel="noopener noreferrer">[N18] On the orbital eccentricities of primordial black hole binaries inside and outside of dark matter halos</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.23646v1" target="_blank" rel="noopener noreferrer">[N19] Scalar-induced gravitational waves from inflation with symmetry breaking</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.24654v1" target="_blank" rel="noopener noreferrer">[N20] Test-particle dynamics in a noncommutative deformation of Einstein-Rosen waves</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
