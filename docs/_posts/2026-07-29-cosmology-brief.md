@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-29T09:20:17.216528+05:30
+date: 2026-07-29T16:31:26.835970+05:30
 summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "9:20AM"
+run_time_ist: "4:31PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:20AM</h1>
+<h1 class="brief-run">Gemini Summary: 4:31PM</h1>
 
 <hr class="brief-rule">
 
@@ -16,8 +16,8 @@ run_time_ist: "9:20AM"
 <h2>Cosmology News</h2>
 <ul class="digest-points">
 <li><p><strong>Topic:</strong> The weak gravitational lensing convergence trispectrum is proposed as a novel probe for cosmological parity violation in the late-time Large-Scale Structure.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.26046v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The LiteBIRD mission is undergoing reformation to produce all-sky microwave polarization maps, aiming to test inflationary models by measuring CMB B-mode polarization.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.25285v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Simulation-based methods are being used to quantify the tension between the cosmic dipole measured in surveys and expectations from the CMB, challenging standard ΛCDM cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.25703v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A simulation-based approach quantifies the tension in the cosmic dipole, which consistently exceeds CMB expectations, challenging standard $\Lambda$CDM cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.25703v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The LiteBIRD mission overview is presented following its reformation, detailing its goal to map all-sky microwave polarization to test inflationary models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.25285v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -28,6 +28,9 @@ run_time_ist: "9:20AM"
 <li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, a global portal for opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -35,25 +38,25 @@ run_time_ist: "9:20AM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2607.26046v1" target="_blank" rel="noopener noreferrer">[N1] Probing Parity Violation with Weak Lensing Trispectrum</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25285v1" target="_blank" rel="noopener noreferrer">[N2] LiteBIRD Mission Overview after Mission Reformation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25703v1" target="_blank" rel="noopener noreferrer">[N3] Simulation-based tension quantification of the cosmic dipole</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26050v1" target="_blank" rel="noopener noreferrer">[N4] $Λ$XCDM: a running vacuum strategy for crossing the phantom divide</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25841v1" target="_blank" rel="noopener noreferrer">[N5] General Relativistic Entropic Acceleration at the perturbation level: a CLASS implementation and first Boltzmann-code constraints</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25703v1" target="_blank" rel="noopener noreferrer">[N2] Simulation-based tension quantification of the cosmic dipole</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26050v1" target="_blank" rel="noopener noreferrer">[N3] $Λ$XCDM: a running vacuum strategy for crossing the phantom divide</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25841v1" target="_blank" rel="noopener noreferrer">[N4] General Relativistic Entropic Acceleration at the perturbation level: a CLASS implementation and first Boltzmann-code constraints</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25285v1" target="_blank" rel="noopener noreferrer">[N5] LiteBIRD Mission Overview after Mission Reformation</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.25261v1" target="_blank" rel="noopener noreferrer">[N6] Tightening Bounds on Warm Dark Matter with High-Redshift Gamma-Ray Bursts</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.25539v1" target="_blank" rel="noopener noreferrer">[N7] No preference for generalized emergent dark energy from current cosmological data</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25436v1" target="_blank" rel="noopener noreferrer">[N8] Neutrino-electron scattering kernels in isotropic media</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.24940v1" target="_blank" rel="noopener noreferrer">[N9] EFT-Ramses: a code to simulate the effective field theory of dark energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.24917v1" target="_blank" rel="noopener noreferrer">[N10] Interlopers as Signal in Line Intensity Mapping</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26031v1" target="_blank" rel="noopener noreferrer">[N11] Minimally modified gravity with Laplacian auxiliary constraints and an inflationary realization</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26009v1" target="_blank" rel="noopener noreferrer">[N12] Anisotropic Secondary Bias of Dark Matter Haloes in a $Λ$CDM Universe</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26035v1" target="_blank" rel="noopener noreferrer">[N13] Quantum Gravity from Fractal Entanglement Geometry</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.25881v1" target="_blank" rel="noopener noreferrer">[N14] AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology II: Project Planning and Proposal Evaluation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25745v1" target="_blank" rel="noopener noreferrer">[N15] Late-Time Cosmological Tests of a Minisuperspace Generalized-Uncertainty-Principle Deformation</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.25672v1" target="_blank" rel="noopener noreferrer">[N16] AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology I: Literature Review</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25521v1" target="_blank" rel="noopener noreferrer">[N17] Pseudoscalar Yukawa Coupling Induced Helical Asymmetry in Fermionic Preheating</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.25073v1" target="_blank" rel="noopener noreferrer">[N18] Fixing IR tail of gravitational waves from domain walls</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.24910v1" target="_blank" rel="noopener noreferrer">[N19] Cosmological evolution with decaying dark matter: an integral-equation approach</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25738v1" target="_blank" rel="noopener noreferrer">[N20] Echoes and quasinormal modes for static loop quantum black bounces</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.24940v1" target="_blank" rel="noopener noreferrer">[N8] EFT-Ramses: a code to simulate the effective field theory of dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.24917v1" target="_blank" rel="noopener noreferrer">[N9] Interlopers as Signal in Line Intensity Mapping</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26031v1" target="_blank" rel="noopener noreferrer">[N10] Minimally modified gravity with Laplacian auxiliary constraints and an inflationary realization</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26009v1" target="_blank" rel="noopener noreferrer">[N11] Anisotropic Secondary Bias of Dark Matter Haloes in a $Λ$CDM Universe</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26035v1" target="_blank" rel="noopener noreferrer">[N12] Quantum Gravity from Fractal Entanglement Geometry</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.25881v1" target="_blank" rel="noopener noreferrer">[N13] AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology II: Project Planning and Proposal Evaluation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25745v1" target="_blank" rel="noopener noreferrer">[N14] Late-Time Cosmological Tests of a Minisuperspace Generalized-Uncertainty-Principle Deformation</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.25672v1" target="_blank" rel="noopener noreferrer">[N15] AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology I: Literature Review</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25436v1" target="_blank" rel="noopener noreferrer">[N16] Neutrino-electron scattering kernels in isotropic media</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25073v1" target="_blank" rel="noopener noreferrer">[N17] Fixing IR tail of gravitational waves from domain walls</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.24910v1" target="_blank" rel="noopener noreferrer">[N18] Cosmological evolution with decaying dark matter: an integral-equation approach</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25738v1" target="_blank" rel="noopener noreferrer">[N19] Echoes and quasinormal modes for static loop quantum black bounces</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.25654v1" target="_blank" rel="noopener noreferrer">[N20] Taub-NUT as gravitational dyon with torsion</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
