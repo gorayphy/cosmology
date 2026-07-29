@@ -1,36 +1,36 @@
 ---
 layout: default
-title: "Cosmology Digest"
-date: 2026-07-29T16:31:26.835970+05:30
-summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "4:31PM"
+title: "Cosmology Brief"
+date: 2026-07-29T21:30:24.702467+05:30
+summary: "Latest cosmology research signals and academic opportunity links from configured sources."
+run_time_ist: "9:30PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 4:31PM</h1>
+<h1 class="brief-run">Headline Digest: 9:30PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> The weak gravitational lensing convergence trispectrum is proposed as a novel probe for cosmological parity violation in the late-time Large-Scale Structure.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.26046v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A simulation-based approach quantifies the tension in the cosmic dipole, which consistently exceeds CMB expectations, challenging standard $\Lambda$CDM cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.25703v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The LiteBIRD mission overview is presented following its reformation, detailing its goal to map all-sky microwave polarization to test inflationary models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.25285v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Probing Parity Violation with Weak Lensing Trispectrum.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.26046v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> $Λ$XCDM: a running vacuum strategy for crossing the phantom divide.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.26050v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> LiteBIRD Mission Overview after Mission Reformation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.25285v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, a global portal for opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>PRL Job Vacancies and Fellowships:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>TIFR Astronomy and Astrophysics Careers:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>IUCAA Opportunities:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>HRI Physics Postdoctoral Fellowships:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Academic Jobs Online Cosmology:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>ANRF National Post Doctoral Fellowship:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>IUCAA Faculty Openings:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -38,10 +38,10 @@ run_time_ist: "4:31PM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2607.26046v1" target="_blank" rel="noopener noreferrer">[N1] Probing Parity Violation with Weak Lensing Trispectrum</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25703v1" target="_blank" rel="noopener noreferrer">[N2] Simulation-based tension quantification of the cosmic dipole</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26050v1" target="_blank" rel="noopener noreferrer">[N3] $Λ$XCDM: a running vacuum strategy for crossing the phantom divide</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25841v1" target="_blank" rel="noopener noreferrer">[N4] General Relativistic Entropic Acceleration at the perturbation level: a CLASS implementation and first Boltzmann-code constraints</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25285v1" target="_blank" rel="noopener noreferrer">[N5] LiteBIRD Mission Overview after Mission Reformation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26050v1" target="_blank" rel="noopener noreferrer">[N2] $Λ$XCDM: a running vacuum strategy for crossing the phantom divide</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25285v1" target="_blank" rel="noopener noreferrer">[N3] LiteBIRD Mission Overview after Mission Reformation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25703v1" target="_blank" rel="noopener noreferrer">[N4] Simulation-based tension quantification of the cosmic dipole</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25841v1" target="_blank" rel="noopener noreferrer">[N5] General Relativistic Entropic Acceleration at the perturbation level: a CLASS implementation and first Boltzmann-code constraints</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.25261v1" target="_blank" rel="noopener noreferrer">[N6] Tightening Bounds on Warm Dark Matter with High-Redshift Gamma-Ray Bursts</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.25539v1" target="_blank" rel="noopener noreferrer">[N7] No preference for generalized emergent dark energy from current cosmological data</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.24940v1" target="_blank" rel="noopener noreferrer">[N8] EFT-Ramses: a code to simulate the effective field theory of dark energy</a> <span>arXiv astro-ph.CO</span></li>
@@ -49,14 +49,14 @@ run_time_ist: "4:31PM"
 <li><a href="https://arxiv.org/abs/2607.26031v1" target="_blank" rel="noopener noreferrer">[N10] Minimally modified gravity with Laplacian auxiliary constraints and an inflationary realization</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.26009v1" target="_blank" rel="noopener noreferrer">[N11] Anisotropic Secondary Bias of Dark Matter Haloes in a $Λ$CDM Universe</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.26035v1" target="_blank" rel="noopener noreferrer">[N12] Quantum Gravity from Fractal Entanglement Geometry</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.25881v1" target="_blank" rel="noopener noreferrer">[N13] AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology II: Project Planning and Proposal Evaluation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25745v1" target="_blank" rel="noopener noreferrer">[N14] Late-Time Cosmological Tests of a Minisuperspace Generalized-Uncertainty-Principle Deformation</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.25672v1" target="_blank" rel="noopener noreferrer">[N15] AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology I: Literature Review</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25436v1" target="_blank" rel="noopener noreferrer">[N16] Neutrino-electron scattering kernels in isotropic media</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25073v1" target="_blank" rel="noopener noreferrer">[N17] Fixing IR tail of gravitational waves from domain walls</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.24910v1" target="_blank" rel="noopener noreferrer">[N18] Cosmological evolution with decaying dark matter: an integral-equation approach</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.25738v1" target="_blank" rel="noopener noreferrer">[N19] Echoes and quasinormal modes for static loop quantum black bounces</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.25654v1" target="_blank" rel="noopener noreferrer">[N20] Taub-NUT as gravitational dyon with torsion</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.25436v1" target="_blank" rel="noopener noreferrer">[N13] Neutrino-electron scattering kernels in isotropic media</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25073v1" target="_blank" rel="noopener noreferrer">[N14] Fixing IR tail of gravitational waves from domain walls</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.24910v1" target="_blank" rel="noopener noreferrer">[N15] Cosmological evolution with decaying dark matter: an integral-equation approach</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26010v1" target="_blank" rel="noopener noreferrer">[N16] Causal Green function decomposition for quantum black hole seismology</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.25932v1" target="_blank" rel="noopener noreferrer">[N17] Analytic backreaction of a scalar wig on a Schwarzschild black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.25881v1" target="_blank" rel="noopener noreferrer">[N18] AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology II: Project Planning and Proposal Evaluation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.25745v1" target="_blank" rel="noopener noreferrer">[N19] Late-Time Cosmological Tests of a Minisuperspace Generalized-Uncertainty-Principle Deformation</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.25672v1" target="_blank" rel="noopener noreferrer">[N20] AI&#x27;s Capability in Assisting Scientific Research in Physics, Astrophysics, and Cosmology I: Literature Review</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
