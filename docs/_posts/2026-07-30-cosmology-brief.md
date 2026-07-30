@@ -1,33 +1,36 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-30T09:12:07.783456+05:30
-summary: "Latest cosmology research and job opportunities for physicists."
-run_time_ist: "9:12AM"
+date: 2026-07-30T16:06:57.505265+05:30
+summary: "Latest research and opportunities in cosmology for researchers and students."
+run_time_ist: "4:06PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:12AM</h1>
+<h1 class="brief-run">Gemini Summary: 4:06PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Chain inflation, an alternative to standard slow-roll dynamics, is explored for accelerated expansion via quantum tunneling between metastable vacua at high energy scales.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.27193v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A new estimator, Shear-kSZ, is proposed to correlate the kinematic Sunyaev-Zel&#x27;dovich field with velocity and weak-lensing convergence for probing the ionized gas-matter power spectrum.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.27149v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> An efficient one-loop EFTofLSS framework is presented for analyzing large-scale structure in Vainshtein-screened Horndeski gravity models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.26945v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Chain inflation, an alternative to slow-roll dynamics, proceeds via quantum tunneling between metastable vacua, relevant for high-energy early universe scenarios.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.27193v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new estimator, Shear-kSZ, correlates the kinematic Sunyaev-Zel&#x27;dovich field with velocity and weak-lensing convergence to probe the ionized gas-matter power spectrum.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.27149v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> An efficient one-loop EFTofLSS framework is presented for analyzing Vainshtein-screened Horndeski gravity models in large-scale structure studies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.26945v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for physics postdoctoral fellowships in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -38,20 +41,20 @@ run_time_ist: "9:12AM"
 <li><a href="https://arxiv.org/abs/2607.27149v1" target="_blank" rel="noopener noreferrer">[N2] Shear-kSZ: A New Estimator for the Matter-Electron Power Spectrum from kSZ Tomography and Weak Lensing</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.26945v1" target="_blank" rel="noopener noreferrer">[N3] An efficient one-loop EFTofLSS framework for Vainshtein-screened Horndeski gravity</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.27175v1" target="_blank" rel="noopener noreferrer">[N4] Searching for signatures of inflationary massive fields in DESI Imaging data and Stage-V galaxy surveys</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26612v1" target="_blank" rel="noopener noreferrer">[N5] Probing Primordial Chirality in the Matter Distribution</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26373v1" target="_blank" rel="noopener noreferrer">[N6] No way ou$τ$: Epoch of Reionization Observations Do not Support Large Values of the Optical Depth to Reionization</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26932v1" target="_blank" rel="noopener noreferrer">[N7] J-PAS &amp; FLAMINGO: Cosmic voids and void galaxies in the gravitational landscape of photometric surveys</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.27141v1" target="_blank" rel="noopener noreferrer">[N8] The art of simulating the early Universe. Part III: Scalar-Gauge-Fluid Dynamics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26447v1" target="_blank" rel="noopener noreferrer">[N9] Phantom-divide crossing and suppressed structure growth in kinetically braided dark energy with momentum exchange</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26193v1" target="_blank" rel="noopener noreferrer">[N10] Cosmology beyond standard sirens: cross-correlation of gravitational waves and neutral hydrogen intensity mapping</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.27190v1" target="_blank" rel="noopener noreferrer">[N11] Quadratic Axion Couplings in String Theory</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.27133v1" target="_blank" rel="noopener noreferrer">[N12] Quantum Field Theory Of Cosmological Perturbations Induced By Ultralight Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.27001v1" target="_blank" rel="noopener noreferrer">[N13] Constraining the shape of dark matter haloes using only starlight II. Tests of the technique with objects of known gravitational potential</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26972v1" target="_blank" rel="noopener noreferrer">[N14] Dish Assembly Precision for HIRAX</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26822v1" target="_blank" rel="noopener noreferrer">[N15] Optimizing the extraction of information from redshift probability distribution functions</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26753v1" target="_blank" rel="noopener noreferrer">[N16] Bouncing Cosmology and Cosmological Dynamics in $f(Q,T)$ Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.26180v1" target="_blank" rel="noopener noreferrer">[N17] Radio Recombination Line Contamination in Post-Reionization 21 cm Intensity Mapping</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.26876v1" target="_blank" rel="noopener noreferrer">[N18] Revising Indirect Dark Matter Constraints with Updated Astrophysical $J$-Factor Priors</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26373v1" target="_blank" rel="noopener noreferrer">[N5] No way ou$τ$: Epoch of Reionization Observations Do not Support Large Values of the Optical Depth to Reionization</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26932v1" target="_blank" rel="noopener noreferrer">[N6] J-PAS &amp; FLAMINGO: Cosmic voids and void galaxies in the gravitational landscape of photometric surveys</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.27141v1" target="_blank" rel="noopener noreferrer">[N7] The art of simulating the early Universe. Part III: Scalar-Gauge-Fluid Dynamics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26612v1" target="_blank" rel="noopener noreferrer">[N8] Probing Primordial Chirality in the Matter Distribution</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26193v1" target="_blank" rel="noopener noreferrer">[N9] Cosmology beyond standard sirens: cross-correlation of gravitational waves and neutral hydrogen intensity mapping</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.27190v1" target="_blank" rel="noopener noreferrer">[N10] Quadratic Axion Couplings in String Theory</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.27133v1" target="_blank" rel="noopener noreferrer">[N11] Quantum Field Theory Of Cosmological Perturbations Induced By Ultralight Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.27001v1" target="_blank" rel="noopener noreferrer">[N12] Constraining the shape of dark matter haloes using only starlight II. Tests of the technique with objects of known gravitational potential</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26972v1" target="_blank" rel="noopener noreferrer">[N13] Dish Assembly Precision for HIRAX</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26822v1" target="_blank" rel="noopener noreferrer">[N14] Optimizing the extraction of information from redshift probability distribution functions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26753v1" target="_blank" rel="noopener noreferrer">[N15] Bouncing Cosmology and Cosmological Dynamics in $f(Q,T)$ Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.26180v1" target="_blank" rel="noopener noreferrer">[N16] Radio Recombination Line Contamination in Post-Reionization 21 cm Intensity Mapping</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26876v1" target="_blank" rel="noopener noreferrer">[N17] Revising Indirect Dark Matter Constraints with Updated Astrophysical $J$-Factor Priors</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.26447v1" target="_blank" rel="noopener noreferrer">[N18] Phantom-divide crossing and suppressed structure growth in kinetically braided dark energy with momentum exchange</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.27174v1" target="_blank" rel="noopener noreferrer">[N19] Perturbing Gravitational Atoms: Negative Love, Resonant Tides and Shifted Resonances</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2607.27129v1" target="_blank" rel="noopener noreferrer">[N20] Quadrupolar tidal effects destroy the integrability of black hole geodesics: analytic proof and numerical evidence of chaos</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
@@ -83,8 +86,8 @@ run_time_ist: "9:12AM"
 <li><a href="https://inspirehep.net/jobs/3183095" target="_blank" rel="noopener noreferrer">[J27] Postdoctoral Fellow in AI-Driven Search for Rare Events in Particle Physics and Astronomy</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3182104" target="_blank" rel="noopener noreferrer">[J28] Tenure track position in physics</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3183367" target="_blank" rel="noopener noreferrer">[J29] Postdoctoral Associate - CMS Experiment</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3184212" target="_blank" rel="noopener noreferrer">[J30] Postdoctoral position in particle theory and cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3183103" target="_blank" rel="noopener noreferrer">[J31] CNRS Junior Professor Chair (tenure track) in theoretical particle physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183103" target="_blank" rel="noopener noreferrer">[J30] CNRS Junior Professor Chair (tenure track) in theoretical particle physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3184212" target="_blank" rel="noopener noreferrer">[J31] Postdoctoral position in particle theory and cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3183350" target="_blank" rel="noopener noreferrer">[J32] Tenure-track Astrophysics Professor</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3183112" target="_blank" rel="noopener noreferrer">[J33] CNRS Junior Professor Chair (Tenure-Track) in Theoretical Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3182428" target="_blank" rel="noopener noreferrer">[J34] Tenure-Track Researcher (RTT) in Theoretical Physics (02/A2)</a> <span>INSPIRE HEP Jobs API</span></li>
