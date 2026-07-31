@@ -1,34 +1,34 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-07-31T16:34:25.059680+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "4:34PM"
+date: 2026-07-31T21:45:46.455459+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "9:45PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 4:34PM</h1>
+<h1 class="brief-run">Gemini Summary: 9:45PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> New DESI DR2 results from the Lyman Alpha Forest provide Alcock-Paczyński measurements and cosmological constraints.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.27410v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Studies explore the impact of spatial curvature and dynamical dark energy on the spectral index using CMB data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.28445v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Research investigates the growth and geometry of the matter density parameter, testing the standard ΛCDM model for consistency.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.28326v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New research explores the impact of spatial curvature and dynamical dark energy on the spectral index using CMB and spectroscopic galaxy data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.28445v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Alcock-Paczyński measurements from the DESI DR2 Lyman-alpha forest provide cosmological constraints.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.27410v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Spectator axions in string inflation are studied for their impact on primordial black hole seeding, which may constitute dark matter.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2607.27361v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, a global portal for opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -38,23 +38,23 @@ run_time_ist: "4:34PM"
 <li><a href="https://arxiv.org/abs/2607.28445v1" target="_blank" rel="noopener noreferrer">[N1] Inflation, Open Universes, and Dark Energy</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.28326v1" target="_blank" rel="noopener noreferrer">[N2] Growth, geometry, and early-universe split of the matter density parameter $Ω_{\rm m}$</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2607.27410v1" target="_blank" rel="noopener noreferrer">[N3] DESI DR2 Results IV: Alcock-Paczyński Measurements from the Lyman Alpha Forest and Cosmological Constraints</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.28214v1" target="_blank" rel="noopener noreferrer">[N4] Domain walls through different cosmologies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.27361v1" target="_blank" rel="noopener noreferrer">[N5] Spectator Axions in String Inflation and Primordial Black Holes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.28564v1" target="_blank" rel="noopener noreferrer">[N6] Dark Matter Constraints from Small-Scale Cosmic Structure</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.28517v1" target="_blank" rel="noopener noreferrer">[N7] Dynamical flattening of halo density cusps by Q-ball dark matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.27412v1" target="_blank" rel="noopener noreferrer">[N8] CoLoRe-2LPT: Lyman-$α$ mock catalogues for the validation of DESI cosmological analyses</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.28502v1" target="_blank" rel="noopener noreferrer">[N9] Beyond monomial $α$-attractors</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.28438v1" target="_blank" rel="noopener noreferrer">[N10] Binary neutron stars in the next-generation era: Multi-messenger detection prospects and constraints on the equation of state, mass distribution, and cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.28140v1" target="_blank" rel="noopener noreferrer">[N11] A study of the large-scale formation in the environment of A3266: Infalling groups, filaments, and a premerger cold front</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.27515v1" target="_blank" rel="noopener noreferrer">[N12] Unified dark sector approaches to cosmological tensions</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.27338v1" target="_blank" rel="noopener noreferrer">[N13] Gravitational Waves as a Source of Large-Scale White Noise: New Constraints</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.28593v1" target="_blank" rel="noopener noreferrer">[N14] Axion Inflation with a Massive Abelian Gauge Field</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.28412v1" target="_blank" rel="noopener noreferrer">[N15] The BGV Theorem and the Null Convergence Condition</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.28604v1" target="_blank" rel="noopener noreferrer">[N16] Cosmo-SPINN: Fuzzy Dark Matter Simulations with Physics-Informed Generative Networks</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2607.28448v1" target="_blank" rel="noopener noreferrer">[N17] Dynamics of compact binary systems in massive scalar Gauss-Bonnet gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2607.27411v1" target="_blank" rel="noopener noreferrer">[N18] Validation of the DESI DR2 Ly$α$ forest full-shape analysis</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.universetoday.com/articles/primordial-black-holes-can-trigger-type-ia-supernovae-and-astronomers-should-be-able-to-find-them" target="_blank" rel="noopener noreferrer">[N19] Primordial Black Holes Can Trigger Type Ia Supernovae, and Astronomers Should be Able to Find Them</a> <span>Universe Today</span></li>
-<li><a href="https://arxiv.org/abs/2607.28539v1" target="_blank" rel="noopener noreferrer">[N20] Search for gravitational waves associated with high-energy neutrinos detected by IceCube during the third observing run of LIGO-Virgo</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.27361v1" target="_blank" rel="noopener noreferrer">[N4] Spectator Axions in String Inflation and Primordial Black Holes</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.28564v1" target="_blank" rel="noopener noreferrer">[N5] Dark Matter Constraints from Small-Scale Cosmic Structure</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.28517v1" target="_blank" rel="noopener noreferrer">[N6] Dynamical flattening of halo density cusps by Q-ball dark matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.27412v1" target="_blank" rel="noopener noreferrer">[N7] CoLoRe-2LPT: Lyman-$α$ mock catalogues for the validation of DESI cosmological analyses</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.28502v1" target="_blank" rel="noopener noreferrer">[N8] Beyond monomial $α$-attractors</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.28214v1" target="_blank" rel="noopener noreferrer">[N9] Domain walls through different cosmologies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.27515v1" target="_blank" rel="noopener noreferrer">[N10] Unified dark sector approaches to cosmological tensions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.27338v1" target="_blank" rel="noopener noreferrer">[N11] Gravitational Waves as a Source of Large-Scale White Noise: New Constraints</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.28593v1" target="_blank" rel="noopener noreferrer">[N12] Axion Inflation with a Massive Abelian Gauge Field</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.28604v1" target="_blank" rel="noopener noreferrer">[N13] Cosmo-SPINN: Fuzzy Dark Matter Simulations with Physics-Informed Generative Networks</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.28448v1" target="_blank" rel="noopener noreferrer">[N14] Dynamics of compact binary systems in massive scalar Gauss-Bonnet gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.28438v1" target="_blank" rel="noopener noreferrer">[N15] Binary neutron stars in the next-generation era: Multi-messenger detection prospects and constraints on the equation of state, mass distribution, and cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.28140v1" target="_blank" rel="noopener noreferrer">[N16] A study of the large-scale formation in the environment of A3266: Infalling groups, filaments, and a premerger cold front</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2607.27411v1" target="_blank" rel="noopener noreferrer">[N17] Validation of the DESI DR2 Ly$α$ forest full-shape analysis</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.universetoday.com/articles/primordial-black-holes-can-trigger-type-ia-supernovae-and-astronomers-should-be-able-to-find-them" target="_blank" rel="noopener noreferrer">[N18] Primordial Black Holes Can Trigger Type Ia Supernovae, and Astronomers Should be Able to Find Them</a> <span>Universe Today</span></li>
+<li><a href="https://arxiv.org/abs/2607.28539v1" target="_blank" rel="noopener noreferrer">[N19] Search for gravitational waves associated with high-energy neutrinos detected by IceCube during the third observing run of LIGO-Virgo</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2607.28412v1" target="_blank" rel="noopener noreferrer">[N20] The BGV Theorem and the Null Convergence Condition</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
