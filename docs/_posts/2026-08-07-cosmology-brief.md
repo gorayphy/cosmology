@@ -1,59 +1,59 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-07T09:00:42.911549+05:30
-summary: "Latest cosmology news, research updates, and job opportunities for researchers."
-run_time_ist: "9:00AM"
+date: 2026-08-07T15:00:26.085566+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "3:00PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 9:00AM</h1>
+<h1 class="brief-run">Gemini Summary: 3:00PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> JWST study suggests a small group of &quot;leaky&quot; galaxies reionized the early universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-jwst-leaky-galaxies-reionized-early.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> &quot;Little red dots&quot; observed by JWST may be pulsating monster stars that created early-universe black holes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-red-dots-pulsating-monster-stars.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Dark matter particles may exert a hidden force that is both attractive and makes dark matter effectively lighter as the Universe expands.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/08/260801042822.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> SPT-3G D1 provides foreground-robust lensing templates crucial for improving primordial gravitational wave searches by mitigating CMB B-mode contamination.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.06343v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Reanalysis of megamaser data yields a low Hubble constant ($H_0$), offering an independent probe of the local expansion rate and impacting the Hubble tension discussion.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.06247v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new JWST study suggests a small population of &quot;leaky&quot; galaxies may have been responsible for reionizing the early universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-jwst-leaky-galaxies-reionized-early.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> KICP Postdoctoral Research Fellowship at U. Chicago offers global opportunities for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Call for Expressions of Interest -- Ramón y Cajal Fellowship Programme 2026 – Tenure-Track Position in Gravitational-Wave Physics at IFAE, Barcelona, is a global opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3182715" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Position in experimental Astroparticle Physics (XENONnT / XLZD) at Freiburg U. is a global opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3183342" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellow in AI-Driven Search for Rare Events in Particle Physics and Astronomy at UNM, Albuquerque, is a global opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3183095" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://phys.org/news/2026-08-jwst-leaky-galaxies-reionized-early.html" target="_blank" rel="noopener noreferrer">[N1] JWST study suggests a handful of &#x27;leaky&#x27; galaxies reionized the early universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-red-dots-pulsating-monster-stars.html" target="_blank" rel="noopener noreferrer">[N2] &#x27;Little red dots&#x27; may be pulsating monster stars that created early-universe black holes</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N3] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N4] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260801042822.htm" target="_blank" rel="noopener noreferrer">[N5] Dark matter’s secret force does the opposite of what scientists expected</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Webb_opens_a_Treasure_Chest_filled_with_stars" target="_blank" rel="noopener noreferrer">[N6] Webb opens a Treasure Chest filled with stars</a> <span>ESA Top News</span></li>
-<li><a href="https://phys.org/news/2026-07-desi-side-reveals-spectra-disintegrated.html" target="_blank" rel="noopener noreferrer">[N7] DESI side project reveals the spectra of disintegrated exoplanets</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N8] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
-<li><a href="https://science.nasa.gov/learning-resources/science-activation/educators-teens-get-hands-on-with-tempo-data-to-help-investigate-local-air-quality/" target="_blank" rel="noopener noreferrer">[N9] Educators &amp; Teens Get Hands-On With TEMPO Data to Help Investigate Local Air Quality</a> <span>NASA News Releases</span></li>
-<li><a href="https://www.esa.int/ESA_Multimedia/Videos/2026/08/ExoMars_stretches_out_its_legs" target="_blank" rel="noopener noreferrer">[N10] ExoMars stretches out its legs</a> <span>ESA Top News</span></li>
-<li><a href="https://science.nasa.gov/image-article/apod-2026-august-6-new-sharpest-image-of-the-sun-uncovers-instability/" target="_blank" rel="noopener noreferrer">[N11] APOD: 2026 August 6 – New Sharpest Image of the Sun Uncovers Instability</a> <span>NASA News Releases</span></li>
-<li><a href="https://phys.org/news/2026-08-milky-simulation-reveals-central-galactic.html" target="_blank" rel="noopener noreferrer">[N12] Milky Way-like simulation reveals how central galactic structures grow together</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260805082457.htm" target="_blank" rel="noopener noreferrer">[N13] A star’s violent death exposed a hidden supermassive black hole</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-08-astronomers-massive-star-death-explosive.html" target="_blank" rel="noopener noreferrer">[N14] Astronomers catch massive star&#x27;s death from the first explosive moment</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-monsters-unveils-sky-views-supermassive.html" target="_blank" rel="noopener noreferrer">[N15] Mapping monsters: Data release unveils all-sky views of supermassive black holes</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.universetoday.com/articles/scientists-watch-as-a-distant-worlds-atmosphere-shrinks-and-thins" target="_blank" rel="noopener noreferrer">[N16] Scientists Watch as a Distant World&#x27;s Atmosphere Shrinks and Thins</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/venus-isnt-dead-after-all" target="_blank" rel="noopener noreferrer">[N17] Venus Isn&#x27;t Dead After All</a> <span>Universe Today</span></li>
-<li><a href="https://phys.org/news/2026-08-runaway-supermassive-black-hole-rbh.html" target="_blank" rel="noopener noreferrer">[N18] Runaway supermassive black hole RBH-1 offers new way to reconstruct ancient merger</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-astronomers-hatchling-quasar-dusty-cocoon.html" target="_blank" rel="noopener noreferrer">[N19] Astronomers catch &#x27;Hatchling&#x27; quasar breaking out of its dusty cocoon</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/07/260729051515.htm" target="_blank" rel="noopener noreferrer">[N20] Tiny black holes may be secretly exploding stars across the Milky Way</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2608.06343v1" target="_blank" rel="noopener noreferrer">[N1] SPT-3G D1: Foreground-Robust Lensing Templates for Primordial Gravitational Wave Searches</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.04763v1" target="_blank" rel="noopener noreferrer">[N2] Is Dark Matter Really Matter?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.06247v1" target="_blank" rel="noopener noreferrer">[N3] Reanalyzing Megamasers: a low value of $H_0$ from a local probe changes our view of the Hubble Tension</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.05296v1" target="_blank" rel="noopener noreferrer">[N4] 3-form dark energy and cosmic birefringence</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.05530v1" target="_blank" rel="noopener noreferrer">[N5] photo-3x2-pt: Cosmology from cosmic shear and galaxy clustering with a single photometric galaxy catalog</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.04868v1" target="_blank" rel="noopener noreferrer">[N6] Characterising the epoch of reionisation using the cross-correlation of the kSZ effect and CMB lensing</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.06319v1" target="_blank" rel="noopener noreferrer">[N7] The Quantum Mechanics of Rare Events: From Quantum Walks to Stochastic Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.06071v1" target="_blank" rel="noopener noreferrer">[N8] Integrable models of inflation beyond slow-roll</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.05861v1" target="_blank" rel="noopener noreferrer">[N9] A Novel Kerr-like Black Hole in a General Double Power Law Dark Matter Environment: Geometry, Spectroscopy, and Energy Extraction</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.05032v1" target="_blank" rel="noopener noreferrer">[N10] Coupled quintessence from an axion dark sector</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-08-jwst-leaky-galaxies-reionized-early.html" target="_blank" rel="noopener noreferrer">[N11] JWST study suggests a handful of &#x27;leaky&#x27; galaxies reionized the early universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2608.06224v1" target="_blank" rel="noopener noreferrer">[N12] A Neutron Star Hidden Inside a Black Hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.05079v1" target="_blank" rel="noopener noreferrer">[N13] Post-Inflationary Constraints on Nonminimally Coupled Quintessential Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.06121v1" target="_blank" rel="noopener noreferrer">[N14] Master equation for systems interacting with linearized gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.06114v1" target="_blank" rel="noopener noreferrer">[N15] Spinning Particle Dynamics and Observational Redshift around an Asymptotically Flat Symmergent Black Hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.06083v1" target="_blank" rel="noopener noreferrer">[N16] Quasinormal Modes of Gauss--Bonnet Black Holes via the Spectral Method: Scalar, Vector, and Tensor Perturbations</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.05929v1" target="_blank" rel="noopener noreferrer">[N17] A Scale-Invariant Theory of the Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.05818v1" target="_blank" rel="noopener noreferrer">[N18] Asymmetric Quantum Oppenheimer-Snyder Collapse</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.05801v1" target="_blank" rel="noopener noreferrer">[N19] Information--Theoretic Black Hole Entropy II: Infrared Gravity and Charged/Rotating Extensions</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.06067v1" target="_blank" rel="noopener noreferrer">[N20] Radial spectra and dynamical signatures of excited boson stars</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
