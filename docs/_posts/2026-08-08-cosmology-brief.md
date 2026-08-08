@@ -1,47 +1,47 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-08T14:39:07.329036+05:30
-summary: "Latest cosmology news and job opportunities for researchers and students."
-run_time_ist: "2:39PM"
+date: 2026-08-08T20:27:40.737952+05:30
+summary: "Latest cosmology research and opportunities for physicists."
+run_time_ist: "8:27PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 2:39PM</h1>
+<h1 class="brief-run">Gemini Summary: 8:27PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> DESI DR2 distance measurements are used to test assumptions about dark matter and dark energy&#x27;s equations of state.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.04763v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Foreground-robust lensing templates are developed for SPT-3G to improve searches for primordial gravitational waves.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.06343v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A new study suggests a small number of &quot;leaky&quot; galaxies may have been responsible for reionizing the early universe, based on JWST data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-jwst-leaky-galaxies-reionized-early.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> SPT-3G D1 provides foreground-robust lensing templates crucial for distinguishing primordial gravitational waves from CMB B-mode polarization contamination.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.06343v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> 3-form fields are explored as candidates for inflation and dark energy, offering a distinct cosmological evolution compared to other models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.05296v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 distance measurements are used to test the pressureless nature of dark matter ($w=0$) and the cosmological constant nature of dark energy ($w=-1$).</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.04763v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2608.04763v1" target="_blank" rel="noopener noreferrer">[N1] Is Dark Matter Really Matter?</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.06343v1" target="_blank" rel="noopener noreferrer">[N2] SPT-3G D1: Foreground-Robust Lensing Templates for Primordial Gravitational Wave Searches</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.05296v1" target="_blank" rel="noopener noreferrer">[N3] 3-form dark energy and cosmic birefringence</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.06343v1" target="_blank" rel="noopener noreferrer">[N1] SPT-3G D1: Foreground-Robust Lensing Templates for Primordial Gravitational Wave Searches</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.05296v1" target="_blank" rel="noopener noreferrer">[N2] 3-form dark energy and cosmic birefringence</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.04763v1" target="_blank" rel="noopener noreferrer">[N3] Is Dark Matter Really Matter?</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.06247v1" target="_blank" rel="noopener noreferrer">[N4] Reanalyzing Megamasers: a low value of $H_0$ from a local probe changes our view of the Hubble Tension</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.05530v1" target="_blank" rel="noopener noreferrer">[N5] photo-3x2-pt: Cosmology from cosmic shear and galaxy clustering with a single photometric galaxy catalog</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.04868v1" target="_blank" rel="noopener noreferrer">[N6] Characterising the epoch of reionisation using the cross-correlation of the kSZ effect and CMB lensing</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.05032v1" target="_blank" rel="noopener noreferrer">[N7] Coupled quintessence from an axion dark sector</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.05079v1" target="_blank" rel="noopener noreferrer">[N8] Post-Inflationary Constraints on Nonminimally Coupled Quintessential Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.05032v1" target="_blank" rel="noopener noreferrer">[N6] Coupled quintessence from an axion dark sector</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.05079v1" target="_blank" rel="noopener noreferrer">[N7] Post-Inflationary Constraints on Nonminimally Coupled Quintessential Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.04868v1" target="_blank" rel="noopener noreferrer">[N8] Characterising the epoch of reionisation using the cross-correlation of the kSZ effect and CMB lensing</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://phys.org/news/2026-08-galactic-fingerprints-primordial-universe.html" target="_blank" rel="noopener noreferrer">[N9] Galactic spins carry fingerprints of the primordial universe</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://arxiv.org/abs/2608.06319v1" target="_blank" rel="noopener noreferrer">[N10] The Quantum Mechanics of Rare Events: From Quantum Walks to Stochastic Inflation</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.06071v1" target="_blank" rel="noopener noreferrer">[N11] Integrable models of inflation beyond slow-roll</a> <span>arXiv astro-ph.CO</span></li>
