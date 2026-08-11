@@ -1,59 +1,60 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-11T14:58:48.864834+05:30
-summary: "Latest cosmology news, research highlights, and job opportunities for researchers."
-run_time_ist: "2:58PM"
+date: 2026-08-11T20:58:18.080194+05:30
+summary: "Latest research and opportunities in cosmology for researchers and students."
+run_time_ist: "8:58PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 2:58PM</h1>
+<h1 class="brief-run">Gemini Summary: 8:58PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> The James Webb Space Telescope has identified a new object from the early universe, furthering our understanding of cosmic evolution.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-astronomers-early-universe-webb.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> New research has established initial constraints on dark matter&#x27;s decay into gravitons by analyzing cosmic filaments.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A recent JWST study suggests that a small population of &quot;leaky&quot; galaxies may have been responsible for reionizing the early universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-jwst-leaky-galaxies-reionized-early.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New research explores Big-Bang Nucleosynthesis in Yukawa cosmology, linking it to WIMP dark matter freeze-out.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.09390v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Implicit likelihood inference is applied to reconstruct the dark energy equation of state $w(z)$ using redshift binning.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.08007v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Next-generation CMB surveys&#x27; sensitivity to neutrinos and other light relics is investigated as probes of the early universe&#x27;s particle content.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.07453v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, commonly used for international applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> KICP Postdoctoral Research Fellowship at U. Chicago offers opportunities for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Expression of Interest for Particle Physics and Quantum Technologies Postdoctoral Fellowships at DESY, Zeuthen.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Position in experimental Astroparticle Physics (XENONnT / XLZD) at Freiburg U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3183342" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Faculty Position for Theoretical Cosmology, High-energy Astrophysics, Nuclear Physics, and Particle Physics at Taiwan, Inst. Phys.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188534" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships provides a portal for current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://phys.org/news/2026-08-astronomers-early-universe-webb.html" target="_blank" rel="noopener noreferrer">[N1] Astronomers find a new object from the early universe using Webb data</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811" target="_blank" rel="noopener noreferrer">[N2] On the hunt for dark matter</a> <span>MIT Astrophysics</span></li>
-<li><a href="https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html" target="_blank" rel="noopener noreferrer">[N3] Cosmic filaments help set first limits on dark matter&#x27;s decay into gravitons</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-jwst-leaky-galaxies-reionized-early.html" target="_blank" rel="noopener noreferrer">[N4] JWST study suggests a handful of &#x27;leaky&#x27; galaxies reionized the early universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-red-dots-pulsating-monster-stars.html" target="_blank" rel="noopener noreferrer">[N5] &#x27;Little red dots&#x27; may be pulsating monster stars that created early-universe black holes</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N6] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N7] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-08-galactic-fingerprints-primordial-universe.html" target="_blank" rel="noopener noreferrer">[N8] Galactic spins carry fingerprints of the primordial universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.universetoday.com/articles/ancient-maltese-seafarers-likely-navigated-by-the-stars" target="_blank" rel="noopener noreferrer">[N9] Ancient Maltese Seafarers Likely Navigated By The Stars</a> <span>Universe Today</span></li>
-<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N10] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
-<li><a href="https://www.esa.int/Science_Exploration/Space_Science/Webb/Dust_and_water_spotted_close_to_giant_black_hole" target="_blank" rel="noopener noreferrer">[N11] Dust and water spotted close to giant black hole</a> <span>ESA Top News</span></li>
-<li><a href="https://science.nasa.gov/image-article/apod/apod-2026-august-11-six-moons-of-saturn/" target="_blank" rel="noopener noreferrer">[N12] APOD: 2026 August 11 – Six Moons of Saturn</a> <span>NASA News Releases</span></li>
-<li><a href="https://phys.org/news/2026-08-desi-biggest-2d-universe.html" target="_blank" rel="noopener noreferrer">[N13] DESI releases biggest 2D map of the universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb/" target="_blank" rel="noopener noreferrer">[N14] Lion Nebula Roars to Life With NASA’s Webb</a> <span>NASA News Releases</span></li>
-<li><a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Lion_Nebula_roars_to_life_for_Webb" target="_blank" rel="noopener noreferrer">[N15] Lion Nebula roars to life for Webb</a> <span>ESA Top News</span></li>
-<li><a href="https://www.universetoday.com/articles/seven-needles-800000-haystacks" target="_blank" rel="noopener noreferrer">[N16] Seven Needles, 800,000 Haystacks</a> <span>Universe Today</span></li>
-<li><a href="https://science.nasa.gov/image-article/apod/apod-2026-august-10-three-galaxy-pairs/" target="_blank" rel="noopener noreferrer">[N17] APOD: 2026 August 10 – Three Galaxy Pairs</a> <span>NASA News Releases</span></li>
-<li><a href="https://science.nasa.gov/image-article/apod/apod-2026-august-9-contemplating-the-sun/" target="_blank" rel="noopener noreferrer">[N18] APOD: 2026 August 9 – Contemplating the Sun</a> <span>NASA News Releases</span></li>
-<li><a href="https://www.universetoday.com/articles/the-odds-of-finding-water-on-mars" target="_blank" rel="noopener noreferrer">[N19] The Odds of Finding Water on Mars</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/the-telescope-that-points-itself" target="_blank" rel="noopener noreferrer">[N20] The Telescope That Points Itself</a> <span>Universe Today</span></li>
+<li><a href="https://arxiv.org/abs/2608.09390v1" target="_blank" rel="noopener noreferrer">[N1] Big-Bang Nucleosynthesis and WIMP Dark Matter Freeze-Out as Probes of Yukawa Cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.08007v1" target="_blank" rel="noopener noreferrer">[N2] Implicit Likelihood Inference and $z$-Binned Reconstruction of Dark Energy $w(z)$</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.07453v1" target="_blank" rel="noopener noreferrer">[N3] Sensitivity of Next-Generation CMB Surveys to Neutrinos and Other Light Relics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.09783v1" target="_blank" rel="noopener noreferrer">[N4] Adiabatic Perturbations in GW170817-Compatible Einstein-Gauss-Bonnet Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.09379v1" target="_blank" rel="noopener noreferrer">[N5] Observational constraints on fractional holographic dark energy in the light of DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.09086v1" target="_blank" rel="noopener noreferrer">[N6] Multi-tracer mass bias in matched cosmic voids from SDSS DR7 and the ELUCID constrained simulation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.07803v1" target="_blank" rel="noopener noreferrer">[N7] Inflationary Axion Isocurvature in the CMB across All Ultralight Masses</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.07667v1" target="_blank" rel="noopener noreferrer">[N8] Probability of gravitational-wave lensing by intermediate-mass black holes and globular clusters</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.07654v1" target="_blank" rel="noopener noreferrer">[N9] Deus ex $H_0$ -- Is evidence for dynamical dark energy conditioned on early cosmology?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.07470v2" target="_blank" rel="noopener noreferrer">[N10] HST imaging, pipeline modeling, and time-delay predictions of 2 triply-imaged and 15 quadruply-imaged lensed quasars</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.07404v1" target="_blank" rel="noopener noreferrer">[N11] Simplified treatment of kinematic corrections to the SZ effect using the boost operator approach</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.09697v1" target="_blank" rel="noopener noreferrer">[N12] Cross-frequency SGWB anisotropy from compact topology: CMB B-mode covariance as a transfer probe</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.09457v1" target="_blank" rel="noopener noreferrer">[N13] CMB Spectral Distortion Anisotropies from Acoustic Damping with primordial non-Gaussianity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.09129v1" target="_blank" rel="noopener noreferrer">[N14] Foreground Subtraction with a Tensor-Based Oriented Singular Value Decomposition Method for HI Experiments</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.09709v1" target="_blank" rel="noopener noreferrer">[N15] Not R Kurvature: Beating Large-Scale White Noise</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.07386v1" target="_blank" rel="noopener noreferrer">[N16] Inflation with Nieh-Yan-like terms in metric-affine gravity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811" target="_blank" rel="noopener noreferrer">[N17] On the hunt for dark matter</a> <span>MIT Astrophysics</span></li>
+<li><a href="https://phys.org/news/2026-08-astronomers-early-universe-webb.html" target="_blank" rel="noopener noreferrer">[N18] Astronomers find a new object from the early universe using Webb data</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html" target="_blank" rel="noopener noreferrer">[N19] Cosmic filaments help set first limits on dark matter&#x27;s decay into gravitons</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2608.07791v1" target="_blank" rel="noopener noreferrer">[N20] The Impact of Splashback Galaxies on Galaxy Assembly Bias</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
