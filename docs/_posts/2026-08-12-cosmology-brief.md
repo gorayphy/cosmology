@@ -1,59 +1,59 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-12T15:08:30.007259+05:30
-summary: "Latest cosmology news, research, and job opportunities for researchers."
-run_time_ist: "3:08PM"
+date: 2026-08-12T20:58:46.858006+05:30
+summary: "Latest research and opportunities in cosmology for researchers and students."
+run_time_ist: "8:58PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 3:08PM</h1>
+<h1 class="brief-run">Gemini Summary: 8:58PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> New research using JWST data has identified a new object from the early universe, advancing our understanding of cosmic evolution.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-astronomers-early-universe-webb.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Cosmic filaments have provided the first observational constraints on dark matter&#x27;s decay into gravitons, offering new avenues for dark matter research.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A study of JWST spectra suggests a small population of &quot;leaky&quot; galaxies may have been responsible for reionizing the early universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-jwst-leaky-galaxies-reionized-early.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Investigating fine-tuning in mixed dark matter models involving primordial black hole relics and Planck-mass relics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.10977v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Exploring heavy neutral leptons beyond the Big Bang Nucleosynthesis bound to probe the lepton asymmetry of the Universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.10123v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Examining Big-Bang Nucleosynthesis and WIMP Dark Matter freeze-out as probes of Yukawa cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.09390v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page for global applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> INSPIRE HEP Jobs API: current cosmology, astrophysics, and physics opportunities page for global academic positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 2</a><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 3</a><a class="source-chip" href="https://inspirehep.net/jobs/3189857" target="_blank" rel="noopener noreferrer">↗ Source 4</a></div></li>
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for Indian institutes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for Indian institutes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, relevant for Indian researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, relevant for Indian researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, relevant for Indian researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, relevant for Indian researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/" target="_blank" rel="noopener noreferrer">[N1] What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)</a> <span>NASA News Releases</span></li>
-<li><a href="https://phys.org/news/2026-08-astronomers-early-universe-webb.html" target="_blank" rel="noopener noreferrer">[N2] Astronomers find a new object from the early universe using Webb data</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-cosmic-filaments-limits-dark-decay.html" target="_blank" rel="noopener noreferrer">[N3] Cosmic filaments help set first limits on dark matter&#x27;s decay into gravitons</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.universetoday.com/articles/the-dark-matter-detector-in-the-scottish-borders" target="_blank" rel="noopener noreferrer">[N4] The Dark Matter Detector in the Scottish Borders</a> <span>Universe Today</span></li>
-<li><a href="https://phys.org/news/2026-08-jwst-leaky-galaxies-reionized-early.html" target="_blank" rel="noopener noreferrer">[N5] JWST study suggests a handful of &#x27;leaky&#x27; galaxies reionized the early universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-red-dots-pulsating-monster-stars.html" target="_blank" rel="noopener noreferrer">[N6] &#x27;Little red dots&#x27; may be pulsating monster stars that created early-universe black holes</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N7] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N8] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811" target="_blank" rel="noopener noreferrer">[N9] On the hunt for dark matter</a> <span>MIT Astrophysics</span></li>
-<li><a href="https://phys.org/news/2026-08-galactic-fingerprints-primordial-universe.html" target="_blank" rel="noopener noreferrer">[N10] Galactic spins carry fingerprints of the primordial universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.universetoday.com/articles/ancient-maltese-seafarers-likely-navigated-by-the-stars" target="_blank" rel="noopener noreferrer">[N11] Ancient Maltese Seafarers Likely Navigated By The Stars</a> <span>Universe Today</span></li>
-<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N12] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
-<li><a href="https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/" target="_blank" rel="noopener noreferrer">[N13] NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface</a> <span>NASA News Releases</span></li>
-<li><a href="https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/" target="_blank" rel="noopener noreferrer">[N14] Lion Nebula Roars in Webb’s Sights</a> <span>NASA News Releases</span></li>
-<li><a href="https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/" target="_blank" rel="noopener noreferrer">[N15] NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula</a> <span>NASA News Releases</span></li>
-<li><a href="https://phys.org/news/2026-08-energy-loss-routes-tarantula-nebula.html" target="_blank" rel="noopener noreferrer">[N16] Three energy-loss routes may explain Tarantula Nebula&#x27;s X-ray shortfall</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-star-cluster-discovery-scientists-universe.html" target="_blank" rel="noopener noreferrer">[N17] Star cluster discovery could change how scientists measure the universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-webb-reveals-oxygen-rich-surviving.html" target="_blank" rel="noopener noreferrer">[N18] Webb reveals oxygen-rich dust and water surviving near Milky Way&#x27;s central black hole</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-telescope.html" target="_blank" rel="noopener noreferrer">[N19] The telescope that points itself</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.universetoday.com/articles/watching-the-first-moments-in-a-stars-death" target="_blank" rel="noopener noreferrer">[N20] Watching the First Moments in a Star&#x27;s Death</a> <span>Universe Today</span></li>
+<li><a href="https://arxiv.org/abs/2608.10977v1" target="_blank" rel="noopener noreferrer">[N1] Fine-tuning in mixed Dark Matter models with Primordial Black Hole relics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.10123v1" target="_blank" rel="noopener noreferrer">[N2] Heavy neutral leptons beyond the BBN bound: probing the lepton asymmetry of the Universe</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.09390v1" target="_blank" rel="noopener noreferrer">[N3] Big-Bang Nucleosynthesis and WIMP Dark Matter Freeze-Out as Probes of Yukawa Cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.10633v1" target="_blank" rel="noopener noreferrer">[N4] Baryogenesis and CMB spectral distortion from Axions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.10080v1" target="_blank" rel="noopener noreferrer">[N5] Lyman Break Galaxy selection and redshift measurement with supervised contrastive learning</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.09379v1" target="_blank" rel="noopener noreferrer">[N6] Observational constraints on fractional holographic dark energy in the light of DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.10163v1" target="_blank" rel="noopener noreferrer">[N7] CORN -- Chronometers of Relic Nature I: The first estimate of the expansion rate of the Universe using compact relic galaxies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.10127v1" target="_blank" rel="noopener noreferrer">[N8] Evaporation of Primordial Black Holes with Multimodal Mass and Extended Spin Distributions: Cosmological Imprints on the Effective Number of Relativistic Species</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.10073v1" target="_blank" rel="noopener noreferrer">[N9] Flat Galactic Rotation Curves Interpreted as Evidence for the Mach&#x27;s Principle</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/" target="_blank" rel="noopener noreferrer">[N10] What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)</a> <span>NASA News Releases</span></li>
+<li><a href="https://arxiv.org/abs/2608.11119v1" target="_blank" rel="noopener noreferrer">[N11] All You Need is not $Ω_\mathrm{gw}$: Beyond the Mean of the Cross-Correlation Estimator when Searching for an Astrophysical Gravitational-Wave Background</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.09783v1" target="_blank" rel="noopener noreferrer">[N12] Adiabatic Perturbations in GW170817-Compatible Einstein-Gauss-Bonnet Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.11088v1" target="_blank" rel="noopener noreferrer">[N13] Quasinormal modes in effective loop quantum gravity and consequences for isospectrality</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.10495v1" target="_blank" rel="noopener noreferrer">[N14] The generalized second law as a thermodynamic selection criterion for dynamical dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.09697v1" target="_blank" rel="noopener noreferrer">[N15] Cross-frequency SGWB anisotropy from compact topology: CMB B-mode covariance as a transfer probe</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.09457v1" target="_blank" rel="noopener noreferrer">[N16] CMB Spectral Distortion Anisotropies from Acoustic Damping with primordial non-Gaussianity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.10781v1" target="_blank" rel="noopener noreferrer">[N17] Evolution of Neutron Star Environment in the Galactic Halo : Implications for Dark Matter Accretion</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260811011146.htm" target="_blank" rel="noopener noreferrer">[N18] Black holes older than the Big Bang could explain dark matter</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2608.10594v1" target="_blank" rel="noopener noreferrer">[N19] Transmutation Timescales for Dark Matter Induced Collapse of Compact Stars into Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.10105v1" target="_blank" rel="noopener noreferrer">[N20] Reconstructing Dark Matter Mass and Discriminating Standard and Non-Standard WIMP-Nucleus Interactions with Paleo-Detectors</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
@@ -82,24 +82,24 @@ run_time_ist: "3:08PM"
 <li><a href="https://inspirehep.net/jobs/3188948" target="_blank" rel="noopener noreferrer">[J26] Postdoctoral position: neutrino and dark matter physics (experiment or phenomenology)</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3183342" target="_blank" rel="noopener noreferrer">[J27] Postdoctoral Position in experimental Astroparticle Physics (XENONnT / XLZD)</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3189858" target="_blank" rel="noopener noreferrer">[J28] Postdoctoral Associate / Scientist, Superconducting Detector Systems (mm-Wave &amp; Sub-mm)</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3188534" target="_blank" rel="noopener noreferrer">[J29] Faculty Position for Theoretical Cosmology, High-energy Astrophysics, Nuclear Physics, and Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3185089" target="_blank" rel="noopener noreferrer">[J30] Postdoctoral Position in Neutrino Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3183367" target="_blank" rel="noopener noreferrer">[J31] Postdoctoral Associate - CMS Experiment</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3185010" target="_blank" rel="noopener noreferrer">[J32] Postdoctoral Fondecyt 2027</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3188933" target="_blank" rel="noopener noreferrer">[J33] Postdoctoral Researcher in Theoretical Particle Physics and Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3184212" target="_blank" rel="noopener noreferrer">[J34] Postdoctoral position in particle theory and cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3184568" target="_blank" rel="noopener noreferrer">[J35] Postdoc Research Associate in Experimental Nuclear Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3183350" target="_blank" rel="noopener noreferrer">[J36] Tenure-track Astrophysics Professor</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3183112" target="_blank" rel="noopener noreferrer">[J37] CNRS Junior Professor Chair (Tenure-Track) in Theoretical Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3186998" target="_blank" rel="noopener noreferrer">[J38] Assistant / Associate Professor in Gravitational Wave Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">[J39] JSPS Postdoctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>JSPS Postdoctoral Fellowship</span></li>
-<li><a href="https://inspirehep.net/jobs/3189558" target="_blank" rel="noopener noreferrer">[J40] PhD Position: Light Dark Matter Search with the XENONnT Experiment – ANR LowDM Project</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3184993" target="_blank" rel="noopener noreferrer">[J41] PhD in gravitational physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3189660" target="_blank" rel="noopener noreferrer">[J42] PhD Student Positions in Universe Sciences – 2027</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3183333" target="_blank" rel="noopener noreferrer">[J43] PhD positions in experimental and theoretical particle physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3183745" target="_blank" rel="noopener noreferrer">[J44] PhD Position for Developing and Integrating Foundation Models for Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3188433" target="_blank" rel="noopener noreferrer">[J45] Postdoc for Sensor Development and Technology Transfer</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3183111" target="_blank" rel="noopener noreferrer">[J46] Postdoc positions in high-energy theory/quantum information/quantum many-body physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3190228" target="_blank" rel="noopener noreferrer">[J29] CCAPP Postdoctoral Fellows</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3188534" target="_blank" rel="noopener noreferrer">[J30] Faculty Position for Theoretical Cosmology, High-energy Astrophysics, Nuclear Physics, and Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3185089" target="_blank" rel="noopener noreferrer">[J31] Postdoctoral Position in Neutrino Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183367" target="_blank" rel="noopener noreferrer">[J32] Postdoctoral Associate - CMS Experiment</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3185010" target="_blank" rel="noopener noreferrer">[J33] Postdoctoral Fondecyt 2027</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3188933" target="_blank" rel="noopener noreferrer">[J34] Postdoctoral Researcher in Theoretical Particle Physics and Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3184212" target="_blank" rel="noopener noreferrer">[J35] Postdoctoral position in particle theory and cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3184568" target="_blank" rel="noopener noreferrer">[J36] Postdoc Research Associate in Experimental Nuclear Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183350" target="_blank" rel="noopener noreferrer">[J37] Tenure-track Astrophysics Professor</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183112" target="_blank" rel="noopener noreferrer">[J38] CNRS Junior Professor Chair (Tenure-Track) in Theoretical Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3186998" target="_blank" rel="noopener noreferrer">[J39] Assistant / Associate Professor in Gravitational Wave Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">[J40] JSPS Postdoctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>JSPS Postdoctoral Fellowship</span></li>
+<li><a href="https://inspirehep.net/jobs/3189558" target="_blank" rel="noopener noreferrer">[J41] PhD Position: Light Dark Matter Search with the XENONnT Experiment – ANR LowDM Project</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3184993" target="_blank" rel="noopener noreferrer">[J42] PhD in gravitational physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3189660" target="_blank" rel="noopener noreferrer">[J43] PhD Student Positions in Universe Sciences – 2027</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183333" target="_blank" rel="noopener noreferrer">[J44] PhD positions in experimental and theoretical particle physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3183745" target="_blank" rel="noopener noreferrer">[J45] PhD Position for Developing and Integrating Foundation Models for Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3188433" target="_blank" rel="noopener noreferrer">[J46] Postdoc for Sensor Development and Technology Transfer</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3184218" target="_blank" rel="noopener noreferrer">[J47] Postdoctoral Researcher – XLZD experiment</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://www.ictp.it/opportunities" target="_blank" rel="noopener noreferrer">[J48] ICTP Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>ICTP Opportunities</span></li>
 <li><a href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship" target="_blank" rel="noopener noreferrer">[J49] Humboldt Research Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>Humboldt Research Fellowship</span></li>
