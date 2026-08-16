@@ -1,36 +1,39 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-16T14:24:34.834836+05:30
+date: 2026-08-16T20:17:35.273492+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "2:24PM"
+run_time_ist: "8:17PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 2:24PM</h1>
+<h1 class="brief-run">Gemini Summary: 8:17PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>BISOU optical concept model:</strong> A balloon-borne pathfinder spectrometer for primordial universe observations is presented, aiding future space mission studies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.13257v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>DESI-DR1 cosmography:</strong> Dark Energy Spectroscopic Instrument data is used for direct H(z) measurements from Luminous Red Galaxy ages, testing the Universe&#x27;s expansion rate.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.13178v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Dark photon heating:</strong> A new paper suggests early-universe plasma may have prevented dark photons from heating the cosmos, opening new experimental avenues.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The BISOU project, a balloon-borne pathfinder spectrometer, is undergoing optical concept model development for a future space mission to study the primordial Universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.13257v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://arxiv.org/abs/2608.13225v1" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
+<li><p><strong>Topic:</strong> A new study explores a singlet-doublet fermion model that could explain dark matter, neutrino mass, and an inverse first-order electroweak phase transition, potentially leading to observable gravitational waves.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.12483v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Fast Radio Bursts (FRBs) are being used to probe the distribution of cosmic baryons through cross-correlation with galaxy data and the kinematic Sunyaev-Zel&#x27;dovich effect, advancing understanding of cosmic gas.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.11296v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI-DR1 Cosmic Chronometers provide direct H(z) measurements from Luminous Red Galaxy ages, offering a new approach to test the Universe&#x27;s expansion rate.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.13178v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Research suggests that early-universe plasma may have prevented dark photons, a dark matter candidate, from heating the cosmos, opening new avenues for experimental searches.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Astronomers have discovered a new type of astrophysical object resembling an enormous star in the early universe, emitting significantly more energy than known objects.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-black-hole-star-astronomers-brand.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>KICP Postdoctoral Research Fellowship:</strong> A postdoctoral position at U. Chicago, relevant for global HEP/astrophysics/cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Particle Physics and Quantum Technologies Postdoctoral Fellowships:</strong> Expression of Interest opportunity at DESY, Zeuthen, for global HEP/astrophysics/cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Tenure-Track Assistant Professor Position:</strong> A faculty position in Astrophysics, Cosmology and Space Science at U. Naples, relevant for global researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Postdoctoral Associate / Scientist:</strong> A role in Interferometric Signal Processing at t0.technology, open globally for HEP/astrophysics/cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189857" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>PRL Job Vacancies and Fellowships:</strong> A portal for current cosmology, astrophysics, and physics opportunities, primarily in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>TIFR Astronomy and Astrophysics Careers:</strong> A portal for current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Academic Jobs Online Cosmology:</strong> A portal for global cosmology, astrophysics, and physics opportunities, often used for international applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page. Global portal for applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> SERB / ANRF Awards and Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://serb.gov.in/page/english/awards_fellowship" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -38,25 +41,25 @@ run_time_ist: "2:24PM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2608.13257v1" target="_blank" rel="noopener noreferrer">[N1] Optical concept model of the future cosmology project BISOU</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.13225v1" target="_blank" rel="noopener noreferrer">[N2] Optical development of the BISOU breadboard</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.13185v1" target="_blank" rel="noopener noreferrer">[N3] FOSSIL&#x27;s preliminary thermal architecture</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.13178v1" target="_blank" rel="noopener noreferrer">[N4] Cosmography with DESI-DR1 Cosmic Chronometers: Direct H(z) measurements from Luminous Red Galaxy ages</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.13070v1" target="_blank" rel="noopener noreferrer">[N5] Cosmic Structures in CDM and SIDM</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.12483v1" target="_blank" rel="noopener noreferrer">[N6] Singlet-Doublet fermion origin of dark matter, neutrino mass and inverse first-order electroweak phase transition</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.11296v1" target="_blank" rel="noopener noreferrer">[N7] A new measurement of the FRB DM-galaxy cross correlation and a first joint analysis with the kinematic SZ effect</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.13488v1" target="_blank" rel="noopener noreferrer">[N8] Higher-Order Analytical Expansion of Thawing Dark Energy with an Exponential Potential</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.13282v1" target="_blank" rel="noopener noreferrer">[N9] Gravitational Wave Standard Sirens as Probes of Lorentz Violation in Bumblebee Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.11453v1" target="_blank" rel="noopener noreferrer">[N10] Torsional pseudo-inflation beyond Einstein-Cartan</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html" target="_blank" rel="noopener noreferrer">[N11] Early-universe plasma may have stopped dark photons from heating cosmos</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2608.12871v1" target="_blank" rel="noopener noreferrer">[N12] X-ray signals converted from high-frequency gravitational waves emitted by spinning light primordial black hole dark matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.11400v1" target="_blank" rel="noopener noreferrer">[N13] Magnetic fields in extreme primordial halos: turbulent collapse and implications for early quasar formation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.12483v1" target="_blank" rel="noopener noreferrer">[N2] Singlet-Doublet fermion origin of dark matter, neutrino mass and inverse first-order electroweak phase transition</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.11296v1" target="_blank" rel="noopener noreferrer">[N3] A new measurement of the FRB DM-galaxy cross correlation and a first joint analysis with the kinematic SZ effect</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.13488v1" target="_blank" rel="noopener noreferrer">[N4] Higher-Order Analytical Expansion of Thawing Dark Energy with an Exponential Potential</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.13225v1" target="_blank" rel="noopener noreferrer">[N5] Optical development of the BISOU breadboard</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.13185v1" target="_blank" rel="noopener noreferrer">[N6] FOSSIL&#x27;s preliminary thermal architecture</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.13178v1" target="_blank" rel="noopener noreferrer">[N7] Cosmography with DESI-DR1 Cosmic Chronometers: Direct H(z) measurements from Luminous Red Galaxy ages</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.11453v1" target="_blank" rel="noopener noreferrer">[N8] Torsional pseudo-inflation beyond Einstein-Cartan</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-08-early-universe-plasma-dark-photons.html" target="_blank" rel="noopener noreferrer">[N9] Early-universe plasma may have stopped dark photons from heating cosmos</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2608.13070v1" target="_blank" rel="noopener noreferrer">[N10] Cosmic Structures in CDM and SIDM</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.12871v1" target="_blank" rel="noopener noreferrer">[N11] X-ray signals converted from high-frequency gravitational waves emitted by spinning light primordial black hole dark matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.11400v1" target="_blank" rel="noopener noreferrer">[N12] Magnetic fields in extreme primordial halos: turbulent collapse and implications for early quasar formation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-08-black-hole-star-astronomers-brand.html" target="_blank" rel="noopener noreferrer">[N13] Black hole star: Astronomers discover a brand-new type of astrophysical object</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://phys.org/news/2026-08-tiny-satellite-dark-side-moon.html" target="_blank" rel="noopener noreferrer">[N14] Tiny satellite will use the dark side of the moon to eavesdrop on whispers from the early universe</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://arxiv.org/abs/2608.13347v1" target="_blank" rel="noopener noreferrer">[N15] The Most Probable Outer Density Profile from Excursion Set Theory</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.13346v1" target="_blank" rel="noopener noreferrer">[N16] Automatic detection of fast oscillations of dark matter scalar field and updated cosmological constraints on QCDM</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.12706v1" target="_blank" rel="noopener noreferrer">[N17] Scalar induced gravitational waves as probes of dark QCD</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.12116v1" target="_blank" rel="noopener noreferrer">[N18] CIBER $\times$ galaxy cross-correlations reveal a bright, low-redshift NIR background</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.13498v1" target="_blank" rel="noopener noreferrer">[N19] Quadratic effective energy--momentum tensor on uniform-density hypersurfaces during slow-roll inflation</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.13289v1" target="_blank" rel="noopener noreferrer">[N20] Differential Obstructions to Curvature-Dependent Conformal Transformations</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.13282v1" target="_blank" rel="noopener noreferrer">[N17] Gravitational Wave Standard Sirens as Probes of Lorentz Violation in Bumblebee Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.12706v1" target="_blank" rel="noopener noreferrer">[N18] Scalar induced gravitational waves as probes of dark QCD</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.12116v1" target="_blank" rel="noopener noreferrer">[N19] CIBER $\times$ galaxy cross-correlations reveal a bright, low-redshift NIR background</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.13498v1" target="_blank" rel="noopener noreferrer">[N20] Quadratic effective energy--momentum tensor on uniform-density hypersurfaces during slow-roll inflation</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
