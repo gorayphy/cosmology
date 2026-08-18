@@ -1,59 +1,59 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-18T14:31:52.535139+05:30
-summary: "Latest cosmology research and job opportunities for researchers."
-run_time_ist: "2:31PM"
+date: 2026-08-18T20:31:14.780076+05:30
+summary: "Latest research and opportunities in cosmology for researchers and students."
+run_time_ist: "8:31PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 2:31PM</h1>
+<h1 class="brief-run">Gemini Summary: 8:31PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A sign-switch dark energy model with a free curvature parameter is tested against Planck 2018, DESI DR2, and PantheonPlus&amp;SH0ES data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.15167v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A new mechanism is proposed for spectral-spatial distortions in the CMB near primordial massive compact objects.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.15481v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The linear dilaton in cosmology and particle physics is explored in the context of warped extra dimensions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.16772v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new mechanism is proposed for spectral-spatial distortions in CMB near primordial massive compact objects, offering insights into the early universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.15481v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A sign-switch dark energy scenario is tested with curvature using Planck 2018, DESI DR2, and PantheonPlus\&amp;SH0ES data, extending the $\Lambda_{\rm s}$CDM model.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.15167v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Primordial power asymmetry is constrained using galaxy clustering and peculiar velocity information, probing departures from statistical isotropy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.14170v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, relevant for Indian researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, relevant for Indian researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, relevant for Indian researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, relevant for Indian researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2608.15167v1" target="_blank" rel="noopener noreferrer">[N1] Testing a Sign-Switch Cosmological Model with Curvature through Latest Planck 2018, DESI DR2 and PantheonPlus\&amp;SH0ES Observational Data</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.15481v1" target="_blank" rel="noopener noreferrer">[N2] Observational Manifestations of Primordial Objects in the Early Universe Through the Hydrogen Subordinate Lines</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.16772v1" target="_blank" rel="noopener noreferrer">[N3] The linear dilaton in cosmology and particle physics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.16481v1" target="_blank" rel="noopener noreferrer">[N4] Brightest group and cluster galaxies as indicators of relaxation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.16489v1" target="_blank" rel="noopener noreferrer">[N5] Nonlinear velocity power spectrum: modeling the cosmological dependence on the Hubble constant and cold dark matter density</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.14170v1" target="_blank" rel="noopener noreferrer">[N6] Constraining Primordial Power Asymmetry from Galaxy Clustering and Peculiar Velocity Information</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.16667v1" target="_blank" rel="noopener noreferrer">[N7] Halo mass of ULIRGs at z~2</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html" target="_blank" rel="noopener noreferrer">[N8] Dark matter may be gravitationally lensing a likely source of cosmic neutrinos</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2608.15983v1" target="_blank" rel="noopener noreferrer">[N9] Cosmology without the cosmological principle: A study of the large-scale structure effects in the background universe</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260816044835.htm" target="_blank" rel="noopener noreferrer">[N10] Einstein’s biggest “mistake” came back — and changed cosmology forever</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2608.16563v1" target="_blank" rel="noopener noreferrer">[N11] Population-Level Verification of the Black-Hole Area Law with First- and Second-Generation Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.16534v1" target="_blank" rel="noopener noreferrer">[N12] Quasi-local Hamiltonian for generalized Kerr-Schild black holes in the Iyer-Wald formalism</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.16525v1" target="_blank" rel="noopener noreferrer">[N13] Quasinormal Modes of Black Holes Embedded in Dark-Matter Halos: Analysis of Dehnen(1, 4, 5/2) and DC14 Density Profiles</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260815064808.htm" target="_blank" rel="noopener noreferrer">[N14] Webb’s mysterious little red dots may be hiding entire galaxies</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2608.16376v1" target="_blank" rel="noopener noreferrer">[N15] Limiting cases of second-order moments of relativistic stars and their universality</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.16369v1" target="_blank" rel="noopener noreferrer">[N16] Quantum-Corrected Black Holes in Higher Dimensions: From Gravitational Collapse to Remnants, WGC-Like Behavior and Accretion Signatures</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.15554v1" target="_blank" rel="noopener noreferrer">[N17] Addressing position anomalies in the Strong Gravitational Lensing System HS~0810+2554 through Dark Matter Subhalos</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.15240v1" target="_blank" rel="noopener noreferrer">[N18] Prospects for Direct Detection of Ultralight Dark Matter candidates in deci-Hz Band with IndIGO-D</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.16779v1" target="_blank" rel="noopener noreferrer">[N19] Inclination Diffusion in Relativistic Loss Cones</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.16762v1" target="_blank" rel="noopener noreferrer">[N20] On the (Non)Unitarity with respect to the Clock of a Dynamical Local Observer and the Einstein Equivalence Principle</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.15481v1" target="_blank" rel="noopener noreferrer">[N1] Observational Manifestations of Primordial Objects in the Early Universe Through the Hydrogen Subordinate Lines</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.16772v1" target="_blank" rel="noopener noreferrer">[N2] The linear dilaton in cosmology and particle physics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.15167v1" target="_blank" rel="noopener noreferrer">[N3] Testing a Sign-Switch Cosmological Model with Curvature through Latest Planck 2018, DESI DR2 and PantheonPlus\&amp;SH0ES Observational Data</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.14170v1" target="_blank" rel="noopener noreferrer">[N4] Constraining Primordial Power Asymmetry from Galaxy Clustering and Peculiar Velocity Information</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.16481v1" target="_blank" rel="noopener noreferrer">[N5] Brightest group and cluster galaxies as indicators of relaxation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.15983v1" target="_blank" rel="noopener noreferrer">[N6] Cosmology without the cosmological principle: A study of the large-scale structure effects in the background universe</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260816044835.htm" target="_blank" rel="noopener noreferrer">[N7] Einstein’s biggest “mistake” came back — and changed cosmology forever</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2608.16489v1" target="_blank" rel="noopener noreferrer">[N8] Nonlinear velocity power spectrum: modeling the cosmological dependence on the Hubble constant and cold dark matter density</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.15554v1" target="_blank" rel="noopener noreferrer">[N9] Addressing position anomalies in the Strong Gravitational Lensing System HS~0810+2554 through Dark Matter Subhalos</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.16779v1" target="_blank" rel="noopener noreferrer">[N10] Inclination Diffusion in Relativistic Loss Cones</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.16762v1" target="_blank" rel="noopener noreferrer">[N11] On the (Non)Unitarity with respect to the Clock of a Dynamical Local Observer and the Einstein Equivalence Principle</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.16723v1" target="_blank" rel="noopener noreferrer">[N12] Non-exotic traversable wormholes in Einstein-Chern-Simons gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.16694v1" target="_blank" rel="noopener noreferrer">[N13] Superposition of dynamics, indefinite causal order, and quantum histories</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.16667v1" target="_blank" rel="noopener noreferrer">[N14] Halo mass of ULIRGs at z~2</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html" target="_blank" rel="noopener noreferrer">[N15] Dark matter may be gravitationally lensing a likely source of cosmic neutrinos</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2608.13488v1" target="_blank" rel="noopener noreferrer">[N16] Higher-Order Analytical Expansion of Thawing Dark Energy with an Exponential Potential</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.16563v1" target="_blank" rel="noopener noreferrer">[N17] Population-Level Verification of the Black-Hole Area Law with First- and Second-Generation Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.16534v1" target="_blank" rel="noopener noreferrer">[N18] Quasi-local Hamiltonian for generalized Kerr-Schild black holes in the Iyer-Wald formalism</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.16525v1" target="_blank" rel="noopener noreferrer">[N19] Quasinormal Modes of Black Holes Embedded in Dark-Matter Halos: Analysis of Dehnen(1, 4, 5/2) and DC14 Density Profiles</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260815064808.htm" target="_blank" rel="noopener noreferrer">[N20] Webb’s mysterious little red dots may be hiding entire galaxies</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
