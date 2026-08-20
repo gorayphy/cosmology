@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-20T14:34:22.134995+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "2:34PM"
+date: 2026-08-20T20:34:17.651632+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "8:34PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 2:34PM</h1>
+<h1 class="brief-run">Gemini Summary: 8:34PM</h1>
 
 <hr class="brief-rule">
 
@@ -16,8 +16,8 @@ run_time_ist: "2:34PM"
 <h2>Cosmology News</h2>
 <ul class="digest-points">
 <li><p><strong>Topic:</strong> A study investigates dipolar power asymmetry in galaxy density, velocity, and ellipticity correlations, potentially probing cosmic microwave background anomalies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.19039v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Researchers explore broadband chiral primordial gravitational waves from constant-roll inflation in a parity-violating symmetric teleparallel gravity framework.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.18649v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> eROSITA cosmology data is used to study the hot gas budget of galaxy groups out to the virial radius, examining baryonic feedback processes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.17735v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Research explores broadband chiral primordial gravitational waves from constant-roll inflation in a parity-violating extension of symmetric teleparallel gravity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.18649v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> eROSITA cosmology data is used to study the hot gas budget of galaxy groups out to their virial radius, investigating baryonic feedback processes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.17735v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -37,23 +37,23 @@ run_time_ist: "2:34PM"
 <li><a href="https://arxiv.org/abs/2608.19039v1" target="_blank" rel="noopener noreferrer">[N1] Dipolar power asymmetry in wide-angle correlations of galaxy density, velocity and ellipticity</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.18649v1" target="_blank" rel="noopener noreferrer">[N2] Broadband Chiral Primordial Gravitational Waves from Constant-roll Inflation in Parity-violating Symmetric Teleparallel Gravity</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.17735v1" target="_blank" rel="noopener noreferrer">[N3] eROSITA cosmology with galaxy groups: hot gas budget out to the virial radius</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.18983v1" target="_blank" rel="noopener noreferrer">[N4] Duru-Kleinert Path Integral in Unimodular Quantum Cosmology</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.18743v1" target="_blank" rel="noopener noreferrer">[N5] Technical Proposal for the Atom Interferometer CERN Experiment (AICE) Facility</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.18229v1" target="_blank" rel="noopener noreferrer">[N6] Testing MOND-like modifications to gravity using growth-rate measurements and one-loop corrections to the matter power spectrum</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.17212v1" target="_blank" rel="noopener noreferrer">[N7] Investigating The Effects of Early Dark Energy on Large-scale Structure Within the EDENS Suite</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.19146v1" target="_blank" rel="noopener noreferrer">[N8] On entropic cosmology, late time acceleration and the quantum bounce</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.19136v1" target="_blank" rel="noopener noreferrer">[N9] Notes on Kerr-Bertotti-Robinson Spacetime</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.18962v1" target="_blank" rel="noopener noreferrer">[N10] Towards end-to-end Bayesian forward models in global 21-cm cosmology: surrogate modelling and marginalisation of beam uncertainty</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.18281v1" target="_blank" rel="noopener noreferrer">[N11] CosmoPyro: Gradients for Gravitational-Wave Cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.17395v1" target="_blank" rel="noopener noreferrer">[N12] Seeding baryonic dark matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.18224v1" target="_blank" rel="noopener noreferrer">[N13] Mapping the Information Geometry of an Unresolved Dark Matter Population using a Differentiable Strong Lensing Simulator</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.18959v1" target="_blank" rel="noopener noreferrer">[N14] Perturbative Hairy Black Branes in the $G_{2}$-Invariant Sector of Dyonic ISO(7) Gauged Supergravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.18877v1" target="_blank" rel="noopener noreferrer">[N15] Estimation of systematic error from bulk deformation of end test mass induced by photon calibrator for LIGO post-O5 gravitational wave projects</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.18845v1" target="_blank" rel="noopener noreferrer">[N16] Non-abelian uni-vector deformations in gauged supergravities and non-abelian Einstein-Maxwell theories</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-08-astronomers-hot-birth-galaxy-cluster.html" target="_blank" rel="noopener noreferrer">[N17] Astronomers catch hot birth of galaxy cluster more than 11 billion light-years away</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2608.18807v1" target="_blank" rel="noopener noreferrer">[N18] A Quantum-Gravity-Motivated GUP Effective Metric</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.18753v1" target="_blank" rel="noopener noreferrer">[N19] Effective curvature coupling of link-based causal set propagators in $1+1$ dimensions</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.18609v1" target="_blank" rel="noopener noreferrer">[N20] Probing Sub-GeV Dark Matter with the Migdal Effect at JUNO</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.18229v1" target="_blank" rel="noopener noreferrer">[N4] Testing MOND-like modifications to gravity using growth-rate measurements and one-loop corrections to the matter power spectrum</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.17212v1" target="_blank" rel="noopener noreferrer">[N5] Investigating The Effects of Early Dark Energy on Large-scale Structure Within the EDENS Suite</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19146v1" target="_blank" rel="noopener noreferrer">[N6] On entropic cosmology, late time acceleration and the quantum bounce</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.19136v1" target="_blank" rel="noopener noreferrer">[N7] Notes on Kerr-Bertotti-Robinson Spacetime</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.18281v1" target="_blank" rel="noopener noreferrer">[N8] CosmoPyro: Gradients for Gravitational-Wave Cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.17395v1" target="_blank" rel="noopener noreferrer">[N9] Seeding baryonic dark matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.18983v1" target="_blank" rel="noopener noreferrer">[N10] Duru-Kleinert Path Integral in Unimodular Quantum Cosmology</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.18743v1" target="_blank" rel="noopener noreferrer">[N11] Technical Proposal for the Atom Interferometer CERN Experiment (AICE) Facility</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.18224v1" target="_blank" rel="noopener noreferrer">[N12] Mapping the Information Geometry of an Unresolved Dark Matter Population using a Differentiable Strong Lensing Simulator</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.18962v1" target="_blank" rel="noopener noreferrer">[N13] Towards end-to-end Bayesian forward models in global 21-cm cosmology: surrogate modelling and marginalisation of beam uncertainty</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.18609v1" target="_blank" rel="noopener noreferrer">[N14] Probing Sub-GeV Dark Matter with the Migdal Effect at JUNO</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.18436v1" target="_blank" rel="noopener noreferrer">[N15] Bounds on the Lyapunov Exponent of Circular Null Orbits in $n$-Dimensional Black-Hole Spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.18204v1" target="_blank" rel="noopener noreferrer">[N16] Towards Quantum-Dot Detectors as Barcodes for Dark Matter Interactions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.18031v1" target="_blank" rel="noopener noreferrer">[N17] Imprints of Mass Accretion History on Galaxy Cluster Morphology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.17679v1" target="_blank" rel="noopener noreferrer">[N18] Infrared Lines from Sterile-Neutrino Transition Magnetic Moments at JWST</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.18653v1" target="_blank" rel="noopener noreferrer">[N19] On uniqueness of non-vacuum stationary axisymmetric type D spacetime</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260816044835.htm" target="_blank" rel="noopener noreferrer">[N20] Einstein’s biggest “mistake” came back — and changed cosmology forever</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
