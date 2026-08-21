@@ -1,36 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-21T14:36:09.874654+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "2:36PM"
+date: 2026-08-21T20:32:51.816508+05:30
+summary: "Latest cosmology news, research, and job opportunities for researchers and students."
+run_time_ist: "8:32PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 2:36PM</h1>
+<h1 class="brief-run">Gemini Summary: 8:32PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Transient Early Dark Energy-like dynamics are proposed as a mechanism for enhanced early structure formation, addressing JWST observations of massive high-redshift galaxies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.20288v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The SPT-3G+ receiver, planned for early 2029 on the South Pole Telescope, will enhance cosmic microwave background observations with 6,020 polarization-sensitive pixels.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.20236v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A new analysis investigates whether Early Dark Energy can resolve tensions observed in recent DESI late-time dynamics measurements.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.19432v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Transient Early Dark Energy-like dynamics may explain the enhanced early structure formation observed by JWST at high redshifts.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.20288v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> SPT-3G+ is a new CMB receiver planned for the South Pole Telescope, designed to enhance polarization sensitivity for cosmological studies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.20236v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new analysis investigates whether Early Dark Energy models can resolve tensions in late-time dynamics observed by DESI.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.19432v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> KICP Postdoctoral Research Fellowship at U. Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Expression of Interest for Particle Physics and Quantum Technologies Postdoctoral Fellowships at DESY, Zeuthen.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowship in the High Energy Physics, Cosmology &amp; Astrophysics Theory (HEPCAT) group at U. Cape Town.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3191010" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor Position in Astrophysics, Cosmology and Space Science at U. Naples.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for Indian and external positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for Indian academic and visiting positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for Indian postdoc, faculty, and project roles.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for physics postdoctoral fellowships in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -40,20 +37,20 @@ run_time_ist: "2:36PM"
 <li><a href="https://arxiv.org/abs/2608.20288v1" target="_blank" rel="noopener noreferrer">[N1] Transient Early Dark Energy-Like Dynamics as a Mechanism for Enhanced Early Structure Formation in the JWST Era</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.20236v1" target="_blank" rel="noopener noreferrer">[N2] SPT-3G+: A Cosmic Microwave Background Experiment for the South Pole Telescope</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.19432v1" target="_blank" rel="noopener noreferrer">[N3] Does Early Dark Energy Absorb the DESI Late-Time Dynamics Signal? A Combined Analysis</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.20095v1" target="_blank" rel="noopener noreferrer">[N4] Non-minimal Unimodular Inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.19883v1" target="_blank" rel="noopener noreferrer">[N5] A Prediction for DESI Full-Shape: Increasing Tomographic $Ω_m(z)$ Trend</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.19781v1" target="_blank" rel="noopener noreferrer">[N6] Quintessential α-attractors, updated</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.20296v1" target="_blank" rel="noopener noreferrer">[N7] A blind spot in transverse BAO calibration</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.20219v1" target="_blank" rel="noopener noreferrer">[N8] Inflation on the lattice: scalar Gauss-Bonnet single field inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.20085v1" target="_blank" rel="noopener noreferrer">[N9] Effective Field Theory for Freezing Gravity with Minimally Coupled Matter</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.19039v1" target="_blank" rel="noopener noreferrer">[N10] Dipolar power asymmetry in wide-angle correlations of galaxy density, velocity and ellipticity</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.20293v1" target="_blank" rel="noopener noreferrer">[N11] Non-Minimally Coupled Warm Inflation in the Defining Frame</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.20081v1" target="_blank" rel="noopener noreferrer">[N12] Analyzing Quasi-normal modes spectrum in asymptotically de Sitter black bounces and their optical appearance</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.20262v1" target="_blank" rel="noopener noreferrer">[N13] Probabilistic kilonova prediction from gravitational wave inferred binary neutron star parameters</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.19378v1" target="_blank" rel="noopener noreferrer">[N14] Stochastic Schwinger Effect: de Sitter and beyond</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.19307v1" target="_blank" rel="noopener noreferrer">[N15] The Challenge of Observing Patchy Reionization with CMB Optical-Depth Fluctuations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.20185v1" target="_blank" rel="noopener noreferrer">[N16] An Analytical Two Incompressible Fluid Star with a Mixed Ordinary Dark Matter Core and an Ordinary Matter Envelope</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.20180v1" target="_blank" rel="noopener noreferrer">[N17] A Buchdahl solution generator for Einstein-sigma gravity and multiscalar-tensor gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.19781v1" target="_blank" rel="noopener noreferrer">[N4] Quintessential α-attractors, updated</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20296v1" target="_blank" rel="noopener noreferrer">[N5] A blind spot in transverse BAO calibration</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20219v1" target="_blank" rel="noopener noreferrer">[N6] Inflation on the lattice: scalar Gauss-Bonnet single field inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20095v1" target="_blank" rel="noopener noreferrer">[N7] Non-minimal Unimodular Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19039v1" target="_blank" rel="noopener noreferrer">[N8] Dipolar power asymmetry in wide-angle correlations of galaxy density, velocity and ellipticity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20293v1" target="_blank" rel="noopener noreferrer">[N9] Non-Minimally Coupled Warm Inflation in the Defining Frame</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19883v1" target="_blank" rel="noopener noreferrer">[N10] A Prediction for DESI Full-Shape: Increasing Tomographic $Ω_m(z)$ Trend</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20262v1" target="_blank" rel="noopener noreferrer">[N11] Probabilistic kilonova prediction from gravitational wave inferred binary neutron star parameters</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.20085v1" target="_blank" rel="noopener noreferrer">[N12] Effective Field Theory for Freezing Gravity with Minimally Coupled Matter</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.19378v1" target="_blank" rel="noopener noreferrer">[N13] Stochastic Schwinger Effect: de Sitter and beyond</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19307v1" target="_blank" rel="noopener noreferrer">[N14] The Challenge of Observing Patchy Reionization with CMB Optical-Depth Fluctuations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20185v1" target="_blank" rel="noopener noreferrer">[N15] An Analytical Two Incompressible Fluid Star with a Mixed Ordinary Dark Matter Core and an Ordinary Matter Envelope</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.20180v1" target="_blank" rel="noopener noreferrer">[N16] A Buchdahl solution generator for Einstein-sigma gravity and multiscalar-tensor gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.20081v1" target="_blank" rel="noopener noreferrer">[N17] Analyzing Quasi-normal modes spectrum in asymptotically de Sitter black bounces and their optical appearance</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2608.19765v1" target="_blank" rel="noopener noreferrer">[N18] How Inflation Might Explain Large-Scale Anisotropy</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.19482v1" target="_blank" rel="noopener noreferrer">[N19] WIMP Freeze-Out in Diffusive Unimodular Gravity</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.19321v1" target="_blank" rel="noopener noreferrer">[N20] Detectable subhalo impacts in Milky Way streams</a> <span>arXiv astro-ph.CO</span></li>
