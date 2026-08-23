@@ -1,33 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-23T07:40:03.737402+05:30
-summary: "Latest cosmology news, research updates, and job opportunities for researchers."
-run_time_ist: "7:40AM"
+date: 2026-08-23T14:26:04.191558+05:30
+summary: "Latest findings in cosmology and opportunities for researchers."
+run_time_ist: "2:26PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 7:40AM</h1>
+<h1 class="brief-run">Gemini Summary: 2:26PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> JWST observations suggest early galaxies are up to four times more massive than previously estimated due to a larger population of faint stars.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/08/260822015141.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://phys.org/news/2026-08-hidden-stars-distant-galaxies-massive.html" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
+<li><p><strong>Topic:</strong> JWST observations suggest early galaxies are significantly more massive than previously estimated due to a large population of faint stars.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/08/260822015141.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://phys.org/news/2026-08-hidden-stars-distant-galaxies-massive.html" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
 <li><p><strong>Topic:</strong> The CosmoCube satellite aims to study the cosmic dark ages from the far side of the Moon, potentially answering questions about the universe&#x27;s earliest moments.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.universetoday.com/articles/the-cosmoquest-satellite-will-listen-to-the-early-universe-from-the-far-side-of-the-moon" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Gravitational lensing of a blazar jet by dark matter has been observed, offering a new method to probe unseen matter.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Gravitational lensing of a blazar jet by dark matter has been observed, offering a new method to probe the distribution of unseen matter.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology provides a global platform for cosmology, astrophysics, and physics opportunities, commonly used for international postdoc and faculty applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> INSPIRE HEP Jobs API lists current postdoctoral research fellowships, including a KICP Postdoctoral Research Fellowship at U. Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> INSPIRE HEP Jobs API lists current postdoctoral fellowships, including Particle Physics and Quantum Technologies Postdoctoral Fellowships at DESY.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> INSPIRE HEP Jobs API lists current postdoctoral fellowships, including a Postdoctoral Fellowship in the High Energy Physics, Cosmology &amp; Astrophysics Theory group at U. Cape Town.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3191010" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -45,15 +45,15 @@ run_time_ist: "7:40AM"
 <li><a href="https://phys.org/news/2026-08-hidden-stars-distant-galaxies-massive.html" target="_blank" rel="noopener noreferrer">[N9] &#x27;Hidden stars&#x27; suggest that distant galaxies are much more massive than they appear</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://phys.org/news/2026-08-black-hole-star-astronomers-brand.html" target="_blank" rel="noopener noreferrer">[N10] Black hole star: Astronomers discover a brand-new type of astrophysical object</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N11] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
-<li><a href="https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/" target="_blank" rel="noopener noreferrer">[N12] APOD: 2026 August 22 – Mostly Perseids</a> <span>NASA News Releases</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260822015119.htm" target="_blank" rel="noopener noreferrer">[N12] Black holes keep tearing these stars apart, but they survive</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://www.nasa.gov/image-article/webb-opens-treasure-chest/" target="_blank" rel="noopener noreferrer">[N13] Webb Opens Treasure Chest</a> <span>NASA News Releases</span></li>
 <li><a href="https://www.universetoday.com/articles/synchronized-stars-power-cosmic-radio-laser" target="_blank" rel="noopener noreferrer">[N14] White Dwarf-Red Dwarf Binaries Power Cosmic Lasers</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/dry-martian-meteorite-reveals-early-water-in-marss-crust" target="_blank" rel="noopener noreferrer">[N15] Dry Martian Meteorite Reveals Early Water in Mars&#x27;s Crust</a> <span>Universe Today</span></li>
+<li><a href="https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/" target="_blank" rel="noopener noreferrer">[N15] APOD: 2026 August 22 – Mostly Perseids</a> <span>NASA News Releases</span></li>
 <li><a href="https://phys.org/news/2026-08-stellar-black-hole-flares-dimmer.html" target="_blank" rel="noopener noreferrer">[N16] Stellar spin may explain why repeated black hole flares grow dimmer</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://phys.org/news/2026-08-dark-stars-left-gravitational-echoes.html" target="_blank" rel="noopener noreferrer">[N17] Dark Stars may have left gravitational-wave echoes across the universe</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html" target="_blank" rel="noopener noreferrer">[N18] Stellar explosions come into focus with new nuclear reaction measurements</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://skyandtelescope.org/astronomy-news/" target="_blank" rel="noopener noreferrer">[N19] Sky &amp; Telescope News: current cosmology news source</a> <span>Sky &amp; Telescope News</span></li>
-<li><a href="https://www.universetoday.com/articles/strange-signals-called-long-period-radio-transits-come-from-cataclysmic-variables" target="_blank" rel="noopener noreferrer">[N20] Strange Signals Called Long-period Radio Transits Come From Cataclysmic Variables</a> <span>Universe Today</span></li>
+<li><a href="https://www.universetoday.com/articles/dry-martian-meteorite-reveals-early-water-in-marss-crust" target="_blank" rel="noopener noreferrer">[N20] Dry Martian Meteorite Reveals Early Water in Mars&#x27;s Crust</a> <span>Universe Today</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
