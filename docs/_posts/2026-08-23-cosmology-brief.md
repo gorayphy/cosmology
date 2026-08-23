@@ -1,59 +1,59 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-23T14:26:04.191558+05:30
-summary: "Latest findings in cosmology and opportunities for researchers."
-run_time_ist: "2:26PM"
+date: 2026-08-23T20:18:32.912365+05:30
+summary: "Latest cosmology research and opportunities for physicists."
+run_time_ist: "8:18PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 2:26PM</h1>
+<h1 class="brief-run">Gemini Summary: 8:18PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> JWST observations suggest early galaxies are significantly more massive than previously estimated due to a large population of faint stars.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/08/260822015141.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://phys.org/news/2026-08-hidden-stars-distant-galaxies-massive.html" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
-<li><p><strong>Topic:</strong> The CosmoCube satellite aims to study the cosmic dark ages from the far side of the Moon, potentially answering questions about the universe&#x27;s earliest moments.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.universetoday.com/articles/the-cosmoquest-satellite-will-listen-to-the-early-universe-from-the-far-side-of-the-moon" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Gravitational lensing of a blazar jet by dark matter has been observed, offering a new method to probe the distribution of unseen matter.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Transient early dark energy dynamics may explain enhanced early structure formation observed by JWST.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.20288v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> SPT-3G+ is a new CMB receiver for the South Pole Telescope, planned for installation in early 2029, to enhance polarization measurements.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.20236v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new analysis investigates whether early dark energy can resolve tensions in late-time Baryon Acoustic Oscillation data from DESI.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.19432v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology provides a global platform for cosmology, astrophysics, and physics opportunities, commonly used for international postdoc and faculty applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> INSPIRE HEP Jobs API lists current postdoctoral research fellowships, including a KICP Postdoctoral Research Fellowship at U. Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> INSPIRE HEP Jobs API lists current postdoctoral fellowships, including Particle Physics and Quantum Technologies Postdoctoral Fellowships at DESY.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> INSPIRE HEP Jobs API lists current postdoctoral fellowships, including a Postdoctoral Fellowship in the High Energy Physics, Cosmology &amp; Astrophysics Theory group at U. Cape Town.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3191010" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> KICP Postdoctoral Research Fellowship at U. Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Expression of Interest: Particle Physics and Quantum Technologies Postdoctoral Fellowships Opportunity at DESY, Zeuthen.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellowship in the High Energy Physics, Cosmology &amp; Astrophysics Theory (HEPCAT) group at U. Cape Town.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3191010" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor Position in Astrophysics, Cosmology and Space Science at U. Naples.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260822015141.htm" target="_blank" rel="noopener noreferrer">[N1] JWST finds early galaxies may be 4 times more massive than thought</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.universetoday.com/articles/the-cosmoquest-satellite-will-listen-to-the-early-universe-from-the-far-side-of-the-moon" target="_blank" rel="noopener noreferrer">[N2] The CosmoCube Satellite Will Listen to the Early Universe From the Far Side of the Moon</a> <span>Universe Today</span></li>
-<li><a href="https://phys.org/news/2026-08-dark-gravitationally-lensing-source-cosmic.html" target="_blank" rel="noopener noreferrer">[N3] Dark matter may be gravitationally lensing a likely source of cosmic neutrinos</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N4] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N5] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260816044835.htm" target="_blank" rel="noopener noreferrer">[N6] Einstein’s biggest “mistake” came back — and changed cosmology forever</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260815064808.htm" target="_blank" rel="noopener noreferrer">[N7] Webb’s mysterious little red dots may be hiding entire galaxies</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-08-astronomers-hot-birth-galaxy-cluster.html" target="_blank" rel="noopener noreferrer">[N8] Astronomers catch hot birth of galaxy cluster more than 11 billion light-years away</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-hidden-stars-distant-galaxies-massive.html" target="_blank" rel="noopener noreferrer">[N9] &#x27;Hidden stars&#x27; suggest that distant galaxies are much more massive than they appear</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-black-hole-star-astronomers-brand.html" target="_blank" rel="noopener noreferrer">[N10] Black hole star: Astronomers discover a brand-new type of astrophysical object</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N11] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260822015119.htm" target="_blank" rel="noopener noreferrer">[N12] Black holes keep tearing these stars apart, but they survive</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.nasa.gov/image-article/webb-opens-treasure-chest/" target="_blank" rel="noopener noreferrer">[N13] Webb Opens Treasure Chest</a> <span>NASA News Releases</span></li>
-<li><a href="https://www.universetoday.com/articles/synchronized-stars-power-cosmic-radio-laser" target="_blank" rel="noopener noreferrer">[N14] White Dwarf-Red Dwarf Binaries Power Cosmic Lasers</a> <span>Universe Today</span></li>
-<li><a href="https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/" target="_blank" rel="noopener noreferrer">[N15] APOD: 2026 August 22 – Mostly Perseids</a> <span>NASA News Releases</span></li>
-<li><a href="https://phys.org/news/2026-08-stellar-black-hole-flares-dimmer.html" target="_blank" rel="noopener noreferrer">[N16] Stellar spin may explain why repeated black hole flares grow dimmer</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-dark-stars-left-gravitational-echoes.html" target="_blank" rel="noopener noreferrer">[N17] Dark Stars may have left gravitational-wave echoes across the universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-stellar-explosions-focus-nuclear-reaction.html" target="_blank" rel="noopener noreferrer">[N18] Stellar explosions come into focus with new nuclear reaction measurements</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://skyandtelescope.org/astronomy-news/" target="_blank" rel="noopener noreferrer">[N19] Sky &amp; Telescope News: current cosmology news source</a> <span>Sky &amp; Telescope News</span></li>
-<li><a href="https://www.universetoday.com/articles/dry-martian-meteorite-reveals-early-water-in-marss-crust" target="_blank" rel="noopener noreferrer">[N20] Dry Martian Meteorite Reveals Early Water in Mars&#x27;s Crust</a> <span>Universe Today</span></li>
+<li><a href="https://arxiv.org/abs/2608.20288v1" target="_blank" rel="noopener noreferrer">[N1] Transient Early Dark Energy-Like Dynamics as a Mechanism for Enhanced Early Structure Formation in the JWST Era</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20236v1" target="_blank" rel="noopener noreferrer">[N2] SPT-3G+: A Cosmic Microwave Background Experiment for the South Pole Telescope</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19432v1" target="_blank" rel="noopener noreferrer">[N3] Does Early Dark Energy Absorb the DESI Late-Time Dynamics Signal? A Combined Analysis</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19781v1" target="_blank" rel="noopener noreferrer">[N4] Quintessential α-attractors, updated</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20296v1" target="_blank" rel="noopener noreferrer">[N5] A blind spot in transverse BAO calibration</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20219v1" target="_blank" rel="noopener noreferrer">[N6] Inflation on the lattice: scalar Gauss-Bonnet single field inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20095v1" target="_blank" rel="noopener noreferrer">[N7] Non-minimal Unimodular Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19039v1" target="_blank" rel="noopener noreferrer">[N8] Dipolar power asymmetry in wide-angle correlations of galaxy density, velocity and ellipticity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20293v1" target="_blank" rel="noopener noreferrer">[N9] Non-Minimally Coupled Warm Inflation in the Defining Frame</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19883v1" target="_blank" rel="noopener noreferrer">[N10] A Prediction for DESI Full-Shape: Increasing Tomographic $Ω_m(z)$ Trend</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20262v1" target="_blank" rel="noopener noreferrer">[N11] Probabilistic kilonova prediction from gravitational wave inferred binary neutron star parameters</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.20085v1" target="_blank" rel="noopener noreferrer">[N12] Effective Field Theory for Freezing Gravity with Minimally Coupled Matter</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.19378v1" target="_blank" rel="noopener noreferrer">[N13] Stochastic Schwinger Effect: de Sitter and beyond</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19307v1" target="_blank" rel="noopener noreferrer">[N14] The Challenge of Observing Patchy Reionization with CMB Optical-Depth Fluctuations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20185v1" target="_blank" rel="noopener noreferrer">[N15] An Analytical Two Incompressible Fluid Star with a Mixed Ordinary Dark Matter Core and an Ordinary Matter Envelope</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.20180v1" target="_blank" rel="noopener noreferrer">[N16] A Buchdahl solution generator for Einstein-sigma gravity and multiscalar-tensor gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.20081v1" target="_blank" rel="noopener noreferrer">[N17] Analyzing Quasi-normal modes spectrum in asymptotically de Sitter black bounces and their optical appearance</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.19765v1" target="_blank" rel="noopener noreferrer">[N18] How Inflation Might Explain Large-Scale Anisotropy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19482v1" target="_blank" rel="noopener noreferrer">[N19] WIMP Freeze-Out in Diffusive Unimodular Gravity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19321v1" target="_blank" rel="noopener noreferrer">[N20] Detectable subhalo impacts in Milky Way streams</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
