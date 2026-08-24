@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-24T14:41:38.660746+05:30
+date: 2026-08-24T20:39:50.083180+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "2:41PM"
+run_time_ist: "8:39PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 2:41PM</h1>
+<h1 class="brief-run">Gemini Summary: 8:39PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Transient early dark energy dynamics are proposed as a mechanism to explain enhanced early structure formation observed by JWST.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.20288v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The SPT-3G+ receiver, planned for early 2029, will enhance the South Pole Telescope&#x27;s cosmic microwave background observations with advanced polarization-sensitive pixels.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.20236v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Physicists have created microscopic &quot;Big Bang&quot; conditions by colliding small atomic nuclei, producing quark-gluon plasma.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/08/260822015143.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Transient early dark energy-like dynamics may explain enhanced early structure formation observed by JWST.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.20288v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> SPT-3G+ is a new CMB survey receiver planned for early 2029 on the South Pole Telescope, enhancing polarization sensitivity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.20236v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A ghostly ribbon of stars around a distant galaxy has been identified, providing a new method to estimate its dark matter content.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/08/260823015000.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -41,19 +41,19 @@ run_time_ist: "2:41PM"
 <li><a href="https://arxiv.org/abs/2608.20095v1" target="_blank" rel="noopener noreferrer">[N5] Non-minimal Unimodular Inflation</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.21253v1" target="_blank" rel="noopener noreferrer">[N6] Model independent lensing sub-structure detection with multiply-imaged star clusters constellations</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.21226v1" target="_blank" rel="noopener noreferrer">[N7] Physical Calibration of a Minimal Effective Field Theory of the Three-Dimensional Lyman-$α$ Forest</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.20897v1" target="_blank" rel="noopener noreferrer">[N8] Probing cosmological phase transitions with SKAO through nano-Hz gravitational-wave portal</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.20085v1" target="_blank" rel="noopener noreferrer">[N9] Effective Field Theory for Freezing Gravity with Minimally Coupled Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.19883v1" target="_blank" rel="noopener noreferrer">[N10] A Prediction for DESI Full-Shape: Increasing Tomographic $Ω_m(z)$ Trend</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260822015143.htm" target="_blank" rel="noopener noreferrer">[N11] Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2608.21323v1" target="_blank" rel="noopener noreferrer">[N12] Diversity of Galaxy Centers from Small-Scale Isocurvature</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.21283v1" target="_blank" rel="noopener noreferrer">[N13] Static electric and magnetic traversable wormholes in $(2+1)$-dimensional nonlinear electrodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.21222v1" target="_blank" rel="noopener noreferrer">[N14] Black holes become comoving with the universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.20296v1" target="_blank" rel="noopener noreferrer">[N15] A blind spot in transverse BAO calibration</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.20219v1" target="_blank" rel="noopener noreferrer">[N16] Inflation on the lattice: scalar Gauss-Bonnet single field inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.21193v1" target="_blank" rel="noopener noreferrer">[N17] Resonance crossings as entire functions of the Koopman operator</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.21184v1" target="_blank" rel="noopener noreferrer">[N18] Scalar dark matter in space-based gravitational-wave detectors: center-of-mass motion, size breathing, and TDI projection</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.21118v1" target="_blank" rel="noopener noreferrer">[N19] Mannheim--Kazanas Black Holes: Horizons, Temperatures and Thermodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.21018v1" target="_blank" rel="noopener noreferrer">[N20] Optical-area minimum method for static spherical black hole shadows</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.20085v1" target="_blank" rel="noopener noreferrer">[N8] Effective Field Theory for Freezing Gravity with Minimally Coupled Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19883v1" target="_blank" rel="noopener noreferrer">[N9] A Prediction for DESI Full-Shape: Increasing Tomographic $Ω_m(z)$ Trend</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260823015000.htm" target="_blank" rel="noopener noreferrer">[N10] A ghostly ribbon of stars reveals hidden dark matter</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2608.21323v1" target="_blank" rel="noopener noreferrer">[N11] Diversity of Galaxy Centers from Small-Scale Isocurvature</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.21283v1" target="_blank" rel="noopener noreferrer">[N12] Static electric and magnetic traversable wormholes in $(2+1)$-dimensional nonlinear electrodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.21222v1" target="_blank" rel="noopener noreferrer">[N13] Black holes become comoving with the universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.20296v1" target="_blank" rel="noopener noreferrer">[N14] A blind spot in transverse BAO calibration</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20219v1" target="_blank" rel="noopener noreferrer">[N15] Inflation on the lattice: scalar Gauss-Bonnet single field inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20897v1" target="_blank" rel="noopener noreferrer">[N16] Probing cosmological phase transitions with SKAO through nano-Hz gravitational-wave portal</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.20293v1" target="_blank" rel="noopener noreferrer">[N17] Non-Minimally Coupled Warm Inflation in the Defining Frame</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.19765v1" target="_blank" rel="noopener noreferrer">[N18] How Inflation Might Explain Large-Scale Anisotropy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260822015143.htm" target="_blank" rel="noopener noreferrer">[N19] Physicists create a tiny “Big Bang” with surprisingly small atomic nuclei</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260822015141.htm" target="_blank" rel="noopener noreferrer">[N20] JWST finds early galaxies may be 4 times more massive than thought</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
