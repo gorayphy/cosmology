@@ -1,34 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-25T14:36:23.882844+05:30
-summary: "Latest cosmology research, jobs, and fellowships for researchers and students."
-run_time_ist: "2:36PM"
+date: 2026-08-25T20:43:55.835648+05:30
+summary: "Latest research and opportunities in cosmology for researchers and students."
+run_time_ist: "8:43PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 2:36PM</h1>
+<h1 class="brief-run">Gemini Summary: 8:43PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Strong gravitational lensing offers crucial data for understanding cosmic acceleration, with upcoming surveys poised to yield millions of galaxy-galaxy lensing systems.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.23534v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Recent DESI DR2 observations prompt investigation into dark sector interactions beyond the standard $\Lambda$CDM model, particularly concerning a time-varying dark energy equation of state.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.21938v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> NASA&#x27;s Nancy Grace Roman Space Telescope, designed to probe dark energy and other cosmic mysteries, is preparing for launch coverage.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Strong gravitational lensing cosmology can be advanced using neural ratio estimation with upcoming galaxy surveys.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.23534v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Environment-driven evolutionary pathways for primordial black holes are investigated using hydrodynamical simulations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.23498v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> NASA&#x27;s Roman Space Telescope, designed to study dark energy, is preparing for launch.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for Indian institutes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for Indian institutes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page for Indian institutes.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, commonly used for international applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -36,25 +35,25 @@ run_time_ist: "2:36PM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2608.23534v1" target="_blank" rel="noopener noreferrer">[N1] Strong Lensing Cosmology with Population-level Calibrated Neural Ratio Estimation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.21938v1" target="_blank" rel="noopener noreferrer">[N2] Beyond dynamical dark energy: the role of dark sector interactions after DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.23498v1" target="_blank" rel="noopener noreferrer">[N3] The Road to Normalcy: Environment-Driven Evolutionary Pathways for Primordial Black Holes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.23367v1" target="_blank" rel="noopener noreferrer">[N4] Black holes from a Higgs-like field in the radiation era</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.23451v1" target="_blank" rel="noopener noreferrer">[N5] Inflationary Kicks and Coulomb Filtering of Spectator Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.22846v1" target="_blank" rel="noopener noreferrer">[N6] Impact of Bubble Nucleation History and Friction on Primordial Black Hole Formation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.22087v1" target="_blank" rel="noopener noreferrer">[N7] Particle Dark Matter in the 1980s and 1990s</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.23498v1" target="_blank" rel="noopener noreferrer">[N2] The Road to Normalcy: Environment-Driven Evolutionary Pathways for Primordial Black Holes</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.23367v1" target="_blank" rel="noopener noreferrer">[N3] Black holes from a Higgs-like field in the radiation era</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.23451v1" target="_blank" rel="noopener noreferrer">[N4] Inflationary Kicks and Coulomb Filtering of Spectator Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.22846v1" target="_blank" rel="noopener noreferrer">[N5] Impact of Bubble Nucleation History and Friction on Primordial Black Hole Formation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.22087v1" target="_blank" rel="noopener noreferrer">[N6] Particle Dark Matter in the 1980s and 1990s</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.21938v1" target="_blank" rel="noopener noreferrer">[N7] Beyond dynamical dark energy: the role of dark sector interactions after DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/" target="_blank" rel="noopener noreferrer">[N8] NASA Sets Coverage for Roman Space Telescope Launch from Florida</a> <span>NASA News Releases</span></li>
-<li><a href="https://arxiv.org/abs/2608.23243v1" target="_blank" rel="noopener noreferrer">[N9] Analytical Cosmological Collider at Strong Mixing in Laplace Space</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.23447v1" target="_blank" rel="noopener noreferrer">[N10] Action-selected currents and a singular conservation closure in two-fluid energy--momentum-squared cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.23162v1" target="_blank" rel="noopener noreferrer">[N11] Dynamics of Wave Structures in Multifield Fuzzy Dark Matter Halos</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.23091v1" target="_blank" rel="noopener noreferrer">[N12] Gravitationally-decoupled hairy black holes: probing geometric, optical, and quasinormal mode signatures</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.23325v1" target="_blank" rel="noopener noreferrer">[N13] Kerr Black Hole Uniqueness</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.23269v1" target="_blank" rel="noopener noreferrer">[N14] Gravitational lensing outside and inside of a marginally unstable photon sphere at a $Z_2$-symmetric wormhole throat in strong deflection limits</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.23117v1" target="_blank" rel="noopener noreferrer">[N15] Relational Quantum Causal Processes toward Quantum Gravity with Controlled Einstein Response</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.21963v1" target="_blank" rel="noopener noreferrer">[N16] Searching for signatures of self-interacting dark matter in halos from full-physics simulations: From 3D structure to projected observables</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.23528v1" target="_blank" rel="noopener noreferrer">[N17] From arithmetic spectra to a quantum-corrected black hole geometry</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.23496v1" target="_blank" rel="noopener noreferrer">[N18] Dynamical Love numbers of analogue rotating black and white holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.23477v1" target="_blank" rel="noopener noreferrer">[N19] Updated Upper Limits on the Isotropic Gravitational-Wave Background from LIGO, Virgo, and KAGRA Data through April 2025</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.23355v1" target="_blank" rel="noopener noreferrer">[N20] Scalar charge bounds for extremal black hole formation</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.23447v1" target="_blank" rel="noopener noreferrer">[N9] Action-selected currents and a singular conservation closure in two-fluid energy--momentum-squared cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.23243v1" target="_blank" rel="noopener noreferrer">[N10] Analytical Cosmological Collider at Strong Mixing in Laplace Space</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-08-limits-phase-transitions-dark-energy.html" target="_blank" rel="noopener noreferrer">[N11] Setting limits on phase transitions in the dark energy era</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260823015019.htm" target="_blank" rel="noopener noreferrer">[N12] Newton’s 300-year-old law just passed its biggest test yet</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2608.23528v1" target="_blank" rel="noopener noreferrer">[N13] From arithmetic spectra to a quantum-corrected black hole geometry</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.23496v1" target="_blank" rel="noopener noreferrer">[N14] Dynamical Love numbers of analogue rotating black and white holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.23477v1" target="_blank" rel="noopener noreferrer">[N15] Updated Upper Limits on the Isotropic Gravitational-Wave Background from LIGO, Virgo, and KAGRA Data through April 2025</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.23162v1" target="_blank" rel="noopener noreferrer">[N16] Dynamics of Wave Structures in Multifield Fuzzy Dark Matter Halos</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.23091v1" target="_blank" rel="noopener noreferrer">[N17] Gravitationally-decoupled hairy black holes: probing geometric, optical, and quasinormal mode signatures</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.21353v1" target="_blank" rel="noopener noreferrer">[N18] High-Energy Neutrino Constraints on memory burdened Bardeen and Kerr Primordial Black Holes</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.23325v1" target="_blank" rel="noopener noreferrer">[N19] Kerr Black Hole Uniqueness</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.23269v1" target="_blank" rel="noopener noreferrer">[N20] Gravitational lensing outside and inside of a marginally unstable photon sphere at a $Z_2$-symmetric wormhole throat in strong deflection limits</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
