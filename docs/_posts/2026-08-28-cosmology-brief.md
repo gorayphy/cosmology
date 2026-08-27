@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-28T00:40:56.037490+05:30
+date: 2026-08-28T05:21:32.580830+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "12:40AM"
+run_time_ist: "5:21AM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 12:40AM</h1>
+<h1 class="brief-run">Gemini Summary: 5:21AM</h1>
 
 <hr class="brief-rule">
 
@@ -17,19 +17,19 @@ run_time_ist: "12:40AM"
 <ul class="digest-points">
 <li><p><strong>Optimal Redshift for Dark Energy:</strong> New formalism and application to cosmological data suggest dynamical dark energy and a phantom crossing of the CPL equation of state.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.25229v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://arxiv.org/abs/2608.25278v1" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
 <li><p><strong>Primordial Non-Gaussianity Constraints:</strong> The thermal Sunyaev-Zeldovich and integrated Sachs-Wolfe effect cross-correlation can constrain primordial non-Gaussianity, offering insights into early Universe physics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.25809v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Cosmic Web Hierarchy:</strong> A hierarchical reconstruction scheme is used to unravel the sub-structure of cosmic filaments, revealing a hierarchy within the cosmic web.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.25840v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Cosmic Web Hierarchy:</strong> A hierarchical reconstruction scheme is used to unravel the sub-structure of cosmic filaments, revealing a &quot;filaments within filaments&quot; hierarchy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.25840v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>KICP Postdoctoral Research Fellowship:</strong> A postdoctoral position at the University of Chicago, relevant for global academic HEP/astrophysics/cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>ESA Research Fellowship in Space Science:</strong> Postdoctoral fellowships offered by the European Space Agency, open to international applicants.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Kavli IPMU Postdoctoral Fellowships:</strong> Postdoctoral positions at the University of Tokyo&#x27;s Kavli IPMU, suitable for global academic researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>DESY Postdoctoral Fellowships:</strong> Expression of Interest for Particle Physics and Quantum Technologies Postdoctoral Fellowships at DESY, Zeuthen, open globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>U. Cape Town Postdoctoral Fellowship:</strong> A fellowship in High Energy Physics, Cosmology &amp; Astrophysics Theory at the University of Cape Town, open to international applicants.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3191010" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>U. Naples Assistant Professor:</strong> A tenure-track Assistant Professor position in Astrophysics, Cosmology and Space Science at the University of Naples, open globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>KICP Postdoctoral Research Fellowship:</strong> A postdoctoral position at the University of Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>ESA Research Fellowship in Space Science:</strong> Postdoctoral fellowships offered by the European Space Agency.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Postdoctoral Fellowships at the Kavli IPMU:</strong> Fellowships available at the Kavli Institute for the Physics and Mathematics of the Universe, Tokyo.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Particle Physics and Quantum Technologies Postdoctoral Fellowships:</strong> Expression of interest for postdoctoral fellowships at DESY, Zeuthen.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Postdoctoral Fellowship in HEPCAT group:</strong> A postdoctoral position at the University of Cape Town.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3191010" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Tenure-Track Assistant Professor Position:</strong> An academic position in Astrophysics, Cosmology and Space Science at the University of Naples.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>PRL Job Vacancies and Fellowships:</strong> A portal for current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
