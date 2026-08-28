@@ -1,62 +1,62 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-28T05:21:32.580830+05:30
+date: 2026-08-28T17:10:48.277460+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "5:21AM"
+run_time_ist: "5:10PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 5:21AM</h1>
+<h1 class="brief-run">Gemini Summary: 5:10PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Optimal Redshift for Dark Energy:</strong> New formalism and application to cosmological data suggest dynamical dark energy and a phantom crossing of the CPL equation of state.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.25229v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://arxiv.org/abs/2608.25278v1" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
-<li><p><strong>Primordial Non-Gaussianity Constraints:</strong> The thermal Sunyaev-Zeldovich and integrated Sachs-Wolfe effect cross-correlation can constrain primordial non-Gaussianity, offering insights into early Universe physics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.25809v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Cosmic Web Hierarchy:</strong> A hierarchical reconstruction scheme is used to unravel the sub-structure of cosmic filaments, revealing a &quot;filaments within filaments&quot; hierarchy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.25840v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Primordial black holes are explored as potential dark-matter candidates with observable imprints on structure formation and gravitational-wave astronomy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.26247v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The Atacama Cosmology Telescope provides new constraints on anisotropic screening and birefringence effects using DR6 data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.27458v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new early dark energy model with an inverse power-law tail is proposed to alleviate the Hubble tension.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.26507v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>KICP Postdoctoral Research Fellowship:</strong> A postdoctoral position at the University of Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>ESA Research Fellowship in Space Science:</strong> Postdoctoral fellowships offered by the European Space Agency.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Postdoctoral Fellowships at the Kavli IPMU:</strong> Fellowships available at the Kavli Institute for the Physics and Mathematics of the Universe, Tokyo.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Particle Physics and Quantum Technologies Postdoctoral Fellowships:</strong> Expression of interest for postdoctoral fellowships at DESY, Zeuthen.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Postdoctoral Fellowship in HEPCAT group:</strong> A postdoctoral position at the University of Cape Town.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3191010" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Tenure-Track Assistant Professor Position:</strong> An academic position in Astrophysics, Cosmology and Space Science at the University of Naples.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>PRL Job Vacancies and Fellowships:</strong> A portal for current cosmology, astrophysics, and physics opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> KICP Postdoctoral Research Fellowship at the University of Chicago offers global opportunities for HEP/astrophysics/cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) provides global opportunities for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at the University of Tokyo offers global opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Expression of Interest: Particle Physics and Quantum Technologies Postdoctoral Fellowships Opportunity at DESY, Zeuthen is available globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellowship in the High Energy Physics, Cosmology &amp; Astrophysics Theory (HEPCAT) group at the University of Cape Town is available globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3191010" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor Position in Astrophysics, Cosmology and Space Science at the University of Naples is available globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology provides a global portal for current cosmology, astrophysics, and physics opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2608.25229v1" target="_blank" rel="noopener noreferrer">[N1] The optimal redshift for dark energy I: formalism and interpretation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.25809v1" target="_blank" rel="noopener noreferrer">[N2] Constraining primordial non-Gaussianity and energy injection with the thermal Sunyaev-Zeldovich effect and integrated Sachs-Wolfe effect cross-correlation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.25278v1" target="_blank" rel="noopener noreferrer">[N3] The optimal redshift for dark energy II: application to cosmological data and the evidence for the phantom crossing of the CPL equation of state</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.24432v1" target="_blank" rel="noopener noreferrer">[N4] Dark-to-black super-accretion as a spin-imprinting mechanism for supermassive Kerr black holes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.24413v1" target="_blank" rel="noopener noreferrer">[N5] The Primordial power spectrum from the largest to smallest CMB scales</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.25338v1" target="_blank" rel="noopener noreferrer">[N6] Multi-messenger signal from QCD-Axion Ultracompact Minihalos</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.25016v1" target="_blank" rel="noopener noreferrer">[N7] Quantifying the systematic impact of differential beam response on the BICEP CMB polarization data from 2016 through 2024</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.24456v1" target="_blank" rel="noopener noreferrer">[N8] CMB Birefringence from Axion String Networks Calibrated to an AMR Simulation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.24433v1" target="_blank" rel="noopener noreferrer">[N9] Gaussian process reconstruction of scalar field dynamics from recent cosmological data</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260827010457.htm" target="_blank" rel="noopener noreferrer">[N10] A mysterious cosmic hum may come from 13-billion-year-old dark stars</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-08-crisis-cosmology-critical-problems-defense.html" target="_blank" rel="noopener noreferrer">[N11] The crisis in cosmology continues: Critical problems in a recent defense of cosmic acceleration</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2608.25840v1" target="_blank" rel="noopener noreferrer">[N12] Filaments within filaments: unraveling the hierarchy of the cosmic web</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.24682v1" target="_blank" rel="noopener noreferrer">[N13] Chebyshev interpolation in Einstein-Boltzmann codes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.24591v1" target="_blank" rel="noopener noreferrer">[N14] First application of weak lensing peak steepness statistics to HSC Y1 data: effectively probing halo density profiles</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.25954v1" target="_blank" rel="noopener noreferrer">[N15] Dark Matters of Principle: Principles in the Dark Matter Paradigm</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.25911v1" target="_blank" rel="noopener noreferrer">[N16] An Inverse Lyth Bound for Non-Attractor Inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.25632v1" target="_blank" rel="noopener noreferrer">[N17] Distinguishing cold and self-interacting dark matter through topological analysis</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.25060v1" target="_blank" rel="noopener noreferrer">[N18] Tracing Galaxy Bias Through the Cosmic Web: The Role of Filaments</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.25004v1" target="_blank" rel="noopener noreferrer">[N19] Slowly Rolling on a Quantum Correction</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.24990v1" target="_blank" rel="noopener noreferrer">[N20] What would it take for dark matter to be literally warm?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26247v1" target="_blank" rel="noopener noreferrer">[N1] Primordial Black Holes as Cosmic Architects: Imprints of an extended mass function</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.27458v1" target="_blank" rel="noopener noreferrer">[N2] The Atacama Cosmology Telescope: Constraints on the anisotropic screening and birefringence effects with DR6</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.27376v1" target="_blank" rel="noopener noreferrer">[N3] Near universality of nonlinear transverse and radial velocity responses in spherical collapse with arbitrary radial profiles</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26668v1" target="_blank" rel="noopener noreferrer">[N4] ELUCID-DESI II. Revealing dark matter mass, tidal, and velocity (MTV) fields using galaxy group phase information</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.27388v1" target="_blank" rel="noopener noreferrer">[N5] Quantum Selection of Classical Histories</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26507v1" target="_blank" rel="noopener noreferrer">[N6] Revisiting the Hubble tension with an inverse power-law early dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26322v1" target="_blank" rel="noopener noreferrer">[N7] The MegaWave Radio Surveyor</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26276v1" target="_blank" rel="noopener noreferrer">[N8] $\texttt{SPINE}$: Symbolic Models to Predict the Evolution of the $Λ$CDM Nonlinear Power Spectrum</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26572v1" target="_blank" rel="noopener noreferrer">[N9] Approximating the peculiar velocity distribution of dark matter halos with Tsallis statistics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26331v1" target="_blank" rel="noopener noreferrer">[N10] HOLISMOKES -- XVIII. Cosmology with strongly lensed type II supernovae: Effects of instrumental setups on $H_0$</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26281v1" target="_blank" rel="noopener noreferrer">[N11] The host galaxies of 2003fg-like type Ia supernovae</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.27297v1" target="_blank" rel="noopener noreferrer">[N12] Emergent vacua and stability constraints on black hole solutions in higher-dimensional $f(R)$ gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.27014v1" target="_blank" rel="noopener noreferrer">[N13] Conformal Cyclic Cosmology from Varying Fundamental Constants</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.26467v1" target="_blank" rel="noopener noreferrer">[N14] Direct and Indirect searches for DM-electron interactions in sub-GeV DM models</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26258v1" target="_blank" rel="noopener noreferrer">[N15] Getting Warmer: IceCube Nears Freeze Out</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.27293v1" target="_blank" rel="noopener noreferrer">[N16] Electric and magnetic Penrose processes, charged-particle collisions and superradiance around a Lorentz-violating dyonic black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.27103v1" target="_blank" rel="noopener noreferrer">[N17] An isoperimetric characterization of a new ADM-like mass for $C^0$-asymptotically flat manifolds</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.26997v1" target="_blank" rel="noopener noreferrer">[N18] Testing holographic computation of entanglement pseudo-entropy in dS\textsubscript{3}/ICFT\textsubscript{2}</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260827010457.htm" target="_blank" rel="noopener noreferrer">[N19] A mysterious cosmic hum may come from 13-billion-year-old dark stars</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2608.26920v1" target="_blank" rel="noopener noreferrer">[N20] Bumpy inflation from explosive particle production</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
