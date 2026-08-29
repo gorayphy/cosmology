@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-29T19:24:28.794600+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "7:24PM"
+date: 2026-08-29T23:16:28.338834+05:30
+summary: "Latest research, news, and opportunities in cosmology for researchers and students."
+run_time_ist: "11:16PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 7:24PM</h1>
+<h1 class="brief-run">Gemini Summary: 11:16PM</h1>
 
 <hr class="brief-rule">
 
@@ -25,8 +25,8 @@ run_time_ist: "7:24PM"
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
 <li><p><strong>Role/program:</strong> KICP Postdoctoral Research Fellowship at the University of Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) at the European Space Agency.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at the University of Tokyo.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships).</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026), University of Tokyo.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Expression of Interest: Particle Physics and Quantum Technologies Postdoctoral Fellowships Opportunity at DESY.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Postdoctoral Research Associate for Physics Analysis at Mainz University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3197109" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Postdoctoral Fellowship in the High Energy Physics, Cosmology &amp; Astrophysics Theory (HEPCAT) group at the University of Cape Town.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3191010" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
@@ -43,15 +43,15 @@ run_time_ist: "7:24PM"
 <li><a href="https://arxiv.org/abs/2608.26507v1" target="_blank" rel="noopener noreferrer">[N4] Revisiting the Hubble tension with an inverse power-law early dark energy</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.26322v1" target="_blank" rel="noopener noreferrer">[N5] The MegaWave Radio Surveyor</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.26276v1" target="_blank" rel="noopener noreferrer">[N6] $\texttt{SPINE}$: Symbolic Models to Predict the Evolution of the $Λ$CDM Nonlinear Power Spectrum</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260828082333.htm" target="_blank" rel="noopener noreferrer">[N7] NASA’s Roman telescope will see 100 times more sky than Hubble</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2608.27376v1" target="_blank" rel="noopener noreferrer">[N8] Near universality of nonlinear transverse and radial velocity responses in spherical collapse with arbitrary radial profiles</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.26572v1" target="_blank" rel="noopener noreferrer">[N9] Approximating the peculiar velocity distribution of dark matter halos with Tsallis statistics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.26331v1" target="_blank" rel="noopener noreferrer">[N10] HOLISMOKES -- XVIII. Cosmology with strongly lensed type II supernovae: Effects of instrumental setups on $H_0$</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.26281v1" target="_blank" rel="noopener noreferrer">[N11] The host galaxies of 2003fg-like type Ia supernovae</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260828082325.htm" target="_blank" rel="noopener noreferrer">[N12] The universe is still speeding up, but nobody knows why</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2608.27388v1" target="_blank" rel="noopener noreferrer">[N13] Quantum Selection of Classical Histories</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.26467v1" target="_blank" rel="noopener noreferrer">[N14] Direct and Indirect searches for DM-electron interactions in sub-GeV DM models</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.26258v1" target="_blank" rel="noopener noreferrer">[N15] Getting Warmer: IceCube Nears Freeze Out</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.27376v1" target="_blank" rel="noopener noreferrer">[N7] Near universality of nonlinear transverse and radial velocity responses in spherical collapse with arbitrary radial profiles</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26572v1" target="_blank" rel="noopener noreferrer">[N8] Approximating the peculiar velocity distribution of dark matter halos with Tsallis statistics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26331v1" target="_blank" rel="noopener noreferrer">[N9] HOLISMOKES -- XVIII. Cosmology with strongly lensed type II supernovae: Effects of instrumental setups on $H_0$</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26281v1" target="_blank" rel="noopener noreferrer">[N10] The host galaxies of 2003fg-like type Ia supernovae</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260828082325.htm" target="_blank" rel="noopener noreferrer">[N11] The universe is still speeding up, but nobody knows why</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2608.27388v1" target="_blank" rel="noopener noreferrer">[N12] Quantum Selection of Classical Histories</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26467v1" target="_blank" rel="noopener noreferrer">[N13] Direct and Indirect searches for DM-electron interactions in sub-GeV DM models</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26258v1" target="_blank" rel="noopener noreferrer">[N14] Getting Warmer: IceCube Nears Freeze Out</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260828082333.htm" target="_blank" rel="noopener noreferrer">[N15] NASA’s Roman telescope will see 100 times more sky than Hubble</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://www.sciencedaily.com/releases/2026/08/260827010457.htm" target="_blank" rel="noopener noreferrer">[N16] A mysterious cosmic hum may come from 13-billion-year-old dark stars</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://arxiv.org/abs/2608.26920v1" target="_blank" rel="noopener noreferrer">[N17] Bumpy inflation from explosive particle production</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.26785v1" target="_blank" rel="noopener noreferrer">[N18] Gravitational Lensing of Hayward Black Holes with EFT-Corrected Photon Propagation</a> <span>arXiv gr-qc Cosmology Search</span></li>
