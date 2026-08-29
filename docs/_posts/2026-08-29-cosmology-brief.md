@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-29T05:06:37.814037+05:30
+date: 2026-08-29T12:47:19.969567+05:30
 summary: "Latest research, news, and opportunities in cosmology for researchers and students."
-run_time_ist: "5:06AM"
+run_time_ist: "12:47PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 5:06AM</h1>
+<h1 class="brief-run">Gemini Summary: 12:47PM</h1>
 
 <hr class="brief-rule">
 
@@ -16,7 +16,7 @@ run_time_ist: "5:06AM"
 <h2>Cosmology News</h2>
 <ul class="digest-points">
 <li><p><strong>Topic:</strong> Primordial black holes are explored as potential dark matter candidates and relics of early-universe physics, with implications for structure formation and gravitational waves.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.26247v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A new method reconstructs cosmic mass, tidal, and velocity fields using galaxy group phase information, offering insights into dark matter distribution.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.26668v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new method using galaxy group phase information reconstructs cosmic mass, tidal, and velocity fields across a significant redshift range.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.26668v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Topic:</strong> The Atacama Cosmology Telescope provides constraints on anisotropic screening and birefringence effects in the CMB.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.27458v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
@@ -25,7 +25,7 @@ run_time_ist: "5:06AM"
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
 <li><p><strong>Role/program:</strong> KICP Postdoctoral Research Fellowship at U. Chicago, a global opportunity for HEP/astrophysics/cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) for global applicants in space science.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) offers global opportunities for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo University, a global opportunity for HEP/astrophysics/cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Expression of Interest: Particle Physics and Quantum Technologies Postdoctoral Fellowships Opportunity at DESY, a global opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Postdoctoral Research Associate for Physics Analysis at Mainz University, a global opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3197109" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
@@ -85,14 +85,14 @@ run_time_ist: "5:06AM"
 <li><a href="https://www.saha.ac.in/web/positions" target="_blank" rel="noopener noreferrer">[J26] SINP Positions: current cosmology, astrophysics, and physics opportunities page</a> <span>SINP Positions</span></li>
 <li><a href="https://euraxess.ec.europa.eu/jobs" target="_blank" rel="noopener noreferrer">[J27] EURAXESS Research Jobs: current cosmology, astrophysics, and physics opportunities page</a> <span>EURAXESS Research Jobs</span></li>
 <li><a href="https://academicpositions.com/find-jobs?fields%5B0%5D=physics" target="_blank" rel="noopener noreferrer">[J28] Academic Positions Physics: current cosmology, astrophysics, and physics opportunities page</a> <span>Academic Positions Physics</span></li>
-<li><a href="https://inspirehep.net/jobs/3189857" target="_blank" rel="noopener noreferrer">[J29] Postdoctoral Associate / Scientist, Interferometric Signal Processing (Radio Astronomy &amp; Remote Sensing)</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3188948" target="_blank" rel="noopener noreferrer">[J30] Postdoctoral position: neutrino and dark matter physics (experiment or phenomenology)</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3189858" target="_blank" rel="noopener noreferrer">[J31] Postdoctoral Associate / Scientist, Superconducting Detector Systems (mm-Wave &amp; Sub-mm)</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3190489" target="_blank" rel="noopener noreferrer">[J32] Foreign Faculty Position</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3190228" target="_blank" rel="noopener noreferrer">[J33] CCAPP Postdoctoral Fellows</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3188534" target="_blank" rel="noopener noreferrer">[J34] Faculty Position for Theoretical Cosmology, High-energy Astrophysics, Nuclear Physics, and Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3196519" target="_blank" rel="noopener noreferrer">[J35] Postdoctoral position</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3188933" target="_blank" rel="noopener noreferrer">[J36] Postdoctoral Researcher in Theoretical Particle Physics and Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3188948" target="_blank" rel="noopener noreferrer">[J29] Postdoctoral position: neutrino and dark matter physics (experiment or phenomenology)</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3190489" target="_blank" rel="noopener noreferrer">[J30] Foreign Faculty Position</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3190228" target="_blank" rel="noopener noreferrer">[J31] CCAPP Postdoctoral Fellows</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3188534" target="_blank" rel="noopener noreferrer">[J32] Faculty Position for Theoretical Cosmology, High-energy Astrophysics, Nuclear Physics, and Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3196519" target="_blank" rel="noopener noreferrer">[J33] Postdoctoral position</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3188933" target="_blank" rel="noopener noreferrer">[J34] Postdoctoral Researcher in Theoretical Particle Physics and Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3189857" target="_blank" rel="noopener noreferrer">[J35] Postdoctoral Associate / Scientist, Interferometric Signal Processing (Radio Astronomy &amp; Remote Sensing)</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3189858" target="_blank" rel="noopener noreferrer">[J36] Postdoctoral Associate / Scientist, Superconducting Detector Systems (mm-Wave &amp; Sub-mm)</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">[J37] JSPS Postdoctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>JSPS Postdoctoral Fellowship</span></li>
 <li><a href="https://inspirehep.net/jobs/3197131" target="_blank" rel="noopener noreferrer">[J38] Associate Professor of Theoretical Physics</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3189558" target="_blank" rel="noopener noreferrer">[J39] PhD Position: Light Dark Matter Search with the XENONnT Experiment – ANR LowDM Project</a> <span>INSPIRE HEP Jobs API</span></li>
