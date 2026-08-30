@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-08-30T19:23:37.822100+05:30
+date: 2026-08-30T23:38:14.608701+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "7:23PM"
+run_time_ist: "11:38PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 7:23PM</h1>
+<h1 class="brief-run">Gemini Summary: 11:38PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Primordial black holes are explored as potential dark matter candidates and relics of early-universe physics, with implications for structure formation and gravitational waves.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.26247v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The Atacama Cosmology Telescope (ACT) DR6 data is used to constrain anisotropic screening and birefringence effects in the CMB.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.27458v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A new early dark energy model with an inverse power-law potential is proposed to address the Hubble tension.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.26507v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Primordial black holes are explored as potential dark matter candidates and relics of early-universe physics, with implications for structure formation and gravitational-wave astronomy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.26247v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A novel method is introduced to reconstruct cosmic mass, tidal, and velocity fields using galaxy group phase information, offering a new approach to studying dark matter.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.26668v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> NASA&#x27;s Roman Space Telescope has launched, aiming to discover exoplanets, investigate dark energy, and conduct unprecedented cosmic surveys.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -25,12 +25,12 @@ run_time_ist: "7:23PM"
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
 <li><p><strong>Role/program:</strong> KICP Postdoctoral Research Fellowship at U. Chicago offers global opportunities for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) provides global opportunities for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo University offers global opportunities for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Expression of Interest: Particle Physics and Quantum Technologies Postdoctoral Fellowships Opportunity at DESY provides global opportunities for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Research Associate for Physics Analysis at Mainz University offers global opportunities for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3197109" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowship in the High Energy Physics, Cosmology &amp; Astrophysics Theory (HEPCAT) group at U. Cape Town offers global opportunities for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3191010" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor Position in Astrophysics, Cosmology and Space Science at U. Naples offers global opportunities for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) provides global opportunities for space science researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U. are available globally for cosmology and astrophysics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Expression of Interest: Particle Physics and Quantum Technologies Postdoctoral Fellowships Opportunity at DESY, Zeuthen, is a global opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Research Associate for Physics Analysis at Mainz U. is a global opportunity for physics researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3197109" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellowship in the High Energy Physics, Cosmology &amp; Astrophysics Theory (HEPCAT) group at U. Cape Town is available globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3191010" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor Position in Astrophysics, Cosmology and Space Science at U. Naples offers global opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -38,25 +38,25 @@ run_time_ist: "7:23PM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2608.26247v1" target="_blank" rel="noopener noreferrer">[N1] Primordial Black Holes as Cosmic Architects: Imprints of an extended mass function</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.27458v1" target="_blank" rel="noopener noreferrer">[N2] The Atacama Cosmology Telescope: Constraints on the anisotropic screening and birefringence effects with DR6</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.27376v1" target="_blank" rel="noopener noreferrer">[N3] Near universality of nonlinear transverse and radial velocity responses in spherical collapse with arbitrary radial profiles</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.26668v1" target="_blank" rel="noopener noreferrer">[N4] ELUCID-DESI II. Revealing dark matter mass, tidal, and velocity (MTV) fields using galaxy group phase information</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.27388v1" target="_blank" rel="noopener noreferrer">[N5] Quantum Selection of Classical Histories</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.26507v1" target="_blank" rel="noopener noreferrer">[N6] Revisiting the Hubble tension with an inverse power-law early dark energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.26322v1" target="_blank" rel="noopener noreferrer">[N7] The MegaWave Radio Surveyor</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.26276v1" target="_blank" rel="noopener noreferrer">[N8] $\texttt{SPINE}$: Symbolic Models to Predict the Evolution of the $Λ$CDM Nonlinear Power Spectrum</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260828082333.htm" target="_blank" rel="noopener noreferrer">[N9] NASA’s Roman telescope will see 100 times more sky than Hubble</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2608.26668v1" target="_blank" rel="noopener noreferrer">[N2] ELUCID-DESI II. Revealing dark matter mass, tidal, and velocity (MTV) fields using galaxy group phase information</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html" target="_blank" rel="noopener noreferrer">[N3] NASA&#x27;s newest Roman space telescope launches on a quest to explore the hidden universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2608.27458v1" target="_blank" rel="noopener noreferrer">[N4] The Atacama Cosmology Telescope: Constraints on the anisotropic screening and birefringence effects with DR6</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26507v1" target="_blank" rel="noopener noreferrer">[N5] Revisiting the Hubble tension with an inverse power-law early dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26322v1" target="_blank" rel="noopener noreferrer">[N6] The MegaWave Radio Surveyor</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26276v1" target="_blank" rel="noopener noreferrer">[N7] $\texttt{SPINE}$: Symbolic Models to Predict the Evolution of the $Λ$CDM Nonlinear Power Spectrum</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260828082333.htm" target="_blank" rel="noopener noreferrer">[N8] NASA’s Roman telescope will see 100 times more sky than Hubble</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2608.27376v1" target="_blank" rel="noopener noreferrer">[N9] Near universality of nonlinear transverse and radial velocity responses in spherical collapse with arbitrary radial profiles</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.26572v1" target="_blank" rel="noopener noreferrer">[N10] Approximating the peculiar velocity distribution of dark matter halos with Tsallis statistics</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.26331v1" target="_blank" rel="noopener noreferrer">[N11] HOLISMOKES -- XVIII. Cosmology with strongly lensed type II supernovae: Effects of instrumental setups on $H_0$</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.26281v1" target="_blank" rel="noopener noreferrer">[N12] The host galaxies of 2003fg-like type Ia supernovae</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.sciencedaily.com/releases/2026/08/260828082325.htm" target="_blank" rel="noopener noreferrer">[N13] The universe is still speeding up, but nobody knows why</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2608.27297v1" target="_blank" rel="noopener noreferrer">[N14] Emergent vacua and stability constraints on black hole solutions in higher-dimensional $f(R)$ gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.27388v1" target="_blank" rel="noopener noreferrer">[N14] Quantum Selection of Classical Histories</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.26467v1" target="_blank" rel="noopener noreferrer">[N15] Direct and Indirect searches for DM-electron interactions in sub-GeV DM models</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2608.26258v1" target="_blank" rel="noopener noreferrer">[N16] Getting Warmer: IceCube Nears Freeze Out</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.universetoday.com/articles/measuring-the-mass-of-the-universe-isnt-as-simple-as-astronomers-thought" target="_blank" rel="noopener noreferrer">[N17] A Tool for Measuring the Mass of the Stars, Galaxies, and the Universe Gets a Tweak</a> <span>Universe Today</span></li>
-<li><a href="https://arxiv.org/abs/2608.27293v1" target="_blank" rel="noopener noreferrer">[N18] Electric and magnetic Penrose processes, charged-particle collisions and superradiance around a Lorentz-violating dyonic black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260827010457.htm" target="_blank" rel="noopener noreferrer">[N19] A mysterious cosmic hum may come from 13-billion-year-old dark stars</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2608.26920v1" target="_blank" rel="noopener noreferrer">[N20] Bumpy inflation from explosive particle production</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260827010457.htm" target="_blank" rel="noopener noreferrer">[N18] A mysterious cosmic hum may come from 13-billion-year-old dark stars</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2608.26920v1" target="_blank" rel="noopener noreferrer">[N19] Bumpy inflation from explosive particle production</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.26785v1" target="_blank" rel="noopener noreferrer">[N20] Gravitational Lensing of Hayward Black Holes with EFT-Corrected Photon Propagation</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
