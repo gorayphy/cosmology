@@ -1,59 +1,59 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-01T11:00:21.611907+05:30
-summary: "Latest cosmology news, jobs, and fellowships for researchers and students."
-run_time_ist: "11:00AM"
+date: 2026-09-01T19:05:31.182631+05:30
+summary: "Latest news and opportunities in cosmology for researchers and students."
+run_time_ist: "7:05PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 11:00AM</h1>
+<h1 class="brief-run">Gemini Summary: 7:05PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> SPT-3G presents a new CMB lensing potential map from 2019-2020 observations, advancing CMB cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.31136v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> DESI DR1 catalogs are used to measure peculiar velocity and redshift dipole, potentially addressing the cosmic dipole tension.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.30914v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> NASA&#x27;s Nancy Grace Roman Space Telescope has successfully launched to survey the infrared sky, promising new insights into dark matter and dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/08/260831035213.htm" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
+<li><p><strong>Topic:</strong> NASA&#x27;s Nancy Grace Roman Space Telescope has successfully launched to survey the infrared sky, aiming to study dark matter, dark energy, and exoplanets.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/08/260831035213.htm" target="_blank" rel="noopener noreferrer">↗ Source 2</a><a class="source-chip" href="https://www.universetoday.com/articles/roman-rises-five-things-to-know-about-nasas-new-space-telescope" target="_blank" rel="noopener noreferrer">↗ Source 3</a><a class="source-chip" href="https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html" target="_blank" rel="noopener noreferrer">↗ Source 4</a></div></li>
+<li><p><strong>Topic:</strong> Researchers have identified four &#x27;Little Red Dot&#x27; pairs hinting at massive black hole mergers in the early universe, based on James Webb Space Telescope infrared images.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-08-red-dot-pairs-hint-black.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New research explores the resonant interaction between gravitational waves and chiral Alfvén waves in the early Universe&#x27;s magnetized chiral plasma.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.30985v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> KICP Postdoctoral Research Fellowship at U. Chicago, a global opportunity for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) offers global opportunities for space science researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U., a global opportunity for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor Position in Astrophysics, Cosmology and Space Science at U. Naples, a global academic opening.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) at the European Space Agency offers global opportunities for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> KICP Postdoctoral Research Fellowship at the University of Chicago is a global opportunity for cosmology and astrophysics researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3187718" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at the University of Tokyo provides global opportunities for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor Position in Astrophysics, Cosmology and Space Science at the University of Naples offers global opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2608.31136v1" target="_blank" rel="noopener noreferrer">[N1] SPT-3G D1: Quadratic-Estimator CMB Lensing Reconstruction and Cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.30914v1" target="_blank" rel="noopener noreferrer">[N2] Measuring peculiar velocity and tomographic redshift dipole with DESI DR1 catalogs</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">[N3] Roman lifts off on a mission to survey the infrared sky</a> <span>ESA Top News</span></li>
-<li><a href="https://arxiv.org/abs/2608.30838v1" target="_blank" rel="noopener noreferrer">[N4] Cosmic variance and ergodicity in finite systems with correlations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.30766v1" target="_blank" rel="noopener noreferrer">[N5] A consistent, physical, and analytical model for CMB observables of reionisation I. Derivation, constraining power, and detectability of the auto-spectra</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.30985v1" target="_blank" rel="noopener noreferrer">[N6] Resonant Dynamics of Gravitational Wave and Chiral Alfvén wave in the Early Universe</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.30599v1" target="_blank" rel="noopener noreferrer">[N7] Not all those missing are lost: leveraging galaxy clustering in incomplete catalogs to unleash dark sirens cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.30500v1" target="_blank" rel="noopener noreferrer">[N8] Thermodynamic reconstruction in observationally constrained dynamical dark energy models</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260831035213.htm" target="_blank" rel="noopener noreferrer">[N9] NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-08-red-dot-pairs-hint-black.html" target="_blank" rel="noopener noreferrer">[N10] Four &#x27;Little Red Dot&#x27; pairs hint at black hole mergers in early universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2608.30115v1" target="_blank" rel="noopener noreferrer">[N11] Building a Better Beta: Nucleation and Timescales in Cosmological Phase Transitions</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.29059v1" target="_blank" rel="noopener noreferrer">[N12] Primordial black holes and induced gravitational waves from localized features in DBI inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.31129v1" target="_blank" rel="noopener noreferrer">[N13] Asymptotic Gravitational Radiation of Photon Rockets with $Λ$: Point, String, and Sheet Sources</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.31072v1" target="_blank" rel="noopener noreferrer">[N14] Constants of motion and fundamental frequencies for elliptic orbits at fourth post-Newtonian order: aligned-spin contributions</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.31039v1" target="_blank" rel="noopener noreferrer">[N15] Bekenstein--Hod Bound: A $3.3σ$ Confirmation from GW250114</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.30995v1" target="_blank" rel="noopener noreferrer">[N16] Constraining equation of state of neutron star using neutron star-black hole mergers</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.30950v1" target="_blank" rel="noopener noreferrer">[N17] Saha&#x27;s ionization in the Schwarzschild spacetime</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.30784v1" target="_blank" rel="noopener noreferrer">[N18] Gravitational-Wave Echoes from Layered Compact Objects: A Double-Shell Model</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2608.30079v1" target="_blank" rel="noopener noreferrer">[N19] Host Dependence and Line-of-Sight Effects on Galaxy-Galaxy Strong Lensing in Clusters</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2608.29687v1" target="_blank" rel="noopener noreferrer">[N20] Spheroidal Resampling Analysis of High-Redshift Gamma-Ray Burst Spatial Densities</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">[N1] Roman lifts off on a mission to survey the infrared sky</a> <span>ESA Top News</span></li>
+<li><a href="https://arxiv.org/abs/2608.30838v1" target="_blank" rel="noopener noreferrer">[N2] Cosmic variance and ergodicity in finite systems with correlations</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.30985v1" target="_blank" rel="noopener noreferrer">[N3] Resonant Dynamics of Gravitational Wave and Chiral Alfvén wave in the Early Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-08-red-dot-pairs-hint-black.html" target="_blank" rel="noopener noreferrer">[N4] Four &#x27;Little Red Dot&#x27; pairs hint at black hole mergers in early universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2608.31163v1" target="_blank" rel="noopener noreferrer">[N5] Evolution of Cosmic String Loops under Gravitational Backreaction</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.31129v1" target="_blank" rel="noopener noreferrer">[N6] Asymptotic Gravitational Radiation of Photon Rockets with $Λ$: Point, String, and Sheet Sources</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.31072v1" target="_blank" rel="noopener noreferrer">[N7] Constants of motion and fundamental frequencies for elliptic orbits at fourth post-Newtonian order: aligned-spin contributions</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.31039v1" target="_blank" rel="noopener noreferrer">[N8] Bekenstein--Hod Bound: A $3.3σ$ Confirmation from GW250114</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.30995v1" target="_blank" rel="noopener noreferrer">[N9] Constraining equation of state of neutron star using neutron star-black hole mergers</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.30950v1" target="_blank" rel="noopener noreferrer">[N10] Saha&#x27;s ionization in the Schwarzschild spacetime</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.30784v1" target="_blank" rel="noopener noreferrer">[N11] Gravitational-Wave Echoes from Layered Compact Objects: A Double-Shell Model</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260831035213.htm" target="_blank" rel="noopener noreferrer">[N12] NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2608.31152v1" target="_blank" rel="noopener noreferrer">[N13] Coarse-grained models for loop quantum gravity and their renormalization</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.30599v1" target="_blank" rel="noopener noreferrer">[N14] Not all those missing are lost: leveraging galaxy clustering in incomplete catalogs to unleash dark sirens cosmology</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.30759v1" target="_blank" rel="noopener noreferrer">[N15] Geometric origin of intrinsic rigidity for extremal horizons</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.30755v1" target="_blank" rel="noopener noreferrer">[N16] External magnetic-field effects on dipolar-particle orbits and critical collisions in Kerr--Bertotti--Robinson spacetime</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.30533v1" target="_blank" rel="noopener noreferrer">[N17] Brane effective actions and their island rule from $T\overline T$ flows</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2608.30448v1" target="_blank" rel="noopener noreferrer">[N18] Structure of the Riemann tensor in higher-dimensional Kerr-NUT-(A)dS spaces</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.universetoday.com/articles/roman-rises-five-things-to-know-about-nasas-new-space-telescope" target="_blank" rel="noopener noreferrer">[N19] Roman Rises! Five Things to Know About NASA&#x27;s New Space Telescope</a> <span>Universe Today</span></li>
+<li><a href="https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html" target="_blank" rel="noopener noreferrer">[N20] NASA&#x27;s newest space telescope launches on a quest to explore the hidden universe</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
