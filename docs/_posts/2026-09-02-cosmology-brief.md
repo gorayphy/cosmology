@@ -1,62 +1,62 @@
 ---
 layout: default
-title: "Cosmology Brief"
-date: 2026-09-02T10:26:25.631212+05:30
-summary: "Latest cosmology research signals and academic opportunity links from configured sources."
-run_time_ist: "10:26AM"
+title: "Cosmology Digest"
+date: 2026-09-02T18:21:41.059650+05:30
+summary: "Latest cosmology news, research, and job opportunities for researchers."
+run_time_ist: "6:21PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Headline Digest: 10:26AM</h1>
+<h1 class="brief-run">Gemini Summary: 6:21PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>ESA Top News:</strong> Roman lifts off on a mission to survey the infrared sky.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>ScienceDaily Space and Time:</strong> NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/08/260831035213.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Phys.org Astronomy and Space:</strong> MeerKAT directly detects faint hydrogen signal from the distant universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-meerkat-faint-hydrogen-distant-universe.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> SPT-3G presents a new CMB lensing potential map from 2019-2020 observations, advancing CMB cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.31136v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR1 catalogs are used to measure peculiar velocity and redshift dipole, potentially addressing the cosmic dipole tension.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2608.30914v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> NASA&#x27;s Nancy Grace Roman Space Telescope has successfully launched to survey the infrared sky and investigate dark matter and dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/08/260831035213.htm" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>PRL Job Vacancies and Fellowships:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>TIFR Astronomy and Astrophysics Careers:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>IUCAA Opportunities:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>HRI Physics Postdoctoral Fellowships:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Academic Jobs Online Cosmology:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>ANRF National Post Doctoral Fellowship:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>IUCAA Faculty Openings:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) at European Space Agency.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U., IPMU.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> E. Margaret Burbidge Prize Postdoctoral Fellowship in Astrophysics at U. Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198261" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Expression of Interest: Particle Physics and Quantum Technologies Postdoctoral Fellowships Opportunity at DESY, Zeuthen.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3188739" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Research Associate for Physics Analysis at Mainz U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3197109" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor Position in Astrophysics, Cosmology and Space Science at U. Naples.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3189627" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">[N1] Roman lifts off on a mission to survey the infrared sky</a> <span>ESA Top News</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260831035213.htm" target="_blank" rel="noopener noreferrer">[N2] NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-09-meerkat-faint-hydrogen-distant-universe.html" target="_blank" rel="noopener noreferrer">[N3] MeerKAT directly detects faint hydrogen signal from the distant universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-red-dot-pairs-hint-black.html" target="_blank" rel="noopener noreferrer">[N4] Four &#x27;Little Red Dot&#x27; pairs hint at black hole mergers in early universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.universetoday.com/articles/scientists-intrigued-by-a-surprising-result-in-the-search-for-dark-matter" target="_blank" rel="noopener noreferrer">[N5] Scientists Intrigued by a Surprising Result in the Search for Dark Matter</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/astronomers-find-little-red-dots-about-to-merge" target="_blank" rel="noopener noreferrer">[N6] Astronomers Find Little Red Dots About to Merge</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/roman-rises-five-things-to-know-about-nasas-new-space-telescope" target="_blank" rel="noopener noreferrer">[N7] Roman Rises! Five Things to Know About NASA&#x27;s New Space Telescope</a> <span>Universe Today</span></li>
-<li><a href="https://phys.org/news/2026-08-nasa-roman-space-telescope-quest.html" target="_blank" rel="noopener noreferrer">[N8] NASA&#x27;s newest space telescope launches on a quest to explore the hidden universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260828082333.htm" target="_blank" rel="noopener noreferrer">[N9] NASA’s Roman telescope will see 100 times more sky than Hubble</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260827010457.htm" target="_blank" rel="noopener noreferrer">[N10] A mysterious cosmic hum may come from 13-billion-year-old dark stars</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-08-crisis-cosmology-critical-problems-defense.html" target="_blank" rel="noopener noreferrer">[N11] The crisis in cosmology continues: Critical problems in a recent defense of cosmic acceleration</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260826055448.htm" target="_blank" rel="noopener noreferrer">[N12] NASA’s Roman Space Telescope is ready to hunt thousands of alien worlds</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N13] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N14] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-08-ska-dialogue-historical-astronomical-archives.html" target="_blank" rel="noopener noreferrer">[N15] The SKA project: A model for dialogue between historical astronomical archives, local memory and modern science</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260828082325.htm" target="_blank" rel="noopener noreferrer">[N16] The universe is still speeding up, but nobody knows why</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.universetoday.com/articles/measuring-the-mass-of-the-universe-isnt-as-simple-as-astronomers-thought" target="_blank" rel="noopener noreferrer">[N17] A Tool for Measuring the Mass of the Stars, Galaxies, and the Universe Gets a Tweak</a> <span>Universe Today</span></li>
-<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N18] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
-<li><a href="https://phys.org/news/2026-08-jwst-reveals-ii-supernova-universe.html" target="_blank" rel="noopener noreferrer">[N19] JWST reveals likely Type II supernova from when universe was only 2 billion years old</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-milky-gravity-mimic-dark-clues.html" target="_blank" rel="noopener noreferrer">[N20] Milky Way&#x27;s own gravity can mimic dark matter clues, stellar stream simulations suggest</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2608.31136v1" target="_blank" rel="noopener noreferrer">[N1] SPT-3G D1: Quadratic-Estimator CMB Lensing Reconstruction and Cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.30914v1" target="_blank" rel="noopener noreferrer">[N2] Measuring peculiar velocity and tomographic redshift dipole with DESI DR1 catalogs</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">[N3] Roman lifts off on a mission to survey the infrared sky</a> <span>ESA Top News</span></li>
+<li><a href="https://arxiv.org/abs/2609.01391v1" target="_blank" rel="noopener noreferrer">[N4] Scalar wave scattering by black holes embedded in dark matter halos</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.01238v1" target="_blank" rel="noopener noreferrer">[N5] First tomographic measurements of the angular clustering and bias of photometric quasars from S-PLUS</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.00115v1" target="_blank" rel="noopener noreferrer">[N6] Early Supermassive Black Holes and Little Red Dots Require Free-Fall Growth</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.30838v1" target="_blank" rel="noopener noreferrer">[N7] Cosmic variance and ergodicity in finite systems with correlations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.00992v1" target="_blank" rel="noopener noreferrer">[N8] Dissipative Multi-Field Dynamics from Non-Hermitian Inflationary Potentials</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.01583v1" target="_blank" rel="noopener noreferrer">[N9] Higgsino Dark Matter Interpretation of the LUX-ZEPLIN 248 keV Nuclear-Recoil Event</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.00841v1" target="_blank" rel="noopener noreferrer">[N10] Combining Systematic Effects in CMB Polarization Experiments through map-based simulations: application to LiteBIRD&#x27;s HWP non-idealities and detectors non-linearity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.00807v1" target="_blank" rel="noopener noreferrer">[N11] Baryonic feedback suppression of the matter power spectrum: a three-parameter fitting formula and its single-parameter reduction</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.00437v1" target="_blank" rel="noopener noreferrer">[N12] Formation of Heavy Seed Black Holes and Little Red Dots-like Compact Clusters in Metal-enriched Star-forming Regions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.00221v1" target="_blank" rel="noopener noreferrer">[N13] Radiative Corrections and Reheating in Supergravity Models of Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2608.30985v1" target="_blank" rel="noopener noreferrer">[N14] Resonant Dynamics of Gravitational Wave and Chiral Alfvén wave in the Early Universe</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.01568v1" target="_blank" rel="noopener noreferrer">[N15] Enabling gravitational-wave astronomy with spin-precessing black holes on generic orbits</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.01332v1" target="_blank" rel="noopener noreferrer">[N16] Perturbative Double-Scalar Hair on Planar Black Holes in AdS$_{4}$ Einstein-Scalar Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.01290v1" target="_blank" rel="noopener noreferrer">[N17] Deviations from Kerr: Polar critical curves and photon rings in a class of separable spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.01177v1" target="_blank" rel="noopener noreferrer">[N18] Josephson interferometry in an Oppenheimer--Snyder-like scale-dependent black-hole spacetime</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.01003v1" target="_blank" rel="noopener noreferrer">[N19] A Class of Exact Single-Field Inflationary Solutions beyond Slow Roll</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/08/260831035213.htm" target="_blank" rel="noopener noreferrer">[N20] NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
