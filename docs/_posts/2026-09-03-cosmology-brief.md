@@ -1,33 +1,36 @@
 ---
 layout: default
-title: "Cosmology Digest"
-date: 2026-09-03T10:23:17.577332+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "10:23AM"
+title: "Cosmology Brief"
+date: 2026-09-03T18:25:02.039018+05:30
+summary: "Latest cosmology research signals and academic opportunity links from configured sources."
+run_time_ist: "6:25PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:23AM</h1>
+<h1 class="brief-run">Headline Digest: 6:25PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> The Roman Space Telescope has successfully launched, marking a significant step for infrared sky surveys.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Blast.jl offers differentiable non-Limber power spectra for joint clustering, shear, and CMB lensing analyses, crucial for upcoming large-scale structure surveys.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.01855v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> New research explores gravitational imprints of axion clouds on black-hole orbital dynamics, providing a laboratory for ultralight scalar fields.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.02757v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Blast.jl: Differentiable Non-Limber Power Spectra for Joint Clustering, Shear, and CMB lensing Analyses.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.01855v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Gravitational Imprints of Axion Clouds on Black-Hole Orbital Dynamics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.02757v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Primordial Black Hole Assisted Dirac Leptogenesis.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.01717v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) at European Space Agency.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Tenure-Track Faculty Position in Physics: Particle Physics, Gravity and Cosmology at Biobio U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198780" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U., IPMU.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> E. Margaret Burbidge Prize Postdoctoral Fellowship in Astrophysics at U. Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198261" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>PRL Job Vacancies and Fellowships:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>TIFR Astronomy and Astrophysics Careers:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>IUCAA Opportunities:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>HRI Physics Postdoctoral Fellowships:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Academic Jobs Online Cosmology:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>ANRF National Post Doctoral Fellowship:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>IUCAA Faculty Openings:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -36,24 +39,24 @@ run_time_ist: "10:23AM"
 <ul>
 <li><a href="https://arxiv.org/abs/2609.01855v1" target="_blank" rel="noopener noreferrer">[N1] Blast.jl: Differentiable Non-Limber Power Spectra for Joint Clustering, Shear, and CMB lensing Analyses</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.02757v1" target="_blank" rel="noopener noreferrer">[N2] Gravitational Imprints of Axion Clouds on Black-Hole Orbital Dynamics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">[N3] Roman lifts off on a mission to survey the infrared sky</a> <span>ESA Top News</span></li>
-<li><a href="https://arxiv.org/abs/2609.02313v1" target="_blank" rel="noopener noreferrer">[N4] Redshift Spectroscopy as a Probe of Regular Black Holes, Black Bounces, and Scalar-Hair Compact Objects</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.01717v1" target="_blank" rel="noopener noreferrer">[N5] Primordial Black Hole Assisted Dirac Leptogenesis</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.00992v1" target="_blank" rel="noopener noreferrer">[N6] Dissipative Multi-Field Dynamics from Non-Hermitian Inflationary Potentials</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.02775v1" target="_blank" rel="noopener noreferrer">[N7] Strong Constraints on Higgsino Dark Matter from Solar Capture</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.02521v1" target="_blank" rel="noopener noreferrer">[N8] Universal fingerprint of topological defect cores</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.02456v1" target="_blank" rel="noopener noreferrer">[N9] Horizon energy fluctuations beyond Einstein&#x27;s gravity: Gauss-Bonnet, Lovelock and Quantum deformed frameworks</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.02185v1" target="_blank" rel="noopener noreferrer">[N10] Disc-Based Estimation of the Local Dark Matter Density and Velocity Distribution in IllustrisTNG50</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.02102v1" target="_blank" rel="noopener noreferrer">[N11] Cosmological implications for hairy black holes via spontaneous symmetry breaking: Are Hairy Black Holes Primordial?</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.02090v1" target="_blank" rel="noopener noreferrer">[N12] BICEP/Keck XXII: Analysis of the South Pole Atmosphere for CMB Observations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.01977v1" target="_blank" rel="noopener noreferrer">[N13] Inflationary Magnetogenesis with f(R) Gravity: Dynamics, Constraints, and Observational Signatures during Reheating</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.01238v1" target="_blank" rel="noopener noreferrer">[N14] First tomographic measurements of the angular clustering and bias of photometric quasars from S-PLUS</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.00841v1" target="_blank" rel="noopener noreferrer">[N15] Combining Systematic Effects in CMB Polarization Experiments through map-based simulations: application to LiteBIRD&#x27;s HWP non-idealities and detectors non-linearity</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.02867v1" target="_blank" rel="noopener noreferrer">[N16] Magnetized accretion onto rapidly spinning binary black holes: mini-disk thermodynamics, magnetic transport, and dual jets</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.02816v1" target="_blank" rel="noopener noreferrer">[N17] Zero-damped modes of near-extremal Reissner--Nordström black holes from exact WKB</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.02655v1" target="_blank" rel="noopener noreferrer">[N18] Relativistic stellar collapse of initially static configurations</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.02380v1" target="_blank" rel="noopener noreferrer">[N19] The Analytical Solutions of Dyonic Black Holes in Einstein-Euler-Heisenberg Theory</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.02223v1" target="_blank" rel="noopener noreferrer">[N20] Accretion dynamics of thin and thick disks in charged Kalb-Ramond black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.01717v1" target="_blank" rel="noopener noreferrer">[N3] Primordial Black Hole Assisted Dirac Leptogenesis</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.00992v1" target="_blank" rel="noopener noreferrer">[N4] Dissipative Multi-Field Dynamics from Non-Hermitian Inflationary Potentials</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">[N5] Roman lifts off on a mission to survey the infrared sky</a> <span>ESA Top News</span></li>
+<li><a href="https://arxiv.org/abs/2609.02775v1" target="_blank" rel="noopener noreferrer">[N6] Strong Constraints on Higgsino Dark Matter from Solar Capture</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.02102v1" target="_blank" rel="noopener noreferrer">[N7] Cosmological implications for hairy black holes via spontaneous symmetry breaking: Are Hairy Black Holes Primordial?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.02090v1" target="_blank" rel="noopener noreferrer">[N8] BICEP/Keck XXII: Analysis of the South Pole Atmosphere for CMB Observations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.01977v1" target="_blank" rel="noopener noreferrer">[N9] Inflationary Magnetogenesis with f(R) Gravity: Dynamics, Constraints, and Observational Signatures during Reheating</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.01238v1" target="_blank" rel="noopener noreferrer">[N10] First tomographic measurements of the angular clustering and bias of photometric quasars from S-PLUS</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.00841v1" target="_blank" rel="noopener noreferrer">[N11] Combining Systematic Effects in CMB Polarization Experiments through map-based simulations: application to LiteBIRD&#x27;s HWP non-idealities and detectors non-linearity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.02867v1" target="_blank" rel="noopener noreferrer">[N12] Magnetized accretion onto rapidly spinning binary black holes: mini-disk thermodynamics, magnetic transport, and dual jets</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.02816v1" target="_blank" rel="noopener noreferrer">[N13] Zero-damped modes of near-extremal Reissner--Nordström black holes from exact WKB</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.02655v1" target="_blank" rel="noopener noreferrer">[N14] Relativistic stellar collapse of initially static configurations</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.02313v1" target="_blank" rel="noopener noreferrer">[N15] Redshift Spectroscopy as a Probe of Regular Black Holes, Black Bounces, and Scalar-Hair Compact Objects</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.01712v1" target="_blank" rel="noopener noreferrer">[N16] Axion Quality from Exact Proton Stability</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.01003v1" target="_blank" rel="noopener noreferrer">[N17] A Class of Exact Single-Field Inflationary Solutions beyond Slow Roll</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.02825v1" target="_blank" rel="noopener noreferrer">[N18] Charged black-hole binary radiation at second post-Newtonian order</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.02742v1" target="_blank" rel="noopener noreferrer">[N19] An Exact Engine for Black-Hole Jets</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.02674v1" target="_blank" rel="noopener noreferrer">[N20] Thermal Quantum Fluctuations in Einstein-Nonlinear Maxwell-Yukawa Black Hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
