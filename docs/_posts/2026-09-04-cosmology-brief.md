@@ -1,59 +1,62 @@
 ---
 layout: default
-title: "Cosmology Digest"
-date: 2026-09-04T10:28:13.499697+05:30
-summary: "Latest news, research, and opportunities in cosmology for researchers and students."
-run_time_ist: "10:28AM"
+title: "Cosmology Brief"
+date: 2026-09-04T18:18:58.522667+05:30
+summary: "Latest cosmology research signals and academic opportunity links from configured sources."
+run_time_ist: "6:18PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:28AM</h1>
+<h1 class="brief-run">Headline Digest: 6:18PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> NASA&#x27;s Nancy Grace Roman Space Telescope has successfully launched to survey the infrared sky, aiming to investigate dark matter, dark energy, and exoplanets.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/08/260831035213.htm" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
-<li><p><strong>Topic:</strong> A new study suggests that dark photons, a leading dark matter candidate, might be detectable in more locations than previously assumed.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.universetoday.com/articles/new-study-expands-search-for-dark-photons-a-leading-dark-matter-candidate" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Astronomers have directly detected a faint hydrogen signal from the distant universe using MeerKAT, offering a new method for mapping large-scale structures.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-meerkat-faint-hydrogen-distant-universe.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Euclid preparation. The shape of halo profiles in $Λ$CDM and non-standard cosmologies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.04192v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Blast.jl: Differentiable Non-Limber Power Spectra for Joint Clustering, Shear, and CMB lensing Analyses.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.01855v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Bright star-forming galaxies naturally forming at z&gt;10 in the Shark semi-analytic model.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.03537v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) at the European Space Agency, a global opportunity for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Tenure-Track Faculty Position in Physics: Particle Physics, Gravity and Cosmology at Biobio U., a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198780" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U., IPMU, a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> E. Margaret Burbidge Prize Postdoctoral Fellowship in Astrophysics at U. Chicago, a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198261" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>PRL Job Vacancies and Fellowships:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>TIFR Astronomy and Astrophysics Careers:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>IUCAA Opportunities:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>HRI Physics Postdoctoral Fellowships:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Academic Jobs Online Cosmology:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>ANRF National Post Doctoral Fellowship:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>IUCAA Faculty Openings:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2609.04192v1" target="_blank" rel="noopener noreferrer">[N1] Euclid preparation. The shape of halo profiles in $Λ$CDM and non-standard cosmologies</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.04112v1" target="_blank" rel="noopener noreferrer">[N2] Consistency between cosmological and standard siren observations in evolving dark energy</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">[N3] Roman lifts off on a mission to survey the infrared sky</a> <span>ESA Top News</span></li>
-<li><a href="https://arxiv.org/abs/2609.04111v1" target="_blank" rel="noopener noreferrer">[N4] Dyonic rotating cosmological black hole surrounded by quintessence</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.03979v1" target="_blank" rel="noopener noreferrer">[N5] Eight Local Couplings of Gravitational Waves from Unified Field Equations</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.04104v1" target="_blank" rel="noopener noreferrer">[N6] Gravitationally Induced Entanglement Across an Event Horizon</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.03983v1" target="_blank" rel="noopener noreferrer">[N7] Black holes in alternative theories of gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.03935v1" target="_blank" rel="noopener noreferrer">[N8] On the interplay between waveform systematics and lensing signatures in gravitational-wave signals</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.03859v1" target="_blank" rel="noopener noreferrer">[N9] A catalogue of insights from the fourth LIGO-Virgo-KAGRA observing run</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.03683v1" target="_blank" rel="noopener noreferrer">[N10] Long-lived ringing of Bronnikov--Kim brane-world black holes and wormholes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.03477v1" target="_blank" rel="noopener noreferrer">[N11] Dynamical Selection of Horizon-BMS Goldstone Modes in Evaporating Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.04053v1" target="_blank" rel="noopener noreferrer">[N12] An off-shell conformally invariant Galilean Weyl tensor</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.04051v1" target="_blank" rel="noopener noreferrer">[N13] Sgr A* as a Galactic PeVatron: Multimessenger Signatures of the Magnetic Penrose Process</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.03732v1" target="_blank" rel="noopener noreferrer">[N14] Not All Resonances Are Created Equal: Prioritizing Tidal Resonances in EMRIs</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.03393v1" target="_blank" rel="noopener noreferrer">[N15] Solutions for neutron stars in General Relativity from a complexity structure scalar boundary condition</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/08/260831035213.htm" target="_blank" rel="noopener noreferrer">[N16] NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.universetoday.com/articles/new-study-expands-search-for-dark-photons-a-leading-dark-matter-candidate" target="_blank" rel="noopener noreferrer">[N17] New Study Expands Search for &quot;Dark Photons,&quot; a Leading Dark Matter Candidate</a> <span>Universe Today</span></li>
-<li><a href="https://arxiv.org/abs/2609.03329v1" target="_blank" rel="noopener noreferrer">[N18] Introducing SINFONIA: Symplectic, slimplectic and Magnusian (Neural) Flows for Orbital Numerical Integration and Acceleration</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-09-meerkat-faint-hydrogen-distant-universe.html" target="_blank" rel="noopener noreferrer">[N19] MeerKAT directly detects faint hydrogen signal from the distant universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-08-red-dot-pairs-hint-black.html" target="_blank" rel="noopener noreferrer">[N20] Four &#x27;Little Red Dot&#x27; pairs hint at black hole mergers in early universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2609.04192v1" target="_blank" rel="noopener noreferrer">[N1] Euclid preparation. The shape of halo profiles in $Λ$CDM and non-standard cosmologies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.01855v1" target="_blank" rel="noopener noreferrer">[N2] Blast.jl: Differentiable Non-Limber Power Spectra for Joint Clustering, Shear, and CMB lensing Analyses</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.03537v1" target="_blank" rel="noopener noreferrer">[N3] Bright star-forming galaxies naturally forming at z&gt;10 in the Shark semi-analytic model</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04133v1" target="_blank" rel="noopener noreferrer">[N4] The moving lens effect: analytical modelling and foreground suppression</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04112v1" target="_blank" rel="noopener noreferrer">[N5] Consistency between cosmological and standard siren observations in evolving dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.03062v1" target="_blank" rel="noopener noreferrer">[N6] Reassessing Evidence for Dark-Sector Interactions with Dynamical Dark Energy and DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.02757v1" target="_blank" rel="noopener noreferrer">[N7] Gravitational Imprints of Axion Clouds on Black-Hole Orbital Dynamics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.01717v1" target="_blank" rel="noopener noreferrer">[N8] Primordial Black Hole Assisted Dirac Leptogenesis</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">[N9] Roman lifts off on a mission to survey the infrared sky</a> <span>ESA Top News</span></li>
+<li><a href="https://arxiv.org/abs/2609.04175v1" target="_blank" rel="noopener noreferrer">[N10] Confronting the Higgsino Interpretation of the LZ Event with the High-Energy Sideband</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04144v1" target="_blank" rel="noopener noreferrer">[N11] Inelastic Signatures of Electroweak Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04111v1" target="_blank" rel="noopener noreferrer">[N12] Dyonic rotating cosmological black hole surrounded by quintessence</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.03979v1" target="_blank" rel="noopener noreferrer">[N13] Eight Local Couplings of Gravitational Waves from Unified Field Equations</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.03649v1" target="_blank" rel="noopener noreferrer">[N14] Prospects for probing dark matter with filamentary 21cm emission</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.03012v1" target="_blank" rel="noopener noreferrer">[N15] Universal CMB Phase Coherence from Single-Field Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.02102v1" target="_blank" rel="noopener noreferrer">[N16] Cosmological implications for hairy black holes via spontaneous symmetry breaking: Are Hairy Black Holes Primordial?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.02090v1" target="_blank" rel="noopener noreferrer">[N17] BICEP/Keck XXII: Analysis of the South Pole Atmosphere for CMB Observations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.01977v1" target="_blank" rel="noopener noreferrer">[N18] Inflationary Magnetogenesis with f(R) Gravity: Dynamics, Constraints, and Observational Signatures during Reheating</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04104v1" target="_blank" rel="noopener noreferrer">[N19] Gravitationally Induced Entanglement Across an Event Horizon</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.03983v1" target="_blank" rel="noopener noreferrer">[N20] Black holes in alternative theories of gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
