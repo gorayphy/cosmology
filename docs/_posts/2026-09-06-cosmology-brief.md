@@ -1,54 +1,54 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-06T10:28:45.209363+05:30
-summary: "Latest cosmology news, research, and job opportunities for researchers and students."
-run_time_ist: "10:28AM"
+date: 2026-09-06T17:43:26.874347+05:30
+summary: "Latest research, missions, and opportunities in cosmology for researchers and students."
+run_time_ist: "5:43PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:28AM</h1>
+<h1 class="brief-run">Gemini Summary: 5:43PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> The Shark semi-analytic model predicts bright star-forming galaxies at z&gt;10, potentially challenging LCDM models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.03537v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Euclid&#x27;s preparation includes studying dark-matter halo profiles in LCDM and non-standard cosmologies using N-body simulations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.04192v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Blast.jl offers differentiable non-Limber power spectra for joint clustering, shear, and CMB lensing analyses, crucial for upcoming large-scale structure surveys.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.01855v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The Euclid mission is preparing to study dark-matter halo profiles in various cosmological models, using N-body simulations to differentiate between standard and non-standard cosmologies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.04192v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new tool, Blast.jl, has been developed for differentiable non-Limber power spectra, crucial for joint analyses of clustering, shear, and CMB lensing in upcoming large-scale structure surveys.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.01855v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The James Webb Space Telescope (JWST) has observed bright star-forming galaxies at z&gt;10, prompting re-evaluation of galaxy formation models within the Lambda Cold Dark Matter (LCDM) universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.03537v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) at ESA, offering global opportunities for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Tenure-Track Faculty Position in Physics: Particle Physics, Gravity and Cosmology at Biobio U., a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198780" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U., IPMU, a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Northwestern - UChicago Brinson Postdoctoral Fellowship in Astrophysics at Northwestern U., a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3199946" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) at European Space Agency, offering global opportunities for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Faculty Position in Physics: Particle Physics, Gravity and Cosmology at Biobio U., a global opportunity for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198780" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U., IPMU, providing global opportunities for cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Northwestern - UChicago Brinson Postdoctoral Fellowship in Astrophysics at Northwestern U., a global opportunity for astrophysics and cosmology researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3199946" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2609.03537v1" target="_blank" rel="noopener noreferrer">[N1] Bright star-forming galaxies naturally forming at z&gt;10 in the Shark semi-analytic model</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.04192v1" target="_blank" rel="noopener noreferrer">[N2] Euclid preparation. The shape of halo profiles in $Λ$CDM and non-standard cosmologies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.01855v1" target="_blank" rel="noopener noreferrer">[N3] Blast.jl: Differentiable Non-Limber Power Spectra for Joint Clustering, Shear, and CMB lensing Analyses</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04192v1" target="_blank" rel="noopener noreferrer">[N1] Euclid preparation. The shape of halo profiles in $Λ$CDM and non-standard cosmologies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.01855v1" target="_blank" rel="noopener noreferrer">[N2] Blast.jl: Differentiable Non-Limber Power Spectra for Joint Clustering, Shear, and CMB lensing Analyses</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.03537v1" target="_blank" rel="noopener noreferrer">[N3] Bright star-forming galaxies naturally forming at z&gt;10 in the Shark semi-analytic model</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.esa.int/ESA_Multimedia/Images/2026/08/Roman_lifts_off_on_a_mission_to_survey_the_infrared_sky" target="_blank" rel="noopener noreferrer">[N4] Roman lifts off on a mission to survey the infrared sky</a> <span>ESA Top News</span></li>
 <li><a href="https://arxiv.org/abs/2609.04133v1" target="_blank" rel="noopener noreferrer">[N5] The moving lens effect: analytical modelling and foreground suppression</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.04112v1" target="_blank" rel="noopener noreferrer">[N6] Consistency between cosmological and standard siren observations in evolving dark energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.03649v1" target="_blank" rel="noopener noreferrer">[N7] Prospects for probing dark matter with filamentary 21cm emission</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.03062v1" target="_blank" rel="noopener noreferrer">[N8] Reassessing Evidence for Dark-Sector Interactions with Dynamical Dark Energy and DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.02757v1" target="_blank" rel="noopener noreferrer">[N9] Gravitational Imprints of Axion Clouds on Black-Hole Orbital Dynamics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.01717v1" target="_blank" rel="noopener noreferrer">[N10] Primordial Black Hole Assisted Dirac Leptogenesis</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-09-black-hole-tons-star-dark.html" target="_blank" rel="noopener noreferrer">[N11] A black hole as light as 40 tons can exist inside a star if dark matter helps</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2609.04175v1" target="_blank" rel="noopener noreferrer">[N12] Confronting the Higgsino Interpretation of the LZ Event with the High-Energy Sideband</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.04144v1" target="_blank" rel="noopener noreferrer">[N13] Inelastic Signatures of Electroweak Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.04111v1" target="_blank" rel="noopener noreferrer">[N14] Dyonic rotating cosmological black hole surrounded by quintessence</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.03979v1" target="_blank" rel="noopener noreferrer">[N15] Eight Local Couplings of Gravitational Waves from Unified Field Equations</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.03062v1" target="_blank" rel="noopener noreferrer">[N7] Reassessing Evidence for Dark-Sector Interactions with Dynamical Dark Energy and DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.02757v1" target="_blank" rel="noopener noreferrer">[N8] Gravitational Imprints of Axion Clouds on Black-Hole Orbital Dynamics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.01717v1" target="_blank" rel="noopener noreferrer">[N9] Primordial Black Hole Assisted Dirac Leptogenesis</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-09-black-hole-tons-star-dark.html" target="_blank" rel="noopener noreferrer">[N10] A black hole as light as 40 tons can exist inside a star if dark matter helps</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2609.04175v1" target="_blank" rel="noopener noreferrer">[N11] Confronting the Higgsino Interpretation of the LZ Event with the High-Energy Sideband</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04144v1" target="_blank" rel="noopener noreferrer">[N12] Inelastic Signatures of Electroweak Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04111v1" target="_blank" rel="noopener noreferrer">[N13] Dyonic rotating cosmological black hole surrounded by quintessence</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.03979v1" target="_blank" rel="noopener noreferrer">[N14] Eight Local Couplings of Gravitational Waves from Unified Field Equations</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.03649v1" target="_blank" rel="noopener noreferrer">[N15] Prospects for probing dark matter with filamentary 21cm emission</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.03012v1" target="_blank" rel="noopener noreferrer">[N16] Universal CMB Phase Coherence from Single-Field Inflation</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.02102v1" target="_blank" rel="noopener noreferrer">[N17] Cosmological implications for hairy black holes via spontaneous symmetry breaking: Are Hairy Black Holes Primordial?</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.02090v1" target="_blank" rel="noopener noreferrer">[N18] BICEP/Keck XXII: Analysis of the South Pole Atmosphere for CMB Observations</a> <span>arXiv astro-ph.CO</span></li>
