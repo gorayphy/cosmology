@@ -1,33 +1,36 @@
 ---
 layout: default
-title: "Cosmology Digest"
-date: 2026-09-08T18:27:35.781952+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "6:27PM"
+title: "Cosmology Brief"
+date: 2026-09-08T23:29:26.771419+05:30
+summary: "Latest cosmology research signals and academic opportunity links from configured sources."
+run_time_ist: "11:29PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 6:27PM</h1>
+<h1 class="brief-run">Headline Digest: 11:29PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Combining Pantheon+ and DES-SN5YR supernova samples, referred to as Unite, provides updated Hubble diagrams and cosmological constraints with improved methodology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.05053v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> New research explores an interacting scenario between emergent dark energy and dark matter, where dark energy becomes effective only at late times.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.04990v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The DESI Legacy Imaging Surveys have released the largest 2D map of the universe, contributing to the study of dark energy&#x27;s effect on cosmic expansion.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-desi-legacy-imaging-survey-largest.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.05321v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Supernovae Unite: Combining Pantheon+ and DES-SN5YR.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.05053v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Late-Time Emergence of Dark Energy and Its Interaction with Dark Matter.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.04990v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) at European Space Agency, a global opportunity for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Tenure-Track Faculty Position in Physics: Particle Physics, Gravity and Cosmology at Biobio U., a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198780" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U., IPMU, a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Northwestern - UChicago Brinson Postdoctoral Fellowship in Astrophysics at Northwestern U., a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3199946" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>PRL Job Vacancies and Fellowships:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>TIFR Astronomy and Astrophysics Careers:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>IUCAA Opportunities:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>HRI Physics Postdoctoral Fellowships:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Academic Jobs Online Cosmology:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>ANRF National Post Doctoral Fellowship:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>IUCAA Faculty Openings:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -42,18 +45,18 @@ run_time_ist: "6:27PM"
 <li><a href="https://arxiv.org/abs/2609.05410v1" target="_blank" rel="noopener noreferrer">[N6] Early against Late: A contrast on dark energy in the light of DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.04334v1" target="_blank" rel="noopener noreferrer">[N7] Model Predictive Scoring Shows Specific BAO Observations (not SNIa) Drives $w_0w_a$ Tension</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.04746v1" target="_blank" rel="noopener noreferrer">[N8] Studies on the dark sector interaction from joint analysis of cosmological probes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.04192v1" target="_blank" rel="noopener noreferrer">[N9] Euclid preparation. The shape of halo profiles in $Λ$CDM and non-standard cosmologies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-09-desi-legacy-imaging-survey-largest.html" target="_blank" rel="noopener noreferrer">[N10] The DESI legacy imaging survey releases the largest 2D map of the universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-09-big-supernova-dataset-dark-energy.html" target="_blank" rel="noopener noreferrer">[N9] Big supernova dataset challenges dark energy theory</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2609.04192v1" target="_blank" rel="noopener noreferrer">[N10] Euclid preparation. The shape of halo profiles in $Λ$CDM and non-standard cosmologies</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.04510v1" target="_blank" rel="noopener noreferrer">[N11] Implementation of frequency-correlated noise in CMB component separation: Method, Validation, and Early Applications</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.05168v1" target="_blank" rel="noopener noreferrer">[N12] Cosmological Evolution of the Randall-Sundrum II Model with Running Vacuum: A Special Class of Solutions</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2609.04349v1" target="_blank" rel="noopener noreferrer">[N13] H I Absorbers as Beacons of Hidden Structure at $z \sim 3$: Multi-Component, Metal-Rich Absorption System near a Protocluster</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.04133v1" target="_blank" rel="noopener noreferrer">[N14] The moving lens effect: analytical modelling and foreground suppression</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.04112v1" target="_blank" rel="noopener noreferrer">[N15] Consistency between cosmological and standard siren observations in evolving dark energy</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.03649v1" target="_blank" rel="noopener noreferrer">[N16] Prospects for probing dark matter with filamentary 21cm emission</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.05020v1" target="_blank" rel="noopener noreferrer">[N17] Probing Dark Matter with Strongly Lensed Binary Black Hole Mergers: Prospects in the Near Future</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.04991v1" target="_blank" rel="noopener noreferrer">[N18] Expanding the scope of dark siren cosmology: Inferring the population properties of gravitational wave-hosting galaxies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.04829v1" target="_blank" rel="noopener noreferrer">[N19] A guide to choosing data compression methods for cosmological inference</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.04572v1" target="_blank" rel="noopener noreferrer">[N20] Does spatial curvature generate new thermodynamic criticality at the FLRW apparent horizon?</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-09-desi-legacy-imaging-survey-largest.html" target="_blank" rel="noopener noreferrer">[N17] The DESI legacy imaging survey releases the largest 2D map of the universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2609.05020v1" target="_blank" rel="noopener noreferrer">[N18] Probing Dark Matter with Strongly Lensed Binary Black Hole Mergers: Prospects in the Near Future</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04991v1" target="_blank" rel="noopener noreferrer">[N19] Expanding the scope of dark siren cosmology: Inferring the population properties of gravitational wave-hosting galaxies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04829v1" target="_blank" rel="noopener noreferrer">[N20] A guide to choosing data compression methods for cosmological inference</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
