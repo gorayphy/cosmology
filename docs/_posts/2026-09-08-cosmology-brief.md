@@ -1,59 +1,59 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-08T10:32:46.700730+05:30
-summary: "Latest cosmology news, research updates, and job opportunities for researchers."
-run_time_ist: "10:32AM"
+date: 2026-09-08T18:27:35.781952+05:30
+summary: "Latest research and opportunities in cosmology for researchers and students."
+run_time_ist: "6:27PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:32AM</h1>
+<h1 class="brief-run">Gemini Summary: 6:27PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> The DESI Legacy Imaging Surveys have released the largest 2D map of the universe, crucial for understanding dark energy&#x27;s role in cosmic expansion.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-desi-legacy-imaging-survey-largest.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Astronomers have directly detected a faint hydrogen signal from the distant universe using MeerKAT, enabling new methods for mapping large-scale structures.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-meerkat-faint-hydrogen-distant-universe.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://www.universetoday.com/articles/astronomers-hear-the-faint-whispers-of-cosmic-hydrogen-from-the-distant-past" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
-<li><p><strong>Topic:</strong> The 20th data release of the Sloan Digital Sky Survey (SDSS-V) provides extensive multispectral imaging and spectroscopic redshift data for cosmological studies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-20th-sloan-digital-sky-survey.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Combining Pantheon+ and DES-SN5YR supernova samples, referred to as Unite, provides updated Hubble diagrams and cosmological constraints with improved methodology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.05053v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New research explores an interacting scenario between emergent dark energy and dark matter, where dark energy becomes effective only at late times.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.04990v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The DESI Legacy Imaging Surveys have released the largest 2D map of the universe, contributing to the study of dark energy&#x27;s effect on cosmic expansion.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-desi-legacy-imaging-survey-largest.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) at European Space Agency offers global opportunities for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Tenure-Track Faculty Position in Physics: Particle Physics, Gravity and Cosmology at Biobio U. is a global opportunity for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198780" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U., IPMU offers global opportunities for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Northwestern - UChicago Brinson Postdoctoral Fellowship in Astrophysics at Northwestern U. provides global opportunities for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3199946" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) at European Space Agency, a global opportunity for researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Faculty Position in Physics: Particle Physics, Gravity and Cosmology at Biobio U., a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198780" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U., IPMU, a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Northwestern - UChicago Brinson Postdoctoral Fellowship in Astrophysics at Northwestern U., a global academic opportunity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3199946" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://phys.org/news/2026-09-desi-legacy-imaging-survey-largest.html" target="_blank" rel="noopener noreferrer">[N1] The DESI legacy imaging survey releases the largest 2D map of the universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-09-black-hole-tons-star-dark.html" target="_blank" rel="noopener noreferrer">[N2] A black hole as light as 40 tons can exist inside a star if dark matter helps</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N3] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N4] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-09-meerkat-faint-hydrogen-distant-universe.html" target="_blank" rel="noopener noreferrer">[N5] MeerKAT directly detects faint hydrogen signal from the distant universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N6] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
-<li><a href="https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/" target="_blank" rel="noopener noreferrer">[N7] APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole</a> <span>NASA News Releases</span></li>
-<li><a href="https://phys.org/news/2026-09-pair-white-dwarfs-minute-orbit.html" target="_blank" rel="noopener noreferrer">[N8] Pair of white dwarfs locked in 6-minute orbit might one day be observed by gravitational waves</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-09-black-holes-hidden-hair-scientists.html" target="_blank" rel="noopener noreferrer">[N9] Do black holes have hidden hair? Scientists find a new way to check</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.universetoday.com/articles/pulsar-timing-arrays-could-look-for-evidence-of-dark-matter-stars" target="_blank" rel="noopener noreferrer">[N10] Pulsar Timing Arrays Could Look for Evidence of Dark Matter Stars</a> <span>Universe Today</span></li>
-<li><a href="https://phys.org/news/2026-09-20th-sloan-digital-sky-survey.html" target="_blank" rel="noopener noreferrer">[N11] The 20th data release of the Sloan Digital Sky Survey</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.universetoday.com/articles/new-study-expands-search-for-dark-photons-a-leading-dark-matter-candidate" target="_blank" rel="noopener noreferrer">[N12] New Study Expands Search for &quot;Dark Photons,&quot; a Leading Dark Matter Candidate</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/simulations-show-that-dark-matter-isnt-what-gives-stellar-streams-their-kinks" target="_blank" rel="noopener noreferrer">[N13] Simulations Show That Dark Matter Isn&#x27;t What Gives Stellar Streams Their Kinks</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/supercdms-snolab-starts-its-dark-matter-hunt" target="_blank" rel="noopener noreferrer">[N14] SuperCDMS SNOLAB Starts Its Dark Matter Hunt</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/quiet-black-holes-with-a-stellar-companion-raise-questions-about-how-they-form" target="_blank" rel="noopener noreferrer">[N15] Quiet Black Holes With a Stellar Companion Raise Questions About How They Form</a> <span>Universe Today</span></li>
-<li><a href="https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/" target="_blank" rel="noopener noreferrer">[N16] APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars</a> <span>NASA News Releases</span></li>
-<li><a href="https://www.universetoday.com/articles/the-worlds-first-spacefaring-commercial-cardiologist-has-lessons-for-would-be-astronauts" target="_blank" rel="noopener noreferrer">[N17] The World&#x27;s First Spacefaring Commercial Cardiologist Has Lessons for Would-Be Astronauts</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/china-postpones-the-change-7-mission" target="_blank" rel="noopener noreferrer">[N18] China Postpones the Chang’e-7 Mission</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/rubin-observatory-peers-deep-into-the-famous-cosmos-field" target="_blank" rel="noopener noreferrer">[N19] Rubin Observatory Peers Deep Into the Famous COSMOS Field</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/astronomers-hear-the-faint-whispers-of-cosmic-hydrogen-from-the-distant-past" target="_blank" rel="noopener noreferrer">[N20] Astronomers Hear the Faint Whispers of Cosmic Hydrogen from the Distant Past.</a> <span>Universe Today</span></li>
+<li><a href="https://arxiv.org/abs/2609.05321v1" target="_blank" rel="noopener noreferrer">[N1] Supernovae Unite: Host-Galaxy Mass Measurements of Type Ia Supernovae and Their Impact on Cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.05053v1" target="_blank" rel="noopener noreferrer">[N2] Supernovae Unite: Combining Pantheon+ and DES-SN5YR</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04990v1" target="_blank" rel="noopener noreferrer">[N3] Late-Time Emergence of Dark Energy and Its Interaction with Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04313v1" target="_blank" rel="noopener noreferrer">[N4] It&#x27;s All About the Environment: Local $f_{\rm NL}$ from a Dark Matter Conditioned Multitracer Analysis</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04308v1" target="_blank" rel="noopener noreferrer">[N5] Supernova microlensing as a probe of ultracompact minihalos and primordial cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.05410v1" target="_blank" rel="noopener noreferrer">[N6] Early against Late: A contrast on dark energy in the light of DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04334v1" target="_blank" rel="noopener noreferrer">[N7] Model Predictive Scoring Shows Specific BAO Observations (not SNIa) Drives $w_0w_a$ Tension</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04746v1" target="_blank" rel="noopener noreferrer">[N8] Studies on the dark sector interaction from joint analysis of cosmological probes</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04192v1" target="_blank" rel="noopener noreferrer">[N9] Euclid preparation. The shape of halo profiles in $Λ$CDM and non-standard cosmologies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-09-desi-legacy-imaging-survey-largest.html" target="_blank" rel="noopener noreferrer">[N10] The DESI legacy imaging survey releases the largest 2D map of the universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2609.04510v1" target="_blank" rel="noopener noreferrer">[N11] Implementation of frequency-correlated noise in CMB component separation: Method, Validation, and Early Applications</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.05168v1" target="_blank" rel="noopener noreferrer">[N12] Cosmological Evolution of the Randall-Sundrum II Model with Running Vacuum: A Special Class of Solutions</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.04349v1" target="_blank" rel="noopener noreferrer">[N13] H I Absorbers as Beacons of Hidden Structure at $z \sim 3$: Multi-Component, Metal-Rich Absorption System near a Protocluster</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04133v1" target="_blank" rel="noopener noreferrer">[N14] The moving lens effect: analytical modelling and foreground suppression</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04112v1" target="_blank" rel="noopener noreferrer">[N15] Consistency between cosmological and standard siren observations in evolving dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.03649v1" target="_blank" rel="noopener noreferrer">[N16] Prospects for probing dark matter with filamentary 21cm emission</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.05020v1" target="_blank" rel="noopener noreferrer">[N17] Probing Dark Matter with Strongly Lensed Binary Black Hole Mergers: Prospects in the Near Future</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04991v1" target="_blank" rel="noopener noreferrer">[N18] Expanding the scope of dark siren cosmology: Inferring the population properties of gravitational wave-hosting galaxies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04829v1" target="_blank" rel="noopener noreferrer">[N19] A guide to choosing data compression methods for cosmological inference</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.04572v1" target="_blank" rel="noopener noreferrer">[N20] Does spatial curvature generate new thermodynamic criticality at the FLRW apparent horizon?</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
