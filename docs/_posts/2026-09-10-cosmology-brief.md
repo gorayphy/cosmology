@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-10T10:35:23.099808+05:30
+date: 2026-09-10T18:29:58.075530+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "10:35AM"
+run_time_ist: "6:29PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:35AM</h1>
+<h1 class="brief-run">Gemini Summary: 6:29PM</h1>
 
 <hr class="brief-rule">
 
@@ -16,18 +16,18 @@ run_time_ist: "10:35AM"
 <h2>Cosmology News</h2>
 <ul class="digest-points">
 <li><p><strong>Topic:</strong> Observational constraints on a damped harmonic oscillator model of dark energy are presented using CMB, BAO, and supernova data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.10138v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Diffusion models are explored for learning cosmic web environments, crucial for understanding structure formation and cosmological parameters.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.09950v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A new inflaton-driven turbulent regime connecting primordial turbulence to inflation dynamics is established.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.10326v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new inflaton-driven turbulent regime connecting inflation and magnetohydrodynamics is proposed.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.10326v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new method for field-level Bayesian reconstruction of cosmological initial conditions during reionization is introduced.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.09102v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) offers global opportunities with a deadline of 2026-09-21.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Tenure-Track Faculty Position in Physics: Particle Physics, Gravity and Cosmology at Biobio U. has a deadline of 2026-11-30.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198780" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U. are available with a deadline of 2026-11-15.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Northwestern - UChicago Brinson Postdoctoral Fellowship in Astrophysics has a deadline of 2026-11-01.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3199946" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ESA Research Fellowship in Space Science (Postdoctoral Fellowships) at European Space Agency.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195076" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Faculty Position in Physics: Particle Physics, Gravity and Cosmology at Biobio U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198780" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellowships at the Kavli IPMU (PD2026) at Tokyo U., IPMU.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3195855" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Northwestern - UChicago Brinson Postdoctoral Fellowship in Astrophysics at Northwestern U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3199946" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -35,25 +35,25 @@ run_time_ist: "10:35AM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2609.10138v1" target="_blank" rel="noopener noreferrer">[N1] Observational constraints on a damped harmonic oscillator model of dark energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.09950v1" target="_blank" rel="noopener noreferrer">[N2] Learning cosmic web environments with diffusion models</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10326v1" target="_blank" rel="noopener noreferrer">[N3] Primordial turbulence from inflation: a new inflaton-driven turbulent regime</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10133v1" target="_blank" rel="noopener noreferrer">[N4] Safe Phantom Divide Crossing from Unscreened Non-Minimal Coupling to Gravity</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.09102v1" target="_blank" rel="noopener noreferrer">[N5] TILING I: Field-level Bayesian reconstruction of cosmological initial conditions during the epoch of reionization</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10365v1" target="_blank" rel="noopener noreferrer">[N6] Universal Secular External Leg Corrections for Gauge Independent Scalar Self-Mass on de Sitter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.09729v1" target="_blank" rel="noopener noreferrer">[N7] CROCODILE-SIDM: Tidal Formation of Dark Matter-Deficient Galaxies as a Test Case</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.09131v1" target="_blank" rel="noopener noreferrer">[N8] Mitigating baryonic effects in weak lensing with higher-order statistics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.09106v1" target="_blank" rel="noopener noreferrer">[N9] A Two-Dimensional Test of Cosmological Parity Violation with the 3-Point Correlation Function</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10332v1" target="_blank" rel="noopener noreferrer">[N10] Generalized Black holes with Fully Non-aligned Electromagnetic Fields</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.10320v1" target="_blank" rel="noopener noreferrer">[N11] Kaniadakis Holographic Dark Energy with Particle Horizon as IR Cutoff</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.10173v1" target="_blank" rel="noopener noreferrer">[N12] A Differentiable Parametric Model of Binary-Black-Hole Initial Data: I. Conformally flat Bowen-York punctures</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.09144v1" target="_blank" rel="noopener noreferrer">[N13] Baryonification IV: Constraining baryonic feedback with X-ray gas fractions</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10521v1" target="_blank" rel="noopener noreferrer">[N14] Point particles in general relativity: beyond linear perturbation theory</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.10390v1" target="_blank" rel="noopener noreferrer">[N15] Field quantization in rotating frames: coordinate covariance and the circular-detector response</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.10354v1" target="_blank" rel="noopener noreferrer">[N16] A Novel Scheme for Inter-Satellite Integrated Laser Ranging and Communication in Space-Based GW Detection</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.10345v1" target="_blank" rel="noopener noreferrer">[N17] Parity symmetry as a diagnostic for spin-precessing binary-black-hole waveform models</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.10220v1" target="_blank" rel="noopener noreferrer">[N18] Testing Source Dependence in Gravitational-Wave Tests of General Relativity with Mutual Information</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.10102v1" target="_blank" rel="noopener noreferrer">[N19] Black hole and wormhole branches in gravitational decoupling</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.10027v1" target="_blank" rel="noopener noreferrer">[N20] Entanglement Entropy of Interacting Scalar Theories on Fuzzy Spaces</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.10326v1" target="_blank" rel="noopener noreferrer">[N2] Primordial turbulence from inflation: a new inflaton-driven turbulent regime</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.10133v1" target="_blank" rel="noopener noreferrer">[N3] Safe Phantom Divide Crossing from Unscreened Non-Minimal Coupling to Gravity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.09102v1" target="_blank" rel="noopener noreferrer">[N4] TILING I: Field-level Bayesian reconstruction of cosmological initial conditions during the epoch of reionization</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.10365v1" target="_blank" rel="noopener noreferrer">[N5] Universal Secular External Leg Corrections for Gauge Independent Scalar Self-Mass on de Sitter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.09950v1" target="_blank" rel="noopener noreferrer">[N6] Learning cosmic web environments with diffusion models</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.09131v1" target="_blank" rel="noopener noreferrer">[N7] Mitigating baryonic effects in weak lensing with higher-order statistics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.09106v1" target="_blank" rel="noopener noreferrer">[N8] A Two-Dimensional Test of Cosmological Parity Violation with the 3-Point Correlation Function</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.10332v1" target="_blank" rel="noopener noreferrer">[N9] Generalized Black holes with Fully Non-aligned Electromagnetic Fields</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.10320v1" target="_blank" rel="noopener noreferrer">[N10] Kaniadakis Holographic Dark Energy with Particle Horizon as IR Cutoff</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.10173v1" target="_blank" rel="noopener noreferrer">[N11] A Differentiable Parametric Model of Binary-Black-Hole Initial Data: I. Conformally flat Bowen-York punctures</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.09144v1" target="_blank" rel="noopener noreferrer">[N12] Baryonification IV: Constraining baryonic feedback with X-ray gas fractions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.10521v1" target="_blank" rel="noopener noreferrer">[N13] Point particles in general relativity: beyond linear perturbation theory</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.10390v1" target="_blank" rel="noopener noreferrer">[N14] Field quantization in rotating frames: coordinate covariance and the circular-detector response</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.10354v1" target="_blank" rel="noopener noreferrer">[N15] A Novel Scheme for Inter-Satellite Integrated Laser Ranging and Communication in Space-Based GW Detection</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.10345v1" target="_blank" rel="noopener noreferrer">[N16] Parity symmetry as a diagnostic for spin-precessing binary-black-hole waveform models</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.10220v1" target="_blank" rel="noopener noreferrer">[N17] Testing Source Dependence in Gravitational-Wave Tests of General Relativity with Mutual Information</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.09729v1" target="_blank" rel="noopener noreferrer">[N18] CROCODILE-SIDM: Tidal Formation of Dark Matter-Deficient Galaxies as a Test Case</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/09/260907201600.htm" target="_blank" rel="noopener noreferrer">[N19] Dark energy debunked? Cosmic acceleration may be an illusion</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2609.09288v1" target="_blank" rel="noopener noreferrer">[N20] Cosmological Collider Signals From a Triangle Loop</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
