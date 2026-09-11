@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-11T10:32:12.775098+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "10:32AM"
+date: 2026-09-11T18:24:58.460137+05:30
+summary: "Recent cosmology research and job opportunities for researchers and students."
+run_time_ist: "6:24PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:32AM</h1>
+<h1 class="brief-run">Gemini Summary: 6:24PM</h1>
 
 <hr class="brief-rule">
 
@@ -16,18 +16,21 @@ run_time_ist: "10:32AM"
 <h2>Cosmology News</h2>
 <ul class="digest-points">
 <li><p><strong>Topic:</strong> A multi-axion cosmology model is proposed, suggesting recurrent dark energy episodes throughout cosmic history.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.11907v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The relevance of the cosmic microwave background for cosmology within the standard LCDM framework is discussed.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.10672v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Primordial Black Holes with masses below $\mathcal{O}(10^9)$g are explored for their potential to explain the KM3NeT 220 PeV neutrino anomaly.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.11511v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The relevance of the cosmic microwave background (CMB) for cosmology within the standard LCDM framework is discussed.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.10672v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Primordial black holes (PBHs) with masses below $\mathcal{O}(10^9)$g are explored for their potential to explain gravitational-wave backgrounds and the KM3NeT neutrino anomaly.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.11891v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://arxiv.org/abs/2609.11511v1" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current opportunities page for cosmology, astrophysics, and physics in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current opportunities page for cosmology, astrophysics, and physics in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current opportunities page for cosmology, astrophysics, and physics in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current opportunities page for cosmology, astrophysics, and physics in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current opportunities page for cosmology, astrophysics, and physics globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current opportunities page for cosmology, astrophysics, and physics in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Faculty Openings: current opportunities page for cosmology, astrophysics, and physics in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -40,20 +43,20 @@ run_time_ist: "10:32AM"
 <li><a href="https://arxiv.org/abs/2609.10794v1" target="_blank" rel="noopener noreferrer">[N4] $w_0w_a$ or $bc$: DESI constraints on relative baryon-CDM perturbations</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.11511v1" target="_blank" rel="noopener noreferrer">[N5] Cosmological Evolution of Primordial Black Holes: UV/IR Decoupling and the KM3NeT 220 PeV Neutrino Anomaly</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2609.11750v1" target="_blank" rel="noopener noreferrer">[N6] Might the radiation era extend back to the Big Bang? On dark matter production and the relic graviton background in quadratic gravity</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11423v1" target="_blank" rel="noopener noreferrer">[N7] Gravitational lensing in a spacetime with extra dimensions</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.11306v1" target="_blank" rel="noopener noreferrer">[N8] Initial clustering of primordial black holes: A general formulation for arbitrary local non-Gaussianity</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11241v1" target="_blank" rel="noopener noreferrer">[N9] Higgsino dark matter in the Starobinsky supergravity with the MSSM in light of the LUX-ZEPLIN event</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10991v1" target="_blank" rel="noopener noreferrer">[N10] Two-parameter continuous deformation of Starobinsky inflation as a bridge between Planck and ACT DESI data with $N_\star\in(50,60)$</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11643v1" target="_blank" rel="noopener noreferrer">[N11] Effective Dynamics of Inflationary End-of-the-World Branes in AdS$_3$</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.11328v1" target="_blank" rel="noopener noreferrer">[N12] Constraints on the fuzzy dark matter mass using globular clusters in dwarf galaxies from Euclid ERO data</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10985v1" target="_blank" rel="noopener noreferrer">[N13] Constraining spinning primordial black holes with interstellar dust heating</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11885v1" target="_blank" rel="noopener noreferrer">[N14] Hierarchical Population Inference with Normalizing Flows for Binary Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.11570v1" target="_blank" rel="noopener noreferrer">[N15] How much chaos can be generated by gravitational collapse before reaching the Planck scale?</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.10709v1" target="_blank" rel="noopener noreferrer">[N16] BIND (Baryonic INpainting with Deep learning): A Field-level Emulator for Galaxy Groups and Clusters</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10671v1" target="_blank" rel="noopener noreferrer">[N17] Ultralight Axial Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11726v1" target="_blank" rel="noopener noreferrer">[N18] From the Test-Mass Limit to Binary Black-Hole Waveforms in Higher-Derivative Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.11525v1" target="_blank" rel="noopener noreferrer">[N19] Signatures of charged rotating regular black holes: quasinormal modes, grey-body factors and shadows</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.11401v1" target="_blank" rel="noopener noreferrer">[N20] Improving the Sensitivity of Gravitational Wave Detection with Weighted Conformal Prediction</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.10991v1" target="_blank" rel="noopener noreferrer">[N7] Two-parameter continuous deformation of Starobinsky inflation as a bridge between Planck and ACT DESI data with $N_\star\in(50,60)$</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.11643v1" target="_blank" rel="noopener noreferrer">[N8] Effective Dynamics of Inflationary End-of-the-World Branes in AdS$_3$</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.10985v1" target="_blank" rel="noopener noreferrer">[N9] Constraining spinning primordial black holes with interstellar dust heating</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.11885v1" target="_blank" rel="noopener noreferrer">[N10] Hierarchical Population Inference with Normalizing Flows for Binary Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.11570v1" target="_blank" rel="noopener noreferrer">[N11] How much chaos can be generated by gravitational collapse before reaching the Planck scale?</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.11423v1" target="_blank" rel="noopener noreferrer">[N12] Gravitational lensing in a spacetime with extra dimensions</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.11306v1" target="_blank" rel="noopener noreferrer">[N13] Initial clustering of primordial black holes: A general formulation for arbitrary local non-Gaussianity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.11241v1" target="_blank" rel="noopener noreferrer">[N14] Higgsino dark matter in the Starobinsky supergravity with the MSSM in light of the LUX-ZEPLIN event</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.10709v1" target="_blank" rel="noopener noreferrer">[N15] BIND (Baryonic INpainting with Deep learning): A Field-level Emulator for Galaxy Groups and Clusters</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.10671v1" target="_blank" rel="noopener noreferrer">[N16] Ultralight Axial Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.11726v1" target="_blank" rel="noopener noreferrer">[N17] From the Test-Mass Limit to Binary Black-Hole Waveforms in Higher-Derivative Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.11525v1" target="_blank" rel="noopener noreferrer">[N18] Signatures of charged rotating regular black holes: quasinormal modes, grey-body factors and shadows</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.11328v1" target="_blank" rel="noopener noreferrer">[N19] Constraints on the fuzzy dark matter mass using globular clusters in dwarf galaxies from Euclid ERO data</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.10897v1" target="_blank" rel="noopener noreferrer">[N20] Impact of LSST systematics on stellar-stream density fluctuations for dark matter</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
