@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-12T17:46:28.136365+05:30
+date: 2026-09-12T22:51:06.703271+05:30
 summary: "Latest cosmology news, research updates, and job opportunities for researchers."
-run_time_ist: "5:46PM"
+run_time_ist: "10:51PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 5:46PM</h1>
+<h1 class="brief-run">Gemini Summary: 10:51PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> JWST observations reveal an overdensity of early galaxies carving out a bubble in the reionizing universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.universetoday.com/articles/dense-galaxies-are-carving-out-a-bubble-in-the-early-universe" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> New analysis of supernovae data questions cosmic acceleration, suggesting it might be an illusion after accounting for stellar ages.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/09/260907201600.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The DESI legacy imaging survey has released the largest 2D map of the universe, contributing to the study of dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-desi-legacy-imaging-survey-largest.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> JWST observations reveal an overdensity of early galaxies carving out a bubble in the reionized universe, providing insights into cosmic reionization.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.universetoday.com/articles/dense-galaxies-are-carving-out-a-bubble-in-the-early-universe" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A large supernova dataset challenges the theory of dark energy by questioning the universe&#x27;s acceleration after accounting for stellar ages.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/09/260907201600.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://phys.org/news/2026-09-big-supernova-dataset-dark-energy.html" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
+<li><p><strong>Topic:</strong> The DESI legacy imaging survey has released the largest 2D map of the universe, contributing to the measurement of dark energy&#x27;s effect on cosmic expansion.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-desi-legacy-imaging-survey-largest.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -28,9 +28,9 @@ run_time_ist: "5:46PM"
 <li><p><strong>Role/program:</strong> Northwestern - UChicago Brinson Postdoctoral Fellowship in Astrophysics at Northwestern U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3199946" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> E. Margaret Burbidge Prize Postdoctoral Fellowship in Astrophysics at U. Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198261" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Postdoctoral Research Associate for Physics Analysis at Mainz U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3197109" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -49,14 +49,14 @@ run_time_ist: "5:46PM"
 <li><a href="https://phys.org/news/2026-09-extremely-massive-galaxy-proto-supercluster.html" target="_blank" rel="noopener noreferrer">[N10] Extremely massive galaxy proto-supercluster smashes distance record</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N11] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
 <li><a href="https://phys.org/news/2026-09-rubin-observatory-peers-deep-famous.html" target="_blank" rel="noopener noreferrer">[N12] Rubin observatory peers deep into the famous COSMOS field</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-09-erosita-comprehensive-high-energy-census.html" target="_blank" rel="noopener noreferrer">[N13] eROSITA&#x27;s second data release catalog delivering most comprehensive high-energy census of the cosmos to date</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-09-fast-radio-disentangle-galactic-feedback.html" target="_blank" rel="noopener noreferrer">[N14] Fast radio bursts could help disentangle galactic feedback from dark matter effects</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.universetoday.com/articles/a-new-design-for-a-plasma-engine-fuels-on-only-thin-air" target="_blank" rel="noopener noreferrer">[N15] A New Design For A Plasma Engine Fuels On Only Thin Air</a> <span>Universe Today</span></li>
-<li><a href="https://phys.org/news/2026-09-big-universe-starbursts.html" target="_blank" rel="noopener noreferrer">[N16] How big can the universe&#x27;s first starbursts get?</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-09-fast-radio-disentangle-galactic-feedback.html" target="_blank" rel="noopener noreferrer">[N13] Fast radio bursts could help disentangle galactic feedback from dark matter effects</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://www.universetoday.com/articles/a-new-design-for-a-plasma-engine-fuels-on-only-thin-air" target="_blank" rel="noopener noreferrer">[N14] A New Design For A Plasma Engine Fuels On Only Thin Air</a> <span>Universe Today</span></li>
+<li><a href="https://phys.org/news/2026-09-big-universe-starbursts.html" target="_blank" rel="noopener noreferrer">[N15] How big can the universe&#x27;s first starbursts get?</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-09-erosita-comprehensive-high-energy-census.html" target="_blank" rel="noopener noreferrer">[N16] eROSITA&#x27;s second data release catalog delivering most comprehensive high-energy census of the cosmos to date</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/" target="_blank" rel="noopener noreferrer">[N17] APOD: 2026 September 11 – M83: The Southern Pinwheel</a> <span>NASA News Releases</span></li>
-<li><a href="https://phys.org/news/2026-09-gen-gravitational-detectors-black-holes.html" target="_blank" rel="noopener noreferrer">[N18] Next-gen gravitational wave detectors could spot the first black holes</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://www.universetoday.com/articles/earth-from-orbit-is-unpredictable-and-messy-could-liquid-ai-clear-the-view" target="_blank" rel="noopener noreferrer">[N18] Earth From Orbit Is Unpredictable and Messy. Could &#x27;Liquid&#x27; AI Clear the View?</a> <span>Universe Today</span></li>
 <li><a href="https://www.universetoday.com/articles/venus-moon-would-have-been-doomed-from-the-start-says-new-paper" target="_blank" rel="noopener noreferrer">[N19] Venus Moon Would Have Been Doomed From The Start, Says New Paper</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/whats-carving-active-gullies-on-mars-its-not-water" target="_blank" rel="noopener noreferrer">[N20] What&#x27;s Carving Active Gullies on Mars? It&#x27;s Not Water</a> <span>Universe Today</span></li>
+<li><a href="https://phys.org/news/2026-09-video-black-hole-radio-theory.html" target="_blank" rel="noopener noreferrer">[N20] Continuous video of black hole radio observations challenges shock wave theory</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
