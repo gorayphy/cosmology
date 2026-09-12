@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-12T10:23:34.610365+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "10:23AM"
+date: 2026-09-12T17:46:28.136365+05:30
+summary: "Latest cosmology news, research updates, and job opportunities for researchers."
+run_time_ist: "5:46PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:23AM</h1>
+<h1 class="brief-run">Gemini Summary: 5:46PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> The standard LCDM framework and hierarchical galaxy assembly associate the cosmic microwave background with photon decoupling near z = 1100.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.10672v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> DESI full-shape data is analyzed for relative baryon-CDM perturbations to investigate the impact on evolving dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.10794v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A multi-axion cosmology model is proposed, where recurrent episodes of scalar-field dark energy are considered throughout cosmic history.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.11907v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> JWST observations reveal an overdensity of early galaxies carving out a bubble in the reionizing universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.universetoday.com/articles/dense-galaxies-are-carving-out-a-bubble-in-the-early-universe" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New analysis of supernovae data questions cosmic acceleration, suggesting it might be an illusion after accounting for stellar ages.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/09/260907201600.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The DESI legacy imaging survey has released the largest 2D map of the universe, contributing to the study of dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-desi-legacy-imaging-survey-largest.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -37,26 +37,26 @@ run_time_ist: "10:23AM"
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2609.10672v1" target="_blank" rel="noopener noreferrer">[N1] The relevance of the cosmic microwave background for cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10794v1" target="_blank" rel="noopener noreferrer">[N2] $w_0w_a$ or $bc$: DESI constraints on relative baryon-CDM perturbations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11907v1" target="_blank" rel="noopener noreferrer">[N3] A Multi-Axion Ladder Across Cosmic History: From Inflation, BBN, and Early Dark Energy to Late-Time Accelerated Expansion</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11891v1" target="_blank" rel="noopener noreferrer">[N4] Reconstructing Early Primordial Black Hole Domination from Gravitational-Wave Backgrounds</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10991v1" target="_blank" rel="noopener noreferrer">[N5] Two-parameter continuous deformation of Starobinsky inflation as a bridge between Planck and ACT DESI data with $N_\star\in(50,60)$</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11511v1" target="_blank" rel="noopener noreferrer">[N6] Cosmological Evolution of Primordial Black Holes: UV/IR Decoupling and the KM3NeT 220 PeV Neutrino Anomaly</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.10985v1" target="_blank" rel="noopener noreferrer">[N7] Constraining spinning primordial black holes with interstellar dust heating</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11750v1" target="_blank" rel="noopener noreferrer">[N8] Might the radiation era extend back to the Big Bang? On dark matter production and the relic graviton background in quadratic gravity</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11423v1" target="_blank" rel="noopener noreferrer">[N9] Gravitational lensing in a spacetime with extra dimensions</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.11306v1" target="_blank" rel="noopener noreferrer">[N10] Initial clustering of primordial black holes: A general formulation for arbitrary local non-Gaussianity</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11241v1" target="_blank" rel="noopener noreferrer">[N11] Higgsino dark matter in the Starobinsky supergravity with the MSSM in light of the LUX-ZEPLIN event</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10709v1" target="_blank" rel="noopener noreferrer">[N12] BIND (Baryonic INpainting with Deep learning): A Field-level Emulator for Galaxy Groups and Clusters</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10671v1" target="_blank" rel="noopener noreferrer">[N13] Ultralight Axial Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11643v1" target="_blank" rel="noopener noreferrer">[N14] Effective Dynamics of Inflationary End-of-the-World Branes in AdS$_3$</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.11328v1" target="_blank" rel="noopener noreferrer">[N15] Constraints on the fuzzy dark matter mass using globular clusters in dwarf galaxies from Euclid ERO data</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10897v1" target="_blank" rel="noopener noreferrer">[N16] Impact of LSST systematics on stellar-stream density fluctuations for dark matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10673v1" target="_blank" rel="noopener noreferrer">[N17] On the Numerical Integration of One-Loop Cosmological Collider Signals</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10665v1" target="_blank" rel="noopener noreferrer">[N18] Aletheia: Emulating the halo mass function with evolution mapping</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.10674v1" target="_blank" rel="noopener noreferrer">[N19] Re-examining the sensitivity of JWST to decaying axion dark matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.11885v1" target="_blank" rel="noopener noreferrer">[N20] Hierarchical Population Inference with Normalizing Flows for Binary Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.universetoday.com/articles/dense-galaxies-are-carving-out-a-bubble-in-the-early-universe" target="_blank" rel="noopener noreferrer">[N1] Dense Galaxies Are Carving Out A Bubble in the Early Universe</a> <span>Universe Today</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/09/260907201600.htm" target="_blank" rel="noopener noreferrer">[N2] Dark energy debunked? Cosmic acceleration may be an illusion</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://phys.org/news/2026-09-big-supernova-dataset-dark-energy.html" target="_blank" rel="noopener noreferrer">[N3] Big supernova dataset challenges dark energy theory</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N4] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N5] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.universetoday.com/articles/new-research-says-that-early-galaxies-could-be-sending-us-neutrinos" target="_blank" rel="noopener noreferrer">[N6] New Research Says that Early Galaxies Could be Sending us Neutrinos</a> <span>Universe Today</span></li>
+<li><a href="https://phys.org/news/2026-09-desi-legacy-imaging-survey-largest.html" target="_blank" rel="noopener noreferrer">[N7] The DESI legacy imaging survey releases the largest 2D map of the universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://science.nasa.gov/get-involved/citizen-science/help-refine-data-from-space-telescopes-with-artifact-inspector/" target="_blank" rel="noopener noreferrer">[N8] Help Refine Data from Space Telescopes with Artifact InSPECtor</a> <span>NASA News Releases</span></li>
+<li><a href="https://www.universetoday.com/articles/unexplained-gamma-rays-from-the-galactic-center-could-be-from-self-annihilating-dark-matter" target="_blank" rel="noopener noreferrer">[N9] Unexplained Gamma-Rays from the Galactic Center Could be from Self-Annihilating Dark Matter</a> <span>Universe Today</span></li>
+<li><a href="https://phys.org/news/2026-09-extremely-massive-galaxy-proto-supercluster.html" target="_blank" rel="noopener noreferrer">[N10] Extremely massive galaxy proto-supercluster smashes distance record</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N11] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
+<li><a href="https://phys.org/news/2026-09-rubin-observatory-peers-deep-famous.html" target="_blank" rel="noopener noreferrer">[N12] Rubin observatory peers deep into the famous COSMOS field</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-09-erosita-comprehensive-high-energy-census.html" target="_blank" rel="noopener noreferrer">[N13] eROSITA&#x27;s second data release catalog delivering most comprehensive high-energy census of the cosmos to date</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-09-fast-radio-disentangle-galactic-feedback.html" target="_blank" rel="noopener noreferrer">[N14] Fast radio bursts could help disentangle galactic feedback from dark matter effects</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://www.universetoday.com/articles/a-new-design-for-a-plasma-engine-fuels-on-only-thin-air" target="_blank" rel="noopener noreferrer">[N15] A New Design For A Plasma Engine Fuels On Only Thin Air</a> <span>Universe Today</span></li>
+<li><a href="https://phys.org/news/2026-09-big-universe-starbursts.html" target="_blank" rel="noopener noreferrer">[N16] How big can the universe&#x27;s first starbursts get?</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://science.nasa.gov/image-article/apod-2026-september-11-m83-the-southern-pinwheel/" target="_blank" rel="noopener noreferrer">[N17] APOD: 2026 September 11 – M83: The Southern Pinwheel</a> <span>NASA News Releases</span></li>
+<li><a href="https://phys.org/news/2026-09-gen-gravitational-detectors-black-holes.html" target="_blank" rel="noopener noreferrer">[N18] Next-gen gravitational wave detectors could spot the first black holes</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://www.universetoday.com/articles/venus-moon-would-have-been-doomed-from-the-start-says-new-paper" target="_blank" rel="noopener noreferrer">[N19] Venus Moon Would Have Been Doomed From The Start, Says New Paper</a> <span>Universe Today</span></li>
+<li><a href="https://www.universetoday.com/articles/whats-carving-active-gullies-on-mars-its-not-water" target="_blank" rel="noopener noreferrer">[N20] What&#x27;s Carving Active Gullies on Mars? It&#x27;s Not Water</a> <span>Universe Today</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
