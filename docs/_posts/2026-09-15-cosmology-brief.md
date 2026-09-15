@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-15T01:01:12.376180+05:30
-summary: "Latest cosmology news and job opportunities for researchers and students."
-run_time_ist: "1:01AM"
+date: 2026-09-15T10:41:00.358919+05:30
+summary: "Latest cosmology news, research highlights, and job opportunities for physicists."
+run_time_ist: "10:41AM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 1:01AM</h1>
+<h1 class="brief-run">Gemini Summary: 10:41AM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> New analysis of supernovae data challenges the standard model of cosmic acceleration, suggesting it might be an illusion.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/09/260907201600.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A comprehensive catalog of exploding white dwarf stars provides new insights into dark energy, questioning its role in the universe&#x27;s expansion.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-big-supernova-dataset-dark-energy.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://www.universetoday.com/articles/a-new-catalog-of-close-to-3000-supernova-challenges-theories-on-dark-energy" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
-<li><p><strong>Topic:</strong> JWST observations reveal an overdensity of early galaxies carving out a bubble of reionization, offering clues to the universe&#x27;s early structure.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.universetoday.com/articles/dense-galaxies-are-carving-out-a-bubble-in-the-early-universe" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Dense galaxies in the early universe are observed to be carving out a large bubble, offering new insights into cosmic structure formation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-dense-galaxies-early-universe.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A global survey of physicists reveals significant disagreement on fundamental cosmological models, dark matter explanations, and the nature of cosmic acceleration.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/09/260912220041.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Researchers have achieved unprecedented precision in measuring the primordial helium abundance, a key parameter for early universe cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-key-early-universe-precision.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -34,26 +34,26 @@ run_time_ist: "1:01AM"
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2609.12867v1" target="_blank" rel="noopener noreferrer">[N1] Probing Inflationary Origins of Primordial Black Holes with LIGO--Virgo--KAGRA O1--O4a data</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-09-dense-galaxies-early-universe.html" target="_blank" rel="noopener noreferrer">[N1] Dense galaxies are carving out a bubble in the early universe</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://www.sciencedaily.com/releases/2026/09/260912220041.htm" target="_blank" rel="noopener noreferrer">[N2] Physicists can’t agree on how the Universe works</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://phys.org/news/2026-09-key-early-universe-precision.html" target="_blank" rel="noopener noreferrer">[N3] Researchers pinpoint key early-universe measurement with record precision</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2609.12619v1" target="_blank" rel="noopener noreferrer">[N4] Heavy Seed Black Hole Growth in Metal-Enriched Halos through Disk-Induced Stellar Disruptions: A Semi-Analytical Modelling</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/09/260907201600.htm" target="_blank" rel="noopener noreferrer">[N5] Dark energy debunked? Cosmic acceleration may be an illusion</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-09-big-supernova-dataset-dark-energy.html" target="_blank" rel="noopener noreferrer">[N6] Big supernova dataset challenges dark energy theory</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N7] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/09/260907201600.htm" target="_blank" rel="noopener noreferrer">[N4] Dark energy debunked? Cosmic acceleration may be an illusion</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://phys.org/news/2026-09-big-supernova-dataset-dark-energy.html" target="_blank" rel="noopener noreferrer">[N5] Big supernova dataset challenges dark energy theory</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N6] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N7] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.universetoday.com/articles/a-new-catalog-of-close-to-3000-supernova-challenges-theories-on-dark-energy" target="_blank" rel="noopener noreferrer">[N8] A New Catalog of Close to 3,000 Supernova Challenges Theories on Dark Energy</a> <span>Universe Today</span></li>
-<li><a href="https://www.universetoday.com/articles/dense-galaxies-are-carving-out-a-bubble-in-the-early-universe" target="_blank" rel="noopener noreferrer">[N9] Dense Galaxies Are Carving Out A Bubble in the Early Universe</a> <span>Universe Today</span></li>
-<li><a href="https://arxiv.org/abs/2609.13129v1" target="_blank" rel="noopener noreferrer">[N10] Tidal Love numbers of wormholes as black-hole mimickers</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.12986v1" target="_blank" rel="noopener noreferrer">[N11] \texttt{cWB-space}: A time-frequency transient-search pipeline for LISA</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.12806v1" target="_blank" rel="noopener noreferrer">[N12] Reconstructing the Dark Matter Equation of State with Compact Object Inspirals</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.12797v1" target="_blank" rel="noopener noreferrer">[N13] The Wavelet Detection Filter: a real time unmodeled pipeline for gravitational wave transients, ranking coincidences with a graph neural network</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.12781v1" target="_blank" rel="noopener noreferrer">[N14] Accelerating black holes in higher-derivative gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.12773v1" target="_blank" rel="noopener noreferrer">[N15] Intrinsic pressure anisotropy in spherical Proca stars</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.13061v1" target="_blank" rel="noopener noreferrer">[N16] Particlelike solutions of the Einstein-Dirac-Higgs equations: ground, excited, and many-fermion states</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.13036v1" target="_blank" rel="noopener noreferrer">[N17] Thermodynamics of Lorentzian Taub--NUT spacetimes in Einstein--Gauss--Bonnet AdS gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.13017v1" target="_blank" rel="noopener noreferrer">[N18] Gauge Matters More Than Curvature</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.12998v1" target="_blank" rel="noopener noreferrer">[N19] An efficient approach to resistive GRMHD simulations of binary neutron star mergers</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.12828v1" target="_blank" rel="noopener noreferrer">[N20] Nonlinear Degrees of Freedom of Born-Infeld New Massive Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-09-extremely-massive-galaxy-proto-supercluster.html" target="_blank" rel="noopener noreferrer">[N9] Extremely massive galaxy proto-supercluster smashes distance record</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N10] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
+<li><a href="https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/" target="_blank" rel="noopener noreferrer">[N11] APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus</a> <span>NASA News Releases</span></li>
+<li><a href="https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion" target="_blank" rel="noopener noreferrer">[N12] Questions? Ask our Hera Space Companion!</a> <span>ESA Top News</span></li>
+<li><a href="https://www.universetoday.com/articles/new-research-says-that-early-galaxies-could-be-sending-us-neutrinos" target="_blank" rel="noopener noreferrer">[N13] New Research Says that Early Galaxies Could be Sending us Neutrinos</a> <span>Universe Today</span></li>
+<li><a href="https://phys.org/news/2026-09-fast-radio-disentangle-galactic-feedback.html" target="_blank" rel="noopener noreferrer">[N14] Fast radio bursts could help disentangle galactic feedback from dark matter effects</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-09-black-holes-reveal-star-nearby.html" target="_blank" rel="noopener noreferrer">[N15] Active black holes reveal star-forming rings and shock waves in nine nearby galaxies</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-09-physicists-birth-cosmic-rainstorms-cern.html" target="_blank" rel="noopener noreferrer">[N16] Physicists zoom into the birth of cosmic rainstorms with new CERN study</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://www.universetoday.com/articles/unexplained-gamma-rays-from-the-galactic-center-could-be-from-self-annihilating-dark-matter" target="_blank" rel="noopener noreferrer">[N17] Unexplained Gamma-Rays from the Galactic Center Could be from Self-Annihilating Dark Matter</a> <span>Universe Today</span></li>
+<li><a href="https://www.universetoday.com/articles/tens-of-thousands-of-fast-radio-bursts-could-help-solve-the-greatest-cosmic-mysteries" target="_blank" rel="noopener noreferrer">[N18] Tens of Thousands of Fast Radio Bursts Could Help Solve the Greatest Cosmic Mysteries</a> <span>Universe Today</span></li>
+<li><a href="https://science.nasa.gov/image-article/apod-2026-september-14-where-your-elements-came-from/" target="_blank" rel="noopener noreferrer">[N19] APOD: 2026 September 14 – Where Your Elements Came From</a> <span>NASA News Releases</span></li>
+<li><a href="https://phys.org/news/2026-09-gravitational-analysis-narrows-black-hole.html" target="_blank" rel="noopener noreferrer">[N20] Gravitational-wave analysis narrows the search for black hole impostors</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
