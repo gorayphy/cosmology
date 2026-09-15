@@ -1,33 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-15T10:41:00.358919+05:30
-summary: "Latest cosmology news, research highlights, and job opportunities for physicists."
-run_time_ist: "10:41AM"
+date: 2026-09-15T19:14:19.175367+05:30
+summary: "Latest cosmology news, research highlights, and job opportunities for researchers."
+run_time_ist: "7:14PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:41AM</h1>
+<h1 class="brief-run">Gemini Summary: 7:14PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Dense galaxies in the early universe are observed to be carving out a large bubble, offering new insights into cosmic structure formation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-dense-galaxies-early-universe.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A global survey of physicists reveals significant disagreement on fundamental cosmological models, dark matter explanations, and the nature of cosmic acceleration.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/09/260912220041.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Researchers have achieved unprecedented precision in measuring the primordial helium abundance, a key parameter for early universe cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-key-early-universe-precision.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Dense galaxies in the early universe are observed to be carving out a large bubble, providing insights into cosmic structure formation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-dense-galaxies-early-universe.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A global survey of physicists reveals significant disagreement on fundamental cosmological models, dark matter, and the universe&#x27;s workings.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/09/260912220041.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Researchers have achieved unprecedented precision in measuring the amount of helium produced in the early universe, advancing precision cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-key-early-universe-precision.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> Tenure-Track Faculty Position in Physics: Particle Physics, Gravity and Cosmology at Biobio U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198780" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Northwestern - UChicago Brinson Postdoctoral Fellowship in Astrophysics at Northwestern U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3199946" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> E. Margaret Burbidge Prize Postdoctoral Fellowship in Astrophysics at U. Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198261" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Research Associate for Physics Analysis at Mainz U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3197109" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -38,12 +38,12 @@ run_time_ist: "10:41AM"
 <li><a href="https://www.sciencedaily.com/releases/2026/09/260912220041.htm" target="_blank" rel="noopener noreferrer">[N2] Physicists can’t agree on how the Universe works</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://phys.org/news/2026-09-key-early-universe-precision.html" target="_blank" rel="noopener noreferrer">[N3] Researchers pinpoint key early-universe measurement with record precision</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://www.sciencedaily.com/releases/2026/09/260907201600.htm" target="_blank" rel="noopener noreferrer">[N4] Dark energy debunked? Cosmic acceleration may be an illusion</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-09-big-supernova-dataset-dark-energy.html" target="_blank" rel="noopener noreferrer">[N5] Big supernova dataset challenges dark energy theory</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N6] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N7] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://www.universetoday.com/articles/a-new-catalog-of-close-to-3000-supernova-challenges-theories-on-dark-energy" target="_blank" rel="noopener noreferrer">[N8] A New Catalog of Close to 3,000 Supernova Challenges Theories on Dark Energy</a> <span>Universe Today</span></li>
-<li><a href="https://phys.org/news/2026-09-extremely-massive-galaxy-proto-supercluster.html" target="_blank" rel="noopener noreferrer">[N9] Extremely massive galaxy proto-supercluster smashes distance record</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N10] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
+<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N5] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N6] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.universetoday.com/articles/a-new-catalog-of-close-to-3000-supernova-challenges-theories-on-dark-energy" target="_blank" rel="noopener noreferrer">[N7] A New Catalog of Close to 3,000 Supernova Challenges Theories on Dark Energy</a> <span>Universe Today</span></li>
+<li><a href="https://phys.org/news/2026-09-extremely-massive-galaxy-proto-supercluster.html" target="_blank" rel="noopener noreferrer">[N8] Extremely massive galaxy proto-supercluster smashes distance record</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://science.nasa.gov/universe/" target="_blank" rel="noopener noreferrer">[N9] NASA Universe: current cosmology news source</a> <span>NASA Universe</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/09/260914102429.htm" target="_blank" rel="noopener noreferrer">[N10] Supermassive black hole winds are 100 times more powerful than scientists thought</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/" target="_blank" rel="noopener noreferrer">[N11] APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus</a> <span>NASA News Releases</span></li>
 <li><a href="https://www.esa.int/Space_Safety/Hera/Questions_Ask_our_Hera_Space_Companion" target="_blank" rel="noopener noreferrer">[N12] Questions? Ask our Hera Space Companion!</a> <span>ESA Top News</span></li>
 <li><a href="https://www.universetoday.com/articles/new-research-says-that-early-galaxies-could-be-sending-us-neutrinos" target="_blank" rel="noopener noreferrer">[N13] New Research Says that Early Galaxies Could be Sending us Neutrinos</a> <span>Universe Today</span></li>
