@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-17T10:39:19.060416+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "10:39AM"
+date: 2026-09-17T19:09:44.495390+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "7:09PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:39AM</h1>
+<h1 class="brief-run">Gemini Summary: 7:09PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Interacting dark energy models, which propose interactions between dark matter and dark energy, are being re-examined for their cosmological implications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.18288v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The void probability function is being investigated in the Quijote simulations to understand its sensitivity to the large-scale matter distribution.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.18221v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Constraints from Big Bang Nucleosynthesis and cosmological observations are being applied to test varying Higgs vacuum expectation values.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.18168v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI galaxy distribution measurements show mild tension with the standard ΛCDM model, prompting further investigation into dark sector physics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.17423v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Interacting dark energy models are gaining renewed interest, with a focus on understanding their genuine cosmological signatures.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.18288v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> JWST&#x27;s &quot;little red dots&quot; may be rapidly growing black holes in the early Universe, supported by new supercomputer simulations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/09/260917003703.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -28,35 +28,32 @@ run_time_ist: "10:39AM"
 <li><p><strong>Role/program:</strong> Northwestern - UChicago Brinson Postdoctoral Fellowship in Astrophysics at Northwestern U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3199946" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> E. Margaret Burbidge Prize Postdoctoral Fellowship in Astrophysics at U. Chicago.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3198261" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Assistant Professor of Physics: Experimental Particle Astrophysics at U. Florida, Gainesville.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3203593" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2609.18288v1" target="_blank" rel="noopener noreferrer">[N1] Cosmological anatomy of interacting dark energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.18221v1" target="_blank" rel="noopener noreferrer">[N2] Void probability function in the Quijote simulations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.18168v1" target="_blank" rel="noopener noreferrer">[N3] Constraints of Big Bang Nucleosynthesis and Cosmological Observations on varying Higgs VEV</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.17423v1" target="_blank" rel="noopener noreferrer">[N4] The Equivalence Principle in the Dark Sector in light of DESI</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.18596v1" target="_blank" rel="noopener noreferrer">[N5] Reheating Bounds from Thermal GUT Monopole Production</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.17676v1" target="_blank" rel="noopener noreferrer">[N6] The galaxy--electron cross-spectrum with ACT, SPT-3G and DESILS LRGs</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.18552v1" target="_blank" rel="noopener noreferrer">[N7] Signatures of dark subhaloes in dwarf spheroidal galaxies: II. Transient and localised kinematic features</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.17928v1" target="_blank" rel="noopener noreferrer">[N8] Infrared Universality of Scalar Induced Gravitational Waves Beyond Second Order</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.17852v1" target="_blank" rel="noopener noreferrer">[N9] Resolving 3 Exotic Hyperbolic-Umbilic Lensing Configurations in the &quot;Cosmic Mantis&quot;: An Exploration of RXJ0437.1+0043 with JWST</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.17756v1" target="_blank" rel="noopener noreferrer">[N10] JADES: Dynamical Measurements of Dark Matter Halo Masses at $z \approx 7$ Using Galaxy Pairs</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.17531v1" target="_blank" rel="noopener noreferrer">[N11] $B$-sure. Part II. Scattering transforms as robustness test for tensor-to-scalar ratio detection from CMB observations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.18790v1" target="_blank" rel="noopener noreferrer">[N12] Symmetry-Driven $k$-Essence Cosmological Dynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.18606v1" target="_blank" rel="noopener noreferrer">[N13] Shadow and Polarized Images of Schwarzschild-MOG Black Hole Illuminated by Thick Accretion Disk</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.18263v1" target="_blank" rel="noopener noreferrer">[N14] Probing Lorentz-violating scalar forces and dark matter with precision matter and antimatter experiments</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.17684v1" target="_blank" rel="noopener noreferrer">[N15] A reanalysis of the megamaser Hubble constant: from spot catalogues to peculiar velocities</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.17672v1" target="_blank" rel="noopener noreferrer">[N16] WIMPs with Enhanced Annihilation from a Feebly Interacting Unstable Partner</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.17393v1" target="_blank" rel="noopener noreferrer">[N17] Running Hubble Constant with the Redshift as a Marker of Evolutionary Dark Energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.18664v1" target="_blank" rel="noopener noreferrer">[N18] Timelike Ollivier-Ricci curvature</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.18615v1" target="_blank" rel="noopener noreferrer">[N19] Black Hole Shadow and Light Deflection in Generalized Heisenberg-Euler Nonlinear Electrodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.18528v1" target="_blank" rel="noopener noreferrer">[N20] Schwinger stability of T-duality-inspired extremal black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.17423v1" target="_blank" rel="noopener noreferrer">[N1] The Equivalence Principle in the Dark Sector in light of DESI</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.18288v1" target="_blank" rel="noopener noreferrer">[N2] Cosmological anatomy of interacting dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.18221v1" target="_blank" rel="noopener noreferrer">[N3] Void probability function in the Quijote simulations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.18168v1" target="_blank" rel="noopener noreferrer">[N4] Constraints of Big Bang Nucleosynthesis and Cosmological Observations on varying Higgs VEV</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.17676v1" target="_blank" rel="noopener noreferrer">[N5] The galaxy--electron cross-spectrum with ACT, SPT-3G and DESILS LRGs</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.17928v1" target="_blank" rel="noopener noreferrer">[N6] Infrared Universality of Scalar Induced Gravitational Waves Beyond Second Order</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.17852v1" target="_blank" rel="noopener noreferrer">[N7] Resolving 3 Exotic Hyperbolic-Umbilic Lensing Configurations in the &quot;Cosmic Mantis&quot;: An Exploration of RXJ0437.1+0043 with JWST</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.17756v1" target="_blank" rel="noopener noreferrer">[N8] JADES: Dynamical Measurements of Dark Matter Halo Masses at $z \approx 7$ Using Galaxy Pairs</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.17531v1" target="_blank" rel="noopener noreferrer">[N9] $B$-sure. Part II. Scattering transforms as robustness test for tensor-to-scalar ratio detection from CMB observations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/09/260917003703.htm" target="_blank" rel="noopener noreferrer">[N10] JWST’s mysterious little red dots may be black holes growing at incredible speeds</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2609.18790v1" target="_blank" rel="noopener noreferrer">[N11] Symmetry-Driven $k$-Essence Cosmological Dynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.18596v1" target="_blank" rel="noopener noreferrer">[N12] Reheating Bounds from Thermal GUT Monopole Production</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.17684v1" target="_blank" rel="noopener noreferrer">[N13] A reanalysis of the megamaser Hubble constant: from spot catalogues to peculiar velocities</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.17672v1" target="_blank" rel="noopener noreferrer">[N14] WIMPs with Enhanced Annihilation from a Feebly Interacting Unstable Partner</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.17393v1" target="_blank" rel="noopener noreferrer">[N15] Running Hubble Constant with the Redshift as a Marker of Evolutionary Dark Energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.18664v1" target="_blank" rel="noopener noreferrer">[N16] Timelike Ollivier-Ricci curvature</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.18552v1" target="_blank" rel="noopener noreferrer">[N17] Signatures of dark subhaloes in dwarf spheroidal galaxies: II. Transient and localised kinematic features</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.17829v1" target="_blank" rel="noopener noreferrer">[N18] Optimising instrument concepts with Machine Learning: Application to CMB spectral distortion experiments</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.17530v1" target="_blank" rel="noopener noreferrer">[N19] Vanilla Scotogenic Model at the future Muon Collider</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.17412v1" target="_blank" rel="noopener noreferrer">[N20] Cosmological Constrained Axion-Portal Inelastic Dark Matter for the LZ Event</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
