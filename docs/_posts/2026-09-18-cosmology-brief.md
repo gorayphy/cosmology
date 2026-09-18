@@ -1,33 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-18T10:32:28.385025+05:30
+date: 2026-09-18T18:33:08.526380+05:30
 summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "10:32AM"
+run_time_ist: "6:33PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:32AM</h1>
+<h1 class="brief-run">Gemini Summary: 6:33PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> New constraints on the abundance of intermediate-to-high mass primordial black holes are presented, impacting their role as dark matter candidates.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.20329v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Research explores distinguishing coupled dark matter-dark energy models from phantom crossing scenarios in cosmic expansion.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.19602v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Supercomputer simulations offer potential explanations for JWST&#x27;s &quot;Little Red Dots,&quot; suggesting they may be rapidly growing black holes in the early universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/09/260917003703.htm" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
+<li><p><strong>Topic:</strong> New constraints on primordial black hole abundance in the $10^6$-$10^9\,M_\odot$ mass range are provided by the SMILE VLBI milli-lensing sample.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.20329v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Distinguishing coupled dark matter-dark energy models from kinematic phantom crossing is explored, considering scenarios where the equation of state crosses $w=-1$.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.19602v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A review discusses cosmological correlators derived from scattering amplitudes, highlighting their role in encoding primordial statistics for the CMB and large-scale structure.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.19252v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, relevant for Indian researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, relevant for Indian researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, relevant for Indian researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, relevant for global researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -45,15 +45,15 @@ run_time_ist: "10:32AM"
 <li><a href="https://arxiv.org/abs/2609.20626v1" target="_blank" rel="noopener noreferrer">[N9] On the Extended Kerr-Newman-Bertotti-Robinson Spacetime: Two Black Holes and a Naked Singularity in Bertotti-Robinson Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2609.20622v1" target="_blank" rel="noopener noreferrer">[N10] The return of Palatini inflationary attractors: Universal mapping of observables</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html" target="_blank" rel="noopener noreferrer">[N11] Japanese supercomputer simulations may explain Webb&#x27;s Little Red Dots</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/09/260917003703.htm" target="_blank" rel="noopener noreferrer">[N12] JWST’s mysterious little red dots may be black holes growing at incredible speeds</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2609.19276v1" target="_blank" rel="noopener noreferrer">[N13] Generalised Visibility ILC: a new foreground mitigation strategy for interferometric HI intensity mapping in the low-redshift Universe</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.18596v1" target="_blank" rel="noopener noreferrer">[N14] Reheating Bounds from Thermal GUT Monopole Production</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.20809v1" target="_blank" rel="noopener noreferrer">[N15] The linear instability of Kasner spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.20788v1" target="_blank" rel="noopener noreferrer">[N16] Looking inside a quantum black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.20663v1" target="_blank" rel="noopener noreferrer">[N17] Entropy, area, and the choice of regulator during gravitational collapse</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.20382v1" target="_blank" rel="noopener noreferrer">[N18] Quasinormal modes of Schwarzschild--AdS black holes with a near-horizon reflective surface</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.20040v1" target="_blank" rel="noopener noreferrer">[N19] Extremal Scalarization of Charged Black Holes: Miransky Scaling across Reissner-Nordström Extremality</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.19509v1" target="_blank" rel="noopener noreferrer">[N20] The extreme Disturbed Galaxy Cluster Sample (eDGeS): Spectroscopy and Dynamical Analysis of the eROSITA-Selected Merging Galaxy Cluster Candidate 1eRASS J025859.4-193727</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.19276v1" target="_blank" rel="noopener noreferrer">[N12] Generalised Visibility ILC: a new foreground mitigation strategy for interferometric HI intensity mapping in the low-redshift Universe</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.18596v1" target="_blank" rel="noopener noreferrer">[N13] Reheating Bounds from Thermal GUT Monopole Production</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.20809v1" target="_blank" rel="noopener noreferrer">[N14] The linear instability of Kasner spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.20788v1" target="_blank" rel="noopener noreferrer">[N15] Looking inside a quantum black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.20663v1" target="_blank" rel="noopener noreferrer">[N16] Entropy, area, and the choice of regulator during gravitational collapse</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.20382v1" target="_blank" rel="noopener noreferrer">[N17] Quasinormal modes of Schwarzschild--AdS black holes with a near-horizon reflective surface</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.19509v1" target="_blank" rel="noopener noreferrer">[N18] The extreme Disturbed Galaxy Cluster Sample (eDGeS): Spectroscopy and Dynamical Analysis of the eROSITA-Selected Merging Galaxy Cluster Candidate 1eRASS J025859.4-193727</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.19259v1" target="_blank" rel="noopener noreferrer">[N19] On the Clustering Bias of Unresolved Gamma-Ray Sources</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.18552v1" target="_blank" rel="noopener noreferrer">[N20] Signatures of dark subhaloes in dwarf spheroidal galaxies: II. Transient and localised kinematic features</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
