@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-20T10:45:34.872939+05:30
+date: 2026-09-20T18:38:25.169469+05:30
 summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "10:45AM"
+run_time_ist: "6:38PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:45AM</h1>
+<h1 class="brief-run">Gemini Summary: 6:38PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> New simulations may explain JWST&#x27;s &quot;Little Red Dots&quot; as rapidly growing black holes in the early Universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/09/260917003703.htm" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
-<li><p><strong>Topic:</strong> Researchers are investigating the environment where the first supermassive black holes formed, potentially supporting the direct-collapse black hole scenario.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.universetoday.com/articles/researchers-measure-the-environment-where-the-first-supermassive-black-holes-formed" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A review discusses cosmological correlators derived from scattering amplitudes, offering a new perspective on primordial statistics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.19252v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New research explores distinguishing coupled dark matter-dark energy models from phantom crossing scenarios based on cosmic expansion measurements.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.19602v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A review discusses cosmological correlators derived from scattering amplitudes, highlighting their role in encoding primordial statistics for CMB and large-scale structure.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.19252v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Recent simulations using Japanese supercomputers may explain the nature of the enigmatic &quot;Little Red Dots&quot; observed by the James Webb Space Telescope.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -27,33 +27,33 @@ run_time_ist: "10:45AM"
 <li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2609.20329v1" target="_blank" rel="noopener noreferrer">[N1] Predictions on the abundance of primordial black holes: results from the SMILE VLBI milli-lensing sample</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.19602v1" target="_blank" rel="noopener noreferrer">[N2] Distinguishing Coupled Dark Matter Dark Energy from Kinematic Phantom Crossing</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.19252v1" target="_blank" rel="noopener noreferrer">[N3] Cosmological Correlators from Scattering Amplitudes: A Review</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.19602v1" target="_blank" rel="noopener noreferrer">[N1] Distinguishing Coupled Dark Matter Dark Energy from Kinematic Phantom Crossing</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.19252v1" target="_blank" rel="noopener noreferrer">[N2] Cosmological Correlators from Scattering Amplitudes: A Review</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.20329v1" target="_blank" rel="noopener noreferrer">[N3] Predictions on the abundance of primordial black holes: results from the SMILE VLBI milli-lensing sample</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.19270v1" target="_blank" rel="noopener noreferrer">[N4] Lukewarm inflation, primordial black holes and gravitational waves</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.20801v1" target="_blank" rel="noopener noreferrer">[N5] The axion mass in the post-inflationary scenario in a minimal scaling model</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.20552v1" target="_blank" rel="noopener noreferrer">[N6] Mineral Detection of Neutrinos and Dark Matter 2026 Proceedings</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.19296v1" target="_blank" rel="noopener noreferrer">[N7] A Global Overview of Starobinsky Inflation beyond slow-roll with CMB-BAO data</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.19284v1" target="_blank" rel="noopener noreferrer">[N8] Lukewarm inflation and the QCD axion</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.20622v1" target="_blank" rel="noopener noreferrer">[N9] The return of Palatini inflationary attractors: Universal mapping of observables</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html" target="_blank" rel="noopener noreferrer">[N10] Japanese supercomputer simulations may explain Webb&#x27;s Little Red Dots</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/09/260917003703.htm" target="_blank" rel="noopener noreferrer">[N11] JWST’s mysterious little red dots may be black holes growing at incredible speeds</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2609.20626v1" target="_blank" rel="noopener noreferrer">[N9] On the Extended Kerr-Newman-Bertotti-Robinson Spacetime: Two Black Holes and a Naked Singularity in Bertotti-Robinson Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.20622v1" target="_blank" rel="noopener noreferrer">[N10] The return of Palatini inflationary attractors: Universal mapping of observables</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-09-japanese-supercomputer-simulations-webb-red.html" target="_blank" rel="noopener noreferrer">[N11] Japanese supercomputer simulations may explain Webb&#x27;s Little Red Dots</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://arxiv.org/abs/2609.19276v1" target="_blank" rel="noopener noreferrer">[N12] Generalised Visibility ILC: a new foreground mitigation strategy for interferometric HI intensity mapping in the low-redshift Universe</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.18596v1" target="_blank" rel="noopener noreferrer">[N13] Reheating Bounds from Thermal GUT Monopole Production</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.universetoday.com/articles/researchers-measure-the-environment-where-the-first-supermassive-black-holes-formed" target="_blank" rel="noopener noreferrer">[N14] Researchers Measure the Environment Where the First Supermassive Black Holes Formed</a> <span>Universe Today</span></li>
-<li><a href="https://arxiv.org/abs/2609.19509v1" target="_blank" rel="noopener noreferrer">[N15] The extreme Disturbed Galaxy Cluster Sample (eDGeS): Spectroscopy and Dynamical Analysis of the eROSITA-Selected Merging Galaxy Cluster Candidate 1eRASS J025859.4-193727</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.19259v1" target="_blank" rel="noopener noreferrer">[N16] On the Clustering Bias of Unresolved Gamma-Ray Sources</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.18552v1" target="_blank" rel="noopener noreferrer">[N17] Signatures of dark subhaloes in dwarf spheroidal galaxies: II. Transient and localised kinematic features</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.19757v1" target="_blank" rel="noopener noreferrer">[N18] Constraints on the Pop III Sky Surface Brightness from High-Redshift Caustic Transients in MACS0416</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.19500v1" target="_blank" rel="noopener noreferrer">[N19] Relativistic Stellar Oscillations from Ultralight Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/list/gr-qc/recent" target="_blank" rel="noopener noreferrer">[N20] arXiv gr-qc Cosmology Search: current cosmology news source</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.20809v1" target="_blank" rel="noopener noreferrer">[N15] The linear instability of Kasner spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.20788v1" target="_blank" rel="noopener noreferrer">[N16] Looking inside a quantum black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.20663v1" target="_blank" rel="noopener noreferrer">[N17] Entropy, area, and the choice of regulator during gravitational collapse</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.20382v1" target="_blank" rel="noopener noreferrer">[N18] Quasinormal modes of Schwarzschild--AdS black holes with a near-horizon reflective surface</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.19509v1" target="_blank" rel="noopener noreferrer">[N19] The extreme Disturbed Galaxy Cluster Sample (eDGeS): Spectroscopy and Dynamical Analysis of the eROSITA-Selected Merging Galaxy Cluster Candidate 1eRASS J025859.4-193727</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.19259v1" target="_blank" rel="noopener noreferrer">[N20] On the Clustering Bias of Unresolved Gamma-Ray Sources</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
