@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-22T10:46:23.484783+05:30
+date: 2026-09-22T19:02:36.080257+05:30
 summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "10:46AM"
+run_time_ist: "7:02PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:46AM</h1>
+<h1 class="brief-run">Gemini Summary: 7:02PM</h1>
 
 <hr class="brief-rule">
 
@@ -16,8 +16,8 @@ run_time_ist: "10:46AM"
 <h2>Cosmology News</h2>
 <ul class="digest-points">
 <li><p><strong>Topic:</strong> New constraints on flash reionization from Planck CMB data are presented, impacting parameter inference in cosmological models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.24989v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The cosmic distance duality relation is tested using artificial neural networks and Gaussian processes, offering a sound-horizon-independent approach.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.24203v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Researchers have measured the environment where the first supermassive black holes formed using the James Webb Space Telescope.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-09-environment-supermassive-black-holes.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Observational features of nonsingular rotating black holes in a dark-energy-dominated universe are explored, considering evolving dark energy density.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.24926v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A sound-horizon-independent test of the cosmic distance duality relation using artificial neural networks and Gaussian processes is proposed.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.24203v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -28,9 +28,6 @@ run_time_ist: "10:46AM"
 <li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, a global portal for opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -39,8 +36,8 @@ run_time_ist: "10:46AM"
 <ul>
 <li><a href="https://arxiv.org/abs/2609.24989v1" target="_blank" rel="noopener noreferrer">[N1] Tangled $τ$: Planck CMB Constraints on Flash Reionization</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.24926v1" target="_blank" rel="noopener noreferrer">[N2] Observational Features of Nonsingular Rotating Black Holes in the Dark-Energy Dominated Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.24203v1" target="_blank" rel="noopener noreferrer">[N3] Sound-Horizon-Independent Test of Cosmic Distance Duality Relation Using Artificial Neural Networks and Gaussian Processes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.24912v1" target="_blank" rel="noopener noreferrer">[N4] Gauss--Bonnet running and the de Sitter saddle of quadratic gravity inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.24912v1" target="_blank" rel="noopener noreferrer">[N3] Gauss--Bonnet running and the de Sitter saddle of quadratic gravity inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.24203v1" target="_blank" rel="noopener noreferrer">[N4] Sound-Horizon-Independent Test of Cosmic Distance Duality Relation Using Artificial Neural Networks and Gaussian Processes</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.22470v1" target="_blank" rel="noopener noreferrer">[N5] Stress-testing the spatially flat Universe: nonparametric spatial curvature determination from DESI DR2</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.24998v1" target="_blank" rel="noopener noreferrer">[N6] Statistical Fluctuations as Primordial Correlators in the CMB: Finite Chemical Potential Thermodynamics</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.24992v1" target="_blank" rel="noopener noreferrer">[N7] Multi-Stage and Multi-Field Inflation in Random Inflationary Landscapes</a> <span>arXiv astro-ph.CO</span></li>
@@ -48,15 +45,15 @@ run_time_ist: "10:46AM"
 <li><a href="https://arxiv.org/abs/2609.22466v1" target="_blank" rel="noopener noreferrer">[N9] Model-Independent Measurement of Baryon Gas Fractions through Galaxy-Galaxy Lensing and the Kinematic Sunyaev-Zel&#x27;dovich Effect</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.24946v1" target="_blank" rel="noopener noreferrer">[N10] Merlin: Fast and flexible 3x2pt cosmology with simulation-based inference</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://phys.org/news/2026-09-environment-supermassive-black-holes.html" target="_blank" rel="noopener noreferrer">[N11] Researchers measure the environment where the first supermassive black holes formed</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2609.24476v1" target="_blank" rel="noopener noreferrer">[N12] Biases from Astrophysical Environmental Effects in Standard-Siren Cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.23982v1" target="_blank" rel="noopener noreferrer">[N13] The CAMELS-CROCODILE Simulation Suite: A New Cosmology--Astrophysics Playground for Machine Learning</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.22539v1" target="_blank" rel="noopener noreferrer">[N14] Axio-Dilaton Dark Energy: A Dynamical Systems and Bayesian Inference Analysis</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.25003v1" target="_blank" rel="noopener noreferrer">[N15] Analytical estimates of core optics stray light noise and design requirements for ground based gravitational wave detectors</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.24914v1" target="_blank" rel="noopener noreferrer">[N16] Luminosity Signatures of Dark Sector Particles from Black Hole Evaporation in Neutron Stars</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.24060v1" target="_blank" rel="noopener noreferrer">[N17] A Sample of 459 Galaxy Groups Identified from the FAST All Sky HI Survey DR2</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.23428v1" target="_blank" rel="noopener noreferrer">[N18] Impact on time delays due to milli-lensing by subhalos on lensed gravitational waves</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.23029v1" target="_blank" rel="noopener noreferrer">[N19] Thermal-acoustic fermionic dynamics and primordial perturbations in warm Yukawa inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.24824v1" target="_blank" rel="noopener noreferrer">[N20] Constraining the geometry of rotating black holes with eikonal QNMs</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.23982v1" target="_blank" rel="noopener noreferrer">[N12] The CAMELS-CROCODILE Simulation Suite: A New Cosmology--Astrophysics Playground for Machine Learning</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.22539v1" target="_blank" rel="noopener noreferrer">[N13] Axio-Dilaton Dark Energy: A Dynamical Systems and Bayesian Inference Analysis</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.25003v1" target="_blank" rel="noopener noreferrer">[N14] Analytical estimates of core optics stray light noise and design requirements for ground based gravitational wave detectors</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.24914v1" target="_blank" rel="noopener noreferrer">[N15] Luminosity Signatures of Dark Sector Particles from Black Hole Evaporation in Neutron Stars</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.24060v1" target="_blank" rel="noopener noreferrer">[N16] A Sample of 459 Galaxy Groups Identified from the FAST All Sky HI Survey DR2</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.23428v1" target="_blank" rel="noopener noreferrer">[N17] Impact on time delays due to milli-lensing by subhalos on lensed gravitational waves</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.23029v1" target="_blank" rel="noopener noreferrer">[N18] Thermal-acoustic fermionic dynamics and primordial perturbations in warm Yukawa inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.24824v1" target="_blank" rel="noopener noreferrer">[N19] Constraining the geometry of rotating black holes with eikonal QNMs</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.24733v1" target="_blank" rel="noopener noreferrer">[N20] Formalizing a unified dynamical system framework for $f(R)$ and $f(Q)$ gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
