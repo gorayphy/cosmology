@@ -1,33 +1,34 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-23T10:31:53.401055+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "10:31AM"
+date: 2026-09-23T19:15:28.660170+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "7:15PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:31AM</h1>
+<h1 class="brief-run">Gemini Summary: 7:15PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> New constraints on primordial non-Gaussianity from CMB and large-scale structure surveys are presented, offering insights into inflation physics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.26553v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The DESI second data release suggests a dynamical dark energy component, potentially challenging simple dark energy models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.26517v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A new model proposes a pseudo-Dirac fermion for dark matter, potentially explaining both the LZ event and the galactic center excess.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.26570v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New research explores how primordial non-Gaussianity, a probe of inflation, is being constrained by CMB and large-scale structure data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.26553v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The second DESI data release suggests a dynamical dark energy component, potentially addressing the phantom crossing in nonlocal gravity models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.26517v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new study proposes a simple dark matter model involving a pseudo-Dirac fermion to explain the LZ event and galactic center excess.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.26570v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, a global portal for applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, offering various positions in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for positions in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for postdoc, faculty, and scientist roles in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page for postdoctoral positions in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page for global applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -44,16 +45,16 @@ run_time_ist: "10:31AM"
 <li><a href="https://arxiv.org/abs/2609.25239v1" target="_blank" rel="noopener noreferrer">[N8] Before WIMPs: Neutrinos and the origins of particle dark matter</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.26754v1" target="_blank" rel="noopener noreferrer">[N9] To USR or not to USR: An effective description of two-field dynamics</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.26475v1" target="_blank" rel="noopener noreferrer">[N10] Stochastic motion of massless particles near event horizons in Schwarzschild and Reissner-Nordström spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.25723v1" target="_blank" rel="noopener noreferrer">[N11] Dark Diffraction at LZ from a Screened Neutral Composite Baryon</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.25387v1" target="_blank" rel="noopener noreferrer">[N12] Cosmology in sixth-order higher-derivative theories of gravity</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.25230v1" target="_blank" rel="noopener noreferrer">[N13] Cosmological stasis and the coupled dark sector of the Dark Dimension</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.25202v1" target="_blank" rel="noopener noreferrer">[N14] Cosmic Birefringence and Axiogenesis</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.24998v1" target="_blank" rel="noopener noreferrer">[N15] Statistical Fluctuations as Primordial Correlators in the CMB: Finite Chemical Potential Thermodynamics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.24992v1" target="_blank" rel="noopener noreferrer">[N16] Multi-Stage and Multi-Field Inflation in Random Inflationary Landscapes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.26724v1" target="_blank" rel="noopener noreferrer">[N17] Quasinormal modes and quantum black hole interiors</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.26421v1" target="_blank" rel="noopener noreferrer">[N18] Photon sphere for a dyonic black hole corresponding to $A_2$ Toda chain</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.26391v1" target="_blank" rel="noopener noreferrer">[N19] Potential-space geometry and scalar rigidity of the Plebański-Demiański ansatz without a cosmological constant</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.25910v1" target="_blank" rel="noopener noreferrer">[N20] Gravitational Imprints of Dark Energy in Neutron Stars</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.25387v1" target="_blank" rel="noopener noreferrer">[N11] Cosmology in sixth-order higher-derivative theories of gravity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.25230v1" target="_blank" rel="noopener noreferrer">[N12] Cosmological stasis and the coupled dark sector of the Dark Dimension</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.25202v1" target="_blank" rel="noopener noreferrer">[N13] Cosmic Birefringence and Axiogenesis</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.24998v1" target="_blank" rel="noopener noreferrer">[N14] Statistical Fluctuations as Primordial Correlators in the CMB: Finite Chemical Potential Thermodynamics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.24992v1" target="_blank" rel="noopener noreferrer">[N15] Multi-Stage and Multi-Field Inflation in Random Inflationary Landscapes</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.26724v1" target="_blank" rel="noopener noreferrer">[N16] Quasinormal modes and quantum black hole interiors</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.26421v1" target="_blank" rel="noopener noreferrer">[N17] Photon sphere for a dyonic black hole corresponding to $A_2$ Toda chain</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.25220v1" target="_blank" rel="noopener noreferrer">[N18] Dark matter haloes from dwarf to massive galaxies: no systematic inner-density tension with ΛCDM hydrodynamical simulations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-09-environment-supermassive-black-holes.html" target="_blank" rel="noopener noreferrer">[N19] Researchers measure the environment where the first supermassive black holes formed</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2609.26575v1" target="_blank" rel="noopener noreferrer">[N20] Radial quantization of the Schwarzschild geometry: relational observables, evaporation, and remnant state</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
