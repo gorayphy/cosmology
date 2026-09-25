@@ -1,34 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-09-25T10:44:39.240512+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "10:44AM"
+date: 2026-09-25T19:31:15.291850+05:30
+summary: "Latest cosmology research and job opportunities for researchers."
+run_time_ist: "7:31PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:44AM</h1>
+<h1 class="brief-run">Gemini Summary: 7:31PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Joint model-independent constraints on the Post-Newtonian parameter and cosmic curvature are derived from galaxy-scale strong lensing, SNe Ia, BAO, and cosmic chronometers, testing general relativity on kiloparsec scales.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.29377v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A new observational test of thermogravity theory is presented, which modifies Einstein equations and does not involve gravitating vacuum energy, exploring alternatives to the cosmological constant.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.29206v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The Hubble constant ($H_0$) is inferred using the Tip of the Red Giant Branch method, calibrated with geometric anchors like the Large Magellanic Cloud and NGC 4258, offering an independent measurement.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.29996v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New constraints on the Post-Newtonian parameter and cosmic curvature are derived from galaxy-scale strong lensing, SNe Ia, BAO, and cosmic chronometers, testing general relativity on kiloparsec scales.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.29377v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new observational test of thermogravity theory is presented, exploring cosmic acceleration without vacuum energy by modifying Einstein&#x27;s equations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.29206v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The Hubble constant ($H_0$) is inferred using the Tip of the Red Giant Branch method, calibrated with geometric anchors from the Large Magellanic Cloud and NGC 4258.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.29996v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India and globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -39,22 +38,22 @@ run_time_ist: "10:44AM"
 <li><a href="https://arxiv.org/abs/2609.29206v1" target="_blank" rel="noopener noreferrer">[N2] Testing cosmic acceleration from thermogravity without vacuum energy</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.29996v1" target="_blank" rel="noopener noreferrer">[N3] Two-rung ladder: $H_0$ from Tip of the Red Giant Branch and geometric anchors alone</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.30108v1" target="_blank" rel="noopener noreferrer">[N4] The Optical Expansion Scalar in Cosmological Perturbation Theory</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.29743v1" target="_blank" rel="noopener noreferrer">[N5] Impact of Heavy Modes on Primordial Black Hole Formation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.29462v1" target="_blank" rel="noopener noreferrer">[N6] Limits on Primordial Black Hole Evaporation from LUX-ZEPLIN</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.28951v1" target="_blank" rel="noopener noreferrer">[N7] DETECT: Real-Time Identification of Transients with DESI Spectroscopic Redshift</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.29852v1" target="_blank" rel="noopener noreferrer">[N8] Discovery of an isolated RELHIC Candidate: J1351+0039</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.28331v1" target="_blank" rel="noopener noreferrer">[N9] Entropy applications in cosmology: spacetime thermodynamics, holographic dark energy, entropic gravity and beyond - a review</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.30251v1" target="_blank" rel="noopener noreferrer">[N10] Statistics of large-scale structure from the transition probability of Lagrangian trajectories</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.30206v1" target="_blank" rel="noopener noreferrer">[N11] Topological black holes of Einsteinian cubic gravity and Born-Infeld-type electrodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-09-universe-oldest.html" target="_blank" rel="noopener noreferrer">[N12] Is the universe twisted? A new check on a possible twist in the universe&#x27;s oldest light</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2609.30011v1" target="_blank" rel="noopener noreferrer">[N13] Gravitational spin Hall effect in the Reissner-Nordström black holes: evolution equations and charge effects</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.29911v1" target="_blank" rel="noopener noreferrer">[N14] Plasma Effects Suppress Mixing-Induced Collisional Freeze-In</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/09/260923035922.htm" target="_blank" rel="noopener noreferrer">[N15] These massive stars could explain Webb’s strangest galaxies</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2609.28828v1" target="_blank" rel="noopener noreferrer">[N16] Unpolarized Low-Frequency Tail of Causal Chiral Gravitational Waves</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.28626v1" target="_blank" rel="noopener noreferrer">[N17] Wave-Optics Imprints of Warm Dark Matter Subhalos with Prompt Cusps on Strongly Lensed Gravitational Waves</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.28457v1" target="_blank" rel="noopener noreferrer">[N18] Sterile Neutrino Dark Matter Cries for GeV Heavy Neutral Leptons</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.30240v1" target="_blank" rel="noopener noreferrer">[N19] Emergent Scaling Symmetry and Universal Interior Criticality of Scalarized Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.30170v1" target="_blank" rel="noopener noreferrer">[N20] The third law of black hole thermodynamics and the mass-to-charge ratio of scalar fields</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.28951v1" target="_blank" rel="noopener noreferrer">[N5] DETECT: Real-Time Identification of Transients with DESI Spectroscopic Redshift</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.29852v1" target="_blank" rel="noopener noreferrer">[N6] Discovery of an isolated RELHIC Candidate: J1351+0039</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.28331v1" target="_blank" rel="noopener noreferrer">[N7] Entropy applications in cosmology: spacetime thermodynamics, holographic dark energy, entropic gravity and beyond - a review</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.30251v1" target="_blank" rel="noopener noreferrer">[N8] Statistics of large-scale structure from the transition probability of Lagrangian trajectories</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.30206v1" target="_blank" rel="noopener noreferrer">[N9] Topological black holes of Einsteinian cubic gravity and Born-Infeld-type electrodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-09-universe-oldest.html" target="_blank" rel="noopener noreferrer">[N10] Is the universe twisted? A new check on a possible twist in the universe&#x27;s oldest light</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2609.30011v1" target="_blank" rel="noopener noreferrer">[N11] Gravitational spin Hall effect in the Reissner-Nordström black holes: evolution equations and charge effects</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.29911v1" target="_blank" rel="noopener noreferrer">[N12] Plasma Effects Suppress Mixing-Induced Collisional Freeze-In</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.29743v1" target="_blank" rel="noopener noreferrer">[N13] Impact of Heavy Modes on Primordial Black Hole Formation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.29462v1" target="_blank" rel="noopener noreferrer">[N14] Limits on Primordial Black Hole Evaporation from LUX-ZEPLIN</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.28828v1" target="_blank" rel="noopener noreferrer">[N15] Unpolarized Low-Frequency Tail of Causal Chiral Gravitational Waves</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.28626v1" target="_blank" rel="noopener noreferrer">[N16] Wave-Optics Imprints of Warm Dark Matter Subhalos with Prompt Cusps on Strongly Lensed Gravitational Waves</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.28457v1" target="_blank" rel="noopener noreferrer">[N17] Sterile Neutrino Dark Matter Cries for GeV Heavy Neutral Leptons</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.30240v1" target="_blank" rel="noopener noreferrer">[N18] Emergent Scaling Symmetry and Universal Interior Criticality of Scalarized Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.30170v1" target="_blank" rel="noopener noreferrer">[N19] The third law of black hole thermodynamics and the mass-to-charge ratio of scalar fields</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.30143v1" target="_blank" rel="noopener noreferrer">[N20] Stiffness corrections for f-mode neutron star universal relations</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
