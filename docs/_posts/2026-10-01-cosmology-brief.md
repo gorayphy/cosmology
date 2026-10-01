@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-01T11:53:54.757827+05:30
-summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "11:53AM"
+date: 2026-10-01T21:03:20.439578+05:30
+summary: "Latest cosmology news and job opportunities for researchers and students."
+run_time_ist: "9:03PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 11:53AM</h1>
+<h1 class="brief-run">Gemini Summary: 9:03PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> DESI data suggests potential deviations from the standard ΛCDM model, possibly indicating dynamical dark energy or a modification to gravity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> New DESI baryon acoustic oscillation measurements, combined with CMB data, hint at a higher optical depth to reionization than previously inferred.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The Simons Observatory&#x27;s large-aperture telescope readout system design and initial performance are detailed, crucial for CMB observations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.39100v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 data suggests a potential deviation from the standard ΛCDM model, hinting at dynamical dark energy or a modification to gravity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 baryon acoustic oscillation measurements indicate a higher optical depth to reionization than previously inferred from CMB data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The CLASS experiment has provided improved constraints on cosmic microwave background circular polarization.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.40125v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -36,24 +36,24 @@ run_time_ist: "11:53AM"
 <ul>
 <li><a href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">[N1] Is DESI Seeing Dynamical Dark Energy, or a Cosmic Glitch in Gravity?</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">[N2] Raising the Optical Depth to Reionization with Dark Matter Decay</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39399v1" target="_blank" rel="noopener noreferrer">[N3] The impact of primordial magnetic fields on the formation of galaxies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39100v1" target="_blank" rel="noopener noreferrer">[N4] The Simons Observatory: Design and Initial Performance of the Detector Readout System for the Large-Aperture Telescope</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.40125v1" target="_blank" rel="noopener noreferrer">[N5] Improved Constraints on Cosmic Microwave Background Circular Polarization with CLASS</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.40125v1" target="_blank" rel="noopener noreferrer">[N3] Improved Constraints on Cosmic Microwave Background Circular Polarization with CLASS</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.39399v1" target="_blank" rel="noopener noreferrer">[N4] The impact of primordial magnetic fields on the formation of galaxies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.39100v1" target="_blank" rel="noopener noreferrer">[N5] The Simons Observatory: Design and Initial Performance of the Detector Readout System for the Large-Aperture Telescope</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.39039v1" target="_blank" rel="noopener noreferrer">[N6] Metastable Dark Energy on the Phantom Brane</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.38422v1" target="_blank" rel="noopener noreferrer">[N7] AdS - de Sitter transition in interacting dark energy models</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39432v1" target="_blank" rel="noopener noreferrer">[N8] Exploring the Primordial Power Spectrum with Dark-Age 21 cm fluctuations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39208v1" target="_blank" rel="noopener noreferrer">[N9] Probing Helical Primordial Magnetic Fields via Chiral Gravitational Waves in the LISA-TAIJI Network</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39087v1" target="_blank" rel="noopener noreferrer">[N10] Primordial Tensor Signatures and Gravitational Wave Constraints in Lorentz Violating Inflation with Non-Canonical Kinetics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.40066v1" target="_blank" rel="noopener noreferrer">[N11] A machine learning-based method for populating dark matter halos in N-body simulations with substructure</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39867v1" target="_blank" rel="noopener noreferrer">[N12] The Cosmological Correlation Dimension Beyond the Linear Regime: Analytical Approximation and Parameter Sensitivity</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39796v1" target="_blank" rel="noopener noreferrer">[N13] Effects of a central dark matter core on time-delay cosmography with galaxy clusters</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.40234v1" target="_blank" rel="noopener noreferrer">[N14] Interpreting the High-Recoil LUX-ZEPLIN Event with Bino-/Singlino-like and Higgsino Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.40057v1" target="_blank" rel="noopener noreferrer">[N15] When Streams Curve Away: a Test of Dark Matter from Extragalactic Stellar Stream Populations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39864v1" target="_blank" rel="noopener noreferrer">[N16] Testing charged bumblebee black holes through high-frequency quasi-periodic oscillations in X-ray binaries</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.39775v1" target="_blank" rel="noopener noreferrer">[N17] Enhancing Constraints on Ultralight Axion Dark Matter from Gravitational Capture</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39193v1" target="_blank" rel="noopener noreferrer">[N18] Heavy Dark Baryons as Self-Interacting Dark Matter: A GeV-Scale Coincidence</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39040v1" target="_blank" rel="noopener noreferrer">[N19] Stacked strong and weak lensing united: Improved measurement of the stellar and dark matter distributions in massive early-type galaxies at $z\sim 0.5$</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.40243v1" target="_blank" rel="noopener noreferrer">[N20] Flat limit of artificial cosmology for scalar waves in Schwarzschild-de Sitter</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.40066v1" target="_blank" rel="noopener noreferrer">[N8] A machine learning-based method for populating dark matter halos in N-body simulations with substructure</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.40234v1" target="_blank" rel="noopener noreferrer">[N9] Interpreting the High-Recoil LUX-ZEPLIN Event with Bino-/Singlino-like and Higgsino Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.40057v1" target="_blank" rel="noopener noreferrer">[N10] When Streams Curve Away: a Test of Dark Matter from Extragalactic Stellar Stream Populations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.39432v1" target="_blank" rel="noopener noreferrer">[N11] Exploring the Primordial Power Spectrum with Dark-Age 21 cm fluctuations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.39208v1" target="_blank" rel="noopener noreferrer">[N12] Probing Helical Primordial Magnetic Fields via Chiral Gravitational Waves in the LISA-TAIJI Network</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.39087v1" target="_blank" rel="noopener noreferrer">[N13] Primordial Tensor Signatures and Gravitational Wave Constraints in Lorentz Violating Inflation with Non-Canonical Kinetics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.39040v1" target="_blank" rel="noopener noreferrer">[N14] Stacked strong and weak lensing united: Improved measurement of the stellar and dark matter distributions in massive early-type galaxies at $z\sim 0.5$</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.40243v1" target="_blank" rel="noopener noreferrer">[N15] Flat limit of artificial cosmology for scalar waves in Schwarzschild-de Sitter</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.40166v1" target="_blank" rel="noopener noreferrer">[N16] Axion corrections to photon superradiant scattering by Kerr black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.39867v1" target="_blank" rel="noopener noreferrer">[N17] The Cosmological Correlation Dimension Beyond the Linear Regime: Analytical Approximation and Parameter Sensitivity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.39796v1" target="_blank" rel="noopener noreferrer">[N18] Effects of a central dark matter core on time-delay cosmography with galaxy clusters</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.40315v1" target="_blank" rel="noopener noreferrer">[N19] Teukolsky equations in perturbations of Kerr</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.40291v1" target="_blank" rel="noopener noreferrer">[N20] The classical limit of the Magnus expansion</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
