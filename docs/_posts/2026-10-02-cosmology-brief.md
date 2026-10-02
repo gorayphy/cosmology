@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-02T11:31:32.423096+05:30
+date: 2026-10-02T20:20:54.136077+05:30
 summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "11:31AM"
+run_time_ist: "8:20PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 11:31AM</h1>
+<h1 class="brief-run">Gemini Summary: 8:20PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A joint DESI DR1 full-shape power spectrum and bispectrum analysis demonstrates the bispectrum&#x27;s ability to probe non-linear LSS and break parameter degeneracies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.01836v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Combined DESI BAO and CMB data show mild preference for departures from ΛCDM, potentially indicating dynamical dark energy or a glitch in gravity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> DESI DR2 BAO measurements suggest a higher optical depth to reionization than CMB inferences, possibly explained by dark matter decay.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A joint DESI DR1 full-shape power spectrum and bispectrum analysis demonstrates the bispectrum&#x27;s ability to probe non-linear structure growth and break parameter degeneracies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.01836v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Combined DESI and CMB data analysis suggests mild departures from ΛCDM, potentially indicating dynamical dark energy or a glitch in gravity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 BAO measurements, when combined with CMB inferences, suggest a higher optical depth to reionization, possibly explained by dark matter decay.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -28,6 +28,9 @@ run_time_ist: "11:31AM"
 <li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor in Physics at Villanova U. Deadline: 2026-11-15.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3209539" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -37,23 +40,23 @@ run_time_ist: "11:31AM"
 <li><a href="https://arxiv.org/abs/2610.01836v1" target="_blank" rel="noopener noreferrer">[N1] Cosmological inference from a joint DESI DR1 full-shape power spectrum and bispectrum analysis</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">[N2] Is DESI Seeing Dynamical Dark Energy, or a Cosmic Glitch in Gravity?</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">[N3] Raising the Optical Depth to Reionization with Dark Matter Decay</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.01541v1" target="_blank" rel="noopener noreferrer">[N4] Weighing Galaxies Inside-Out: Small-Scale Lensing and the Stellar Mass Problem</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.00457v1" target="_blank" rel="noopener noreferrer">[N5] Primordial Black Hole and Gravitational Wave by Peaked Cosmic Perturbations from Axion Curvaton</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.01407v1" target="_blank" rel="noopener noreferrer">[N6] Graceful Exit to Radiation Domination in the Starobinsky Model: A Dynamical Realization</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.01254v1" target="_blank" rel="noopener noreferrer">[N7] Reconstruction of $f(Q)$ Gravity from Geodesic Congruence Dynamics: Raychaudhuri Equation</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.00999v1" target="_blank" rel="noopener noreferrer">[N8] Weak-Lensing Shear Response for Photometric Redshift-Based Tomographic Binning</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.40125v1" target="_blank" rel="noopener noreferrer">[N9] Improved Constraints on Cosmic Microwave Background Circular Polarization with CLASS</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.01865v1" target="_blank" rel="noopener noreferrer">[N10] hyprfine: simulating the 21-cm signal from the Dark Ages through to the Epoch of Reionization on a GPU</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.01430v1" target="_blank" rel="noopener noreferrer">[N11] Can structure formation distinguish between holographic dark energy models?</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.01136v1" target="_blank" rel="noopener noreferrer">[N12] Do Submillimeter Galaxies Trace Megaparsec Large-scale Structures? -- An Overdensity Analysis of 449 Submillimeter Galaxies in COSMOS</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.02138v1" target="_blank" rel="noopener noreferrer">[N13] Strongly mixed cosmological collider at unequal sound speeds</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.02004v1" target="_blank" rel="noopener noreferrer">[N14] Analytic Metric for Rotating Black Holes in Higher-Derivative Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.00458v1" target="_blank" rel="noopener noreferrer">[N15] QCD axion misalignment during reheating</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.01476v1" target="_blank" rel="noopener noreferrer">[N16] Closed timelike curves in modified theories of gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.01255v1" target="_blank" rel="noopener noreferrer">[N17] Charged Hawking Mass on CMC Collars with Charged Matter</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.01152v1" target="_blank" rel="noopener noreferrer">[N18] The Love for Three Logarithms: Universal Running of Dynamical Love Numbers</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2609.40066v1" target="_blank" rel="noopener noreferrer">[N19] A machine learning-based method for populating dark matter halos in N-body simulations with substructure</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39867v1" target="_blank" rel="noopener noreferrer">[N20] The Cosmological Correlation Dimension Beyond the Linear Regime: Analytical Approximation and Parameter Sensitivity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.00457v1" target="_blank" rel="noopener noreferrer">[N4] Primordial Black Hole and Gravitational Wave by Peaked Cosmic Perturbations from Axion Curvaton</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.01541v1" target="_blank" rel="noopener noreferrer">[N5] Weighing Galaxies Inside-Out: Small-Scale Lensing and the Stellar Mass Problem</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.00999v1" target="_blank" rel="noopener noreferrer">[N6] Weak-Lensing Shear Response for Photometric Redshift-Based Tomographic Binning</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.40125v1" target="_blank" rel="noopener noreferrer">[N7] Improved Constraints on Cosmic Microwave Background Circular Polarization with CLASS</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.01865v1" target="_blank" rel="noopener noreferrer">[N8] hyprfine: simulating the 21-cm signal from the Dark Ages through to the Epoch of Reionization on a GPU</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.02138v1" target="_blank" rel="noopener noreferrer">[N9] Strongly mixed cosmological collider at unequal sound speeds</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.02004v1" target="_blank" rel="noopener noreferrer">[N10] Analytic Metric for Rotating Black Holes in Higher-Derivative Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.01407v1" target="_blank" rel="noopener noreferrer">[N11] Graceful Exit to Radiation Domination in the Starobinsky Model: A Dynamical Realization</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.01254v1" target="_blank" rel="noopener noreferrer">[N12] Reconstruction of $f(Q)$ Gravity from Geodesic Congruence Dynamics: Raychaudhuri Equation</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.00458v1" target="_blank" rel="noopener noreferrer">[N13] QCD axion misalignment during reheating</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.01430v1" target="_blank" rel="noopener noreferrer">[N14] Can structure formation distinguish between holographic dark energy models?</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.01136v1" target="_blank" rel="noopener noreferrer">[N15] Do Submillimeter Galaxies Trace Megaparsec Large-scale Structures? -- An Overdensity Analysis of 449 Submillimeter Galaxies in COSMOS</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.40066v1" target="_blank" rel="noopener noreferrer">[N16] A machine learning-based method for populating dark matter halos in N-body simulations with substructure</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.39867v1" target="_blank" rel="noopener noreferrer">[N17] The Cosmological Correlation Dimension Beyond the Linear Regime: Analytical Approximation and Parameter Sensitivity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.01964v1" target="_blank" rel="noopener noreferrer">[N18] Locating critical solutions in numerical relativity using automatic differentiation</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2609.40234v1" target="_blank" rel="noopener noreferrer">[N19] Interpreting the High-Recoil LUX-ZEPLIN Event with Bino-/Singlino-like and Higgsino Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.40057v1" target="_blank" rel="noopener noreferrer">[N20] When Streams Curve Away: a Test of Dark Matter from Extragalactic Stellar Stream Populations</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
