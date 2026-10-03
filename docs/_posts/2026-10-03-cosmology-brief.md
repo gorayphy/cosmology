@@ -1,36 +1,36 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-03T00:56:08.528523+05:30
-summary: "Latest cosmology news, jobs, and fellowships for researchers and students."
-run_time_ist: "12:56AM"
+date: 2026-10-03T11:06:40.898821+05:30
+summary: "Latest research, news, and opportunities in cosmology for researchers and students."
+run_time_ist: "11:06AM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 12:56AM</h1>
+<h1 class="brief-run">Gemini Summary: 11:06AM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> DESI DR2 BAO and CMB data suggest a mild preference for dynamical dark energy or a deviation from $Λ\mathrm{CDM}$ gravity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> DESI DR2 BAO measurements indicate a higher optical depth to reionization than CMB inferences, potentially explained by dark matter decay.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A joint DESI DR1 full-shape power spectrum and bispectrum analysis probes non-linear LSS evolution to break parameter degeneracies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.01836v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 baryon acoustic oscillation and CMB data suggest a mild preference for dynamical dark energy or a deviation from standard gravity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New DESI DR2 BAO measurements indicate a higher optical depth to reionization than previously inferred from CMB data, potentially explained by dark matter decay.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A joint DESI DR1 full-shape power spectrum and bispectrum analysis provides cosmological constraints by probing non-linear large-scale structure evolution.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.01836v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> Tenure-Track Research Associate Professor Positions at Inst. High Energy Phys., Beijing.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3208715" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Call for nominations for MITP Senior Postdoctoral Fellowships at Mainz U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3209381" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor in Physics at Villanova U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3209539" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Research Associate Professor Positions at the Institute of High Energy Physics, Beijing.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3208715" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> MITP Senior Postdoctoral Fellowships at Mainz University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3209381" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor in Physics at Villanova University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3209539" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Postdoctoral Position in Theoretical Cosmology at LAPTH, Annecy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3205036" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current opportunities page for global applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Physics World Astronomy Cosmology Postdocs: current opportunities page for global researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.physicsworldjobs.com/jobs/astronomy-cosmology-and-space-science/academic-postdoc/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> EURAXESS Research Jobs: current opportunities page for European research positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://euraxess.ec.europa.eu/jobs" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology, a global portal for cosmology, astrophysics, and physics opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Physics World Astronomy Cosmology Postdocs, a global portal for astronomy, cosmology, and physics postdoc positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.physicsworldjobs.com/jobs/astronomy-cosmology-and-space-science/academic-postdoc/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> EURAXESS Research Jobs, a portal for research opportunities in Europe, often open internationally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://euraxess.ec.europa.eu/jobs" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -92,13 +92,13 @@ run_time_ist: "12:56AM"
 <li><a href="https://inspirehep.net/jobs/3210124" target="_blank" rel="noopener noreferrer">[J33] Postdoctoral Researcher in Dark Sector Searches with the ATLAS Experiment</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3210712" target="_blank" rel="noopener noreferrer">[J34] Postdoctoral Researcher in Deep Learning for Particle Physics: DRIFTS Project H/F</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3207363" target="_blank" rel="noopener noreferrer">[J35] Call for Expressions of Interest -- Ramón y Cajal Fellowship Programme 2026</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3205028" target="_blank" rel="noopener noreferrer">[J36] Postdoctoral Researcher in Experimental High Energy Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3208683" target="_blank" rel="noopener noreferrer">[J37] Assistant or Associate Professor of Physics and Astronomy - Experimental High Energy Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">[J38] JSPS Postdoctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>JSPS Postdoctoral Fellowship</span></li>
-<li><a href="https://inspirehep.net/jobs/3205802" target="_blank" rel="noopener noreferrer">[J39] PhD in Experimental Astroparticle Physics (IceCube)</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3205044" target="_blank" rel="noopener noreferrer">[J40] Ph.D. studying particle physics using the CMS experiment or the DUNE and SBND experiments</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3208711" target="_blank" rel="noopener noreferrer">[J41] Graduate Student Positions (M.S. / Ph.D. / Integrated M.S.–Ph.D.) in Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3210143" target="_blank" rel="noopener noreferrer">[J42] Master/PhD Positions in High-Energy Astrophysics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3208683" target="_blank" rel="noopener noreferrer">[J36] Assistant or Associate Professor of Physics and Astronomy - Experimental High Energy Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">[J37] JSPS Postdoctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>JSPS Postdoctoral Fellowship</span></li>
+<li><a href="https://inspirehep.net/jobs/3205802" target="_blank" rel="noopener noreferrer">[J38] PhD in Experimental Astroparticle Physics (IceCube)</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3205044" target="_blank" rel="noopener noreferrer">[J39] Ph.D. studying particle physics using the CMS experiment or the DUNE and SBND experiments</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3208711" target="_blank" rel="noopener noreferrer">[J40] Graduate Student Positions (M.S. / Ph.D. / Integrated M.S.–Ph.D.) in Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3210143" target="_blank" rel="noopener noreferrer">[J41] Master/PhD Positions in High-Energy Astrophysics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3210820" target="_blank" rel="noopener noreferrer">[J42] Theoretical High Energy Physics with connection to Astrophysics</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3210713" target="_blank" rel="noopener noreferrer">[J43] ICREA 2027 – ICCUB Expression of Interest</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3209470" target="_blank" rel="noopener noreferrer">[J44] PhD in Theoretical Cosmology (UK Home-fee eligible applicants only)</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3208131" target="_blank" rel="noopener noreferrer">[J45] Search for quantization of space-time with photon counting interferometry</a> <span>INSPIRE HEP Jobs API</span></li>
