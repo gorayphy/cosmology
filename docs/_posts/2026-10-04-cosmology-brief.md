@@ -1,62 +1,62 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-04T19:43:27.507245+05:30
-summary: "Latest cosmology research, news, and job opportunities for researchers."
-run_time_ist: "7:43PM"
+date: 2026-10-04T23:46:12.901938+05:30
+summary: "Latest cosmology news, research, and job opportunities for physicists."
+run_time_ist: "11:46PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 7:43PM</h1>
+<h1 class="brief-run">Gemini Summary: 11:46PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A joint DESI DR1 full-shape power spectrum and bispectrum analysis demonstrates the bispectrum&#x27;s ability to probe non-linear gravitational evolution and break parameter degeneracies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.01836v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Combined DESI BAO and CMB data suggest mild departures from ΛCDM, potentially indicating dynamical dark energy or a glitch in gravity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> DESI DR2 BAO measurements highlight a discrepancy with CMB inferences, favoring a higher optical depth to reionization ($τ_{\rm reio}\simeq 0.09$).</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 data suggests a mild preference for dynamical dark energy or a deviation from standard gravity, potentially impacting ΛCDM models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 BAO measurements indicate a higher optical depth to reionization than CMB inferences, suggesting new physics might be needed.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Primordial magnetic fields created shortly after the Big Bang may offer a solution to the cosmic expansion rate discrepancy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/10/261002080026.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page (Global).</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. Portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. Portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page. Global portal for opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page. Portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor in Physics, Villanova U. Deadline: 2026-11-15. Global opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3209539" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2610.01836v1" target="_blank" rel="noopener noreferrer">[N1] Cosmological inference from a joint DESI DR1 full-shape power spectrum and bispectrum analysis</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">[N2] Is DESI Seeing Dynamical Dark Energy, or a Cosmic Glitch in Gravity?</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">[N3] Raising the Optical Depth to Reionization with Dark Matter Decay</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/10/261002080026.htm" target="_blank" rel="noopener noreferrer">[N4] Scientists find a surprising clue to why the universe’s expansion doesn’t add up</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2609.40176v1" target="_blank" rel="noopener noreferrer">[N1] Is DESI Seeing Dynamical Dark Energy, or a Cosmic Glitch in Gravity?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.39923v1" target="_blank" rel="noopener noreferrer">[N2] Raising the Optical Depth to Reionization with Dark Matter Decay</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/10/261002080026.htm" target="_blank" rel="noopener noreferrer">[N3] Scientists find a surprising clue to why the universe’s expansion doesn’t add up</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2610.01836v1" target="_blank" rel="noopener noreferrer">[N4] Cosmological inference from a joint DESI DR1 full-shape power spectrum and bispectrum analysis</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.00457v1" target="_blank" rel="noopener noreferrer">[N5] Primordial Black Hole and Gravitational Wave by Peaked Cosmic Perturbations from Axion Curvaton</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.01541v1" target="_blank" rel="noopener noreferrer">[N6] Weighing Galaxies Inside-Out: Small-Scale Lensing and the Stellar Mass Problem</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.00999v1" target="_blank" rel="noopener noreferrer">[N7] Weak-Lensing Shear Response for Photometric Redshift-Based Tomographic Binning</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2609.40125v1" target="_blank" rel="noopener noreferrer">[N8] Improved Constraints on Cosmic Microwave Background Circular Polarization with CLASS</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.01865v1" target="_blank" rel="noopener noreferrer">[N9] hyprfine: simulating the 21-cm signal from the Dark Ages through to the Epoch of Reionization on a GPU</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.02138v1" target="_blank" rel="noopener noreferrer">[N10] Strongly mixed cosmological collider at unequal sound speeds</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.02004v1" target="_blank" rel="noopener noreferrer">[N11] Analytic Metric for Rotating Black Holes in Higher-Derivative Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.01407v1" target="_blank" rel="noopener noreferrer">[N12] Graceful Exit to Radiation Domination in the Starobinsky Model: A Dynamical Realization</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.01254v1" target="_blank" rel="noopener noreferrer">[N13] Reconstruction of $f(Q)$ Gravity from Geodesic Congruence Dynamics: Raychaudhuri Equation</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.00458v1" target="_blank" rel="noopener noreferrer">[N14] QCD axion misalignment during reheating</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-10-black-holes-quietly-galaxies-violent.html" target="_blank" rel="noopener noreferrer">[N15] Black holes may grow quietly alongside galaxies even without violent mergers</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2610.01430v1" target="_blank" rel="noopener noreferrer">[N16] Can structure formation distinguish between holographic dark energy models?</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.01136v1" target="_blank" rel="noopener noreferrer">[N17] Do Submillimeter Galaxies Trace Megaparsec Large-scale Structures? -- An Overdensity Analysis of 449 Submillimeter Galaxies in COSMOS</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.40066v1" target="_blank" rel="noopener noreferrer">[N18] A machine learning-based method for populating dark matter halos in N-body simulations with substructure</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2609.39867v1" target="_blank" rel="noopener noreferrer">[N19] The Cosmological Correlation Dimension Beyond the Linear Regime: Analytical Approximation and Parameter Sensitivity</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/09/260930225443.htm" target="_blank" rel="noopener noreferrer">[N20] The early universe wasn’t nearly as pristine as scientists thought</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2610.01407v1" target="_blank" rel="noopener noreferrer">[N9] Graceful Exit to Radiation Domination in the Starobinsky Model: A Dynamical Realization</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.01254v1" target="_blank" rel="noopener noreferrer">[N10] Reconstruction of $f(Q)$ Gravity from Geodesic Congruence Dynamics: Raychaudhuri Equation</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.00458v1" target="_blank" rel="noopener noreferrer">[N11] QCD axion misalignment during reheating</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-10-black-holes-quietly-galaxies-violent.html" target="_blank" rel="noopener noreferrer">[N12] Black holes may grow quietly alongside galaxies even without violent mergers</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2610.01865v1" target="_blank" rel="noopener noreferrer">[N13] hyprfine: simulating the 21-cm signal from the Dark Ages through to the Epoch of Reionization on a GPU</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.01430v1" target="_blank" rel="noopener noreferrer">[N14] Can structure formation distinguish between holographic dark energy models?</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.01136v1" target="_blank" rel="noopener noreferrer">[N15] Do Submillimeter Galaxies Trace Megaparsec Large-scale Structures? -- An Overdensity Analysis of 449 Submillimeter Galaxies in COSMOS</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.40066v1" target="_blank" rel="noopener noreferrer">[N16] A machine learning-based method for populating dark matter halos in N-body simulations with substructure</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2609.39867v1" target="_blank" rel="noopener noreferrer">[N17] The Cosmological Correlation Dimension Beyond the Linear Regime: Analytical Approximation and Parameter Sensitivity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/09/260930225443.htm" target="_blank" rel="noopener noreferrer">[N18] The early universe wasn’t nearly as pristine as scientists thought</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2610.02138v1" target="_blank" rel="noopener noreferrer">[N19] Strongly mixed cosmological collider at unequal sound speeds</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.02004v1" target="_blank" rel="noopener noreferrer">[N20] Analytic Metric for Rotating Black Holes in Higher-Derivative Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
