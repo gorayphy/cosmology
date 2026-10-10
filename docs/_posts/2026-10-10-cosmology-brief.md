@@ -1,33 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-10T11:45:02.298044+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "11:45AM"
+date: 2026-10-10T20:04:17.646970+05:30
+summary: "Latest research, news, and opportunities in cosmology for researchers and students."
+run_time_ist: "8:04PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 11:45AM</h1>
+<h1 class="brief-run">Gemini Summary: 8:04PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> The James Webb Space Telescope is enabling a new era for supernova science, providing crucial data on their physical, chemical, and cosmological context.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.12100v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Recent work explores holographic dark energy models constructed from generalized entropy functionals and infrared cut-offs, offering new theoretical frameworks.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.11616v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A Canadian radio telescope has detected a 9-billion-year-old hydrogen signal, demonstrating a new method to map the distant universe and potentially explain dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/10/261007042102.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The James Webb Space Telescope is enabling a new era for supernova science, providing crucial insights into their physical, chemical, and cosmological contexts.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.12100v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Research explores holographic dark energy models using generalized entropy functionals and infrared cut-offs, offering new perspectives on dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.11616v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new model for the origin of Fermi Halo-like emission is proposed, investigating gamma-ray sky emissions beyond known astrophysical sources.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.10695v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, a global portal for international postdoc/faculty applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Physics World Astronomy Cosmology Postdocs: current cosmology, astrophysics, and physics opportunities page, a global portal for postdoc positions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.physicsworldjobs.com/jobs/astronomy-cosmology-and-space-science/academic-postdoc/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Marie Curie Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, an open mobility fellowship in Europe, relevant for international researchers.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> EURAXESS Research Jobs: current cosmology, astrophysics, and physics opportunities page, a portal for European research jobs, with potential international applicability.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://euraxess.ec.europa.eu/jobs" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for physics postdoctoral fellowships in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -41,19 +41,19 @@ run_time_ist: "11:45AM"
 <li><a href="https://arxiv.org/abs/2610.10688v1" target="_blank" rel="noopener noreferrer">[N5] Matter-Antimatter Asymmetry from Dirac-Majorana Flip-Flop</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.10677v1" target="_blank" rel="noopener noreferrer">[N6] Primordial black holes as a natural consequence of scale-invariance</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.12418v1" target="_blank" rel="noopener noreferrer">[N7] Cosmic topology. Part IId. Eigenmodes and correlation matrices of lens spaces</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/10/261007042102.htm" target="_blank" rel="noopener noreferrer">[N8] A 9-billion-year-old signal could help explain dark energy</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2610.12443v1" target="_blank" rel="noopener noreferrer">[N9] A scalar-extended ${\rm U(1)_{L_μ-L_τ}}$ explanation of the LUX-ZEPLIN 248 keV excess</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.12429v1" target="_blank" rel="noopener noreferrer">[N10] Listening to the Horizon: Probing Near-Horizon Reflectivity with GW250114</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.12372v1" target="_blank" rel="noopener noreferrer">[N11] Swirling spacetimes in higher dimensions: Vacuum backgrounds and black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.12179v1" target="_blank" rel="noopener noreferrer">[N12] The variance of the CMB temperature gradient: a dependence on the spatial orientation and anisotropy of a multiply connected Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.12082v1" target="_blank" rel="noopener noreferrer">[N13] Gravitational radiation from a photon on the light ring: multipole fluxes and the logarithmic divergence</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-10-largest-2d-universe-scientists-gravitational.html" target="_blank" rel="noopener noreferrer">[N14] Largest 2D map of the universe helps scientists discover new gravitational lenses</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2610.10936v1" target="_blank" rel="noopener noreferrer">[N15] The conditional colour-magnitude distribution: III. A study of galaxy colour- and luminosity-dependent counts-in-cells statistics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.10921v1" target="_blank" rel="noopener noreferrer">[N16] Massive de Sitter Correlators as Finite Mellin-Barnes Integrals</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.10695v1" target="_blank" rel="noopener noreferrer">[N17] The Origin of the Fermi Halo-like Emission: A New Model of the Fermi Bubbles</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.10535v1" target="_blank" rel="noopener noreferrer">[N18] A weakly modelled view of the joint compact-binary mass plane: population structure and spectral-siren cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.12262v1" target="_blank" rel="noopener noreferrer">[N19] Horizon symmetries of exact hydrodynamic actions</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.12259v1" target="_blank" rel="noopener noreferrer">[N20] An analytical model for non-local stochastic field-level galaxy bias on the sphere</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.12443v1" target="_blank" rel="noopener noreferrer">[N8] A scalar-extended ${\rm U(1)_{L_μ-L_τ}}$ explanation of the LUX-ZEPLIN 248 keV excess</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.12429v1" target="_blank" rel="noopener noreferrer">[N9] Listening to the Horizon: Probing Near-Horizon Reflectivity with GW250114</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.12372v1" target="_blank" rel="noopener noreferrer">[N10] Swirling spacetimes in higher dimensions: Vacuum backgrounds and black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.12179v1" target="_blank" rel="noopener noreferrer">[N11] The variance of the CMB temperature gradient: a dependence on the spatial orientation and anisotropy of a multiply connected Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.12082v1" target="_blank" rel="noopener noreferrer">[N12] Gravitational radiation from a photon on the light ring: multipole fluxes and the logarithmic divergence</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-10-largest-2d-universe-scientists-gravitational.html" target="_blank" rel="noopener noreferrer">[N13] Largest 2D map of the universe helps scientists discover new gravitational lenses</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2610.10936v1" target="_blank" rel="noopener noreferrer">[N14] The conditional colour-magnitude distribution: III. A study of galaxy colour- and luminosity-dependent counts-in-cells statistics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.10921v1" target="_blank" rel="noopener noreferrer">[N15] Massive de Sitter Correlators as Finite Mellin-Barnes Integrals</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.10695v1" target="_blank" rel="noopener noreferrer">[N16] The Origin of the Fermi Halo-like Emission: A New Model of the Fermi Bubbles</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.10535v1" target="_blank" rel="noopener noreferrer">[N17] A weakly modelled view of the joint compact-binary mass plane: population structure and spectral-siren cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.12262v1" target="_blank" rel="noopener noreferrer">[N18] Horizon symmetries of exact hydrodynamic actions</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.12259v1" target="_blank" rel="noopener noreferrer">[N19] An analytical model for non-local stochastic field-level galaxy bias on the sphere</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.12199v1" target="_blank" rel="noopener noreferrer">[N20] Autocorrelation in black hole flare movies: Departures from Kerr</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
