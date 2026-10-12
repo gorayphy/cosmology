@@ -1,60 +1,59 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-12T00:35:45.122771+05:30
+date: 2026-10-12T11:51:51.037778+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "12:35AM"
+run_time_ist: "11:51AM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 12:35AM</h1>
+<h1 class="brief-run">Gemini Summary: 11:51AM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> The James Webb Space Telescope is enabling a new era for supernova science, providing crucial data on their physical, chemical, and cosmological context.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.12100v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Research explores holographic dark energy models using generalized entropy functionals and infrared cut-offs, investigating their cosmological implications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.11616v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A Canadian radio telescope has detected a 9-billion-year-old hydrogen signal, demonstrating a new method for mapping the distant universe and potentially explaining dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/10/261007042102.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new framework for relaxation dark energy models explores the implications of cosmic acceleration and quantum gravity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.13739v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Forthcoming 21cm intensity maps from MeerKLASS may enable detection of redshift space distortions, aiding structure formation studies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.13393v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The James Webb Space Telescope is opening a new era for supernova science, probing galactic evolution across cosmic history.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.12100v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities globally.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2610.12100v1" target="_blank" rel="noopener noreferrer">[N1] A New Era for Supernova Science with the James Webb Space Telescope</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.10750v1" target="_blank" rel="noopener noreferrer">[N2] Primordial black holes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.11616v1" target="_blank" rel="noopener noreferrer">[N3] Holographic dark energy from generalized entropies and extended infrared cut-offs</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.10741v1" target="_blank" rel="noopener noreferrer">[N4] Feedback-Conditional 3D Reconstruction of Cosmic Baryons with Flow Matching</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.10688v1" target="_blank" rel="noopener noreferrer">[N5] Matter-Antimatter Asymmetry from Dirac-Majorana Flip-Flop</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.10677v1" target="_blank" rel="noopener noreferrer">[N6] Primordial black holes as a natural consequence of scale-invariance</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.13739v1" target="_blank" rel="noopener noreferrer">[N1] Relaxation Dark Energy: Compositional Dynamics and the Future of Cosmic Acceleration</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.13393v1" target="_blank" rel="noopener noreferrer">[N2] Detecting redshift space distortions with forthcoming 21cm intensity maps from MeerKLASS</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.12100v1" target="_blank" rel="noopener noreferrer">[N3] A New Era for Supernova Science with the James Webb Space Telescope</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.13867v1" target="_blank" rel="noopener noreferrer">[N4] The Redshift-Space Galaxy Power Spectrum at Two-Loop Order</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.12947v1" target="_blank" rel="noopener noreferrer">[N5] Global analysis of tensor mode helicity</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.11616v1" target="_blank" rel="noopener noreferrer">[N6] Holographic dark energy from generalized entropies and extended infrared cut-offs</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.12418v1" target="_blank" rel="noopener noreferrer">[N7] Cosmic topology. Part IId. Eigenmodes and correlation matrices of lens spaces</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-10-tiny-ancient-black-holes-dimensional.html" target="_blank" rel="noopener noreferrer">[N8] Tiny ancient black holes may live in a five-dimensional world</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/10/261007042102.htm" target="_blank" rel="noopener noreferrer">[N9] A 9-billion-year-old signal could help explain dark energy</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2610.12443v1" target="_blank" rel="noopener noreferrer">[N10] A scalar-extended ${\rm U(1)_{L_μ-L_τ}}$ explanation of the LUX-ZEPLIN 248 keV excess</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.12429v1" target="_blank" rel="noopener noreferrer">[N11] Listening to the Horizon: Probing Near-Horizon Reflectivity with GW250114</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.12372v1" target="_blank" rel="noopener noreferrer">[N12] Swirling spacetimes in higher dimensions: Vacuum backgrounds and black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.12179v1" target="_blank" rel="noopener noreferrer">[N13] The variance of the CMB temperature gradient: a dependence on the spatial orientation and anisotropy of a multiply connected Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.12082v1" target="_blank" rel="noopener noreferrer">[N14] Gravitational radiation from a photon on the light ring: multipole fluxes and the logarithmic divergence</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-10-largest-2d-universe-scientists-gravitational.html" target="_blank" rel="noopener noreferrer">[N15] Largest 2D map of the universe helps scientists discover new gravitational lenses</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2610.10936v1" target="_blank" rel="noopener noreferrer">[N16] The conditional colour-magnitude distribution: III. A study of galaxy colour- and luminosity-dependent counts-in-cells statistics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.10921v1" target="_blank" rel="noopener noreferrer">[N17] Massive de Sitter Correlators as Finite Mellin-Barnes Integrals</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.10695v1" target="_blank" rel="noopener noreferrer">[N18] The Origin of the Fermi Halo-like Emission: A New Model of the Fermi Bubbles</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.10535v1" target="_blank" rel="noopener noreferrer">[N19] A weakly modelled view of the joint compact-binary mass plane: population structure and spectral-siren cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.12262v1" target="_blank" rel="noopener noreferrer">[N20] Horizon symmetries of exact hydrodynamic actions</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.13814v1" target="_blank" rel="noopener noreferrer">[N8] An exact rotating black hole solution in Palatini Kalb-Ramond gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.13684v1" target="_blank" rel="noopener noreferrer">[N9] Relativistic dynamical friction in Kerr-Schild coordinates</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.13566v1" target="_blank" rel="noopener noreferrer">[N10] Robustness of exact $SU(N)$ Einstein-Skyrme solutions: black holes, wormholes and cosmologies</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.13384v1" target="_blank" rel="noopener noreferrer">[N11] Flip-Flop Shocks and Tori in Bondi-Hoyle-Lyttleton Accretion onto Rotating Kerr-Weyl Black Holes and Their Quasi-Periodic Variability</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.12719v1" target="_blank" rel="noopener noreferrer">[N12] Stochastic gravitational waves from narrow-band cosmological magnetic fields</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.12577v1" target="_blank" rel="noopener noreferrer">[N13] The road to $H_0$, $Ω_m$, and $w$ with a global neutrino-telescope network</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.12564v1" target="_blank" rel="noopener noreferrer">[N14] Seeing in the Dark: Gravitational Waves from Resonant Production of Dark Photon Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-10-tiny-ancient-black-holes-dimensional.html" target="_blank" rel="noopener noreferrer">[N15] Tiny ancient black holes may live in a five-dimensional world</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2610.13938v1" target="_blank" rel="noopener noreferrer">[N16] A universal sector of $\mathcal{N}=1$ class $\mathcal{S}$ spectra</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.13899v1" target="_blank" rel="noopener noreferrer">[N17] $q$-deformed Weil-Petersson Volumes from the Spectral Edge of DSSYK and Supersymmetric Extensions</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.13777v1" target="_blank" rel="noopener noreferrer">[N18] Internal translation gauging and local gravitational energy in Weyl gauge theory</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.13700v1" target="_blank" rel="noopener noreferrer">[N19] Bessel-Hagen currents, reducibility charges, and local gravitational energy</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.13612v1" target="_blank" rel="noopener noreferrer">[N20] The Gregory-Laflamme Instability of five-dimensional Black Strings in Einstein-Gauss-Bonnet Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
