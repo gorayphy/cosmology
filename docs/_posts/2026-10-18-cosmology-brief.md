@@ -1,33 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-18T10:29:41.937349+05:30
+date: 2026-10-18T18:11:36.259740+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "10:29AM"
+run_time_ist: "6:11PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:29AM</h1>
+<h1 class="brief-run">Gemini Summary: 6:11PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Recent work explores disentangling geometry and growth in cosmic neutrino mass constraints, addressing hints of neutrino mass sums below oscillation experiment minimums.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.20977v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The unified Bound Dark Energy--Bound Dark Matter model proposes a single supersymmetric SU(3) gauge group for both dark energy and dark matter, with constraints from DESI DR2.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.20716v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Model-independent parameters from DESI DR1 LRG2 are presented with an explicitly varying power-spectrum shape to distinguish dark energy from modified gravity.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.21235v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Recent cosmological data suggest a neutrino mass sum below oscillation experiment limits, with a preference for &quot;negative&quot; neutrino masses.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.20977v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The unified Bound Dark Energy--Bound Dark Matter model proposes a single supersymmetric $SU(3)$ gauge group for both dark energy and dark matter.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.20716v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Model-independent parameters from DESI DR1 LRG2 are presented, aiming to distinguish dark energy from modified gravity by measuring cosmic distances and structure growth.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.21235v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Faculty search: tenure-track assistant professor at UC, Berkeley.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3215401" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral fellowship in astroparticle theory at Queen&#x27;s U., Kingston.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3215366" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Research Associate at WUSTL.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3215694" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor in Physics at Villanova U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3213975" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -39,21 +39,21 @@ run_time_ist: "10:29AM"
 <li><a href="https://arxiv.org/abs/2610.21235v1" target="_blank" rel="noopener noreferrer">[N3] Model-independent parameters from DESI DR1 LRG2 with an explicitly varying power-spectrum shape</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.22128v1" target="_blank" rel="noopener noreferrer">[N4] The gravitational constant and the cosmic microwave background</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.21951v1" target="_blank" rel="noopener noreferrer">[N5] Stimulated capture of axion dark matter around primordial black holes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.21658v1" target="_blank" rel="noopener noreferrer">[N6] From Cosmic Bounces to Primordial Black Holes: The Role of Primordial Magnetic Fields</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.21710v1" target="_blank" rel="noopener noreferrer">[N7] Minkowski Functionals of CII Line Intensity Maps: Probing Astrophysics and Primordial Features</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.20919v1" target="_blank" rel="noopener noreferrer">[N8] Self Calibrated Galaxy Groups from the DESI DR1 Bright Galaxy Survey</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.20710v1" target="_blank" rel="noopener noreferrer">[N9] Tracing small-scale structure formation through cosmic time with strong gravitational lensing: A case for a next-generation sub-millimetre/millimetre interferometer</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.22239v1" target="_blank" rel="noopener noreferrer">[N10] High-frequency water megamasers as precision probes of black holes, galaxies and cosmology: A case for a next-generation sub-mm/mm interferometer</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.21992v1" target="_blank" rel="noopener noreferrer">[N11] Modified hydrogen recombination rate due to non-Hubble redshift effects</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.21817v1" target="_blank" rel="noopener noreferrer">[N12] From Non-Thermal to Thermal: Cosmological Imprints of Self-Interacting Secluded Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.21441v1" target="_blank" rel="noopener noreferrer">[N13] Resolving the Assembly of Disk Galaxies from the Epoch of Reionisation to Cosmic Noon</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.22197v1" target="_blank" rel="noopener noreferrer">[N14] Properties and limitations of linear models for mutual coupling in 21 cm arrays</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.22105v1" target="_blank" rel="noopener noreferrer">[N15] From Axion Detection to Dark Matter Astronomy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.21860v1" target="_blank" rel="noopener noreferrer">[N16] From Accelerating Rotating Black Holes to a Swirling Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.21722v1" target="_blank" rel="noopener noreferrer">[N17] Hydrostatic Equilibrium Constraints on the Fuzzy Dark Matter Mass from Dwarf Spheroidals: Method, Systematics, and Robustness</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-10-webb-early-universe-supernova-days.html" target="_blank" rel="noopener noreferrer">[N18] Webb spots possible early-universe supernova just days after it happened</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2610.22274v1" target="_blank" rel="noopener noreferrer">[N19] Exact algebraic separation of the gravitoelectromagnetic perturbations of Kerr-Newman-(anti-)de Sitter black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.22101v1" target="_blank" rel="noopener noreferrer">[N20] Aspects of Codimension two Holography in de Sitter Space</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.20919v1" target="_blank" rel="noopener noreferrer">[N6] Self Calibrated Galaxy Groups from the DESI DR1 Bright Galaxy Survey</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.20710v1" target="_blank" rel="noopener noreferrer">[N7] Tracing small-scale structure formation through cosmic time with strong gravitational lensing: A case for a next-generation sub-millimetre/millimetre interferometer</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.22239v1" target="_blank" rel="noopener noreferrer">[N8] High-frequency water megamasers as precision probes of black holes, galaxies and cosmology: A case for a next-generation sub-mm/mm interferometer</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.21992v1" target="_blank" rel="noopener noreferrer">[N9] Modified hydrogen recombination rate due to non-Hubble redshift effects</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.21817v1" target="_blank" rel="noopener noreferrer">[N10] From Non-Thermal to Thermal: Cosmological Imprints of Self-Interacting Secluded Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.21658v1" target="_blank" rel="noopener noreferrer">[N11] From Cosmic Bounces to Primordial Black Holes: The Role of Primordial Magnetic Fields</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.22197v1" target="_blank" rel="noopener noreferrer">[N12] Properties and limitations of linear models for mutual coupling in 21 cm arrays</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.22105v1" target="_blank" rel="noopener noreferrer">[N13] From Axion Detection to Dark Matter Astronomy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.21860v1" target="_blank" rel="noopener noreferrer">[N14] From Accelerating Rotating Black Holes to a Swirling Universe</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.21710v1" target="_blank" rel="noopener noreferrer">[N15] Minkowski Functionals of CII Line Intensity Maps: Probing Astrophysics and Primordial Features</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-10-webb-early-universe-supernova-days.html" target="_blank" rel="noopener noreferrer">[N16] Webb spots possible early-universe supernova just days after it happened</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2610.22274v1" target="_blank" rel="noopener noreferrer">[N17] Exact algebraic separation of the gravitoelectromagnetic perturbations of Kerr-Newman-(anti-)de Sitter black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.22101v1" target="_blank" rel="noopener noreferrer">[N18] Aspects of Codimension two Holography in de Sitter Space</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.21848v1" target="_blank" rel="noopener noreferrer">[N19] Photon-Return and Polar-Focusing Crossovers near Extremal Kerr</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.21830v1" target="_blank" rel="noopener noreferrer">[N20] Thermodynamics of rotating black holes with constrained primary hair</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
