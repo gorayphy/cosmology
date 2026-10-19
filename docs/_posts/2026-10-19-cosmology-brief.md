@@ -1,33 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-19T10:36:51.633420+05:30
+date: 2026-10-19T21:16:06.730776+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "10:36AM"
+run_time_ist: "9:16PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:36AM</h1>
+<h1 class="brief-run">Gemini Summary: 9:16PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A new study tests whether late-time solutions to the Hubble tension are ruled out by the inverse distance ladder using DES-Dovekie supernovae and DESI DR2 BAO.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.23657v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Galaxy bias of radio AGN and star-forming galaxies is investigated using MIGHTEE and CMB lensing, crucial for understanding galaxy evolution feedback mechanisms.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.23567v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The James Webb Space Telescope has detected a possible early-universe supernova just days after its explosion, offering a unique glimpse into stellar death in the early cosmos.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-10-webb-early-universe-supernova-days.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A model-independent test using DES-Dovekie supernovae and DESI DR2 BAO investigates if the inverse distance ladder rules out late-time solutions to the Hubble tension.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.23657v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Scalar-induced gravitational waves are explored as a probe of multi-fluid cosmologies and pre-Big Bang expansion history.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.23808v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The James Webb Space Telescope has detected a possible early-universe supernova, AT 2026abck, in a star-forming galaxy at redshift 5.017.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-10-webb-early-universe-supernova-days.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. Portal for India-relevant opportunities.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Faculty search: tenure-track assistant professor at UC, Berkeley.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3215401" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral fellowship in astroparticle theory at Queen&#x27;s U., Kingston.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3215366" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Research Associate at WUSTL.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3215694" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure Track Faculty Position in Theoretical Neutrino Physics at Virginia Tech.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3213501" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -35,25 +35,25 @@ run_time_ist: "10:36AM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2610.23657v1" target="_blank" rel="noopener noreferrer">[N1] Does the inverse distance ladder rule out late-time solutions to the Hubble tension? A model-independent test using DES-Dovekie supernovae and DESI DR2 BAO</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.23567v1" target="_blank" rel="noopener noreferrer">[N2] Galaxy bias of radio AGN and star-forming galaxies from MIGHTEE and CMB lensing</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.23821v1" target="_blank" rel="noopener noreferrer">[N3] Learning without relearning physical symmetry: an SO(3)-equivariant convolutional network (CNN) on the sphere</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.23497v1" target="_blank" rel="noopener noreferrer">[N4] Can coupled thawing quintessence reproduce DESI DR2? A test with two potentials</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.23808v1" target="_blank" rel="noopener noreferrer">[N5] Gravitational Waves as a Probe of Multi-Fluid Cosmologies: General Formalism and the Case of Cosmological Stasis</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.23828v1" target="_blank" rel="noopener noreferrer">[N6] Revisiting the Mass and Scale Dependence of the &quot;Lensing is Low&quot; Effect with DECADE</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.23739v1" target="_blank" rel="noopener noreferrer">[N7] The magnetic universe in the theory of gravity with non-minimal kinetic coupling of a scalar field</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.23606v1" target="_blank" rel="noopener noreferrer">[N8] Principle of no paradoxical Universe</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.22648v1" target="_blank" rel="noopener noreferrer">[N9] Primordial Power Spectrum from the Lensed CMB Temperature Spectrum using Iterative Delensing and Fourier Denoising</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.23658v1" target="_blank" rel="noopener noreferrer">[N10] Hidden Sector Relic Abundances from an Effective Planck Mass</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.22819v1" target="_blank" rel="noopener noreferrer">[N11] Analytic and numerical study of dark matter halos in the Horndeski theory</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.22128v1" target="_blank" rel="noopener noreferrer">[N12] The gravitational constant and the cosmic microwave background</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.23522v1" target="_blank" rel="noopener noreferrer">[N13] The metric-affine $\mathring{R}^2$ scalaron: parameter-free inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.23486v1" target="_blank" rel="noopener noreferrer">[N14] Near-Extremal Black-Hole Formation Observed from Null Infinity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-10-webb-early-universe-supernova-days.html" target="_blank" rel="noopener noreferrer">[N15] Webb spots possible early-universe supernova just days after it happened</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2610.23564v1" target="_blank" rel="noopener noreferrer">[N16] Possible detection of Baryon Acoustic Oscillations imprinted in the HI sources from the FASHI catalog</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.23385v1" target="_blank" rel="noopener noreferrer">[N17] Prospects for Simultaneously Detecting Long and Short Duration Gravitational Waves from Pulsar Glitches with Current and Future Detectors</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.23133v1" target="_blank" rel="noopener noreferrer">[N18] Uniqueness of Static Black Holes in Lovelock Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.22239v1" target="_blank" rel="noopener noreferrer">[N19] High-frequency water megamasers as precision probes of black holes, galaxies and cosmology: A case for a next-generation sub-mm/mm interferometer</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-10-primordial-helium-big.html" target="_blank" rel="noopener noreferrer">[N20] Primordial helium further confirms our understanding of the Big Bang</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2610.23821v1" target="_blank" rel="noopener noreferrer">[N2] Learning without relearning physical symmetry: an SO(3)-equivariant convolutional network (CNN) on the sphere</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.23808v1" target="_blank" rel="noopener noreferrer">[N3] Gravitational Waves as a Probe of Multi-Fluid Cosmologies: General Formalism and the Case of Cosmological Stasis</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.23567v1" target="_blank" rel="noopener noreferrer">[N4] Galaxy bias of radio AGN and star-forming galaxies from MIGHTEE and CMB lensing</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.23828v1" target="_blank" rel="noopener noreferrer">[N5] Revisiting the Mass and Scale Dependence of the &quot;Lensing is Low&quot; Effect with DECADE</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.23739v1" target="_blank" rel="noopener noreferrer">[N6] The magnetic universe in the theory of gravity with non-minimal kinetic coupling of a scalar field</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.23497v1" target="_blank" rel="noopener noreferrer">[N7] Can coupled thawing quintessence reproduce DESI DR2? A test with two potentials</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.22648v1" target="_blank" rel="noopener noreferrer">[N8] Primordial Power Spectrum from the Lensed CMB Temperature Spectrum using Iterative Delensing and Fourier Denoising</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.23658v1" target="_blank" rel="noopener noreferrer">[N9] Hidden Sector Relic Abundances from an Effective Planck Mass</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.22819v1" target="_blank" rel="noopener noreferrer">[N10] Analytic and numerical study of dark matter halos in the Horndeski theory</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.22128v1" target="_blank" rel="noopener noreferrer">[N11] The gravitational constant and the cosmic microwave background</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.23606v1" target="_blank" rel="noopener noreferrer">[N12] Principle of no paradoxical Universe</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-10-webb-early-universe-supernova-days.html" target="_blank" rel="noopener noreferrer">[N13] Webb spots possible early-universe supernova just days after it happened</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2610.22239v1" target="_blank" rel="noopener noreferrer">[N14] High-frequency water megamasers as precision probes of black holes, galaxies and cosmology: A case for a next-generation sub-mm/mm interferometer</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-10-primordial-helium-big.html" target="_blank" rel="noopener noreferrer">[N15] Primordial helium further confirms our understanding of the Big Bang</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-10-astronomer-global-team-nasa-mission.html" target="_blank" rel="noopener noreferrer">[N16] Astronomer leads global team on NASA mission to create unprecedented view of the early universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-10-distant-supercluster-galaxies-interacting-dark.html" target="_blank" rel="noopener noreferrer">[N17] A distant supercluster of galaxies points to self-interacting dark matter</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2610.23522v1" target="_blank" rel="noopener noreferrer">[N18] The metric-affine $\mathring{R}^2$ scalaron: parameter-free inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.23486v1" target="_blank" rel="noopener noreferrer">[N19] Near-Extremal Black-Hole Formation Observed from Null Infinity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.22197v1" target="_blank" rel="noopener noreferrer">[N20] Properties and limitations of linear models for mutual coupling in 21 cm arrays</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
