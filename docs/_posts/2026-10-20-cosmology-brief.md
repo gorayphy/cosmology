@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-20T10:38:43.772072+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "10:38AM"
+date: 2026-10-20T19:13:44.755383+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "7:13PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:38AM</h1>
+<h1 class="brief-run">Gemini Summary: 7:13PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Mock TianQin standard siren catalogs are generated under different cosmological models to assess their impact on parameter estimation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.26727v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Primordial black holes are investigated within braneworld gravity as a potential gateway to hidden dimensions and the dark Universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.26482v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The Jeffreys prior is applied to re-analyze DESI DR2 BAO, Planck 2018 CMB, and supernova data to explore evidence for evolving dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.26493v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Mock TianQin standard siren catalogs are generated under different cosmological models to assess their implications for parameter estimation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.26727v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Primordial black holes are investigated within a braneworld scenario as a potential gateway to hidden dimensions and the dark universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.26482v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The Jeffreys prior is applied to re-analyze DESI DR2 BAO, Planck 2018 CMB, and supernovae data to explore evolving dark energy evidence.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.26493v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -38,22 +38,22 @@ run_time_ist: "10:38AM"
 <li><a href="https://arxiv.org/abs/2610.26482v1" target="_blank" rel="noopener noreferrer">[N2] Primordial black holes in braneworld gravity: A gateway to hidden dimensions and the dark Universe</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.26493v1" target="_blank" rel="noopener noreferrer">[N3] Exploring the Evidence for Evolving Dark Energy with the Jeffreys prior</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.26654v1" target="_blank" rel="noopener noreferrer">[N4] Neutrino self-interactions in light of DESI and CMB-SPA</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.25984v1" target="_blank" rel="noopener noreferrer">[N5] Gravitational Instability of Cold Axion Dark Matter Beyond Minimal Coupling</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.25862v1" target="_blank" rel="noopener noreferrer">[N6] A Morphology-Based Cross-Tracer Ratio for Robust BAO Tests</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.26639v1" target="_blank" rel="noopener noreferrer">[N7] Evolving only the observed spacetime region: perfectly parallel lightcone simulations with sCOLA</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.25909v1" target="_blank" rel="noopener noreferrer">[N8] Constraints on the Cosmic Expansion Rate Using the DECam Local Volume Exploration Survey and the Fifth Gravitational Wave Transient Catalog</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.25145v1" target="_blank" rel="noopener noreferrer">[N9] Beyond dust in local cosmography: perturbative Vlasov predictions</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.24618v1" target="_blank" rel="noopener noreferrer">[N10] Galactic warps constrain equivalence-principle violation in the dark sector</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.24067v1" target="_blank" rel="noopener noreferrer">[N11] Multimessenger Probes of Primordial Black Holes with Gravitational Wave and 21 cm Observations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.26775v1" target="_blank" rel="noopener noreferrer">[N12] Spherically symmetric solutions with dust and radiation sources in Schouten-Codazzi Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.26766v1" target="_blank" rel="noopener noreferrer">[N13] Spectroscopy as a Probe of Spacetime Foam</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.26669v1" target="_blank" rel="noopener noreferrer">[N14] Mean-Field Backreaction in Single-Field Inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.26623v1" target="_blank" rel="noopener noreferrer">[N15] Cosmological perturbations from localized sources: a gauge-invariant multipolar theory</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.26257v1" target="_blank" rel="noopener noreferrer">[N16] Analog regular black holes and black hole mimickers in a Bose-Einstein condensate: from the core to the light rings</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.26014v1" target="_blank" rel="noopener noreferrer">[N17] Hubble Susceptibility: Beyond Effective-Mass Spectroscopy in the Cosmological Collider</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.24070v1" target="_blank" rel="noopener noreferrer">[N18] Breaking the axion abundance-isocurvature relation: Scale invariance and high-scale inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.24066v1" target="_blank" rel="noopener noreferrer">[N19] Extending SOMPZ beyond Spectroscopic Coverage for Roman Weak Lensing</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.universetoday.com/articles/the-esas-euclid-space-telescope-has-discovered-a-new-comet" target="_blank" rel="noopener noreferrer">[N20] The ESA&#x27;s Euclid Space Telescope Has Discovered A New Comet</a> <span>Universe Today</span></li>
+<li><a href="https://arxiv.org/abs/2610.26639v1" target="_blank" rel="noopener noreferrer">[N5] Evolving only the observed spacetime region: perfectly parallel lightcone simulations with sCOLA</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.25984v1" target="_blank" rel="noopener noreferrer">[N6] Gravitational Instability of Cold Axion Dark Matter Beyond Minimal Coupling</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.25862v1" target="_blank" rel="noopener noreferrer">[N7] A Morphology-Based Cross-Tracer Ratio for Robust BAO Tests</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.25145v1" target="_blank" rel="noopener noreferrer">[N8] Beyond dust in local cosmography: perturbative Vlasov predictions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.24067v1" target="_blank" rel="noopener noreferrer">[N9] Multimessenger Probes of Primordial Black Holes with Gravitational Wave and 21 cm Observations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.26775v1" target="_blank" rel="noopener noreferrer">[N10] Spherically symmetric solutions with dust and radiation sources in Schouten-Codazzi Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.26766v1" target="_blank" rel="noopener noreferrer">[N11] Spectroscopy as a Probe of Spacetime Foam</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.26669v1" target="_blank" rel="noopener noreferrer">[N12] Mean-Field Backreaction in Single-Field Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.26623v1" target="_blank" rel="noopener noreferrer">[N13] Cosmological perturbations from localized sources: a gauge-invariant multipolar theory</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.24070v1" target="_blank" rel="noopener noreferrer">[N14] Breaking the axion abundance-isocurvature relation: Scale invariance and high-scale inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.24066v1" target="_blank" rel="noopener noreferrer">[N15] Extending SOMPZ beyond Spectroscopic Coverage for Roman Weak Lensing</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.universetoday.com/articles/the-esas-euclid-space-telescope-has-discovered-a-new-comet" target="_blank" rel="noopener noreferrer">[N16] The ESA&#x27;s Euclid Space Telescope Has Discovered A New Comet</a> <span>Universe Today</span></li>
+<li><a href="https://arxiv.org/abs/2610.26692v1" target="_blank" rel="noopener noreferrer">[N17] Gravitational fingerprints of a black hole solution in Palatini Kalb-Ramond gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.26678v1" target="_blank" rel="noopener noreferrer">[N18] A new class of rotating black hole solutions endowed with a scalar hair</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.26619v1" target="_blank" rel="noopener noreferrer">[N19] GPU-accelerated Bayesian inference for diffracted gravitational wave signals</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.25909v1" target="_blank" rel="noopener noreferrer">[N20] Constraints on the Cosmic Expansion Rate Using the DECam Local Volume Exploration Survey and the Fifth Gravitational Wave Transient Catalog</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
