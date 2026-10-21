@@ -1,33 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-21T10:40:15.368565+05:30
-summary: "Latest cosmology research, news, and job opportunities for researchers."
-run_time_ist: "10:40AM"
+date: 2026-10-21T19:29:38.810367+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "7:29PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:40AM</h1>
+<h1 class="brief-run">Gemini Summary: 7:29PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> New simulations (DDELenS) are available for studying dynamical dark energy with massive neutrinos using weak lensing.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.27088v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The &quot;Rubin 2036: Opportunities for Discovery&quot; workshop outlines a community roadmap for the Vera C. Rubin Observatory&#x27;s future beyond the LSST.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.28482v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A study explores quantum Bianchi IX anisotropies as potential relics of preinflationary geometry imprinted on the primordial curvature spectrum.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.28436v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New cosmological simulations (DDELenS) are available for studying dynamical dark energy with massive neutrinos using weak lensing.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.27088v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The &quot;Rubin 2036: Opportunities for Discovery&quot; workshop outlines a community roadmap for the Vera C. Rubin Observatory&#x27;s future beyond the LSST survey.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.28482v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A model is proposed where cosmic microwave background birefringence arises from a stiff axion field, with implications for cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.27082v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page at PRL.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page at TIFR Astronomy and Astrophysics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page at IUCAA.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page for HRI Physics Postdoctoral Fellowships.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -41,19 +41,19 @@ run_time_ist: "10:40AM"
 <li><a href="https://arxiv.org/abs/2610.28436v1" target="_blank" rel="noopener noreferrer">[N5] Quantum Bianchi IX Anisotropies as Inflationary Relics in the Primordial Spectrum</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2610.27082v1" target="_blank" rel="noopener noreferrer">[N6] Cosmic birefringence from a stiff axion field and its cosmological implications</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.28608v1" target="_blank" rel="noopener noreferrer">[N7] Slow-Roll Inflation at Arbitrary Order</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.28013v1" target="_blank" rel="noopener noreferrer">[N8] Kinematically isolating intracluster light in AS1063: a distinct stellar population tracing the dark matter core</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.27059v1" target="_blank" rel="noopener noreferrer">[N9] A Natural Dark Matter-Dark Energy Interaction from Axion-Monopole Dynamics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.28367v1" target="_blank" rel="noopener noreferrer">[N10] Geometrically Induced Semiclassical Limit for Quasinormal Modes and Greybody Factors in Higher-Dimensional Near-Ultracold spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.28014v1" target="_blank" rel="noopener noreferrer">[N11] Two-Component Dark Matter and Strongly First-Order Electroweak Phase Transition via a Two-Step Mechanism in the Inert Doublet plus Real Singlet Model</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.27933v1" target="_blank" rel="noopener noreferrer">[N12] Probing Minihalos in the Late Dark Ages through Velocity Acoustic Oscillations in the 21-cm Power Spectrum</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.27731v1" target="_blank" rel="noopener noreferrer">[N13] Axion detection in the non-Markovian noise</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.27514v1" target="_blank" rel="noopener noreferrer">[N14] Stability Analysis of Axion Dark Energy Model</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.27236v1" target="_blank" rel="noopener noreferrer">[N15] Searching for Dense Perturbers in Cold Dark Matter Simulations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.27068v1" target="_blank" rel="noopener noreferrer">[N16] ASTROLABE: A 3D Particle-Level Surrogate for Cosmology Simulation with Physical Flow Matching</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.28516v1" target="_blank" rel="noopener noreferrer">[N17] Cosmological correlators from the Euclidean sphere</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.28451v1" target="_blank" rel="noopener noreferrer">[N18] Finite-range hair from a nonlocal matter sector: charged Yukawa black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.28359v1" target="_blank" rel="noopener noreferrer">[N19] Topological ModMax--AdS Black Holes: Extremality, Charge Normalization, and Limits of WGC Diagnostics</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.28112v1" target="_blank" rel="noopener noreferrer">[N20] Thin-Shell Wormholes in Born--Infeld-Type Magnetic Spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.27059v1" target="_blank" rel="noopener noreferrer">[N8] A Natural Dark Matter-Dark Energy Interaction from Axion-Monopole Dynamics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.28367v1" target="_blank" rel="noopener noreferrer">[N9] Geometrically Induced Semiclassical Limit for Quasinormal Modes and Greybody Factors in Higher-Dimensional Near-Ultracold spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.27514v1" target="_blank" rel="noopener noreferrer">[N10] Stability Analysis of Axion Dark Energy Model</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.27236v1" target="_blank" rel="noopener noreferrer">[N11] Searching for Dense Perturbers in Cold Dark Matter Simulations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.27068v1" target="_blank" rel="noopener noreferrer">[N12] ASTROLABE: A 3D Particle-Level Surrogate for Cosmology Simulation with Physical Flow Matching</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.28516v1" target="_blank" rel="noopener noreferrer">[N13] Cosmological correlators from the Euclidean sphere</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.28451v1" target="_blank" rel="noopener noreferrer">[N14] Finite-range hair from a nonlocal matter sector: charged Yukawa black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.28359v1" target="_blank" rel="noopener noreferrer">[N15] Topological ModMax--AdS Black Holes: Extremality, Charge Normalization, and Limits of WGC Diagnostics</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.28013v1" target="_blank" rel="noopener noreferrer">[N16] Kinematically isolating intracluster light in AS1063: a distinct stellar population tracing the dark matter core</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.28609v1" target="_blank" rel="noopener noreferrer">[N17] Dynamical stability of Magnetic Supramassive Neutron Stars</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.28592v1" target="_blank" rel="noopener noreferrer">[N18] Monopole stability of time-dependent, spherically symmetric backgrounds in Horndeski theory</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.28408v1" target="_blank" rel="noopener noreferrer">[N19] Hybrid Stars with Different Amount of Quark Matter</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.28014v1" target="_blank" rel="noopener noreferrer">[N20] Two-Component Dark Matter and Strongly First-Order Electroweak Phase Transition via a Two-Step Mechanism in the Inert Doublet plus Real Singlet Model</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
@@ -77,23 +77,23 @@ run_time_ist: "10:40AM"
 <li><a href="https://www.aries.res.in/opportunities" target="_blank" rel="noopener noreferrer">[J21] ARIES Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>ARIES Opportunities</span></li>
 <li><a href="https://www.ncra.tifr.res.in/ncra/opportunities" target="_blank" rel="noopener noreferrer">[J22] NCRA-TIFR Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>NCRA-TIFR Opportunities</span></li>
 <li><a href="https://www.icts.res.in/opportunities" target="_blank" rel="noopener noreferrer">[J23] ICTS Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>ICTS Opportunities</span></li>
-<li><a href="https://inspirehep.net/jobs/3213975" target="_blank" rel="noopener noreferrer">[J24] Tenure-Track Assistant Professor in Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://www.hri.res.in/advertisements/" target="_blank" rel="noopener noreferrer">[J25] HRI Advertisements: current cosmology, astrophysics, and physics opportunities page</a> <span>HRI Advertisements</span></li>
-<li><a href="https://www.saha.ac.in/web/positions" target="_blank" rel="noopener noreferrer">[J26] SINP Positions: current cosmology, astrophysics, and physics opportunities page</a> <span>SINP Positions</span></li>
-<li><a href="https://euraxess.ec.europa.eu/jobs" target="_blank" rel="noopener noreferrer">[J27] EURAXESS Research Jobs: current cosmology, astrophysics, and physics opportunities page</a> <span>EURAXESS Research Jobs</span></li>
-<li><a href="https://academicpositions.com/find-jobs?fields%5B0%5D=physics" target="_blank" rel="noopener noreferrer">[J28] Academic Positions Physics: current cosmology, astrophysics, and physics opportunities page</a> <span>Academic Positions Physics</span></li>
+<li><a href="https://www.hri.res.in/advertisements/" target="_blank" rel="noopener noreferrer">[J24] HRI Advertisements: current cosmology, astrophysics, and physics opportunities page</a> <span>HRI Advertisements</span></li>
+<li><a href="https://www.saha.ac.in/web/positions" target="_blank" rel="noopener noreferrer">[J25] SINP Positions: current cosmology, astrophysics, and physics opportunities page</a> <span>SINP Positions</span></li>
+<li><a href="https://euraxess.ec.europa.eu/jobs" target="_blank" rel="noopener noreferrer">[J26] EURAXESS Research Jobs: current cosmology, astrophysics, and physics opportunities page</a> <span>EURAXESS Research Jobs</span></li>
+<li><a href="https://academicpositions.com/find-jobs?fields%5B0%5D=physics" target="_blank" rel="noopener noreferrer">[J27] Academic Positions Physics: current cosmology, astrophysics, and physics opportunities page</a> <span>Academic Positions Physics</span></li>
+<li><a href="https://inspirehep.net/jobs/3216352" target="_blank" rel="noopener noreferrer">[J28] Postdoctoral position in Quantum Gravity, Cosmology, and AI for Science</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3215792" target="_blank" rel="noopener noreferrer">[J29] Post-doctoral Fellowship in Particle Astrophysics and Multi-messenger Astrophysics</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3215405" target="_blank" rel="noopener noreferrer">[J30] Assistant Professor of Physics, Theoretical Astroparticle Physics and Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3215730" target="_blank" rel="noopener noreferrer">[J31] Postdoctoral position in theoretical cosmology at ENS</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3213817" target="_blank" rel="noopener noreferrer">[J32] Postdoctoral positions in theoretical particle physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3215688" target="_blank" rel="noopener noreferrer">[J33] Assistant Professor of Physics (Extragalactic Astrophysics)</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3213977" target="_blank" rel="noopener noreferrer">[J34] 2027 Panofsky Fellowship</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3214619" target="_blank" rel="noopener noreferrer">[J35] Postdoctoral Fellow in Axion Search Experiment</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3214634" target="_blank" rel="noopener noreferrer">[J36] Postdoctoral Position in Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3213849" target="_blank" rel="noopener noreferrer">[J37] Postdoctoral positions in Theoretical Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">[J38] JSPS Postdoctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>JSPS Postdoctoral Fellowship</span></li>
-<li><a href="https://inspirehep.net/jobs/3216122" target="_blank" rel="noopener noreferrer">[J39] Simons-FAPESP Research Professor at ICTP-SAIFR</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3216099" target="_blank" rel="noopener noreferrer">[J40] Postdoc position on effective field theory, scattering amplitude, precision calculation and collider physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3216411" target="_blank" rel="noopener noreferrer">[J31] Microscopic description of nuclear resonances postdoctoral position</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3215730" target="_blank" rel="noopener noreferrer">[J32] Postdoctoral position in theoretical cosmology at ENS</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3216434" target="_blank" rel="noopener noreferrer">[J33] Postdoctoral positions in Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3216432" target="_blank" rel="noopener noreferrer">[J34] Two Postdoctoral Positions in Simulation-Based Inference for Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3215688" target="_blank" rel="noopener noreferrer">[J35] Assistant Professor of Physics (Extragalactic Astrophysics)</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">[J36] JSPS Postdoctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>JSPS Postdoctoral Fellowship</span></li>
+<li><a href="https://inspirehep.net/jobs/3216413" target="_blank" rel="noopener noreferrer">[J37] Particle Physics Beyond the Standard Model at Colliders and in Gravitational-Wave Observations</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3216122" target="_blank" rel="noopener noreferrer">[J38] Simons-FAPESP Research Professor at ICTP-SAIFR</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3216099" target="_blank" rel="noopener noreferrer">[J39] Postdoc position on effective field theory, scattering amplitude, precision calculation and collider physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3216433" target="_blank" rel="noopener noreferrer">[J40] PhD positions in Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3214977" target="_blank" rel="noopener noreferrer">[J41] Postdoc in Particle Theory</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3215783" target="_blank" rel="noopener noreferrer">[J42] ICTP Postdoc</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3214821" target="_blank" rel="noopener noreferrer">[J43] Postdoc in String Cosmology and String Phenomenology</a> <span>INSPIRE HEP Jobs API</span></li>
