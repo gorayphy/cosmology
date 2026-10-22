@@ -1,33 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-22T10:44:14.120274+05:30
-summary: "Latest cosmology news and job opportunities for researchers."
-run_time_ist: "10:44AM"
+date: 2026-10-22T19:28:26.106690+05:30
+summary: "Latest cosmology news and job opportunities for researchers and students."
+run_time_ist: "7:28PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 10:44AM</h1>
+<h1 class="brief-run">Gemini Summary: 7:28PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A new study proposes that a large cosmic birefringence angle during reionization, induced by energy injection to axion-like particles, could alleviate the tension between CMB and BAO measurements.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.29764v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Tomographic weak gravitational lensing, using higher-order statistics beyond the power spectrum, is explored as a powerful probe for constraining dynamical dark energy models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.29937v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Future Einstein Telescope observations of bright standard sirens are investigated for their potential to constrain dynamical dark-energy scenarios, building on DESI DR2 data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.29908v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A large cosmic birefringence angle during reionization could alleviate the tension between CMB and BAO measurements in the standard ΛCDM model.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.29764v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Higher-order statistics of tomographic galaxy and CMB weak lensing can constrain dynamical dark energy models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.29937v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Hubble observations suggest supernova winds may not have played the significant role previously thought in cosmic reionization.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-10-hubble-supernova-role-cosmic-reionization.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page. This portal lists current opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Faculty search: tenure-track assistant professor at UC, Berkeley.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3215401" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral fellowship in astroparticle theory at Queen&#x27;s University, Kingston.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3215366" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Research Associate at WUSTL.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3215694" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Post-Doctoral Position Experimental Long-Baseline Neutrino Oscillation Physics at Indiana University, Bloomington.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3217154" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -37,23 +37,23 @@ run_time_ist: "10:44AM"
 <li><a href="https://arxiv.org/abs/2610.29764v1" target="_blank" rel="noopener noreferrer">[N1] Alleviating CMB-BAO tension with a large cosmic birefringence angle during reionization induced by energy injection to axion-like particles</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.29937v1" target="_blank" rel="noopener noreferrer">[N2] Constraining Dynamical Dark Energy with Tomographic Galaxy and CMB Weak Lensing Through Higher-Order Statistics</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.29908v1" target="_blank" rel="noopener noreferrer">[N3] Testing Dynamical Dark-Energy Model with Standard Sirens</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.29591v1" target="_blank" rel="noopener noreferrer">[N4] HETDEX [OII] galaxies at $z \le 0.48$: Growth of structures from power spectrum multipoles</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.29349v1" target="_blank" rel="noopener noreferrer">[N5] Magnetic monopoles produced by first-order phase transition</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.28723v1" target="_blank" rel="noopener noreferrer">[N6] Poisson Clustering and Seed Effect of PBHs: Implications for Microlensing, Gravitational Waves, Little Red Dots and Ultra-Faint Dwarf Galaxies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.29582v1" target="_blank" rel="noopener noreferrer">[N7] Cosmology of self-interacting ultralight dark matter: simultaneous shifts in the Hubble constant and structure growth</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.28482v1" target="_blank" rel="noopener noreferrer">[N8] The &quot;Rubin 2036: Opportunities for Discovery&quot; Workshop: A Community Roadmap for the Future of the Vera C. Rubin Observatory After the LSST</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.29967v1" target="_blank" rel="noopener noreferrer">[N9] Gravitational Waves from New Inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.29885v1" target="_blank" rel="noopener noreferrer">[N10] Cosmological Gravitational Wave Collider Physics</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.29182v1" target="_blank" rel="noopener noreferrer">[N11] Parity-odd CMB Correlations induced by a Chiral Gravitational Wave Background</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.30106v1" target="_blank" rel="noopener noreferrer">[N12] On Particle Production from Bubble Collisions in the Non-runaway Regime</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-10-hubble-supernova-role-cosmic-reionization.html" target="_blank" rel="noopener noreferrer">[N13] Hubble observations challenge supernova winds&#x27; role in cosmic reionization</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2610.29541v1" target="_blank" rel="noopener noreferrer">[N14] Domain models of turbulent magnetic fields and the spectral shape of ensemble averaged axion-photon conversion</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.28890v1" target="_blank" rel="noopener noreferrer">[N15] Not so Fast: Revised Calibration of SIDM Core Collapse</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.28765v1" target="_blank" rel="noopener noreferrer">[N16] Constraints on Reionization from Planck Low-$\ell$ EE Polarization and the Lyman-Series Forests</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.30134v1" target="_blank" rel="noopener noreferrer">[N17] A signature of the timelike singularity in holography</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.30071v1" target="_blank" rel="noopener noreferrer">[N18] Inaccessibility of the Cosmological Singularity to Quantum Probes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.30064v1" target="_blank" rel="noopener noreferrer">[N19] Post-adiabatic effective-one-body waveforms for coalescing compact binaries</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.30049v1" target="_blank" rel="noopener noreferrer">[N20] Exceptional points and hysteresis in Kerr-Newman quasi-normal modes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.28723v1" target="_blank" rel="noopener noreferrer">[N4] Poisson Clustering and Seed Effect of PBHs: Implications for Microlensing, Gravitational Waves, Little Red Dots and Ultra-Faint Dwarf Galaxies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.28482v1" target="_blank" rel="noopener noreferrer">[N5] The &quot;Rubin 2036: Opportunities for Discovery&quot; Workshop: A Community Roadmap for the Future of the Vera C. Rubin Observatory After the LSST</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.29967v1" target="_blank" rel="noopener noreferrer">[N6] Gravitational Waves from New Inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.29885v1" target="_blank" rel="noopener noreferrer">[N7] Cosmological Gravitational Wave Collider Physics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.29591v1" target="_blank" rel="noopener noreferrer">[N8] HETDEX [OII] galaxies at $z \le 0.48$: Growth of structures from power spectrum multipoles</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.29349v1" target="_blank" rel="noopener noreferrer">[N9] Magnetic monopoles produced by first-order phase transition</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.29182v1" target="_blank" rel="noopener noreferrer">[N10] Parity-odd CMB Correlations induced by a Chiral Gravitational Wave Background</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.30106v1" target="_blank" rel="noopener noreferrer">[N11] On Particle Production from Bubble Collisions in the Non-runaway Regime</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-10-hubble-supernova-role-cosmic-reionization.html" target="_blank" rel="noopener noreferrer">[N12] Hubble observations challenge supernova winds&#x27; role in cosmic reionization</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2610.29582v1" target="_blank" rel="noopener noreferrer">[N13] Cosmology of self-interacting ultralight dark matter: simultaneous shifts in the Hubble constant and structure growth</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.28890v1" target="_blank" rel="noopener noreferrer">[N14] Not so Fast: Revised Calibration of SIDM Core Collapse</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.28765v1" target="_blank" rel="noopener noreferrer">[N15] Constraints on Reionization from Planck Low-$\ell$ EE Polarization and the Lyman-Series Forests</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.30134v1" target="_blank" rel="noopener noreferrer">[N16] A signature of the timelike singularity in holography</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.30071v1" target="_blank" rel="noopener noreferrer">[N17] Inaccessibility of the Cosmological Singularity to Quantum Probes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.30064v1" target="_blank" rel="noopener noreferrer">[N18] Post-adiabatic effective-one-body waveforms for coalescing compact binaries</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.30049v1" target="_blank" rel="noopener noreferrer">[N19] Exceptional points and hysteresis in Kerr-Newman quasi-normal modes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.29990v1" target="_blank" rel="noopener noreferrer">[N20] Local tests of Schwarzschild-Bertotti-Robinson spacetime</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
