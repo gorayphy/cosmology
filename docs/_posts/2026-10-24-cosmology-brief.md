@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-24T18:19:54.114252+05:30
+date: 2026-10-24T23:01:03.150409+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "6:19PM"
+run_time_ist: "11:01PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 6:19PM</h1>
+<h1 class="brief-run">Gemini Summary: 11:01PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A sound-horizon-agnostic forecast for $H_0$ and $\Sigma m_\nu$ constraints combines BAO, CMB lensing, supernovae, and LSST-like galaxy lensing.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.31660v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> DESI DR2 data suggests an evolving dark energy equation of state crossing $w=-1$, potentially explained by interactions with dark matter.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.30784v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A cosmological intercept tension is identified in local distance ladders through consistency checks of Type Ia supernovae.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.31181v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A sound-horizon-agnostic forecast explores constraints on $H_0$ and $Σm_ν$ using BAO, CMB lensing, supernovae, and LSST-like galaxy lensing.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.31660v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 data suggests an evolving dark energy equation of state, potentially explained by interactions between dark energy and dark matter.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.30784v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new analysis of Type Ia supernovae and the Hubble flow reveals a cosmological intercept tension within local distance ladder measurements.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.31181v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -25,7 +25,7 @@ run_time_ist: "6:19PM"
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
 <li><p><strong>Role/program:</strong> Prize Postdoctoral Fellowship at Georgia Tech.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3217202" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Post-Doctoral Position in Experimental Long-Baseline Neutrino Oscillation Physics at Indiana University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3217154" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Post-Doctoral Position Experimental Long-Baseline Neutrino Oscillation Physics at Indiana University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3217154" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Open-Rank Tenure-Track Faculty Position in Experimental Nuclear or High Energy Physics at Ohio State University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3217892" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Joint Postdoctoral Position in Theoretical Cosmology / Gravitational-Wave Cosmology at Ningbo University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3217080" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
@@ -53,7 +53,7 @@ run_time_ist: "6:19PM"
 <li><a href="https://arxiv.org/abs/2610.31469v1" target="_blank" rel="noopener noreferrer">[N17] QUIJOTE scientific results - XII. Characterization of the polarized synchrotron emission at the power spectrum level in the QUIJOTE-MFI wide survey</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.31177v1" target="_blank" rel="noopener noreferrer">[N18] Gravitational waves from highly charged binary black holes in Einstein-Maxwell-dilaton theory</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2610.30253v1" target="_blank" rel="noopener noreferrer">[N19] Mass-Varying Dark Matter, Naturally</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-10-hubble-supernova-role-cosmic-reionization.html" target="_blank" rel="noopener noreferrer">[N20] Hubble observations challenge supernova winds&#x27; role in cosmic reionization</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/10/261021231244.htm" target="_blank" rel="noopener noreferrer">[N20] Nearly 3,000 exploding stars challenge our understanding of the Universe</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
