@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-25T18:46:13.044250+05:30
-summary: "Latest cosmology research, news, and job opportunities for researchers."
-run_time_ist: "6:46PM"
+date: 2026-10-25T23:14:36.071588+05:30
+summary: "Recent research highlights and job opportunities for cosmologists and physics students."
+run_time_ist: "11:14PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 6:46PM</h1>
+<h1 class="brief-run">Gemini Summary: 11:14PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> A sound-horizon-agnostic forecast for $H_0$ and $Σm_ν$ constraints combines LSST-like galaxy lensing with CMB and DESI data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.31660v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> DESI DR2 data suggests an evolving dark energy equation of state, potentially explained by interactions with dark matter.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.30784v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Gravitational wave diffractive images offer a new method to probe the structure of astrophysical objects.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.31441v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New forecasts for $H_0$ and $\Sigma m_\nu$ constraints combine LSST-like galaxy lensing with CMB and BAO data, offering a sound-horizon-agnostic approach.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.31660v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI DR2 data suggests an evolving dark energy equation of state crossing $w=-1$, potentially explained by interactions between dark energy and dark matter.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.30784v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A massive analysis of nearly 3,000 exploding stars challenges the constant nature of dark energy, suggesting it may change over time.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/10/261021231244.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -26,11 +26,11 @@ run_time_ist: "6:46PM"
 <ul class="digest-points">
 <li><p><strong>Role/program:</strong> Prize Postdoctoral Fellowship at Georgia Tech.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3217202" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Post-Doctoral Position Experimental Long-Baseline Neutrino Oscillation Physics at Indiana University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3217154" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Open-Rank Tenure-Track Faculty Position in Experimental Nuclear or High Energy Physics at Ohio State University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3217892" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Role/program:</strong> Joint Postdoctoral Position in Theoretical Cosmology / Gravitational-Wave Cosmology at Ningbo University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3217080" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Physics World Astronomy Cosmology Postdocs: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.physicsworldjobs.com/jobs/astronomy-cosmology-and-space-science/academic-postdoc/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> EURAXESS Research Jobs: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://euraxess.ec.europa.eu/jobs" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Positions Physics: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicpositions.com/find-jobs?fields%5B0%5D=physics" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page (Global).</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Marie Curie Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page (Europe).</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -39,24 +39,24 @@ run_time_ist: "6:46PM"
 <ul>
 <li><a href="https://arxiv.org/abs/2610.31660v1" target="_blank" rel="noopener noreferrer">[N1] Sound-Horizon-Agnostic Forecast for Constraints on $H_0$ and $Σm_ν$ from BAO, CMB Lensing, Supernovae and LSST-like Galaxy Lensing</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.30784v1" target="_blank" rel="noopener noreferrer">[N2] Constraints on interacting dark energy with a constant equation of state in light of DESI DR2: The role of the interaction term</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.31536v1" target="_blank" rel="noopener noreferrer">[N3] Perturbations and phenomenology of compact objects in quantum gravity theories</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.31441v1" target="_blank" rel="noopener noreferrer">[N4] Gravitational Wave Diffractive Images Reveal the Structure of Astrophysical Objects</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.31181v1" target="_blank" rel="noopener noreferrer">[N5] A cosmological intercept tension in local distance ladders</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.31175v1" target="_blank" rel="noopener noreferrer">[N6] Robust paths to primordial $B$ modes in the presence of polarised point source contamination</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.30244v1" target="_blank" rel="noopener noreferrer">[N7] 2Flow2SN: Dusty Supernova Cosmology with Photometric Redshifts and Contamination using Neural Simulation-Based Inference</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/" target="_blank" rel="noopener noreferrer">[N8] APOD: 2026 October 25 – Dark Matter in a Simulated Universe</a> <span>NASA News Releases</span></li>
-<li><a href="https://arxiv.org/abs/2610.31626v1" target="_blank" rel="noopener noreferrer">[N9] A Robust Estimator for the Lyman-$α$ Forest 1D Power Spectrum at High Redshift</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.31044v1" target="_blank" rel="noopener noreferrer">[N10] Assessing the consistency of the CPL dark-energy model with cosmological data: Simulation-calibrated neural posterior disagreement</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.30510v1" target="_blank" rel="noopener noreferrer">[N11] Same Events, Weaker Bound: Model Dependence in Magellanic Microlensing Limits on Primordial Black Holes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.31534v1" target="_blank" rel="noopener noreferrer">[N12] Testing charged Simpson-Visser-AdS spacetimes with twin-peak QPOs</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.31469v1" target="_blank" rel="noopener noreferrer">[N13] QUIJOTE scientific results - XII. Characterization of the polarized synchrotron emission at the power spectrum level in the QUIJOTE-MFI wide survey</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.30961v1" target="_blank" rel="noopener noreferrer">[N14] GPAge: a Global Parameterization based on cosmic Age for some unified early-time and late-time solutions to the Hubble tension</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.30507v1" target="_blank" rel="noopener noreferrer">[N15] ULTRAMAN: A Proposed ultrasound detector for macroscopic dark matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.30267v1" target="_blank" rel="noopener noreferrer">[N16] Density-split analyses of the pairwise kinetic Sunyaev-Zeldovich effect</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/10/261021231244.htm" target="_blank" rel="noopener noreferrer">[N17] Nearly 3,000 exploding stars challenge our understanding of the Universe</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2610.31577v1" target="_blank" rel="noopener noreferrer">[N18] Charged fluid tori with an approximate magnetic self-field around magnetized Schwarzschild black holes: A semi-analytic approach</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.31473v1" target="_blank" rel="noopener noreferrer">[N19] Chaotic dynamics and resonances in Einstein-Rosen standing wave spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.31348v1" target="_blank" rel="noopener noreferrer">[N20] Stability, Tidal Deformability, and Statistical Constraints of Anisotropic Compact Stars with a Generalized Polytropic Equation of State : Modelling Observation with Buchdahl Space-Time</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.31181v1" target="_blank" rel="noopener noreferrer">[N3] A cosmological intercept tension in local distance ladders</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.31175v1" target="_blank" rel="noopener noreferrer">[N4] Robust paths to primordial $B$ modes in the presence of polarised point source contamination</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.30244v1" target="_blank" rel="noopener noreferrer">[N5] 2Flow2SN: Dusty Supernova Cosmology with Photometric Redshifts and Contamination using Neural Simulation-Based Inference</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/" target="_blank" rel="noopener noreferrer">[N6] APOD: 2026 October 25 – Dark Matter in a Simulated Universe</a> <span>NASA News Releases</span></li>
+<li><a href="https://arxiv.org/abs/2610.31626v1" target="_blank" rel="noopener noreferrer">[N7] A Robust Estimator for the Lyman-$α$ Forest 1D Power Spectrum at High Redshift</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.31536v1" target="_blank" rel="noopener noreferrer">[N8] Perturbations and phenomenology of compact objects in quantum gravity theories</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.31044v1" target="_blank" rel="noopener noreferrer">[N9] Assessing the consistency of the CPL dark-energy model with cosmological data: Simulation-calibrated neural posterior disagreement</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.30510v1" target="_blank" rel="noopener noreferrer">[N10] Same Events, Weaker Bound: Model Dependence in Magellanic Microlensing Limits on Primordial Black Holes</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.31441v1" target="_blank" rel="noopener noreferrer">[N11] Gravitational Wave Diffractive Images Reveal the Structure of Astrophysical Objects</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.30961v1" target="_blank" rel="noopener noreferrer">[N12] GPAge: a Global Parameterization based on cosmic Age for some unified early-time and late-time solutions to the Hubble tension</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.30507v1" target="_blank" rel="noopener noreferrer">[N13] ULTRAMAN: A Proposed ultrasound detector for macroscopic dark matter</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.30267v1" target="_blank" rel="noopener noreferrer">[N14] Density-split analyses of the pairwise kinetic Sunyaev-Zeldovich effect</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/10/261021231244.htm" target="_blank" rel="noopener noreferrer">[N15] Nearly 3,000 exploding stars challenge our understanding of the Universe</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2610.31226v1" target="_blank" rel="noopener noreferrer">[N16] Clarifications on black/white hole metastable relics as dark matter</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.31101v1" target="_blank" rel="noopener noreferrer">[N17] Saxion Decay and Dark Radiation in the KSVZ Axion Model</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.31534v1" target="_blank" rel="noopener noreferrer">[N18] Testing charged Simpson-Visser-AdS spacetimes with twin-peak QPOs</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.31469v1" target="_blank" rel="noopener noreferrer">[N19] QUIJOTE scientific results - XII. Characterization of the polarized synchrotron emission at the power spectrum level in the QUIJOTE-MFI wide survey</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.31177v1" target="_blank" rel="noopener noreferrer">[N20] Gravitational waves from highly charged binary black holes in Einstein-Maxwell-dilaton theory</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
