@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-10-29T01:13:21.520851+05:30
-summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "1:13AM"
+date: 2026-10-29T11:46:41.624175+05:30
+summary: "Latest cosmology research and opportunities for physicists."
+run_time_ist: "11:46AM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 1:13AM</h1>
+<h1 class="brief-run">Gemini Summary: 11:46AM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Interacting dark matter models can be probed through cosmological observables, offering non-terrestrial means to study dark matter&#x27;s nature.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.37604v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Lyman-Alpha forest BAO reconstruction can improve cosmological distance measurements at high redshift, aiding DESI&#x27;s probe of the expansion history.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.37664v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A self-supervised machine learning approach is being developed to identify instrumental systematics in 21cm cosmology observations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.37596v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Interacting dark matter models can be probed through cosmological observables, offering non-terrestrial methods to study dark matter&#x27;s nature.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.37604v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Lyman-Alpha forest BAO reconstruction is used to improve cosmological distance measurements at high redshift with DESI data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.37664v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A self-supervised machine learning approach is developed to identify instrumental systematics in 21cm cosmology observations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.37596v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -82,22 +82,22 @@ run_time_ist: "1:13AM"
 <li><a href="https://inspirehep.net/jobs/3217080" target="_blank" rel="noopener noreferrer">[J26] Joint Postdoctoral Position in Theoretical Cosmology / Gravitational-Wave Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3218253" target="_blank" rel="noopener noreferrer">[J27] Postdoctoral Positions in Theoretical Developments for searches of high frequency Gravitational Waves in cavities</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3219254" target="_blank" rel="noopener noreferrer">[J28] Postdoctoral Scholar - Particle Astrophysics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3216411" target="_blank" rel="noopener noreferrer">[J29] Microscopic description of nuclear resonances postdoctoral position</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3217210" target="_blank" rel="noopener noreferrer">[J30] Postdoctoral Researcher - High Energy Phenomenology/Theory</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3216434" target="_blank" rel="noopener noreferrer">[J31] Postdoctoral positions in Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3216587" target="_blank" rel="noopener noreferrer">[J32] Assistant Professor in Experimental Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3217207" target="_blank" rel="noopener noreferrer">[J33] Postdoctoral Research Scholar: Targeted Simons Research on Cosmic Magnetism</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3216432" target="_blank" rel="noopener noreferrer">[J34] Two Postdoctoral Positions in Simulation-Based Inference for Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3217553" target="_blank" rel="noopener noreferrer">[J35] Four amplitudes postdoctoral positions at the Higgs Centre</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3217201" target="_blank" rel="noopener noreferrer">[J36] McDonald Institute - CITA Theory Fellowship</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3217063" target="_blank" rel="noopener noreferrer">[J37] n. 20 POST-DOCTORAL FELLOWSHIPS IN EXPERIMENTAL PHYSICS</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3219202" target="_blank" rel="noopener noreferrer">[J38] Short-term postdoctoral position in theoretical cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">[J39] JSPS Postdoctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>JSPS Postdoctoral Fellowship</span></li>
-<li><a href="https://inspirehep.net/jobs/3218252" target="_blank" rel="noopener noreferrer">[J40] PhD Positions in Theoretical Developments for searches of high frequency Gravitational Waves in cavities. Funded by ERC.</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3216413" target="_blank" rel="noopener noreferrer">[J41] Particle Physics Beyond the Standard Model at Colliders and in Gravitational-Wave Observations</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3216444" target="_blank" rel="noopener noreferrer">[J42] PhD positions in Experimental and Theoretical Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3219188" target="_blank" rel="noopener noreferrer">[J43] Postdocs in Theoretical High Energy Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3216433" target="_blank" rel="noopener noreferrer">[J44] PhD positions in Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3219812" target="_blank" rel="noopener noreferrer">[J29] Postdoctoral Researcher in Experimental Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3219260" target="_blank" rel="noopener noreferrer">[J30] Faculty Position in Theoretical High-Energy Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3217210" target="_blank" rel="noopener noreferrer">[J31] Postdoctoral Researcher - High Energy Phenomenology/Theory</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3216434" target="_blank" rel="noopener noreferrer">[J32] Postdoctoral positions in Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3219606" target="_blank" rel="noopener noreferrer">[J33] Postdoctoral positions in Theoretical Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3219261" target="_blank" rel="noopener noreferrer">[J34] Assistant Professor in Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3216587" target="_blank" rel="noopener noreferrer">[J35] Assistant Professor in Experimental Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3217207" target="_blank" rel="noopener noreferrer">[J36] Postdoctoral Research Scholar: Targeted Simons Research on Cosmic Magnetism</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3217553" target="_blank" rel="noopener noreferrer">[J37] Four amplitudes postdoctoral positions at the Higgs Centre</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3217201" target="_blank" rel="noopener noreferrer">[J38] McDonald Institute - CITA Theory Fellowship</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3217063" target="_blank" rel="noopener noreferrer">[J39] n. 20 POST-DOCTORAL FELLOWSHIPS IN EXPERIMENTAL PHYSICS</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3219202" target="_blank" rel="noopener noreferrer">[J40] Short-term postdoctoral position in theoretical cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">[J41] JSPS Postdoctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>JSPS Postdoctoral Fellowship</span></li>
+<li><a href="https://inspirehep.net/jobs/3218252" target="_blank" rel="noopener noreferrer">[J42] PhD Positions in Theoretical Developments for searches of high frequency Gravitational Waves in cavities. Funded by ERC.</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3216444" target="_blank" rel="noopener noreferrer">[J43] PhD positions in Experimental and Theoretical Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3219188" target="_blank" rel="noopener noreferrer">[J44] Postdocs in Theoretical High Energy Physics</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3218326" target="_blank" rel="noopener noreferrer">[J45] Postdoc Theoretical Particle Physics and Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3217503" target="_blank" rel="noopener noreferrer">[J46] PhD position</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3217502" target="_blank" rel="noopener noreferrer">[J47] Senior postdoc</a> <span>INSPIRE HEP Jobs API</span></li>
