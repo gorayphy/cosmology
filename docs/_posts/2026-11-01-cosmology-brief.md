@@ -1,33 +1,34 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-11-01T12:09:02.772644+05:30
-summary: "Latest cosmology research and job opportunities for researchers."
-run_time_ist: "12:09PM"
+date: 2026-11-01T20:51:50.263732+05:30
+summary: "Latest cosmology research, news, and job opportunities for researchers."
+run_time_ist: "8:51PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 12:09PM</h1>
+<h1 class="brief-run">Gemini Summary: 8:51PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Recent DESI measurements suggest dark energy may evolve with time, motivating re-examination of entropic cosmology models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.40205v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Cosmological constraints on extra radiation and early dark energy are investigated using Planck CMB and DESI DR2 BAO data, considering lepton asymmetry and varying quark masses.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.39579v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A forgotten neutrino particle may explain matter survival after the Big Bang, potentially reshaping the early universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/10/261031221201.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Recent DESI measurements of baryon acoustic oscillations suggest an evolving dark energy, prompting re-examination of entropic cosmology models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.40347v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://arxiv.org/abs/2610.40205v1" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
+<li><p><strong>Topic:</strong> Cosmological constraints are being placed on extra radiation and early dark energy, considering lepton asymmetry and varying quark masses, using Planck CMB and DESI DR2 BAO data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.39579v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The cosmic microwave background (CMB) offers evidence of gas flowing in galaxy clusters, providing insights into the early universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, commonly used for international applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -38,22 +39,22 @@ run_time_ist: "12:09PM"
 <li><a href="https://arxiv.org/abs/2610.40205v1" target="_blank" rel="noopener noreferrer">[N2] Theoretical Consistency and Observational Constraints on Entropic Cosmology</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.39579v1" target="_blank" rel="noopener noreferrer">[N3] Cosmological constraints on extra radiation and early dark energy with lepton asymmetry and varying quark masses</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2610.40064v1" target="_blank" rel="noopener noreferrer">[N4] At the EDGES of MADness: phenomenology of relic millicharged atomic dark matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.39881v1" target="_blank" rel="noopener noreferrer">[N5] Looking for gravitational waves with orbital dynamics: GUEST mission and the $μ$Hz band of Gravitational Waves</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40020v1" target="_blank" rel="noopener noreferrer">[N6] Phenomenological implications of cosmic (super)strings with time-varying tension</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.39581v1" target="_blank" rel="noopener noreferrer">[N7] Efficient GLS map-making and assessment of $1/f$ noise impact for future CMB satellite missions</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40610v1" target="_blank" rel="noopener noreferrer">[N8] The Conditional CMB Visibility of High-Redshift X-Ray Cavities in Galaxy clusters</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40550v1" target="_blank" rel="noopener noreferrer">[N9] An Empirically Calibrated [C II] Luminosity-Halo Mass Relation for Line Intensity Mapping</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40415v1" target="_blank" rel="noopener noreferrer">[N10] OCCAMS: A Multi-Task Learning-Based Investigation of the CMB Power Spectra</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40319v1" target="_blank" rel="noopener noreferrer">[N11] Scalar--photon coupling in cosmology: Radiation evolution, recombination, and CMB signatures</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.40411v1" target="_blank" rel="noopener noreferrer">[N12] UNIONS: Red and blue alignments of DESI DR1 galaxies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40300v1" target="_blank" rel="noopener noreferrer">[N13] Toward a Complete Interpretation of Global 21 cm Absorption Signals Using the Radio CMB</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40218v1" target="_blank" rel="noopener noreferrer">[N14] Celia: Catalog Embeddings Learned from cosmologIcal simulAtions</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.39977v1" target="_blank" rel="noopener noreferrer">[N15] Mapping cluster angular momentum with the rotational kinetic Sunyaev-Zel&#x27;dovich effect</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40631v1" target="_blank" rel="noopener noreferrer">[N16] Gravitational-Wave Echoes and Greybody Cutoff from Logarithmic Throats at a Marginal-Trapping Threshold</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.39752v1" target="_blank" rel="noopener noreferrer">[N17] Dwarf Galaxy Reticulum II&#x27;s MeerKAT L-Band Observation: Constraining WIMP Dark Matter</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/10/261031221201.htm" target="_blank" rel="noopener noreferrer">[N18] Scientists say a forgotten particle may explain why the universe exists</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2610.40617v1" target="_blank" rel="noopener noreferrer">[N19] Field-level inference under pressure: the information content of the thermal Sunyaev-Zel&#x27;dovich field</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40546v1" target="_blank" rel="noopener noreferrer">[N20] Willmore inequalities beyond the injectivity radius</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.40610v1" target="_blank" rel="noopener noreferrer">[N5] The Conditional CMB Visibility of High-Redshift X-Ray Cavities in Galaxy clusters</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.40550v1" target="_blank" rel="noopener noreferrer">[N6] An Empirically Calibrated [C II] Luminosity-Halo Mass Relation for Line Intensity Mapping</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.40415v1" target="_blank" rel="noopener noreferrer">[N7] OCCAMS: A Multi-Task Learning-Based Investigation of the CMB Power Spectra</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.40319v1" target="_blank" rel="noopener noreferrer">[N8] Scalar--photon coupling in cosmology: Radiation evolution, recombination, and CMB signatures</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2610.39881v1" target="_blank" rel="noopener noreferrer">[N9] Looking for gravitational waves with orbital dynamics: GUEST mission and the $μ$Hz band of Gravitational Waves</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.40411v1" target="_blank" rel="noopener noreferrer">[N10] UNIONS: Red and blue alignments of DESI DR1 galaxies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.40300v1" target="_blank" rel="noopener noreferrer">[N11] Toward a Complete Interpretation of Global 21 cm Absorption Signals Using the Radio CMB</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.40020v1" target="_blank" rel="noopener noreferrer">[N12] Phenomenological implications of cosmic (super)strings with time-varying tension</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.39581v1" target="_blank" rel="noopener noreferrer">[N13] Efficient GLS map-making and assessment of $1/f$ noise impact for future CMB satellite missions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.40631v1" target="_blank" rel="noopener noreferrer">[N14] Gravitational-Wave Echoes and Greybody Cutoff from Logarithmic Throats at a Marginal-Trapping Threshold</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/10/261031221201.htm" target="_blank" rel="noopener noreferrer">[N15] Scientists say a forgotten particle may explain why the universe exists</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2610.40617v1" target="_blank" rel="noopener noreferrer">[N16] Field-level inference under pressure: the information content of the thermal Sunyaev-Zel&#x27;dovich field</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.40546v1" target="_blank" rel="noopener noreferrer">[N17] Willmore inequalities beyond the injectivity radius</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html" target="_blank" rel="noopener noreferrer">[N18] Cosmic microwave background offers evidence of gas flowing in galaxy clusters</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2610.40275v1" target="_blank" rel="noopener noreferrer">[N19] Going off the (momentum) grid: A simple implementation of noncold relics in linear Boltzmann solvers</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.40218v1" target="_blank" rel="noopener noreferrer">[N20] Celia: Catalog Embeddings Learned from cosmologIcal simulAtions</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
