@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-11-03T04:20:22.444436+05:30
+date: 2026-11-03T12:37:46.811217+05:30
 summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "4:20AM"
+run_time_ist: "12:37PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 4:20AM</h1>
+<h1 class="brief-run">Gemini Summary: 12:37PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Thermogravity offers a novel approach to cosmic acceleration, deriving trace-free gravitational equations and matter non-conservation from thermodynamic processes in spacetime.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.41780v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A framework connecting quantum field fluctuations to the abundance and properties of high-redshift galaxies and AGN is developed, relevant for JWST era studies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.40846v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Tests of equivalence principle violation are explored in doubly coupled dark energy scenarios, with implications for recent DESI data fits.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2610.42056v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DBI action with non-canonical kinetic terms can modify primordial gravitational-wave spectra.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.03429v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> DESI BAO data combined with CMB suggests dynamical dark energy with a phantom crossing in the $w_0-w_a$ parameter space.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.01505v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The effective field theory of large-scale structure is being developed for Simons Observatory CMB lensing to probe non-linear structure formation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.03556v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -35,26 +35,26 @@ run_time_ist: "4:20AM"
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2610.41780v1" target="_blank" rel="noopener noreferrer">[N1] From thermogravity to thermocosmology with a running non-conservation scale</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40846v1" target="_blank" rel="noopener noreferrer">[N2] From Quantum Field Fluctuations to High-Redshift AGN: Semiclassical Origins of Halo Mass Function Constraints in the JWST Era</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.42056v1" target="_blank" rel="noopener noreferrer">[N3] Tests of equivalence principle violation in doubly coupled dark energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.41823v1" target="_blank" rel="noopener noreferrer">[N4] Primordial black holes and gravitational waves from aligned axion inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.41636v1" target="_blank" rel="noopener noreferrer">[N5] New Effects in Multifield Cosmology Coupled to the Gauss-Bonnet Term</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.41077v1" target="_blank" rel="noopener noreferrer">[N6] Vacuum Phase Transition and Decay to Cross the Phantom Divide</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40610v1" target="_blank" rel="noopener noreferrer">[N7] The Conditional CMB Visibility of High-Redshift X-Ray Cavities in Galaxy clusters</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40550v1" target="_blank" rel="noopener noreferrer">[N8] An Empirically Calibrated [C II] Luminosity-Halo Mass Relation for Line Intensity Mapping</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40415v1" target="_blank" rel="noopener noreferrer">[N9] OCCAMS: A Multi-Task Learning-Based Investigation of the CMB Power Spectra</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.41953v1" target="_blank" rel="noopener noreferrer">[N10] Topological Multi-Natural Inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.41940v1" target="_blank" rel="noopener noreferrer">[N11] Cosmology with post-EoR 21 cm Intensity Mapping surveys: power spectrum measurements in the last decade</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.41914v1" target="_blank" rel="noopener noreferrer">[N12] Two-loop matter power spectrum from FFTLog and kite integrals</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40411v1" target="_blank" rel="noopener noreferrer">[N13] UNIONS: Red and blue alignments of DESI DR1 galaxies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.41960v1" target="_blank" rel="noopener noreferrer">[N14] Neutrino Oscillation in a Static Dihole Geometry</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.40785v1" target="_blank" rel="noopener noreferrer">[N15] Model-independent and reconstruction-free evidence for cosmic acceleration from DESI baryon acoustic oscillations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.40766v1" target="_blank" rel="noopener noreferrer">[N16] Hints of self-interacting dark matter from strong gravitational lensing</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/10/261031221201.htm" target="_blank" rel="noopener noreferrer">[N17] Scientists say a forgotten particle may explain why the universe exists</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2610.42044v1" target="_blank" rel="noopener noreferrer">[N18] Elastic boundaries in Stochastic Inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2610.41972v1" target="_blank" rel="noopener noreferrer">[N19] Scattering of massless scalar waves by higher-dimensional regular black holes in general relativity coupled to nonlinear electrodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2610.41796v1" target="_blank" rel="noopener noreferrer">[N20] The Dynamical Mass Profiles of Galaxy Groups - Application to IllustrisTNG-300</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.03429v1" target="_blank" rel="noopener noreferrer">[N1] DBI Softens Stiff-Phase Gravitational-Wave Spectra</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.01505v1" target="_blank" rel="noopener noreferrer">[N2] Bayesian and frequentist constraints on dark energy parameterizations using non-CMB data</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.03556v1" target="_blank" rel="noopener noreferrer">[N3] Toward the one- and two-loop EFTofLSS for Simons Observatory CMB lensing</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.03497v1" target="_blank" rel="noopener noreferrer">[N4] Multiprobe strategies for Kinematic Lensing with the Roman Space Telescope High Latitude Wide Area Survey</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.00415v1" target="_blank" rel="noopener noreferrer">[N5] A multiprobe $Λ$CDM consistency analysis with gravitational-wave standard sirens</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.03537v1" target="_blank" rel="noopener noreferrer">[N6] Baryonic feedback and intrinsic alignments in profile: a frequentist view of DES Y3 cosmic shear</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.02289v1" target="_blank" rel="noopener noreferrer">[N7] Thirty years of primordial deuterium abundances: A provenance-aware statistical reanalysis</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.03571v1" target="_blank" rel="noopener noreferrer">[N8] Nonlinear gauge maps and the structure of Goldstone loops in canonical inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.03338v1" target="_blank" rel="noopener noreferrer">[N9] Exact Regular Planar Black Holes solutions in Bumblebee gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.03123v1" target="_blank" rel="noopener noreferrer">[N10] Integrable mass of Kerr-Newman-Bertotti-Robinson black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.01228v1" target="_blank" rel="noopener noreferrer">[N11] Cuscuton Fifth Force: Implications of Non-Dynamical Scalars for Structure Growth</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2610.42056v1" target="_blank" rel="noopener noreferrer">[N12] Tests of equivalence principle violation in doubly coupled dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.03070v1" target="_blank" rel="noopener noreferrer">[N13] Spectral instability of charged scalar quasinormal modes and superradiance: Stabilizing the unstable</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.02727v1" target="_blank" rel="noopener noreferrer">[N14] Charge-Activated Birefringence and Shadow Mimicry around Reissner-Nordström Black Holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.02627v1" target="_blank" rel="noopener noreferrer">[N15] Recovering Missing Degrees of Freedom in Simulation-Trained Field-Level Generative Models</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.02580v1" target="_blank" rel="noopener noreferrer">[N16] The Stellar-Mass Dependence of Feedback-Driven Outflows in DESI DR1 Star-Forming Galaxies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.01158v1" target="_blank" rel="noopener noreferrer">[N17] Exothermic Higgs portal: from LUX-ZEPLIN recoil to Gamma Rays</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.00225v1" target="_blank" rel="noopener noreferrer">[N18] Shear Mapping in Python (SMPy): Modular, Extensible, and Accessible Dark Matter Mapping</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.03632v1" target="_blank" rel="noopener noreferrer">[N19] Tracing source imprints on the gravitational direct wave</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.03596v1" target="_blank" rel="noopener noreferrer">[N20] Spacetime Emergence in the Memory of a Learning Agent</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
