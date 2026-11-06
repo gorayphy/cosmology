@@ -1,59 +1,60 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-11-06T12:42:29.304673+05:30
-summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "12:42PM"
+date: 2026-11-06T21:35:14.325363+05:30
+summary: "Latest cosmology news, research, and job opportunities for researchers."
+run_time_ist: "9:35PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 12:42PM</h1>
+<h1 class="brief-run">Gemini Summary: 9:35PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Multi-probe analysis constrains a clustering tachyonic Dirac-Born-Infeld dark energy model, investigating its potential for dark energy perturbation growth.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.08008v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Cosmic microwave background temperature measurements at $z=0.886$ and higher are used to test energy exchange in Einstein-Cartan cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.08422v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Pulsars provide the first mass limits on supermassive black hole pairs in the early universe, complementing JWST observations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The CMB temperature at $z=0.886$ is used to test energy exchange in Einstein-Cartan cosmology.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.08422v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A multi-probe analysis constrains a clustering tachyonic Dirac-Born-Infeld dark energy model with a subluminal sound speed.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.08008v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Supermassive primordial black holes are investigated as a dark matter component, focusing on their seed effect on large-scale structure formation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.07574v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Fellow at Indian Institute of Technology, Guwahati.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3223149" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Tenure-Track Assistant Professor in Astronomy/Astrophysics at Central Michigan University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3222029" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> ERC funded Postdoctoral Research Associate in Theoretical Particle Physics at University of Liverpool.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3221534" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Research Associate in Theoretical Particle Physics at University of Liverpool.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3221533" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Assistant professor (tenure track) in string theory at Masaryk University, Brno.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3221909" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2611.08008v1" target="_blank" rel="noopener noreferrer">[N1] Multi-Probe Cosmological Constraints on Clustering DBI Dark Energy Scenario</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.08422v1" target="_blank" rel="noopener noreferrer">[N2] Torsion talks only to spin: the CMB temperature as a test of energy exchange in Einstein-Cartan cosmology</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.07747v1" target="_blank" rel="noopener noreferrer">[N3] Gravitational Thermodynamicization of Primordial Black Holes: An RVB Residue Formulation of Thermal Formation and Nonequilibrium Evolution</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.08145v1" target="_blank" rel="noopener noreferrer">[N4] A Smoothly Truncated Dark Matter Spike around a Black Hole in an Einstein-Cluster Model</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.07957v1" target="_blank" rel="noopener noreferrer">[N5] Can $n_s$ hint at a parity-odd sector of gravity?</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.07877v1" target="_blank" rel="noopener noreferrer">[N6] Can Two-Point Correlations Determine Gravitational Waves from Sound Waves?</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.07875v1" target="_blank" rel="noopener noreferrer">[N7] An Orbital Curvature for ISCOs</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.08471v1" target="_blank" rel="noopener noreferrer">[N8] The three-dimensional Galilean black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.08322v1" target="_blank" rel="noopener noreferrer">[N9] Instabilities of Simpson-Visser black bounces sourced by a phantom scalar and nonlinear electrodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.07596v1" target="_blank" rel="noopener noreferrer">[N10] Rational Orbits and Gravitational-Wave Signatures around a Horndeski Black Hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.08382v1" target="_blank" rel="noopener noreferrer">[N11] When Can Pulsar Timing Distinguish a Propagation Mass from a Weak Longitudinal Background?</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.08313v1" target="_blank" rel="noopener noreferrer">[N12] Testing Gravitationally-Induced-Entanglement with Massive Particles and Quantum Clocks</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.08191v1" target="_blank" rel="noopener noreferrer">[N13] Parity-violating scalar-tensor theory revisited: complete basis up to $d=4$ and Hamiltonian analysis</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-11-pulsars-mass-limits-supermassive-black.html" target="_blank" rel="noopener noreferrer">[N14] Pulsars set first mass limits on supermassive black hole pairs in the early universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2611.07544v1" target="_blank" rel="noopener noreferrer">[N15] Can absorption enhance differences between black-hole images?</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-10-leviathan-sprawling-stars-idea-dusty.html" target="_blank" rel="noopener noreferrer">[N16] Leviathan&#x27;s sprawling stars challenge idea that dusty giants become compact galaxies</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2611.07547v1" target="_blank" rel="noopener noreferrer">[N17] The logarithm construction and (super) Weyl anomalies</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/list/astro-ph.CO/recent" target="_blank" rel="noopener noreferrer">[N18] arXiv astro-ph.CO: current cosmology news source</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/10/261029072113.htm" target="_blank" rel="noopener noreferrer">[N19] Hubble reveals a stunning twist in how the universe emerged from darkness</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://phys.org/news/2026-11-webb-space-telescope-red-dots.html" target="_blank" rel="noopener noreferrer">[N20] Webb Space Telescope&#x27;s little red dots could hold key to first black holes</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.08422v1" target="_blank" rel="noopener noreferrer">[N1] Torsion talks only to spin: the CMB temperature as a test of energy exchange in Einstein-Cartan cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.08008v1" target="_blank" rel="noopener noreferrer">[N2] Multi-Probe Cosmological Constraints on Clustering DBI Dark Energy Scenario</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07574v1" target="_blank" rel="noopener noreferrer">[N3] Probing the Seed Effect of Supermassive Primordial Black Holes with Weak Gravitational Lensing</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07013v1" target="_blank" rel="noopener noreferrer">[N4] Latest $ν$s from the Earliest Galaxies: Probing neutrino self-interactions with JWST</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.08223v1" target="_blank" rel="noopener noreferrer">[N5] The box within the Universe: anisotropies in periodic cosmological simulations I. Dark-matter-only simulations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07193v1" target="_blank" rel="noopener noreferrer">[N6] Scalar perturbations in two-scalar-field warm inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07033v1" target="_blank" rel="noopener noreferrer">[N7] Breaking dark degeneracies in $k$-essence models with redshift-space distortions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.06872v1" target="_blank" rel="noopener noreferrer">[N8] Magnetohydrodynamics During Reheating</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07524v1" target="_blank" rel="noopener noreferrer">[N9] Confirming HSC strong lens candidates with DESI Spectroscopy. II. Analysis of 80 galaxy-scale systems with lens redshifts above 0.8</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07029v1" target="_blank" rel="noopener noreferrer">[N10] A multi-epoch VLBI study of compact symmetric objects as contaminants in the search for milli-lenses</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html" target="_blank" rel="noopener noreferrer">[N11] A galaxy nicknamed Misty Moons offers a glimpse of early star formation</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.08471v1" target="_blank" rel="noopener noreferrer">[N12] The three-dimensional Galilean black hole</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.08322v1" target="_blank" rel="noopener noreferrer">[N13] Instabilities of Simpson-Visser black bounces sourced by a phantom scalar and nonlinear electrodynamics</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.07957v1" target="_blank" rel="noopener noreferrer">[N14] Can $n_s$ hint at a parity-odd sector of gravity?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07852v1" target="_blank" rel="noopener noreferrer">[N15] Long lived MeV scale bound state dark matter alleviates the ${}^7 Li$ tension</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07794v1" target="_blank" rel="noopener noreferrer">[N16] Comment on the recent claims of H0 measurements with the ZTF DR2 SN Ia sample (arXiv:2610.36051)</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07747v1" target="_blank" rel="noopener noreferrer">[N17] Gravitational Thermodynamicization of Primordial Black Holes: An RVB Residue Formulation of Thermal Formation and Nonequilibrium Evolution</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.07578v1" target="_blank" rel="noopener noreferrer">[N18] Can cosmic neutrinos induce a cosmic birefringence signal?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07331v1" target="_blank" rel="noopener noreferrer">[N19] Algebraic classification of single-field inflationary dynamics</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.08382v1" target="_blank" rel="noopener noreferrer">[N20] When Can Pulsar Timing Distinguish a Propagation Mass from a Weak Longitudinal Background?</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
