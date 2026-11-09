@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-11-10T00:28:42.667484+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "12:28AM"
+date: 2026-11-10T04:59:49.527644+05:30
+summary: "Recent cosmology research highlights and job opportunities for researchers."
+run_time_ist: "4:59AM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 12:28AM</h1>
+<h1 class="brief-run">Gemini Summary: 4:59AM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> New research explores how specific structures could generate a parity-violating inflationary trispectrum, offering insights into early universe physics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.09829v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A multi-probe analysis constrains a clustering DBI dark energy model, investigating its potential to explain cosmic acceleration.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.08008v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> An investigation into an oscillatory dark energy equation of state suggests a potential link to transient cosmic acceleration.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.09743v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A study explores how specific structures might generate a parity-violating inflationary trispectrum, impacting our understanding of early universe perturbations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.09829v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New multi-probe constraints are presented for a clustering DBI dark energy model, investigating its potential to explain cosmic acceleration.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.08008v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Research examines an oscillatory dark energy equation of state, assessing if it aligns with transient cosmic acceleration observations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.09743v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -43,17 +43,17 @@ run_time_ist: "12:28AM"
 <li><a href="https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html" target="_blank" rel="noopener noreferrer">[N7] &#x27;Stupendously large&#x27; primordial black holes ruled out as a dark matter source</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://phys.org/news/2026-11-theory-older-universe-dark-energy.html" target="_blank" rel="noopener noreferrer">[N8] Theory predicting an older universe without dark matter or dark energy passes key cosmological tests</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://arxiv.org/abs/2611.08630v1" target="_blank" rel="noopener noreferrer">[N9] VENUS: Strong Lens Mass Models and Einstein Radii of 60 Galaxy Clusters</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html" target="_blank" rel="noopener noreferrer">[N10] JWST tracks more than 100 magnified stellar events in the Dragon galaxy</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-11-elt-probe-ultra-diffuse-galaxies.html" target="_blank" rel="noopener noreferrer">[N10] The ELT can probe ultra-diffuse galaxies and their dark matter mysteries</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://phys.org/news/2026-11-untangling-patterns-cosmic-microwave-background.html" target="_blank" rel="noopener noreferrer">[N11] Untangling the patterns of the cosmic microwave background to better understand the early universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2611.09893v1" target="_blank" rel="noopener noreferrer">[N12] Challenges for minimal warm inflation in the Standard Model and beyond</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.09362v1" target="_blank" rel="noopener noreferrer">[N13] Primordial non-Gaussianity as a large-scale cosmic-web bias</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.08223v1" target="_blank" rel="noopener noreferrer">[N14] The box within the Universe: anisotropies in periodic cosmological simulations I. Dark-matter-only simulations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.09546v1" target="_blank" rel="noopener noreferrer">[N15] Through Ups and Downs: the Transient Lensing Behaviour of SIDM halos undergoing Core Collapse</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.08636v1" target="_blank" rel="noopener noreferrer">[N16] Nonstandard Dark Matter at Nonlinear Scales</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.07957v1" target="_blank" rel="noopener noreferrer">[N17] Can $n_s$ hint at a parity-odd sector of gravity?</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.07852v1" target="_blank" rel="noopener noreferrer">[N18] Long lived MeV scale bound state dark matter alleviates the ${}^7 Li$ tension</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.07794v1" target="_blank" rel="noopener noreferrer">[N19] Comment on the recent claims of H0 measurements with the ZTF DR2 SN Ia sample (arXiv:2610.36051)</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.09606v1" target="_blank" rel="noopener noreferrer">[N20] Quasinormal modes of Kerr--Newman--de Sitter black hole: Linear stability and strong cosmic censorship conjecture</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.09362v1" target="_blank" rel="noopener noreferrer">[N12] Primordial non-Gaussianity as a large-scale cosmic-web bias</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.08223v1" target="_blank" rel="noopener noreferrer">[N13] The box within the Universe: anisotropies in periodic cosmological simulations I. Dark-matter-only simulations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.09546v1" target="_blank" rel="noopener noreferrer">[N14] Through Ups and Downs: the Transient Lensing Behaviour of SIDM halos undergoing Core Collapse</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.08636v1" target="_blank" rel="noopener noreferrer">[N15] Nonstandard Dark Matter at Nonlinear Scales</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07957v1" target="_blank" rel="noopener noreferrer">[N16] Can $n_s$ hint at a parity-odd sector of gravity?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07852v1" target="_blank" rel="noopener noreferrer">[N17] Long lived MeV scale bound state dark matter alleviates the ${}^7 Li$ tension</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.07794v1" target="_blank" rel="noopener noreferrer">[N18] Comment on the recent claims of H0 measurements with the ZTF DR2 SN Ia sample (arXiv:2610.36051)</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-11-jwst-tracks-magnified-stellar-events.html" target="_blank" rel="noopener noreferrer">[N19] JWST tracks more than 100 magnified stellar events in the Dragon galaxy</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.09893v1" target="_blank" rel="noopener noreferrer">[N20] Challenges for minimal warm inflation in the Standard Model and beyond</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
