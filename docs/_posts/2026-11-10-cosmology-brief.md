@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-11-10T13:08:50.310284+05:30
-summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "1:08PM"
+date: 2026-11-10T22:00:28.471613+05:30
+summary: "Latest cosmology research and job opportunities for physicists."
+run_time_ist: "10:00PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 1:08PM</h1>
+<h1 class="brief-run">Gemini Summary: 10:00PM</h1>
 
 <hr class="brief-rule">
 
@@ -16,8 +16,8 @@ run_time_ist: "1:08PM"
 <h2>Cosmology News</h2>
 <ul class="digest-points">
 <li><p><strong>Topic:</strong> Baryon acoustic oscillation measurements from DESI, CMB, and supernovae suggest dark energy&#x27;s equation of state was below -1.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.12792v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> BAO and Type Ia supernovae in LTB cosmology are used to constrain radial inhomogeneity and acoustic-ruler evolution.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.12556v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Primordial black holes&#x27; gravitational interaction with primordial radiation may imprint on CMB anisotropies.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.12123v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Extensions to $\Lambda$CDM involving early dark energy or dark radiation might be reconciled with late-time vacuum-dark sector interactions.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.11835v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Baryon acoustic oscillations are measured using a large galaxy cluster sample, providing distance constraints.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.11587v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -35,25 +35,25 @@ run_time_ist: "1:08PM"
 <summary>Sources considered</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/2611.12792v1" target="_blank" rel="noopener noreferrer">[N1] Coupled dark energy and apparent phantom crossing: a potential-independent lower bound</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.12556v1" target="_blank" rel="noopener noreferrer">[N2] BAO and Type Ia Supernovae in LTB Cosmology: Constraints on Radial Inhomogeneity and Acoustic-Ruler Evolution</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.12123v1" target="_blank" rel="noopener noreferrer">[N3] CMB Bounds on Primordial Black Holes via Radiation Capture: Linear Perturbations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.11835v1" target="_blank" rel="noopener noreferrer">[N4] Vacuum energy interacting with dark matter and dark radiation: alleviating the $H_0$-$S_8$ seesaw</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.11587v1" target="_blank" rel="noopener noreferrer">[N5] Detecting Baryon Acoustic Oscillations from Galaxy Clusters: Distance Constraints</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.12861v1" target="_blank" rel="noopener noreferrer">[N6] Little Red Dots from Primordial Black Holes: Non-Gaussianity and Accretion Evade $μ$-Distortion Constraints</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.12148v1" target="_blank" rel="noopener noreferrer">[N7] SuperWIMPs in the Kination Era: Imprints on $N_{\rm eff}$ and CMB Spectral Distortions</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.12772v1" target="_blank" rel="noopener noreferrer">[N8] Gravitational waves and the exit from de Sitter in Inflation without an Inflaton</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.12282v1" target="_blank" rel="noopener noreferrer">[N9] A Self-Interacting Dark-Matter Route to Supermassive Kerr Black Holes via Super-Eddington Bondi Accretion: Mass-Spin Evolution</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.12363v1" target="_blank" rel="noopener noreferrer">[N10] Naturalness in the Past from a Time-Dependent Supersymmetry Scale</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.11094v1" target="_blank" rel="noopener noreferrer">[N11] Is Dark Energy Inhomogeneous?</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.12765v1" target="_blank" rel="noopener noreferrer">[N12] Quality time in extra dimensions: axion quality and radion cosmology</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.12839v1" target="_blank" rel="noopener noreferrer">[N13] Beyond $Λ$CDM: Probing Structure Growth and Observational Viability of Generalized ${f\,(Q , \mathcal{L}_{m})}$ Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.12496v1" target="_blank" rel="noopener noreferrer">[N14] Long before plunge: Uncovering intermediate-mass black holes through their inspiralling compact object companions with LISA</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.11211v1" target="_blank" rel="noopener noreferrer">[N15] The first-order phase transitions and gravitational waves from an effective theory inspired by four-stack intersecting D6-brane models</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.12831v1" target="_blank" rel="noopener noreferrer">[N16] Numerical-Relativity Particle-in-Cell Simulations: Self-Gravitating Collisionless Matter in Dynamical Spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.12698v1" target="_blank" rel="noopener noreferrer">[N17] On Thermodynamic Role of the Gauss-Bonnet Topological Term</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.12683v1" target="_blank" rel="noopener noreferrer">[N18] Thermodynamics of Kerr-Newman-Bertotti-Robinson black holes from background subtraction</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.12489v1" target="_blank" rel="noopener noreferrer">[N19] Gravity Without Absolutes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html" target="_blank" rel="noopener noreferrer">[N20] &#x27;Stupendously large&#x27; primordial black holes ruled out as a dark matter source</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.11835v1" target="_blank" rel="noopener noreferrer">[N2] Vacuum energy interacting with dark matter and dark radiation: alleviating the $H_0$-$S_8$ seesaw</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.11587v1" target="_blank" rel="noopener noreferrer">[N3] Detecting Baryon Acoustic Oscillations from Galaxy Clusters: Distance Constraints</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.12861v1" target="_blank" rel="noopener noreferrer">[N4] Little Red Dots from Primordial Black Holes: Non-Gaussianity and Accretion Evade $μ$-Distortion Constraints</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.12556v1" target="_blank" rel="noopener noreferrer">[N5] BAO and Type Ia Supernovae in LTB Cosmology: Constraints on Radial Inhomogeneity and Acoustic-Ruler Evolution</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.12123v1" target="_blank" rel="noopener noreferrer">[N6] CMB Bounds on Primordial Black Holes via Radiation Capture: Linear Perturbations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.12772v1" target="_blank" rel="noopener noreferrer">[N7] Gravitational waves and the exit from de Sitter in Inflation without an Inflaton</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.12148v1" target="_blank" rel="noopener noreferrer">[N8] SuperWIMPs in the Kination Era: Imprints on $N_{\rm eff}$ and CMB Spectral Distortions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.11094v1" target="_blank" rel="noopener noreferrer">[N9] Is Dark Energy Inhomogeneous?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.12765v1" target="_blank" rel="noopener noreferrer">[N10] Quality time in extra dimensions: axion quality and radion cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.12282v1" target="_blank" rel="noopener noreferrer">[N11] A Self-Interacting Dark-Matter Route to Supermassive Kerr Black Holes via Super-Eddington Bondi Accretion: Mass-Spin Evolution</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.12839v1" target="_blank" rel="noopener noreferrer">[N12] Beyond $Λ$CDM: Probing Structure Growth and Observational Viability of Generalized ${f\,(Q , \mathcal{L}_{m})}$ Gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.12363v1" target="_blank" rel="noopener noreferrer">[N13] Naturalness in the Past from a Time-Dependent Supersymmetry Scale</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.11211v1" target="_blank" rel="noopener noreferrer">[N14] The first-order phase transitions and gravitational waves from an effective theory inspired by four-stack intersecting D6-brane models</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.12831v1" target="_blank" rel="noopener noreferrer">[N15] Numerical-Relativity Particle-in-Cell Simulations: Self-Gravitating Collisionless Matter in Dynamical Spacetimes</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.12698v1" target="_blank" rel="noopener noreferrer">[N16] On Thermodynamic Role of the Gauss-Bonnet Topological Term</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.12683v1" target="_blank" rel="noopener noreferrer">[N17] Thermodynamics of Kerr-Newman-Bertotti-Robinson black holes from background subtraction</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html" target="_blank" rel="noopener noreferrer">[N18] &#x27;Stupendously large&#x27; primordial black holes ruled out as a dark matter source</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-11-elt-probe-ultra-diffuse-galaxies.html" target="_blank" rel="noopener noreferrer">[N19] The ELT can probe ultra-diffuse galaxies and their dark matter mysteries</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.12857v1" target="_blank" rel="noopener noreferrer">[N20] Mapping of Spacetimes with Neural Networks</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
