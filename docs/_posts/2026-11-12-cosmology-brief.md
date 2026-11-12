@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-11-12T13:04:04.335096+05:30
-summary: "Latest cosmology research and opportunities for physicists."
-run_time_ist: "1:04PM"
+date: 2026-11-12T22:27:03.172408+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "10:27PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 1:04PM</h1>
+<h1 class="brief-run">Gemini Summary: 10:27PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Combinations of CMB, BAO, and supernova data favor evolving dark energy over ΛCDM at ~3-4σ, highlighting the importance of testing this deviation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.13829v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Combinations of CMB, BAO, and supernova data favor evolving dark energy over $\Lambda$CDM at $\sim 3-4\sigma$, prompting tests of pre-existing models.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.13829v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 <li><p><strong>Topic:</strong> The unified bound dark energy-bound dark matter model, derived from a single supersymmetric SU(3) dark gauge group, is confronted with DESI DR2, ACT, SPT-3G, and Unite supernovae measurements.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.13567v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> A new method, DustER, reconstructs dust reddening maps from photometric galaxy survey data using red galaxies as &quot;standard crayons&quot;.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.14280v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A new method, DustER, reconstructs dust reddening maps from photometric galaxy survey data using red galaxies as &quot;standard crayons.&quot;</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.14280v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
