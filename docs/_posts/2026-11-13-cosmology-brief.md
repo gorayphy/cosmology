@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-11-13T12:34:54.960803+05:30
+date: 2026-11-13T22:08:15.865374+05:30
 summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "12:34PM"
+run_time_ist: "10:08PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 12:34PM</h1>
+<h1 class="brief-run">Gemini Summary: 10:08PM</h1>
 
 <hr class="brief-rule">
 
@@ -16,18 +16,18 @@ run_time_ist: "12:34PM"
 <h2>Cosmology News</h2>
 <ul class="digest-points">
 <li><p><strong>Topic:</strong> An analytic forward model for the Lyman-alpha forest flux field based on perturbation theory is presented, offering new tools for cosmological analysis.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.17299v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The Euclid mission has released its first data (DR1), including spectroscopic calibration and photometric redshift processing, crucial for mapping the Universe&#x27;s large-scale structure.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.17305v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://arxiv.org/abs/2611.16444v1" target="_blank" rel="noopener noreferrer">↗ Source 2</a><a class="source-chip" href="https://arxiv.org/abs/2611.16480v1" target="_blank" rel="noopener noreferrer">↗ Source 3</a><a class="source-chip" href="https://phys.org/news/2026-11-space-telescope-euclid-standard-cosmology.html" target="_blank" rel="noopener noreferrer">↗ Source 4</a><a class="source-chip" href="https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky" target="_blank" rel="noopener noreferrer">↗ Source 5</a></div></li>
-<li><p><strong>Topic:</strong> New Kinessence models are introduced where combined K-mouflage and quintessence lead to phantom-crossing and sign-switching dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.16629v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The Euclid mission&#x27;s first data release (DR1) includes details on spectroscopic calibration and the PHZ processing function for galaxy properties, crucial for mapping the Universe&#x27;s large-scale structure.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.17305v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://arxiv.org/abs/2611.16444v1" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
+<li><p><strong>Topic:</strong> A radical theory suggests the universe may be twice as old as previously thought and might not require dark matter or dark energy.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.sciencedaily.com/releases/2026/11/261108233040.htm" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page, a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page, offering a portal for opportunities in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page, a portal for positions in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page, a portal for various positions in India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page, a global portal for applications.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -38,22 +38,22 @@ run_time_ist: "12:34PM"
 <li><a href="https://arxiv.org/abs/2611.17202v1" target="_blank" rel="noopener noreferrer">[N2] Parallel alignment of radio AGN jets and large cosmic web structures in the direction of the Shapley supercluster</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.17305v1" target="_blank" rel="noopener noreferrer">[N3] Euclid data release 1 (DR1) - SIR spectroscopic calibration</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.17209v1" target="_blank" rel="noopener noreferrer">[N4] Shedding light on modified recombination scenarios with Rayleigh scattering of the CMB</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.16629v1" target="_blank" rel="noopener noreferrer">[N5] Kinessence, phantom crossing and sign-switching dark energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.16444v1" target="_blank" rel="noopener noreferrer">[N6] Euclid Data Release 1 (DR1). The PHZ processing function for the physical properties of galaxies</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.16407v1" target="_blank" rel="noopener noreferrer">[N7] Minimal vacuum histories beyond $Λ$CDM: model comparison within VCDM</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.17085v1" target="_blank" rel="noopener noreferrer">[N8] On-the-Fly Gaussian Process Reconstruction of the Galaxy Redshift Distribution for 3$\times$2pt Cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.17085v1" target="_blank" rel="noopener noreferrer">[N5] On-the-Fly Gaussian Process Reconstruction of the Galaxy Redshift Distribution for 3$\times$2pt Cosmology</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.16629v1" target="_blank" rel="noopener noreferrer">[N6] Kinessence, phantom crossing and sign-switching dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.16444v1" target="_blank" rel="noopener noreferrer">[N7] Euclid Data Release 1 (DR1). The PHZ processing function for the physical properties of galaxies</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.16407v1" target="_blank" rel="noopener noreferrer">[N8] Minimal vacuum histories beyond $Λ$CDM: model comparison within VCDM</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.16480v1" target="_blank" rel="noopener noreferrer">[N9] Euclid Data Release 1 (DR1). An overview of the Science Ground Segment architecture and operations</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.17153v1" target="_blank" rel="noopener noreferrer">[N10] Effects of Lensing by Sgr A* on Semicoherent Searches for Continuous Gravitational Waves. I. Signal Model and Mismatch Studies</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.16914v1" target="_blank" rel="noopener noreferrer">[N11] Lense-Thirring induced repeating blast trains in continuous gravitational waves</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.16697v1" target="_blank" rel="noopener noreferrer">[N12] Efficient Standard Siren Cosmological Inference with Posterior Reuse</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-11-space-telescope-euclid-standard-cosmology.html" target="_blank" rel="noopener noreferrer">[N13] Space telescope Euclid sets the new standard for cosmology</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2611.17260v1" target="_blank" rel="noopener noreferrer">[N14] Non-interferometric tests of gravitational decoherence models with mechanical oscillators</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.16853v1" target="_blank" rel="noopener noreferrer">[N15] The uniqueness of smooth stationary black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://www.universetoday.com/articles/euclids-first-data-release-a-stepping-stone-to-its-3d-map-of-the-sky" target="_blank" rel="noopener noreferrer">[N16] Euclid&#x27;s First Data Release: A Stepping Stone to its 3D Map of the Sky</a> <span>Universe Today</span></li>
-<li><a href="https://arxiv.org/abs/2611.17319v1" target="_blank" rel="noopener noreferrer">[N17] The Cauchy problem for skew-torsion-parallel spinors with applications to supergravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.17147v1" target="_blank" rel="noopener noreferrer">[N18] Gauge aspects of teleparallel gravity and Noether&#x27;s second theorem</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.17045v1" target="_blank" rel="noopener noreferrer">[N19] De Sitter Gravity and Emergent Time from Fusion Matrix Product States and SYK</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.17038v1" target="_blank" rel="noopener noreferrer">[N20] Rapid Multiparameter Gravitational-Wave Tests of General Relativity with Neural Posterior Estimation</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/11/261111005901.htm" target="_blank" rel="noopener noreferrer">[N11] Dark energy may have flipped from negative to positive 9.5 billion years ago</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://phys.org/news/2026-11-space-telescope-euclid-standard-cosmology.html" target="_blank" rel="noopener noreferrer">[N12] Space telescope Euclid sets the new standard for cosmology</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.17260v1" target="_blank" rel="noopener noreferrer">[N13] Non-interferometric tests of gravitational decoherence models with mechanical oscillators</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-11-gemini-decam-showcase-young-ia.html" target="_blank" rel="noopener noreferrer">[N14] Gemini and DECam showcase a young Type Ia supernova</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.17319v1" target="_blank" rel="noopener noreferrer">[N15] The Cauchy problem for skew-torsion-parallel spinors with applications to supergravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.17147v1" target="_blank" rel="noopener noreferrer">[N16] Gauge aspects of teleparallel gravity and Noether&#x27;s second theorem</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.16914v1" target="_blank" rel="noopener noreferrer">[N17] Lense-Thirring induced repeating blast trains in continuous gravitational waves</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.16697v1" target="_blank" rel="noopener noreferrer">[N18] Efficient Standard Siren Cosmological Inference with Posterior Reuse</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/11/261108233040.htm" target="_blank" rel="noopener noreferrer">[N19] A radical theory says the universe is twice as old as we thought</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2611.16853v1" target="_blank" rel="noopener noreferrer">[N20] The uniqueness of smooth stationary black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
