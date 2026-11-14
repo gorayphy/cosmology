@@ -1,36 +1,36 @@
 ---
 layout: default
-title: "Cosmology Digest"
-date: 2026-11-14T12:24:18.770775+05:30
-summary: "Latest research and opportunities in cosmology for researchers and students."
-run_time_ist: "12:24PM"
+title: "Cosmology Brief"
+date: 2026-11-14T20:44:49.172167+05:30
+summary: "Latest cosmology research signals and academic opportunity links from configured sources."
+run_time_ist: "8:44PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 12:24PM</h1>
+<h1 class="brief-run">Headline Digest: 8:44PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> An analytic forward model for the Lyman-alpha forest flux field based on cubic-order large-scale structure perturbation theory has been developed.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.17299v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The parallel alignment of radio AGN jets and large cosmic web structures in the direction of the Shapley supercluster has been investigated.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.17202v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Euclid Data Release 1 (DR1) includes details on the SIR spectroscopic calibration and the PHZ processing function for galaxy physical properties.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.17305v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://arxiv.org/abs/2611.16444v1" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Simulation-Based Priors and BAO Shifts from the Lyman-$α$ Forest at the Field Level.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.17299v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Parallel alignment of radio AGN jets and large cosmic web structures in the direction of the Shapley supercluster.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.17202v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>arXiv astro-ph.CO:</strong> Euclid data release 1 (DR1) - SIR spectroscopic calibration.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.17305v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Research Associate in Experimental Particle Astrophysics at Maryland U., College Park.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3227141" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>PRL Job Vacancies and Fellowships:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>TIFR Astronomy and Astrophysics Careers:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>IUCAA Opportunities:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>HRI Physics Postdoctoral Fellowships:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Academic Jobs Online Cosmology:</strong> Academic Jobs Online Cosmology: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>ANRF National Post Doctoral Fellowship:</strong> ANRF National Post Doctoral Fellowship: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>IUCAA Faculty Openings:</strong> IUCAA Faculty Openings: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -46,17 +46,17 @@ run_time_ist: "12:24PM"
 <li><a href="https://arxiv.org/abs/2611.16407v1" target="_blank" rel="noopener noreferrer">[N7] Minimal vacuum histories beyond $Λ$CDM: model comparison within VCDM</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.17085v1" target="_blank" rel="noopener noreferrer">[N8] On-the-Fly Gaussian Process Reconstruction of the Galaxy Redshift Distribution for 3$\times$2pt Cosmology</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.16480v1" target="_blank" rel="noopener noreferrer">[N9] Euclid Data Release 1 (DR1). An overview of the Science Ground Segment architecture and operations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/11/261111005901.htm" target="_blank" rel="noopener noreferrer">[N10] Dark energy may have flipped from negative to positive 9.5 billion years ago</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes" target="_blank" rel="noopener noreferrer">[N11] Astrophysicists Cross Another Dark Matter Candidate Off Their List: Stupendously Large Black Holes</a> <span>Universe Today</span></li>
-<li><a href="https://phys.org/news/2026-11-gemini-decam-showcase-young-ia.html" target="_blank" rel="noopener noreferrer">[N12] Gemini and DECam showcase a young Type Ia supernova</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2611.17153v1" target="_blank" rel="noopener noreferrer">[N13] Effects of Lensing by Sgr A* on Semicoherent Searches for Continuous Gravitational Waves. I. Signal Model and Mismatch Studies</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.16914v1" target="_blank" rel="noopener noreferrer">[N14] Lense-Thirring induced repeating blast trains in continuous gravitational waves</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.16697v1" target="_blank" rel="noopener noreferrer">[N15] Efficient Standard Siren Cosmological Inference with Posterior Reuse</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.universetoday.com/articles/astrophysicists-cross-another-dark-matter-candidate-off-their-list-stupendously-large-black-holes" target="_blank" rel="noopener noreferrer">[N10] Astrophysicists Cross Another Dark Matter Candidate Off Their List: Stupendously Large Black Holes</a> <span>Universe Today</span></li>
+<li><a href="https://phys.org/news/2026-11-gemini-decam-showcase-young-ia.html" target="_blank" rel="noopener noreferrer">[N11] Gemini and DECam showcase a young Type Ia supernova</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.17153v1" target="_blank" rel="noopener noreferrer">[N12] Effects of Lensing by Sgr A* on Semicoherent Searches for Continuous Gravitational Waves. I. Signal Model and Mismatch Studies</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.16914v1" target="_blank" rel="noopener noreferrer">[N13] Lense-Thirring induced repeating blast trains in continuous gravitational waves</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.16697v1" target="_blank" rel="noopener noreferrer">[N14] Efficient Standard Siren Cosmological Inference with Posterior Reuse</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/11/261111005901.htm" target="_blank" rel="noopener noreferrer">[N15] Dark energy may have flipped from negative to positive 9.5 billion years ago</a> <span>ScienceDaily Space and Time</span></li>
 <li><a href="https://phys.org/news/2026-11-space-telescope-euclid-standard-cosmology.html" target="_blank" rel="noopener noreferrer">[N16] Space telescope Euclid sets the new standard for cosmology</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://arxiv.org/abs/2611.17260v1" target="_blank" rel="noopener noreferrer">[N17] Non-interferometric tests of gravitational decoherence models with mechanical oscillators</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://arxiv.org/abs/2611.16853v1" target="_blank" rel="noopener noreferrer">[N18] The uniqueness of smooth stationary black holes</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://phys.org/news/2026-11-stupendously-large-primordial-black-holes.html" target="_blank" rel="noopener noreferrer">[N19] &#x27;Stupendously large&#x27; primordial black holes ruled out as a dark matter source</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-11-theory-older-universe-dark-energy.html" target="_blank" rel="noopener noreferrer">[N20] Theory predicting an older universe without dark matter or dark energy passes key cosmological tests</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.17319v1" target="_blank" rel="noopener noreferrer">[N20] The Cauchy problem for skew-torsion-parallel spinors with applications to supergravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
