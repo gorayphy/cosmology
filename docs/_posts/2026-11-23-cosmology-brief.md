@@ -1,58 +1,58 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-11-23T02:17:02.715306+05:30
-summary: "Latest cosmology research and opportunities for physicists."
-run_time_ist: "2:17AM"
+date: 2026-11-23T13:31:30.522090+05:30
+summary: "Latest research findings and career opportunities in cosmology."
+run_time_ist: "1:31PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 2:17AM</h1>
+<h1 class="brief-run">Gemini Summary: 1:31PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Next-generation CMB experiments may distinguish between standard ΛCDM and dynamical dark energy models, with forecasts for Simons Observatory and CMB-S4.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.26305v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Star-forming disc galaxies exhibit tangential alignment with the cosmic tidal field, a phenomenon investigated in cosmology and extragalactic astrophysics.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.26593v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The JWST has potentially identified a black hole that outpaced its host galaxy&#x27;s growth in the early universe, posing questions about early massive black hole formation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> A study investigates features in the primordial power spectrum predicted by axion monodromy inflation using recent observational data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.27265v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Next-generation CMB experiments may be able to distinguish between $\Lambda$CDM and dynamical dark energy models through Bayesian forecasting.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.26305v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Star-forming disc galaxies exhibit tangential alignment with the cosmic tidal field, a phenomenon investigated in cosmology for decades.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.26593v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://academicjobsonline.org/ajo/physics/Cosmology" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://anrfonline.in/ANRF/npdf" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities/faculty-openings" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Research Fellowship in High Energy Phenomenology at Nanjing Normal University and TDLI (Shanghai).</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3230597" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Two Postdoctoral Research Associates in the Neutrino and Nucleon decay Group at Stony Brook University.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3229305" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> UChicago-Fermilab Tenure-track Assistant Professor Appointment.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3230927" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> Postdoctoral Researcher in FPGA-based AI for Neutrino Astronomy at Tsung-Dao Lee Institute, Shanghai.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3227787" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page for India.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2611.26305v1" target="_blank" rel="noopener noreferrer">[N1] Can next generation CMB experiments discriminate between $Λ$CDM and dynamical dark energy? A Bayesian forecast for Simons Observatory and CMB-S4</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.26593v1" target="_blank" rel="noopener noreferrer">[N2] Star-forming disc galaxies align tangentially with the cosmic tidal field</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.26488v1" target="_blank" rel="noopener noreferrer">[N3] Constraints and biases: impact of light-cone effects on power spectrum and bispectrum forecasts</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.26230v1" target="_blank" rel="noopener noreferrer">[N4] Two powers, one scalar field: unified early and late dark energy</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.26192v1" target="_blank" rel="noopener noreferrer">[N5] The LEMAITRE project: An Independent Probe of the $w-w_a$ Tension</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html" target="_blank" rel="noopener noreferrer">[N6] JWST finds a possible black hole that grew faster than its host galaxy in the early universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2611.26620v1" target="_blank" rel="noopener noreferrer">[N7] Little Red Dots from Primordial Vacuum Bubbles</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.26193v1" target="_blank" rel="noopener noreferrer">[N8] Calibrating the cosmic distance ladder for independent dark energy constraints</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.25472v1" target="_blank" rel="noopener noreferrer">[N9] The Universality of Halo Growth and Merger Rates in Modified Gravity Theories</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.25359v1" target="_blank" rel="noopener noreferrer">[N10] Dark Matter Model Implications of a Candidate Sub-halo Near the Sun, and the Data Needed to Discriminate Among Them</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.25355v1" target="_blank" rel="noopener noreferrer">[N11] The Cosmic Infrared Background from Population III.1 Supermassive Stars and Black Holes</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.25317v1" target="_blank" rel="noopener noreferrer">[N12] Design and Forecasts for a Rubin Twilight Program for Nearby Type Ia Supernovae</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.25312v1" target="_blank" rel="noopener noreferrer">[N13] First $Ω_{\rm m}-w$ Measurement Using Only Fast Radio Burst Observations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-11-tiny-primordial-black-holes.html" target="_blank" rel="noopener noreferrer">[N14] If tiny &#x27;primordial&#x27; black holes exist, here&#x27;s how we might find them</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2611.26070v1" target="_blank" rel="noopener noreferrer">[N15] Galaxy Bias and Soft Limits from Inflation</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-11-euclid-strong-gravitational-lenses.html" target="_blank" rel="noopener noreferrer">[N16] Euclid&#x27;s hunt for strong gravitational lenses is off to a strong start</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.27265v1" target="_blank" rel="noopener noreferrer">[N1] Features investigated: A detailed study of axion monodromy inflation using CLiENT</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.26305v1" target="_blank" rel="noopener noreferrer">[N2] Can next generation CMB experiments discriminate between $Λ$CDM and dynamical dark energy? A Bayesian forecast for Simons Observatory and CMB-S4</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.26593v1" target="_blank" rel="noopener noreferrer">[N3] Star-forming disc galaxies align tangentially with the cosmic tidal field</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.26488v1" target="_blank" rel="noopener noreferrer">[N4] Constraints and biases: impact of light-cone effects on power spectrum and bispectrum forecasts</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.26230v1" target="_blank" rel="noopener noreferrer">[N5] Two powers, one scalar field: unified early and late dark energy</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.27069v1" target="_blank" rel="noopener noreferrer">[N6] Beyond the Peak: Constraining early dark energy with the damping tail</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.26685v1" target="_blank" rel="noopener noreferrer">[N7] Little Red Dots at Cosmic Noon: Spectroscopy Reveals Declining Abundance but a Non-Evolving Luminosity Function Shape</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html" target="_blank" rel="noopener noreferrer">[N8] JWST finds a possible black hole that grew faster than its host galaxy in the early universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.27228v1" target="_blank" rel="noopener noreferrer">[N9] Dark Energy Based on Modified Gravity: Where the Future Lies?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.26620v1" target="_blank" rel="noopener noreferrer">[N10] Little Red Dots from Primordial Vacuum Bubbles</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.26193v1" target="_blank" rel="noopener noreferrer">[N11] Calibrating the cosmic distance ladder for independent dark energy constraints</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.27986v1" target="_blank" rel="noopener noreferrer">[N12] Ohmic warm inflation</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.26822v1" target="_blank" rel="noopener noreferrer">[N13] Kinetic Sunyaev Zel&#x27;dovich Velocity Reconstruction Using Vision Transformers</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.26785v1" target="_blank" rel="noopener noreferrer">[N14] SciPIC-lite: A flexible Halo Occupation Distribution pipeline aimed at clustering observables</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.27249v1" target="_blank" rel="noopener noreferrer">[N15] Baryon-Enhanced Strong Lensing Signatures of Self-Interacting Dark Matter Subhalos</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.27151v1" target="_blank" rel="noopener noreferrer">[N16] Fast and accurate large-volume Lyman-$α$ forest mocks with three-dimensional U-Net trained on IllustrisTNG and FLAMINGO</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.26594v1" target="_blank" rel="noopener noreferrer">[N17] UV Bounds on Inflationary Parity Violation</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.26576v1" target="_blank" rel="noopener noreferrer">[N18] Modeling the gravitational wave spectrum from slowly-evolving sources in the early Universe: constant-in-time and coherent-decay models</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.26461v1" target="_blank" rel="noopener noreferrer">[N19] Splitting the action: A fully nonlinear fluid method for clustering dark energy</a> <span>arXiv astro-ph.CO</span></li>
