@@ -1,14 +1,14 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-11-26T00:14:11.668073+05:30
-summary: "Latest research, news, and opportunities in cosmology for researchers and students."
-run_time_ist: "12:14AM"
+date: 2026-11-26T04:41:35.490835+05:30
+summary: "Latest cosmology research and job opportunities for researchers and students."
+run_time_ist: "4:41AM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 12:14AM</h1>
+<h1 class="brief-run">Gemini Summary: 4:41AM</h1>
 
 <hr class="brief-rule">
 
@@ -46,14 +46,14 @@ run_time_ist: "12:14AM"
 <li><a href="https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html" target="_blank" rel="noopener noreferrer">[N10] South Pole Telescope releases clearest map ever of matter in the distant universe</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://phys.org/news/2026-11-webb-farthest-red-dot-universe.html" target="_blank" rel="noopener noreferrer">[N11] Webb discovers farthest &#x27;little red dot&#x27; from universe&#x27;s first 500 million years</a> <span>Phys.org Astronomy and Space</span></li>
 <li><a href="https://www.sciencedaily.com/releases/2026/11/261124055852.htm" target="_blank" rel="noopener noreferrer">[N12] A space telescope hunting for dark matter just discovered something unexpected</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/11/261122060332.htm" target="_blank" rel="noopener noreferrer">[N13] A black hole the size of an atom could destroy an entire star</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2611.31235v1" target="_blank" rel="noopener noreferrer">[N14] The Simons Observatory: Analysis of methods for polarization calibration of multiple instruments</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.31183v1" target="_blank" rel="noopener noreferrer">[N15] Four consistent estimates of $H_0$ from a $Λ$CDM inference network given CMB data</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.32478v1" target="_blank" rel="noopener noreferrer">[N16] Area-minimizing surfaces and the rigidity of three-dimensional electrostatic systems</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-11-flexible-simulations-dark-collisions-fingerprints.html" target="_blank" rel="noopener noreferrer">[N17] Flexible simulations model how dark matter collisions may leave their fingerprints on the universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2611.33146v1" target="_blank" rel="noopener noreferrer">[N18] The double copy and perturbative teleparallel gravity</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.33123v1" target="_blank" rel="noopener noreferrer">[N19] Scalar perturbations in extremal Reissner-Nordström geometry: new methods at work</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.33083v1" target="_blank" rel="noopener noreferrer">[N20] Initial Conditions and Wave-Phase Resolution for Scalar-Field Dark Matter Simulations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.31235v1" target="_blank" rel="noopener noreferrer">[N13] The Simons Observatory: Analysis of methods for polarization calibration of multiple instruments</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.31183v1" target="_blank" rel="noopener noreferrer">[N14] Four consistent estimates of $H_0$ from a $Λ$CDM inference network given CMB data</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.32478v1" target="_blank" rel="noopener noreferrer">[N15] Area-minimizing surfaces and the rigidity of three-dimensional electrostatic systems</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/11/261122060332.htm" target="_blank" rel="noopener noreferrer">[N16] A black hole the size of an atom could destroy an entire star</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2611.33083v1" target="_blank" rel="noopener noreferrer">[N17] Initial Conditions and Wave-Phase Resolution for Scalar-Field Dark Matter Simulations</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.32987v1" target="_blank" rel="noopener noreferrer">[N18] The Cosmological Constant as a Clock and the Vilenkin Wavefunction as a Resonance</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.32925v1" target="_blank" rel="noopener noreferrer">[N19] Multi-Component Axion Dark Matter Revisited and the Role of Ultralight ALPs</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.32800v1" target="_blank" rel="noopener noreferrer">[N20] Toward Solving the Galactic Foreground Problem in Gravitational-Wave Astronomy with Machine Learning</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
