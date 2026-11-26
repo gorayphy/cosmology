@@ -1,23 +1,23 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-11-26T04:41:35.490835+05:30
-summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "4:41AM"
+date: 2026-11-26T14:16:03.314116+05:30
+summary: "Latest research findings and career opportunities in cosmology for researchers and students."
+run_time_ist: "2:16PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 4:41AM</h1>
+<h1 class="brief-run">Gemini Summary: 2:16PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Early dark energy models, supported by JWST data, show promise in resolving the Hubble tension at the $0.1\sigma$ level.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.32552v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Analyses of CMB polarization hint at cosmic birefringence, suggesting parity-violating physics, with independent tests confirming this observation.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.31411v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a><a class="source-chip" href="https://arxiv.org/abs/2611.32120v1" target="_blank" rel="noopener noreferrer">↗ Source 2</a></div></li>
-<li><p><strong>Topic:</strong> The South Pole Telescope has released its clearest map to date of matter distribution in the distant universe, utilizing the cosmic microwave background.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> New analysis of BOSS galaxies and eBOSS quasars combined with Planck data searches for primordial oscillatory features in the early Universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.34672v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Hyper Suprime-Cam Year 3 cosmic shear data is used to probe dynamical dark energy, which may explain recent BAO and SN Ia observations.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.34650v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The South Pole Telescope has released its clearest map yet of matter distribution in the distant universe, utilizing Cosmic Microwave Background data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -34,26 +34,26 @@ run_time_ist: "4:41AM"
 <details class="sources-considered">
 <summary>Sources considered</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2611.32857v1" target="_blank" rel="noopener noreferrer">[N1] Modified recombination or dynamical dark energy (or both)?</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.32552v1" target="_blank" rel="noopener noreferrer">[N2] Resolving the Hubble Tension at $0.1σ$ with Early Dark Energy: Key Role of the Highest-redshift Galaxies from JWST Observations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.32282v1" target="_blank" rel="noopener noreferrer">[N3] Assessing the total mass of the Planck protocluster candidates with CMB lensing stacking</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.31411v1" target="_blank" rel="noopener noreferrer">[N4] Parallel and perpendicular: a two-population test with POSSUM radio galaxies confirms hint of CMB birefringence</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.31374v1" target="_blank" rel="noopener noreferrer">[N5] Late-time cosmic acceleration from matter inhomogeneities: constraints from DESI DR2 and SNe Ia</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.34672v1" target="_blank" rel="noopener noreferrer">[N1] Signals from the early Universe: primordial features from the full-shape analysis of BOSS galaxies and eBOSS quasars in combination with Planck</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.34650v1" target="_blank" rel="noopener noreferrer">[N2] Probing Dynamical Dark Energy with Hyper Suprime-Cam Year 3 Cosmic Shear</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.34512v1" target="_blank" rel="noopener noreferrer">[N3] A Genetic Algorithm Approach to Reconstructing Scalar-Tensor Lagrangians</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.33334v1" target="_blank" rel="noopener noreferrer">[N4] Acoustic Priors from the Latest Cosmic Microwave Background Data</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.33276v1" target="_blank" rel="noopener noreferrer">[N5] Constraining Intergalactic Dust with Supernova Color Evolution: Current Constraints from DES and Forecasts for LSST and Roman</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.32861v1" target="_blank" rel="noopener noreferrer">[N6] Lensing ratios as a geometric probe of dark energy in the LSST and Simons Observatory era</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.31494v1" target="_blank" rel="noopener noreferrer">[N7] Learning to find cosmic filaments with graph neural networks</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.32120v1" target="_blank" rel="noopener noreferrer">[N8] Robust Measurements of the Cosmic Microwave Background Lensing Power Spectrum in the Presence of Anisotropic Cosmic Birefringence</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.31204v1" target="_blank" rel="noopener noreferrer">[N9] JAISP: A Joint Rubin-Euclid Foundation Model for Cross-Instrument Source Detection and Astrometry</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html" target="_blank" rel="noopener noreferrer">[N10] South Pole Telescope releases clearest map ever of matter in the distant universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-11-webb-farthest-red-dot-universe.html" target="_blank" rel="noopener noreferrer">[N11] Webb discovers farthest &#x27;little red dot&#x27; from universe&#x27;s first 500 million years</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/11/261124055852.htm" target="_blank" rel="noopener noreferrer">[N12] A space telescope hunting for dark matter just discovered something unexpected</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2611.31235v1" target="_blank" rel="noopener noreferrer">[N13] The Simons Observatory: Analysis of methods for polarization calibration of multiple instruments</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.31183v1" target="_blank" rel="noopener noreferrer">[N14] Four consistent estimates of $H_0$ from a $Λ$CDM inference network given CMB data</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.32478v1" target="_blank" rel="noopener noreferrer">[N15] Area-minimizing surfaces and the rigidity of three-dimensional electrostatic systems</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/11/261122060332.htm" target="_blank" rel="noopener noreferrer">[N16] A black hole the size of an atom could destroy an entire star</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2611.33083v1" target="_blank" rel="noopener noreferrer">[N17] Initial Conditions and Wave-Phase Resolution for Scalar-Field Dark Matter Simulations</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.32987v1" target="_blank" rel="noopener noreferrer">[N18] The Cosmological Constant as a Clock and the Vilenkin Wavefunction as a Resonance</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.32925v1" target="_blank" rel="noopener noreferrer">[N19] Multi-Component Axion Dark Matter Revisited and the Role of Ultralight ALPs</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.32800v1" target="_blank" rel="noopener noreferrer">[N20] Toward Solving the Galactic Foreground Problem in Gravitational-Wave Astronomy with Machine Learning</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.34439v1" target="_blank" rel="noopener noreferrer">[N7] Inverted Pendulum in the Sky: Floquet Stabilization of Cosmological Axions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.34212v1" target="_blank" rel="noopener noreferrer">[N8] Small-scale priors for large-scale cosmology: the case of $b_φ$</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.34111v1" target="_blank" rel="noopener noreferrer">[N9] Halo spin-axis correlations in IllustrisTNG: Lagrangian-to-Eulerian separation mapping, baryonic effects, and redshift-space distortions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.34924v1" target="_blank" rel="noopener noreferrer">[N10] An algebraic quantization of gravity from the null cone</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html" target="_blank" rel="noopener noreferrer">[N11] South Pole Telescope releases clearest map ever of matter in the distant universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-11-webb-farthest-red-dot-universe.html" target="_blank" rel="noopener noreferrer">[N12] Webb discovers farthest &#x27;little red dot&#x27; from universe&#x27;s first 500 million years</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.34464v1" target="_blank" rel="noopener noreferrer">[N13] Ultralight Dark Matter Spectrum with Gravitational Focusing and Doppler Motion</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.34172v1" target="_blank" rel="noopener noreferrer">[N14] Black hole accretion flows as dark matter bolometers</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/11/261124055852.htm" target="_blank" rel="noopener noreferrer">[N15] A space telescope hunting for dark matter just discovered something unexpected</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2611.33941v1" target="_blank" rel="noopener noreferrer">[N16] Multiwavelength Analysis of the Merging Cluster RM J121917.6+505432.8: A Three-way Merger in Disguise?</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/11/261122060346.htm" target="_blank" rel="noopener noreferrer">[N17] Astronomers may have discovered a black hole born before the first stars</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2611.34892v1" target="_blank" rel="noopener noreferrer">[N18] Massive Triangle in Cosmological Correlator beyond Conformal Coupling</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.34800v1" target="_blank" rel="noopener noreferrer">[N19] Cosmological rigidity in $3$ spacetime dimensions</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.34731v1" target="_blank" rel="noopener noreferrer">[N20] Is Gravitational-Wave Waveform Systematics a Bottleneck for Formation Channel Inferences using Effective-Spin and Mass-Ratio?</a> <span>arXiv gr-qc Cosmology Search</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
@@ -94,9 +94,9 @@ run_time_ist: "4:41AM"
 <li><a href="https://www.jsps.go.jp/english/e-fellow/" target="_blank" rel="noopener noreferrer">[J38] JSPS Postdoctoral Fellowship: current cosmology, astrophysics, and physics opportunities page</a> <span>JSPS Postdoctoral Fellowship</span></li>
 <li><a href="https://inspirehep.net/jobs/3229578" target="_blank" rel="noopener noreferrer">[J39] Postdoc positions in theoretical astroparticle physics</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3231603" target="_blank" rel="noopener noreferrer">[J40] Research Fellow in Particle Cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3233706" target="_blank" rel="noopener noreferrer">[J41] Postdoc (f/m/x) on the application of Machine Learning to Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3231490" target="_blank" rel="noopener noreferrer">[J42] Postdoc Position in String Theory</a> <span>INSPIRE HEP Jobs API</span></li>
-<li><a href="https://inspirehep.net/jobs/3229811" target="_blank" rel="noopener noreferrer">[J43] PhD opportunities in cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3231490" target="_blank" rel="noopener noreferrer">[J41] Postdoc Position in String Theory</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3229811" target="_blank" rel="noopener noreferrer">[J42] PhD opportunities in cosmology</a> <span>INSPIRE HEP Jobs API</span></li>
+<li><a href="https://inspirehep.net/jobs/3233706" target="_blank" rel="noopener noreferrer">[J43] Postdoc (f/m/x) on the application of Machine Learning to Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3231652" target="_blank" rel="noopener noreferrer">[J44] Postdoc Position in Theoretical Particle Physics</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://inspirehep.net/jobs/3231008" target="_blank" rel="noopener noreferrer">[J45] Expressions of interest for a Postdoc in Theoretical Physics</a> <span>INSPIRE HEP Jobs API</span></li>
 <li><a href="https://www.ictp.it/opportunities" target="_blank" rel="noopener noreferrer">[J46] ICTP Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>ICTP Opportunities</span></li>
