@@ -1,33 +1,33 @@
 ---
 layout: default
 title: "Cosmology Digest"
-date: 2026-11-27T04:40:03.464699+05:30
-summary: "Latest cosmology research and job opportunities for researchers and students."
-run_time_ist: "4:40AM"
+date: 2026-11-27T14:27:25.928106+05:30
+summary: "Latest cosmology research and opportunities for physicists."
+run_time_ist: "2:27PM"
 ---
 
 <p class="site-link-wrap"><a class="site-link" href="{{ '/' | relative_url }}">Cosmology Brief</a></p>
 
-<h1 class="brief-run">Gemini Summary: 4:40AM</h1>
+<h1 class="brief-run">Gemini Summary: 2:27PM</h1>
 
 <hr class="brief-rule">
 
 <section class="digest-section">
 <h2>Cosmology News</h2>
 <ul class="digest-points">
-<li><p><strong>Topic:</strong> Primordial oscillatory features are searched for using combined CMB and large-scale structure data, offering insights into the early Universe.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.34672v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> Dynamical dark energy is probed using Hyper Suprime-Cam Year 3 cosmic shear data, investigating its time-evolving equation of state.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.34650v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Topic:</strong> The South Pole Telescope has released its clearest map to date of matter distribution in the distant universe, providing new observational data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Primordial oscillatory features are searched for using combined CMB and large-scale structure data from Planck, BOSS, and eBOSS.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.34672v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> Dynamical dark energy is probed using Hyper Suprime-Cam Year 3 cosmic shear data, motivated by recent BAO and SNe measurements.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://arxiv.org/abs/2611.34650v1" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Topic:</strong> The South Pole Telescope has released its clearest map yet of matter distribution in the distant universe, utilizing cosmic microwave background data.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
 <section class="digest-section">
 <h2>Jobs and Fellowships</h2>
 <ul class="digest-points">
-<li><p><strong>Role/program:</strong> Postdoctoral Research Fellowship in High Energy Phenomenology — Joint Position, Nanjing Normal University and TDLI (Shanghai).</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3230597" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Two Postdoctoral Research Associates in the Neutrino and Nucleon decay Group at Stony Brook U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3229305" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Research Associate in Mathematical Physics (Senior Research Associate) at Lancaster U.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3231648" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
-<li><p><strong>Role/program:</strong> Postdoctoral Fellowship in Particle Cosmology at UPenn, Philadelphia.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://inspirehep.net/jobs/3232706" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
+<li><p><strong>Role/program:</strong> HRI Physics Postdoctoral Fellowships: current cosmology, astrophysics, and physics opportunities page.</p><div class="source-row"><span class="source-label">Sources</span><a class="source-chip" href="https://www.hri.res.in/academics/physics/pdf-fellowships/" target="_blank" rel="noopener noreferrer">↗ Source 1</a></div></li>
 </ul>
 </section>
 
@@ -43,17 +43,17 @@ run_time_ist: "4:40AM"
 <li><a href="https://arxiv.org/abs/2611.34439v1" target="_blank" rel="noopener noreferrer">[N7] Inverted Pendulum in the Sky: Floquet Stabilization of Cosmological Axions</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.34212v1" target="_blank" rel="noopener noreferrer">[N8] Small-scale priors for large-scale cosmology: the case of $b_φ$</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://arxiv.org/abs/2611.33941v1" target="_blank" rel="noopener noreferrer">[N9] Multiwavelength Analysis of the Merging Cluster RM J121917.6+505432.8: A Three-way Merger in Disguise?</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/11/261122060346.htm" target="_blank" rel="noopener noreferrer">[N10] Astronomers may have discovered a black hole born before the first stars</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://arxiv.org/abs/2611.34111v1" target="_blank" rel="noopener noreferrer">[N11] Halo spin-axis correlations in IllustrisTNG: Lagrangian-to-Eulerian separation mapping, baryonic effects, and redshift-space distortions</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.33522v1" target="_blank" rel="noopener noreferrer">[N12] No Cluster Left Behind I: Joint Mass Calibration for Dark Energy Survey and South Pole Telescope Clusters</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.33363v1" target="_blank" rel="noopener noreferrer">[N13] Toward Automated Strong-Lens Modeling with Agentic Workflows: An Application to Euclid Q1 Lenses</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://arxiv.org/abs/2611.34924v1" target="_blank" rel="noopener noreferrer">[N14] An algebraic quantization of gravity from the null cone</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html" target="_blank" rel="noopener noreferrer">[N15] South Pole Telescope releases clearest map ever of matter in the distant universe</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://phys.org/news/2026-11-webb-farthest-red-dot-universe.html" target="_blank" rel="noopener noreferrer">[N16] Webb discovers farthest &#x27;little red dot&#x27; from universe&#x27;s first 500 million years</a> <span>Phys.org Astronomy and Space</span></li>
-<li><a href="https://arxiv.org/abs/2611.34464v1" target="_blank" rel="noopener noreferrer">[N17] Ultralight Dark Matter Spectrum with Gravitational Focusing and Doppler Motion</a> <span>arXiv gr-qc Cosmology Search</span></li>
-<li><a href="https://arxiv.org/abs/2611.34172v1" target="_blank" rel="noopener noreferrer">[N18] Black hole accretion flows as dark matter bolometers</a> <span>arXiv astro-ph.CO</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/11/261124055852.htm" target="_blank" rel="noopener noreferrer">[N19] A space telescope hunting for dark matter just discovered something unexpected</a> <span>ScienceDaily Space and Time</span></li>
-<li><a href="https://www.sciencedaily.com/releases/2026/11/261122060332.htm" target="_blank" rel="noopener noreferrer">[N20] A black hole the size of an atom could destroy an entire star</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2611.34111v1" target="_blank" rel="noopener noreferrer">[N10] Halo spin-axis correlations in IllustrisTNG: Lagrangian-to-Eulerian separation mapping, baryonic effects, and redshift-space distortions</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.33522v1" target="_blank" rel="noopener noreferrer">[N11] No Cluster Left Behind I: Joint Mass Calibration for Dark Energy Survey and South Pole Telescope Clusters</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.33363v1" target="_blank" rel="noopener noreferrer">[N12] Toward Automated Strong-Lens Modeling with Agentic Workflows: An Application to Euclid Q1 Lenses</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://arxiv.org/abs/2611.34924v1" target="_blank" rel="noopener noreferrer">[N13] An algebraic quantization of gravity from the null cone</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://phys.org/news/2026-11-south-pole-telescope-clearest-distant.html" target="_blank" rel="noopener noreferrer">[N14] South Pole Telescope releases clearest map ever of matter in the distant universe</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://phys.org/news/2026-11-webb-farthest-red-dot-universe.html" target="_blank" rel="noopener noreferrer">[N15] Webb discovers farthest &#x27;little red dot&#x27; from universe&#x27;s first 500 million years</a> <span>Phys.org Astronomy and Space</span></li>
+<li><a href="https://arxiv.org/abs/2611.34464v1" target="_blank" rel="noopener noreferrer">[N16] Ultralight Dark Matter Spectrum with Gravitational Focusing and Doppler Motion</a> <span>arXiv gr-qc Cosmology Search</span></li>
+<li><a href="https://arxiv.org/abs/2611.34172v1" target="_blank" rel="noopener noreferrer">[N17] Black hole accretion flows as dark matter bolometers</a> <span>arXiv astro-ph.CO</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/11/261124055852.htm" target="_blank" rel="noopener noreferrer">[N18] A space telescope hunting for dark matter just discovered something unexpected</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/11/261122060332.htm" target="_blank" rel="noopener noreferrer">[N19] A black hole the size of an atom could destroy an entire star</a> <span>ScienceDaily Space and Time</span></li>
+<li><a href="https://arxiv.org/abs/2611.33083v1" target="_blank" rel="noopener noreferrer">[N20] Initial Conditions and Wave-Phase Resolution for Scalar-Field Dark Matter Simulations</a> <span>arXiv astro-ph.CO</span></li>
 <li><a href="https://www.prl.res.in/prl-eng/job_vacancies" target="_blank" rel="noopener noreferrer">[J1] PRL Job Vacancies and Fellowships: current cosmology, astrophysics, and physics opportunities page</a> <span>PRL Job Vacancies and Fellowships</span></li>
 <li><a href="https://www.tifr.res.in/daa/career.html" target="_blank" rel="noopener noreferrer">[J2] TIFR Astronomy and Astrophysics Careers: current cosmology, astrophysics, and physics opportunities page</a> <span>TIFR Astronomy and Astrophysics Careers</span></li>
 <li><a href="https://www.iucaa.in/en/opportunities" target="_blank" rel="noopener noreferrer">[J3] IUCAA Opportunities: current cosmology, astrophysics, and physics opportunities page</a> <span>IUCAA Opportunities</span></li>
